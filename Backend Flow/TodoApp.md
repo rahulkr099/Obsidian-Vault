@@ -1,4 +1,4 @@
-```graphql
+```
 ## Endpoints
 
 - `POST /todos` - Create todo
@@ -11,7 +11,7 @@
 - `GET /todos/stats` - Simple stats aggregation
 ```
 # app.js
-```graphql
+```
 1. Require files and libraries
 2. Initialize express app
 3. Use middleware
@@ -22,7 +22,7 @@
 8. Exporting this file for starting the server
 ```
 # server.js
-```graphql
+```
 1. Require files and libraries
 2. Load environment variables
 3. try-catch
