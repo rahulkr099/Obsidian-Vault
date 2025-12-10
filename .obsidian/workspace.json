@@ -178,9 +178,19 @@
               "icon": "lucide-list",
               "title": "Outline of Android_&_VP"
             }
+          },
+          {
+            "id": "ea0cf9ae84ec340d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -194,10 +204,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f50be5651b7205a4",
+  "active": "11c250fc5994a0f1",
   "lastOpenFiles": [
     "Untitled.md",
     "Android_&_VP.md",

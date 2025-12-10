@@ -199,28 +199,28 @@ How it's work:
 1. Assembly Binding
 **Benefits of Assemblies over predecessor**
 1. Efficiency 
-1. Quality Control
-1. Cost reduction
-1. Space optimization
-1. Improved Performance
-1. Simplified Inventory Management
+2. Quality Control
+3. Cost reduction
+4. Space optimization
+5. Improved Performance
+6. Simplified Inventory Management
 # Unit - 4 Windows Form
 
 **Windows form controls**
 1. Buttons
-1. Text boxes
-1. Labels
-1. Checkboxes
-1. Radio buttons 
-1. Listbox
-1. Combobox
-1. Datetime picker
-1. Panels
-1. Imagebox
-1. Progressbar
-1. Open File Dialog 
-1. Save File Dialog
-1. Timer
+2. . Text boxes
+3. Labels
+4. Checkboxes
+5. Radio buttons 
+6. Listbox
+7. Combobox
+8. Datetime picker
+9. Panels
+10. Imagebox
+11. Progressbar
+12. Open File Dialog 
+13. Save File Dialog
+14. Timer
 Syntax of these windows form controls
 # Unit-5 ADO.Net
 **ADO .Net Introduction**
