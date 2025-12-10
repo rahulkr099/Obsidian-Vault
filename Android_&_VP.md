@@ -112,38 +112,41 @@ Alert Dialog
 What is SQLite?
 **Features of SQLite**
 1. Self contained
-1. Serverless
-1. Zero configuration
-1. Cross platform
-1. Compact
-1. Transactional
-1. Fully featured SQL
-1. Database File
-1. Extensible
+2. Serverless
+3. Zero configuration
+4. Cross platform
+5. Compact
+6. Transactional
+7. Fully featured SQL
+8. Database File
+9. Extensible
+
 **Functions of SQLite**
 1. Data Definition
-1. Data Manipulation
-1. Transaction Control
-1. Built-in Functions
-1. Indexing
-1. Full text search
-1. Database Management
+2. Data Manipulation
+3. Transaction Control
+4. Built-in Functions
+5. Indexing
+6. Full text search
+7. Database Management
+
 **Advantages of SQLite**
-1. Embedded Database
-1. Lightweight
-1. Easy to use
-1. Reliable
-1. Local Storage
-1. Support and Community
-1. Free and open source
-1. Fast Performance
+1.  Embedded Database
+2. Lightweight
+3. Easy to use
+4. Reliable
+5. Local Storage
+6. Support and Community
+7. Free and open source
+8. Fast Performance
+
 **Disadvantages of SQLite**
 1. Scalability
-1. Security
-1. Feature Limitations
-1. Memory Usage
-1. Backup/ Restore
-1. Lack of Advanced Features
+2. Security
+3. Feature Limitations
+4. Memory Usage
+5. Backup/ Restore
+6. Lack of Advanced Features
 ### Connectiong with the database
 * Creating a Database
 * Insert
@@ -151,10 +154,10 @@ What is SQLite?
 * Delete
 ### Android Architecture
 1. Linux Kernal
-1. Native libraries (middleware)
-1. Android Runtime
-1. Application Framework
-1. Applications
+2. Native libraries (middleware)
+3. Android Runtime
+4. Application Framework
+5. Applications
 
 ### Read Further pages of Android Notes
 
@@ -163,13 +166,13 @@ What is SQLite?
 ** the Common Language Runtime**
 **Integrated Development**
 1. Graphical Interface builder
-1. Code editor
-1. Debugger
-1. Compiler/ Interpreter
-1. Component Libraries
-1. Version Control Integration
-1. Documentation Generation
-1. Collaboration Features
+2. Code editor
+3. Debugger
+4. Compiler/ Interpreter
+5. Component Libraries
+6. Version Control Integration
+7. Documentation Generation
+8. Collaboration Features
 # Unit-3 .NET Assemblies
 **.NET Assemblies**
 1. Compilation

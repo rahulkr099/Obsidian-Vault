@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android_&_VP.md",
+                "file": "Terminal Learning/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Android_&_VP"
+              "title": "Untitled"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android_&_VP.md",
+                "file": "Terminal Learning/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Android_&_VP"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android_&_VP.md",
+                "file": "Terminal Learning/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Android_&_VP"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android_&_VP.md",
+                "file": "Terminal Learning/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Android_&_VP"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 374.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,9 +210,11 @@
   },
   "active": "f50be5651b7205a4",
   "lastOpenFiles": [
+    "Android_&_VP.md",
+    "Terminal Learning/Untitled.md",
+    "Terminal Learning",
     "CN,_OS.md",
     "Untitled.base",
-    "Android_&_VP.md",
     "Untitled.md",
     "Kitty_+_Tmux.md",
     "TodoApp.md",
