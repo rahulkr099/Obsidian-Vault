@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/TodoApp.md",
+                "file": "Terminal Learning/Terminal Tweaking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TodoApp"
+              "title": "Terminal Tweaking"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend Flow/TodoApp.md",
+                "file": "Terminal Learning/Terminal Tweaking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TodoApp"
+              "title": "Backlinks for Terminal Tweaking"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Flow/TodoApp.md",
+                "file": "Terminal Learning/Terminal Tweaking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TodoApp"
+              "title": "Outgoing links from Terminal Tweaking"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend Flow/TodoApp.md",
+                "file": "Terminal Learning/Terminal Tweaking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TodoApp"
+              "title": "Outline of Terminal Tweaking"
             }
           },
           {
@@ -210,18 +210,19 @@
   },
   "active": "60bd76de3ed660cb",
   "lastOpenFiles": [
+    "Kitty_+_Tmux.md",
+    "Terminal Learning/Terminal Tweaking.md",
+    "IMPORTANT.base",
+    "Android_&_VP.md",
+    "CN,_OS.md",
+    "Backend Flow/TodoApp.md",
     "Vim.md",
     "Welcome.md",
-    "Backend Flow/TodoApp.md",
     "Frontend Flow",
     "Backend Flow",
     "Terminal Learning/30 Day Roadmap.md",
-    "IMPORTANT.base",
-    "Android_&_VP.md",
     "Untitled.md",
-    "Kitty_+_Tmux.md",
     "().md",
-    "Terminal Learning",
-    "CN,_OS.md"
+    "Terminal Learning"
   ]
 }
