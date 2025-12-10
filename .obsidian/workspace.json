@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Learning/Untitled.md",
+                "file": "Terminal Learning/30 Day Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "30 Day Roadmap"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal Learning/Untitled.md",
+                "file": "Terminal Learning/30 Day Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for 30 Day Roadmap"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminal Learning/Untitled.md",
+                "file": "Terminal Learning/30 Day Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from 30 Day Roadmap"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal Learning/Untitled.md",
+                "file": "Terminal Learning/30 Day Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 30 Day Roadmap"
             }
           },
           {
@@ -210,8 +210,9 @@
   },
   "active": "f50be5651b7205a4",
   "lastOpenFiles": [
+    "().md",
+    "Terminal Learning/30 Day Roadmap.md",
     "Android_&_VP.md",
-    "Terminal Learning/Untitled.md",
     "Terminal Learning",
     "CN,_OS.md",
     "Untitled.base",
