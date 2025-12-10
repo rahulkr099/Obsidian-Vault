@@ -194,6 +194,15 @@ Danger {.red-bg}
 ==Check this carefully== {.neon-bg}
 ```
 
+# 🏆 **Best method for you (developer-friendly & simple)**
+
+Use inline HTML:
+
+```
+## <span class="red">Power</span>
+```
+This works with your existing CSS snippet and requires no extra setup.
+
 ---
 
 # 🎯 Want even more?
