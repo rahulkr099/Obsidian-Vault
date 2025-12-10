@@ -98,11 +98,11 @@ Network Topology
 1. Network Traffic Patterns
 ### Types of Network
 1. LAN
-1. WAN
-1. MAN
-1. PAN
-1. VPN
-1. INTERNET
+2. WAN
+3. MAN
+4. PAN
+5. VPN
+6. INTERNET
 **Advantages and Disadvantages of Network**
 ### Transmission Media
 * Guided Transmission Media

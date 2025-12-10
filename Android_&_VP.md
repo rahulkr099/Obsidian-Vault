@@ -1,50 +1,50 @@
 ### History of Android
 1. Early days (2003-2007)
-1. Android OS Development (2007-2008)
-1. First android device (2008)
-1. Early growth and version (2009-2011)
-1. Maturation and dominance (2012-2016)
-1. Recent Development (2017- present)
+2. Android OS Development (2007-2008)
+3. First android device (2008)
+4. Early growth and version (2009-2011)
+5. Maturation and dominance (2012-2016)
+6. Recent Development (2017- present)
 ### Introduction to Android Operating System
 1. Linux Kernel
-1. Android runtime (art)
-1. Libraries
-2. Application Framework
-3. Applicationstrtrewtwetwetrwetrwett
-4. Security Model
+2. Android runtime (art)
+3. Libraries
+4. Application Framework
+5. Applicationstrtrewtwetwetrwetrwett
+6. Security Model
 ### Android Development Tools
 1. Android Studio
-1. Android SDK
-1. ADB (Android Debug Bridge)
-1. Android Emulator
-1. Firebase
-1. ProGuard/R8
-1. Android Debugging Tools
-1. J Unit / Espresso
-1. Lint
-1. Git/Github
+2. Android SDK
+3. ADB (Android Debug Bridge)
+4. Android Emulator
+5. Firebase
+6. ProGuard/R8
+7. Android Debugging Tools
+8. J Unit / Espresso
+9. Lint
+10. Git/Github
 ### Android Architecture (based on folder structure)
 1. MVC (Model - View - Control)
-1. MVP (Model - View - Presenter)
-1. MVVM (Model - ViewModel)
-1. Clean Architecture
-1. MVI (Model - View - Intent)
-1. Redux Architecture
+2. MVP (Model - View - Presenter)
+3. MVVM (Model - ViewModel)
+4. Clean Architecture
+5. MVI (Model - View - Intent)
+6. Redux Architecture
 # Unit - 2 Development Tools
 ### Installing and using eclipse with ADT plug-in
 1. Download Eclipse
-1. Install Eclipse
-1. Install ADT plugin
-1. Configure ADT
-1. Create a new Android Project
-1. Start Developing
+2.  Install Eclipse
+3. Install ADT plugin
+4. Configure ADT
+5. Create a new Android Project
+6. Start Developing
 ### Installing Virtual machine for android Sandwich/ Jelly Bean (emulator)
 1. Install Android Studio
-1. Launch Android Studio
-1. Set up Virtual Device (Emulator)
-1. Configure Virtual Device Settings
-1. Start the Emulator
-1. Install Apps and Test
+2. Launch Android Studio
+3. Set up Virtual Device (Emulator)
+4. Configure Virtual Device Settings
+5. Start the Emulator
+6. Install Apps and Test
 ### Configure the installed tools
 * Identify the tools you have installed
 * Review the documentation or online resources for each tool to understand configuration options
@@ -55,34 +55,35 @@
 * Consider creating backups of configuration files before making changes to easily revert if necessary.
 ### Creating and Android project - hello world, on emulator
 1. Download & Install Android Studio
-1. Create a New Project
-1. Set up the Emulator
-1. Write the code
-1. Run the project
+2. Create a New Project
+3. Set up the Emulator
+4. Write the code
+5. Run the project
 ### Deploy it on USB connected device
 1. Prepare the application
-1. Format the USB
-1. Transfer files
-1. Set up Autorun 
-1. Eject Safely
+2. Format the USB
+3. Transfer files
+4. Set up Autorun 
+5. Eject Safely
 # Unit 3: User interface Architecture
 What is application context?
 **Functions of application context**
 1. Load Reserve Values
-1. Start a Service
-1. Bind to a Service
-1. Send a Broadcast
-1. Register Broadcast Receiver
+2. Start a Service
+3. Bind to a Service
+4. Send a Broadcast
+5. Register Broadcast Receiver
+
 What is activity context?
 **Functions of Activity Context**
 1. Load Resource Values
-1. Layout Inflation
-1. Start an Activity
-1. Show a Dialog
-1. Start a service
-1. Bind a Service 
-1. Send a Broadcast
-1. Register Broadcast Receiver
+2. Layout Inflation
+3. Start an Activity
+4. Show a Dialog
+5. Start a service
+6. Bind a Service 
+7. Send a Broadcast
+8. Register Broadcast Receiver
 What is application intent and its types?
 ### Activity Life Cycle
 * onCreate
