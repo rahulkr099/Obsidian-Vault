@@ -8,7 +8,6 @@ Before learning commands, first build a terminal that you _love_ opening.
 ## **Install Zsh + oh-my-zsh**
 Logout → login.
 Now install Oh My Zsh:
-This is <span style="color:red">red text</span>.
 ## **Enable Beautiful Prompt + Plugins**
 Use the theme **powerlevel10k** (fast + clean):
 Then update your `.zshrc`:
