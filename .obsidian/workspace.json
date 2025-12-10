@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "21ad4b2544ef9b89",
+        "id": "2a8c96f4bd8cb1a8",
         "type": "tabs",
         "children": [
           {
-            "id": "f518742b7356a83e",
+            "id": "c09ad31e7c3eeb51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terminal Learning/30 Day Roadmap.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "30 Day Roadmap"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal Learning/30 Day Roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 30 Day Roadmap"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminal Learning/30 Day Roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 30 Day Roadmap"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal Learning/30 Day Roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 30 Day Roadmap"
+              "title": "Outline"
             }
           },
           {
@@ -194,15 +187,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f518742b7356a83e",
+  "active": "c09ad31e7c3eeb51",
   "lastOpenFiles": [
-    "CSS.md",
-    "Terminal Learning/30 Day Roadmap.md",
     "IMPORTANT.base",
+    "CSS.md",
+    "Sem 4/CN,_OS.md",
+    "Sem 4",
     "Terminal Learning/Terminal Tweaking.md",
+    "Terminal Learning/30 Day Roadmap.md",
     "Kitty_+_Tmux.md",
-    "Android_&_VP.md",
-    "CN,_OS.md",
+    "Sem 4/Android_&_VP.md",
     "Backend Flow/TodoApp.md",
     "Vim.md",
     "Frontend Flow",
