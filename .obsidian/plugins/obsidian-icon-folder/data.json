@@ -4,8 +4,10 @@
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
-    "iconColor": null,
-    "recentlyUsedIcons": [],
+    "iconColor": "#1441f5",
+    "recentlyUsedIcons": [
+      "LiBadgeDollarSign"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +29,6 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "Backend Flow": "LiBadgeDollarSign"
 }
