@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android_&_VP.md",
+                "file": "CN,_OS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Android_&_VP"
+              "title": "CN,_OS"
             }
           },
           {
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.5
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android_&_VP.md",
+                "file": "CN,_OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Android_&_VP"
+              "title": "Backlinks for CN,_OS"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android_&_VP.md",
+                "file": "CN,_OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Android_&_VP"
+              "title": "Outgoing links from CN,_OS"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android_&_VP.md",
+                "file": "CN,_OS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Android_&_VP"
+              "title": "Outline of CN,_OS"
             }
           },
           {
@@ -208,10 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11c250fc5994a0f1",
+  "active": "f50be5651b7205a4",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Untitled.base",
     "Android_&_VP.md",
+    "Untitled.md",
     "CN,_OS.md",
     "Kitty_+_Tmux.md",
     "TodoApp.md",
