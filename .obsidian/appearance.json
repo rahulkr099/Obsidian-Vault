@@ -1,4 +1,7 @@
 {
   "cssTheme": "",
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "colors"
+  ]
 }
