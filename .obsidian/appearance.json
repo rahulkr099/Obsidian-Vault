@@ -2,6 +2,7 @@
   "cssTheme": "Dracula Official",
   "baseFontSize": 17,
   "enabledCssSnippets": [
-    "colors"
+    "colors",
+    "wide"
   ]
 }

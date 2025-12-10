@@ -1,0 +1,15 @@
+/* Make Obsidian editor full width */
+.markdown-source-view,
+.markdown-preview-view {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 20px !important;
+}
+
+/* Make the text stretch wider */
+.markdown-source-view .cm-content,
+.markdown-preview-view {
+  max-width: 1400px !important;
+}
+
