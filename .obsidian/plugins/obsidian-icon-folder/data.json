@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": "#1441f5",
     "recentlyUsedIcons": [
+      "LiAtom",
+      "LiActivity",
       "LiBadgeDollarSign"
     ],
     "recentlyUsedIconsSize": 5,
@@ -30,5 +32,7 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Backend Flow": "LiBadgeDollarSign"
+  "Backend Flow": "LiBadgeDollarSign",
+  "Sem 4": "LiActivity",
+  "Frontend Flow": "LiAtom"
 }

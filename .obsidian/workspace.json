@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 4/CN,_OS.md",
+                "file": "CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CN,_OS"
+              "title": "CSS"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 200
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminal Learning/Terminal Tweaking.md",
+                "file": "CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Terminal Tweaking"
+              "title": "Backlinks for CSS"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminal Learning/Terminal Tweaking.md",
+                "file": "CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Terminal Tweaking"
+              "title": "Outgoing links from CSS"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminal Learning/Terminal Tweaking.md",
+                "file": "CSS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Terminal Tweaking"
+              "title": "Outline of CSS"
             }
           },
           {
@@ -176,11 +176,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,15 +196,15 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "247cc5b2e302d5c3",
+  "active": "e6d804f71171a5f0",
   "lastOpenFiles": [
-    "Vim.md",
+    "IMPORTANT.base",
     "Kitty_+_Tmux.md",
+    "Vim.md",
+    "Sem 4/CN,_OS.md",
     "Terminal Learning/Terminal Tweaking.md",
     "Backend Flow/TodoApp.md",
     "Sem 4/Android_&_VP.md",
-    "Sem 4/CN,_OS.md",
-    "IMPORTANT.base",
     "CSS.md",
     "Sem 4",
     "Terminal Learning/30 Day Roadmap.md",
