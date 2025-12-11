@@ -11,14 +11,13 @@
             "id": "e6d804f71171a5f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Kitty_+_Tmux.md",
-                "mode": "preview",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Kitty_+_Tmux"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -176,11 +175,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +196,9 @@
   },
   "active": "e6d804f71171a5f0",
   "lastOpenFiles": [
-    "Terminal Learning/30 Day Roadmap.md",
     "Kitty_+_Tmux.md",
+    "Untitled.base",
+    "Terminal Learning/30 Day Roadmap.md",
     "Terminal Learning/Terminal Tweaking.md",
     "CSS.md",
     "IMPORTANT.base",
