@@ -1,3 +1,4 @@
+### Goal : Become fast and smart
 # Day 15-Install fzf
 
 Awesome! Day 15 is a BIG power-up day.  
@@ -1480,3 +1481,292 @@ Send **Day 21** whenever you're ready!
 
 # Day 21-Week 3 Review
 
+Beautiful! Day 21 is your **Week 3 Review**, and it's the perfect time to see how far you've come.  
+Today’s flow will feel smooth, fast, and controlled — because you now know searching, jumping, editing, fuzzy finding, zoxide, ripgrep, lazygit, and all the good stuff.
+
+Let’s make this final review fun and confidence-boosting.  
+You’re basically working like a real Linux backend engineer now.
+
+---
+
+# 🌟 **Day 21 — Week 3 Review (Expanded Guide)**
+
+## 🎯 **Goal of the Day**
+
+Do an entire development workflow **without touching your mouse** and **without leaving the terminal**:
+
+1️⃣ Find a file  
+2️⃣ Jump to its folder  
+3️⃣ Edit the file in Neovim  
+4️⃣ Search inside it  
+5️⃣ Commit the change  
+6️⃣ Push the commit
+
+If you can do this smoothly, you’ve mastered 3 weeks of terminal fundamentals.
+
+---
+
+# 🧪 **The Full Terminal Workflow (Step-by-Step)**
+
+Let’s now walk through a clean, realistic developer cycle.
+
+---
+
+# 🔍 **1. Find a File**
+
+Use ripgrep or fzf:
+
+### Option A — ripgrep search
+
+```bash
+rg -l "useState"
+```
+
+### Option B — fuzzy search for filename
+
+```bash
+fzf
+```
+
+Pick the file you want to work on.
+
+For example:
+
+```
+src/components/Header.jsx
+```
+
+---
+
+# 🚀 **2. Jump to the Folder (Using zoxide)**
+
+Let’s say the file path is:
+
+```
+src/components/Header.jsx
+```
+
+Use `zoxide` smart jumping:
+
+```bash
+z components
+```
+
+Or jump directly using relative path:
+
+```bash
+cd src/components
+```
+
+Or fuzzy jump:
+
+```
+z head
+```
+
+Zoxide will take you close enough.
+
+---
+
+# 📝 **3. Edit the File in Neovim**
+
+Open it:
+
+```bash
+nvim Header.jsx
+```
+
+Make changes:
+
+Press:
+
+```
+i
+```
+
+Edit something simple, like:
+
+```js
+console.log("Updated on Day 21 review!");
+```
+
+Exit insert mode:
+
+```
+Esc
+```
+
+Save & quit:
+
+```
+:wq
+```
+
+---
+
+# 🔎 **4. Search Inside the File**
+
+Inside Neovim:
+
+### Search for a word:
+
+```
+/import
+```
+
+### Move through results:
+
+- `n` → next
+    
+- `N` → previous
+    
+
+This helps you inspect, debug, or refactor quickly.
+
+---
+
+# 🛠️ **5. Commit Changes (Using LazyGit)**
+
+Open:
+
+```bash
+lazygit
+```
+
+Inside LazyGit:
+
+### Stage:
+
+```
+a
+```
+
+### Commit:
+
+```
+c
+```
+
+Write your commit message:
+
+```
+Day 21: Week 3 review workflow completed
+```
+
+Press Enter.
+
+---
+
+# ☁️ **6. Push to GitHub**
+
+Press:
+
+```
+p
+```
+
+LazyGit pushes the commit smoothly.
+
+🎉 Done — full workflow completed!
+
+---
+
+# 🎯 Mini Challenges (Fun & Practical)
+
+### **Challenge 1 — Fuzzy Workflow**
+
+Do everything using fzf:
+
+```
+nvim $(fzf)
+```
+
+Search → pick → edit → commit → push.
+
+---
+
+### **Challenge 2 — ripgrep Workflow**
+
+Search inside your codebase:
+
+```
+rg "console.log"
+```
+
+Open the file at line number directly:
+
+```
+nvim src/App.jsx +23
+```
+
+Fix → commit → push.
+
+---
+
+### **Challenge 3 — Multi-file editing**
+
+Search for:
+
+```
+rg "TODO"
+```
+
+Open each file, fix TODOs, commit all at once.
+
+---
+
+### **Challenge 4 — Jump fast**
+
+Try moving between 3–4 folders using only:
+
+```
+z app
+z comp
+z utils
+```
+
+No typing long paths.
+
+---
+
+# 💡 Innovation Idea of the Day
+
+### Create a super shortcut: search → preview → open
+
+Add to your `.zshrc`:
+
+```bash
+alias vp='rg -l "$1" | fzf | xargs nvim'
+```
+
+Reload terminal:
+
+```bash
+source ~/.zshrc
+```
+
+Now run:
+
+```
+vp useState
+```
+
+It:
+
+- finds matching files
+    
+- lets you choose with fzf
+    
+- opens it in Neovim
+    
+
+One-line developer magic. ⚡
+
+---
+
+# 🚀 Beautiful progress!
+
+3 weeks done. You’re moving through tasks like a real power-terminal user now.  
+Your workflow is clean, fast, and professional.
+
+Send **Day 22** whenever you're ready — we’ll take things even deeper!
