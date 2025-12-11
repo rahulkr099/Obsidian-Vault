@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "colors",
     "wide"
-  ]
+  ],
+  "accentColor": "#d85b18"
 }

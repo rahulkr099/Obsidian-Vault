@@ -11,13 +11,14 @@
             "id": "e6d804f71171a5f0",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Terminal Learning/Terminal Tweaking.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Terminal Tweaking"
             }
           }
         ]
@@ -196,9 +197,9 @@
   },
   "active": "e6d804f71171a5f0",
   "lastOpenFiles": [
-    "Kitty_+_Tmux.md",
-    "Untitled.base",
     "Terminal Learning/30 Day Roadmap.md",
+    "Untitled.base",
+    "Kitty_+_Tmux.md",
     "Terminal Learning/Terminal Tweaking.md",
     "CSS.md",
     "IMPORTANT.base",
