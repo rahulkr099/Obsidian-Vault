@@ -658,17 +658,723 @@ Short, fast, developer-friendly.
 
 # Day 4-Yazi File Explorer
 
+Nice! Day 4 is where your terminal starts feeling **alive**.  
+Yazi is fast, modern, and insanely useful once you know a few keys.  
+Let’s expand this day properly so you get full control of your file system _without touching the mouse_.
+
+---
+
+## 🌟 **Day 4 — Yazi File Explorer (Expanded Guide)**
+
+## 🎯 **Goal of the Day**
+
+Use **Yazi** as your full file explorer for the entire day.  
+You’ll learn:
+
+- moving around files
+    
+- entering/exiting folders
+    
+- deleting, copying, pasting
+    
+- previewing files instantly
+    
+
+By the end of today, your file management speed will jump to the next level.
+
+---
+
+## 🧭 **1. Opening Yazi**
+
+```bash
+yazi
+```
+
+You’ll see:
+
+- Left: Directory tree
+    
+- Middle: File list
+    
+- Right: Preview (text, images, PDF thumbnails, etc.)
+    
+
+It’s like a turbocharged terminal version of Finder/Nautilus.
+
+---
+
+## 🎮 **2. Navigation Keys (Very Simple)**
+
+### ✔ Move Up/Down
+
+```
+j  → down  
+k  → up
+```
+
+### ✔ Enter folders
+
+```
+l  → go inside
+```
+
+### ✔ Go back
+
+```
+h  → go out (parent folder)
+```
+
+This `hjkl` navigation is the same logic as Vim & Neovim.  
+You’re building muscle memory already. 🧠💪
+
+---
+
+## 🗑️ **3. Delete Files (dd)**
+
+```
+dd → delete selected file/folder
+```
+
+Yazi will confirm deletion if settings allow it.  
+Be careful but confident — this is very fast.
+
+---
+
+## 📎 **4. Copy + Paste (yy / p)**
+
+### ✔ Copy
+
+```
+yy
+```
+
+### ✔ Paste
+
+```
+p
+```
+
+Examples:
+
+- Copy `image.png` → go to `assets` → press **p**
+    
+- Copy whole folders → paste anywhere
+    
+
+Yazi supports batch selections too.
+
+---
+
+## ⭐ **Extra Useful Hotkeys (Learn These Today If Possible)**
+
+### **Space** → select multiple files
+
+`Space` to select/deselect files (multi-select mode)
+
+### **`i`** → show file info (size, type, permissions)
+
+### **`Tab`** → switch between panels
+
+(e.g., jump to preview → jump back)
+
+### **`q`** → quit Yazi
+
+These aren’t required, but trust me—they make you 3× faster.
+
+---
+
+## 🧪 **Main Task of the Day**
+
+## 🔥 **“Manage files using Yazi only” challenge**
+
+### Do these inside Yazi:
+
+#### ✔ 1. Navigate deep into your folders
+
+Use only **j/k/h/l**.
+
+---
+
+#### ✔ 2. Create a practice folder (from terminal)
+
+Before entering Yazi:
+
+```bash
+mkdir ~/yazi-playground
+touch ~/yazi-playground/a.txt
+touch ~/yazi-playground/b.txt
+mkdir ~/yazi-playground/sub
+```
+
+Open it:
+
+```bash
+yazi ~/yazi-playground
+```
+
+---
+
+#### ✔ 3. Inside Yazi:
+
+- Open `yazi-playground`
+    
+- Move into `sub`
+    
+- Go back to parent
+    
+- Delete `b.txt` using **dd**
+    
+- Copy `a.txt` using **yy**
+    
+- Paste it into `sub` using **p**
+    
+- Select multiple files (Space)
+    
+- View preview using right panel
+    
+- Quit using **q**
+    
+
+---
+
+## 🎯 **Mini Challenges (Fun & Useful)**
+
+### **Challenge 1: Speed drill**
+
+Move down 10 files quickly using **j**.  
+Move up using **k**.  
+Enter 3 folders deep without touching your mouse.
+
+---
+
+### **Challenge 2: Organize chaos**
+
+Pick a random directory (Downloads is perfect 😄)  
+Use Yazi to:
+
+- delete junk
+    
+- move files into new folders
+    
+- tidy the mess
+    
+
+This one gives an immediate real-life win.
+
+---
+
+### **Challenge 3: View a code file**
+
+Highlight a `.js` / `.py` / `.json` file  
+Look at the preview pane with syntax highlighting.
+
+---
+
+## 💡 Innovation Idea of the Day
+
+### **Set a shortcut to open Yazi instantly**
+
+Add to your `~/.zshrc`:
+
+```bash
+alias y="yazi"
+```
+
+Now simply type:
+
+```bash
+y
+```
+
+Lightning-fast access → helps you use Yazi daily without thinking.
+
+---
 
 
 # Day 5-VS Code Terminal + Zsh
+
+Great! Day 5 brings everything together — **your coding environment + your terminal workflow**.  
+Once VS Code uses Zsh, every command, alias, and customization becomes part of your daily dev routine.  
+Let’s make this day smooth, practical, and fun.
+
+---
+
+## 🌟 **Day 5 — VS Code Terminal + Zsh (Expanded Guide)**
+
+## 🎯 **Goal of the Day**
+
+- Make **Zsh** the default terminal inside VS Code.
+    
+- Learn a few basic but powerful Zsh commands.
+    
+- Create **3 useful aliases** to speed up your workflow.
+    
+
+By the end of today, your editor + terminal combo will feel super professional.
+
+---
+
+## 🛠️ **1. Set VS Code Default Terminal to Zsh**
+
+Open VS Code → press:
+
+```
+Ctrl + Shift + P
+```
+
+Search for:
+
+```
+Terminal: Select Default Profile
+```
+
+Choose:
+
+```
+zsh
+```
+
+Now open a new terminal inside VS Code:
+
+```
+Ctrl + `
+```
+
+If you see Zsh, congrats — it’s working! 🎉
+
+---
+
+## 📚 **2. Commands to Practice**
+
+Let’s break them down in simple words.
+
+---
+
+## **1. `clear` → Clear your screen**
+
+```bash
+clear
+```
+
+or just press:
+
+```
+Ctrl + L
+```
+
+This gives you a fresh terminal without closing anything.
+
+---
+
+## **2. `history` → See all commands you ran**
+
+```bash
+history
+```
+
+You’ll notice:
+
+- command numbers
+    
+- everything you typed recently
+    
+- great for learning from your mistakes 😄
+    
+
+Try searching inside history:
+
+```
+history | grep git
+```
+
+---
+
+## **3. `alias` → Create shortcuts**
+
+This makes long commands super short.
+
+Example:
+
+```bash
+alias gs="git status"
+alias ll="ls -la"
+alias c="clear"
+```
+
+Add aliases permanently by editing:
+
+```
+~/.zshrc
+```
+
+---
+
+## 🧪 **Main Task: Add 3 New Aliases**
+
+Here are 3 good, practical, developer-friendly alias ideas for you.  
+Feel free to copy them, or create your own.
+
+---
+
+## 🎯 **Alias 1 — Quick navigation to Downloads**
+
+```bash
+echo 'alias dl="cd ~/Downloads"' >> ~/.zshrc
+```
+
+Now you can type:
+
+```
+dl
+```
+
+Boom — you’re in Downloads.
+
+---
+
+## 🎯 **Alias 2 — Pretty file listing**
+
+(Assuming you use **lsd**)
+
+```bash
+echo 'alias ls="lsd -la"' >> ~/.zshrc
+```
+
+This gives:
+
+- icons
+    
+- colors
+    
+- hidden files
+    
+- proper directory structure
+    
+
+Much cleaner than default `ls`.
+
+---
+
+## 🎯 **Alias 3 — Start your dev environment fast**
+
+```bash
+echo 'alias dev="cd ~/projects && ls"' >> ~/.zshrc
+```
+
+Changes into your projects folder instantly.
+
+---
+
+After adding aliases, reload your shell:
+
+```bash
+source ~/.zshrc
+```
+
+Now test each alias and enjoy your speed boost.
+
+---
+
+## 🎯 Mini Challenges (Fun & Quick)
+
+### **Challenge 1**
+
+Create an alias that opens VS Code:
+
+```bash
+alias v="code ."
+```
+
+---
+
+### **Challenge 2**
+
+Create an alias to update your system:
+
+```bash
+alias update="sudo apt update && sudo apt upgrade -y"
+```
+
+---
+
+### **Challenge 3**
+
+Make an alias for clearing + listing files in one shot:
+
+```bash
+alias cl="clear && ls"
+```
+
+---
+
+## 💡 Innovation Idea of the Day
+
+### Create an alias that shows your top 10 most-used commands:
+
+Add this:
+
+```bash
+alias topcmd='history | awk "{print \$2}" | sort | uniq -c | sort -nr | head'
+```
+
+Now run:
+
+```
+topcmd
+```
+
+You’ll instantly see:
+
+- what you type often
+    
+- where you can create new aliases
+    
+- how your habits are forming
+    
+
+Magic for productivity!
+
+---
 
 
 
 # Day 6-btop + System Monitoring
 
+Awesome, Day 6!  
+Today is super fun because **btop** makes system monitoring feel beautiful and interactive — almost like you're watching your computer’s heartbeat in real time.  
+Let’s expand everything so you truly understand what you’re looking at.
 
+---
 
-### Day 7-Week 1 Review
+## 🌟 **Day 6 — btop + System Monitoring (Expanded Guide)**
+
+## 🎯 **Goal of the Day**
+
+Understand how to monitor:
+
+- **CPU usage**
+    
+- **RAM usage**
+    
+- **Processes**
+    
+- **Tasks consuming resources**
+    
+
+By the end of today, you’ll be able to spot heavy apps, lag issues, and system performance patterns instantly.
+
+---
+
+## 🛠️ 1. Run btop
+
+Just type:
+
+```bash
+btop
+```
+
+You’ll see a colorful dashboard with panels for CPU, RAM, Disk, Network, and Processes.
+
+It feels like a hacker movie — but real and useful. 😄
+
+---
+
+## 🧠 2. What to Explore Inside btop
+
+Let’s break down the important sections so you understand everything clearly.
+
+---
+
+## 🔥 **1. CPU Panel**
+
+Look for:
+
+- **Usage %** — how much load your system is under
+    
+- **Temperature** (if shown)
+    
+- **Per-core usage**
+    
+
+🎯 If one core is 100%, the system may feel slow even if others are free.
+
+---
+
+## 💾 **2. RAM Panel**
+
+Shows:
+
+- **Used**
+    
+- **Free**
+    
+- **Cached**
+    
+- **Swap** (if your RAM fills up)
+    
+
+Why RAM matters:
+
+- If RAM is always near 90–95%, your system will slow down.
+    
+- Cached memory is good — it speeds up the system.
+    
+
+---
+
+## ⚙️ **3. Process List**
+
+This is the heart of btop.
+
+You’ll see:
+
+- process names
+    
+- CPU usage
+    
+- memory usage
+    
+- PIDs
+    
+
+Try sorting by pressing:
+
+```
+P → sort by CPU
+M → sort by memory
+T → sort by time
+```
+
+High CPU = usually heavy apps  
+High memory = browsers, VS Code, Node apps
+
+---
+
+## 🔎 **4. Kill Processes from btop**
+
+If something freezes or misbehaves:
+
+- Highlight the process
+    
+- Press **`k`**
+    
+- Confirm kill
+    
+
+This is way faster than using `kill` in terminal manually.
+
+---
+
+## 🧪 **Main Task of the Day**
+
+Today you’ll explore your whole system using only btop.
+
+### ✔ Step 1 — Check CPU usage
+
+Notice:
+
+- which apps spike
+    
+- how many cores you have
+    
+- live graph movement
+    
+
+Try opening Chrome or VS Code and watch CPU spikes.
+
+---
+
+### ✔ Step 2 — Check RAM usage
+
+Open heavy apps and see how RAM changes.
+
+Close them and observe the decrease.
+
+---
+
+### ✔ Step 3 — Sort Processes
+
+Inside the process panel, try:
+
+```
+Shift + P → sort by CPU  
+Shift + M → sort by memory  
+Shift + T → sort by time alive
+```
+
+---
+
+### ✔ Step 4 — Try killing a small process
+
+Don’t kill anything important 😄  
+Maybe open a random program and kill it from btop to understand the workflow.
+
+---
+
+# 🎯 Mini-Challenges
+
+### **Challenge 1 — Stress Test (Safe & Fun)**
+
+Open:
+
+- VS Code
+    
+- Chrome (4–5 tabs)
+    
+- Terminal
+    
+- A video
+    
+
+Now watch CPU/RAM spike in btop.
+
+---
+
+### **Challenge 2 — Find the Top Memory Hog**
+
+Sort by Memory and note what your biggest consumer is.
+
+---
+
+### **Challenge 3 — Find the Lightest Process**
+
+Sort reverse (press again) and see tiny background tasks.
+
+---
+
+# 💡 Innovation Idea of the Day
+
+### Set an alias to open btop faster:
+
+Add this to `~/.zshrc`:
+
+```bash
+alias bt="btop"
+```
+
+Reload:
+
+```bash
+source ~/.zshrc
+```
+
+Now you can open monitoring instantly:
+
+```
+bt
+```
+
+Perfect when your laptop feels slow and you want to check what's happening.
+
+---
+
+# 🚀 Ready for Day 7?
+
+Send me Day 7 whenever you want, and I’ll expand it with simple steps, practical exercises, and productivity boosters.
+
+You’re learning fast — keep going!
+
+# Day 7-Week 1 Review
 
 
 
