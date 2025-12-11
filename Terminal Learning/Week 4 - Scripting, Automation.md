@@ -409,11 +409,362 @@ Send **Day 24** whenever you're ready!
 
 # Day 24-Automate Git
 
+Beautiful! Day 24 is where your terminal starts working _for you_.  
+Automating Git with a tiny script will save you **hundreds of keystrokes** every month — and it feels amazing to use.
 
+Let’s make today simple, clean, and practical.
+
+---
+
+# 🌟 **Day 24 — Automate Git (Expanded Guide)**
+
+## 🎯 **Goal of the Day**
+
+Create a Git helper script that does:
+
+1️⃣ `git add .`  
+2️⃣ `git commit -m "message"`  
+3️⃣ `git push`
+
+All in **one single command**.
+
+You’ll be committing faster than ever.
+
+---
+
+# 🧠 Step 1 — Create the Script
+
+Open the file:
+
+```bash
+nvim push.sh
+```
+
+Add this inside:
+
+```bash
+#!/bin/bash
+git add .
+git commit -m "$1"
+git push
+```
+
+Save & quit:
+
+```
+:wq
+```
+
+---
+
+# 🔧 Step 2 — Make It Executable
+
+```bash
+chmod +x push.sh
+```
+
+Now it becomes a runnable command.
+
+---
+
+# 🚀 Step 3 — Run It
+
+```bash
+./push.sh "Day 24: Automated Git script"
+```
+
+Output will show:
+
+- files staged
+    
+- commit success
+    
+- push to remote
+    
+
+This is a huge time saver.
+
+---
+
+# 🧪 **Day 24 Task Completed!**
+
+You now have a personal Git automation tool.
+
+---
+
+# 🎯 Mini Challenges (Fun + Helpful)
+
+### **Challenge 1 — Add date automatically**
+
+Modify your script:
+
+```bash
+#!/bin/bash
+git add .
+git commit -m "$1 — $(date)"
+git push
+```
+
+Now commit messages include a timestamp.
+
+---
+
+### **Challenge 2 — Make a default commit message if none provided**
+
+```bash
+#!/bin/bash
+MESSAGE=${1:-"Auto commit"}
+git add .
+git commit -m "$MESSAGE"
+git push
+```
+
+Try running without message:
+
+```
+./push.sh
+```
+
+---
+
+### **Challenge 3 — Add colored output (looks cool)**
+
+```bash
+echo -e "\033[32mPushing your changes...🚀\033[0m"
+```
+
+---
+
+### **Challenge 4 — Put the script into ~/bin**
+
+So you can run it from ANY folder:
+
+```bash
+mkdir -p ~/bin
+mv push.sh ~/bin/push
+chmod +x ~/bin/push
+```
+
+Add to `.zshrc`:
+
+```bash
+export PATH="$HOME/bin:$PATH"
+```
+
+Reload:
+
+```bash
+source ~/.zshrc
+```
+
+Now your command becomes:
+
+```
+push "message"
+```
+
+🔥 Faster. Cleaner. Professional.
+
+---
+
+# 💡 Innovation Idea of the Day
+
+### Add success notification at the end
+
+In the script:
+
+```bash
+echo "✅ Git push complete!"
+```
+
+It feels satisfying every time.
+
+---
+
+# 🚀 Amazing job, Rahul!
+
+Your terminal workflow is getting ultra-efficient.  
+These small automations build into big productivity.
+
+Send **Day 25** whenever you're ready — we’re close to finishing your 30-day journey!
 
 # Day 25-Automate Project Setup
 
+Amazing! Day 25 is where your terminal skills turn into **real-life automation**.  
+Today you’ll create a script that sets up a brand-new project in seconds — folders, packages, and even opening it in your editor.
 
+This is the kind of tool that makes you feel _unstoppable_ as a developer.  
+Let’s build it step by step in simple language.
+
+---
+
+# 🌟 **Day 25 — Automate Project Setup (Expanded Guide)**
+
+## 🎯 **Goal of the Day**
+
+Write a script that does the following automatically:
+
+1️⃣ Creates a project folder  
+2️⃣ Creates subfolders (src, assets, etc.)  
+3️⃣ Installs dependencies (Node packages)  
+4️⃣ Opens the project in VS Code or Neovim
+
+One command → fresh project ready.
+
+---
+
+# 🧠 Step 1 — Create the Script File
+
+```bash
+nvim setup.sh
+```
+
+Add this inside:
+
+```bash
+#!/bin/bash
+
+# 1. Create project folder
+mkdir "$1"
+cd "$1"
+
+# 2. Create subfolders
+mkdir src assets components
+
+# 3. Initialize node project & install packages
+npm init -y
+npm install express dotenv
+
+# 4. Create starter files
+echo "console.log('Project $1 started');" > src/index.js
+
+# 5. Open project in VS Code
+code .
+```
+
+Save:
+
+```
+:wq
+```
+
+---
+
+# 🔧 Step 2 — Make It Executable
+
+```bash
+chmod +x setup.sh
+```
+
+---
+
+# 🚀 Step 3 — Run It!
+
+```bash
+./setup.sh myapp
+```
+
+It will:
+
+- make `myapp/`
+    
+- create `src`, `assets`, `components`
+    
+- install express + dotenv
+    
+- generate `index.js`
+    
+- open VS Code
+    
+
+🔥 Clean + fast + professional.
+
+---
+
+# 🧪 **Day 25 Task Completed!**
+
+You built your own project generator — huge productivity win.
+
+---
+
+# 🎯 Mini Challenges (Fun + Very Useful)
+
+### **Challenge 1 — Add Git initialization**
+
+Inside script:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+```
+
+---
+
+### **Challenge 2 — Allow user to choose packages**
+
+Ask user:
+
+```bash
+echo "Enter packages to install:"
+read PKGS
+npm install $PKGS
+```
+
+---
+
+### **Challenge 3 — Add a README automatically**
+
+```bash
+echo "# Project: $1" > README.md
+```
+
+---
+
+### **Challenge 4 — Make multiple project types**
+
+Use flags:
+
+```
+./setup.sh myapp react
+./setup.sh myapi node
+```
+
+Inside script:
+
+```bash
+if [ "$2" = "react" ]; then
+  npm create vite@latest .
+fi
+```
+
+---
+
+# 💡 Innovation Idea of the Day
+
+### Put the script into `~/bin` and run it like a real command
+
+```bash
+mv setup.sh ~/bin/project
+chmod +x ~/bin/project
+```
+
+Now simply do:
+
+```
+project myapp
+```
+
+It’s like creating your own CLI tool.  
+That’s next-level developer life. 🚀
+
+---
+
+# You're doing amazing, Rahul!
+
+Day 25 shows that you’re not just learning terminal — you’re **building automation that saves real time**.
+
+Send **Day 26** whenever you're ready!
 
 # Day 26-Dotfiles
 
