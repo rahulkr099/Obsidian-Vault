@@ -1540,3 +1540,248 @@ t curl
 Send **Day 14** whenever you're ready!
 
 # Day 14-Week 2 Review
+
+Nice! Day 14 is your **Week 2 Review**, and this one feels REALLY good — because today you prove to yourself that you can handle a full development workflow using **only the terminal**.
+
+Let’s make it smooth, simple, and confidence-boosting.  
+By the end of today, you'll be able to work like a real backend engineer: fast, focused, and keyboard-only.
+
+---
+
+# 🌟 **Day 14 — Week 2 Review (Expanded Guide)**
+
+## 🎯 **Goal of the Day**
+
+Do a **complete developer workflow** without touching your mouse:
+
+1️⃣ Search for a file in your project  
+2️⃣ Open it in Neovim  
+3️⃣ Edit it  
+4️⃣ Save it  
+5️⃣ Commit changes using LazyGit
+
+This is your first _real_ terminal-only coding cycle.  
+You’re leveling up fast!
+
+---
+
+# 🪄 **Step 1 — Search the File (with ripgrep or find)**
+
+Let’s say you want to find where `useEffect` is used.
+
+Use ripgrep:
+
+```bash
+rg "useEffect"
+```
+
+Or find a specific file:
+
+```bash
+find . -name "Header.jsx"
+```
+
+Pick one result → copy its path.
+
+Example:
+
+```
+src/components/Header.jsx
+```
+
+---
+
+# ✍️ **Step 2 — Open the File in Neovim**
+
+```bash
+nvim src/components/Header.jsx
+```
+
+Or open directly at a specific line:
+
+```bash
+nvim src/components/Header.jsx +12
+```
+
+This takes you straight to the matched line — very handy!
+
+---
+
+# 🔧 **Step 3 — Edit the File in Vim**
+
+Inside Neovim:
+
+### Enter Insert Mode:
+
+```
+i
+```
+
+Make your edits:
+
+- update a variable
+    
+- fix indentation
+    
+- add a console.log
+    
+- change a hook
+    
+- update a comment
+    
+
+Example edit:
+
+```js
+console.log("Updated from Day 14 terminal practice!");
+```
+
+### Exit Insert Mode:
+
+```
+Esc
+```
+
+### Save and Quit:
+
+```
+:wq
+```
+
+You’ve now edited code fully inside the terminal!
+
+---
+
+# 🔄 **Step 4 — Open LazyGit for Commit**
+
+Inside your project folder:
+
+```bash
+lazygit
+```
+
+Use the keys:
+
+### Stage all changed files:
+
+```
+a
+```
+
+### Commit:
+
+```
+c
+```
+
+Type a message:
+
+```
+Day 14: Completed full-term editing workflow
+```
+
+Press **Enter**.
+
+### Push:
+
+```
+p
+```
+
+LazyGit handles everything beautifully.
+
+---
+
+# 🎉 **You just completed a FULL developer workflow in pure terminal!**
+
+This is how advanced engineers work daily.  
+You're moving into that zone now. Proud of you!
+
+---
+
+# 🎯 Mini Challenges (Fun & Practical)
+
+### **Challenge 1 — Open files faster**
+
+Search for "useState" and open directly at first result:
+
+```
+nvim $(rg -l "useState" | head -1)
+```
+
+---
+
+### **Challenge 2 — Edit two files**
+
+- search
+    
+- open
+    
+- edit
+    
+- save
+    
+- commit  
+    All inside terminal.
+    
+
+---
+
+### **Challenge 3 — Rename a variable across project**
+
+Search everywhere:
+
+```
+rg "isOpen"
+```
+
+Open each file and edit using Vim.
+
+---
+
+### **Challenge 4 — Do everything WITHOUT stopping**
+
+Try this flow:
+
+```
+rg → nvim → :wq → lazygit → commit → push
+```
+
+Feels very smooth!
+
+---
+
+# 💡 Innovation Idea of the Day
+
+### Create a super helpful shortcut to search → open → edit quickly:
+
+Add in `.zshrc`:
+
+```bash
+function vsearch() {
+  nvim $(rg -l "$1" | head -1)
+}
+```
+
+Reload:
+
+```bash
+source ~/.zshrc
+```
+
+Now run:
+
+```
+vsearch useState
+```
+
+Boom — opens the first file containing `useState` instantly.
+
+---
+
+# 🚀 You're doing incredible!
+
+Week 2 was amazing — searching, editing, LazyGit, ripgrep, Neovim…  
+Your workflow is becoming sharp.
+
+Send **Day 15** whenever you’re ready — we’ll step into more advanced terminal habits!
