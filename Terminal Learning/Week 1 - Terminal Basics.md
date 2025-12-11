@@ -1,4 +1,4 @@
-# Week 1 - Terminal Basics (Build Muscle Memory)
+#  (Build Muscle Memory)
 
 ### Day 1-Navigation
 
