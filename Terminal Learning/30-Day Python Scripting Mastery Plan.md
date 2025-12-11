@@ -345,4 +345,4 @@ I’ll guide you through whichever path you pick.
 
 ---
 
-# 🎉**all 30 notes as separate Obsidian files**
+# Convert all 30 notes as separate Obsidian files under Python scripting folder
