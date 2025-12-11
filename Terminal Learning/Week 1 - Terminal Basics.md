@@ -1311,7 +1311,7 @@ Maybe open a random program and kill it from btop to understand the workflow.
 
 ---
 
-# 🎯 Mini-Challenges
+## 🎯 Mini-Challenges
 
 ### **Challenge 1 — Stress Test (Safe & Fun)**
 
@@ -1342,7 +1342,7 @@ Sort reverse (press again) and see tiny background tasks.
 
 ---
 
-# 💡 Innovation Idea of the Day
+## 💡 Innovation Idea of the Day
 
 ### Set an alias to open btop faster:
 
@@ -1368,14 +1368,285 @@ Perfect when your laptop feels slow and you want to check what's happening.
 
 ---
 
-# 🚀 Ready for Day 7?
-
-Send me Day 7 whenever you want, and I’ll expand it with simple steps, practical exercises, and productivity boosters.
-
-You’re learning fast — keep going!
 
 # Day 7-Week 1 Review
+Love this! Day 7 is your **Week 1 Review**, and it’s meant to build confidence.  
+This is where everything you learned so far comes together into a single, smooth, keyboard-only workflow.
 
+Let’s make this day fun, practical, and powerful.  
+By the end of today, you’ll feel like you _own_ your terminal.
+
+---
+
+# 🌟 **Day 7 — Week 1 Review (Expanded Guide)**
+
+## 🎯 **Goal of the Day**
+
+Perform all your basic computer tasks **without touching the mouse**, using only the terminal.
+
+You’ll practice:
+
+- creating folders
+    
+- creating files
+    
+- moving & copying
+    
+- deleting
+    
+- searching
+    
+- editing
+    
+- navigating
+    
+- previewing
+    
+
+Everything in one flow.
+
+---
+
+# 🧪 **Main Review Task: One Complete Terminal Workflow**
+
+Let’s build a small project entirely from the terminal.
+
+---
+
+# 🧩 **Step 1 — Create Folders**
+
+```bash
+mkdir week1-review
+cd week1-review
+mkdir src assets docs
+```
+
+Bonus nested folder:
+
+```bash
+mkdir -p tests/unit
+```
+
+---
+
+# 📝 **Step 2 — Create Files (Using touch)**
+
+```bash
+touch src/app.js
+touch src/config.json
+touch docs/readme.md
+touch assets/logo.png
+```
+
+Check it:
+
+```bash
+ls -R
+```
+
+---
+
+# 📂 **Step 3 — Move Files**
+
+Rename + move using `mv`:
+
+```bash
+mv docs/readme.md docs/overview.md
+mv src/config.json assets/
+```
+
+---
+
+# 🧬 **Step 4 — Copy Files**
+
+```bash
+cp src/app.js src/app-backup.js
+```
+
+Copy a whole folder:
+
+```bash
+cp -r src backups
+```
+
+---
+
+# 🗑️ **Step 5 — Delete Files & Folders**
+
+Delete a file:
+
+```bash
+rm assets/logo.png
+```
+
+Delete a folder:
+
+```bash
+rm -r backups
+```
+
+---
+
+# 🔍 **Step 6 — Search Files (ripgrep or grep)**
+
+### If ripgrep installed:
+
+```bash
+rg "function" src
+```
+
+### If not, use grep:
+
+```bash
+grep -R "function" src
+```
+
+Search for file names:
+
+```bash
+find . -name "*.js"
+```
+
+---
+
+# 📝 **Step 7 — Open Editor (Neovim/Vim or VS Code)**
+
+### Using Vim:
+
+```bash
+vim src/app.js
+```
+
+Write something like:
+
+```js
+console.log("Hello Terminal!");
+```
+
+Save & exit:
+
+```
+Esc → :wq → Enter
+```
+
+### Using VS Code (still terminal!):
+
+```bash
+code src/app.js
+```
+
+---
+
+# 📖 **Step 8 — View Files (bat)**
+
+```bash
+bat src/app.js
+bat --style=plain docs/overview.md
+```
+
+This step strengthens your habit of inspecting files before editing.
+
+---
+
+# 🧭 **Step 9 — Navigate Everything With Basic Commands**
+
+Use:
+
+```
+cd
+cd ..
+cd ~
+cd -
+pwd
+```
+
+Move around like it’s second nature.
+
+---
+
+# 🎯 Bonus Task: Use Yazi for quick navigation
+
+```bash
+yazi .
+```
+
+Inside Yazi:
+
+- move with j/k/h/l
+    
+- copy with yy
+    
+- delete with dd
+    
+- preview with `Tab`
+    
+
+---
+
+# 🚀 Mini Challenges (Fun & Confidence-Building)
+
+### **Challenge 1 — Create a mini project in 30 sec**
+
+Try to recreate:
+
+```
+project/
+  src/index.js
+  docs/readme.md
+  assets/
+```
+
+Using only terminal commands.
+
+---
+
+### **Challenge 2 — Search & Edit**
+
+Search for `console` inside `src/`, open the file in Vim, change it, save it.
+
+---
+
+### **Challenge 3 — Clean Up**
+
+Delete the entire review folder:
+
+```bash
+cd ..
+rm -r week1-review
+```
+
+Start fresh.
+
+---
+
+# 💡 Innovation Idea of the Day
+
+### Create an alias that sets up your next coding project in ONE second:
+
+Add this to `~/.zshrc`:
+
+```bash
+alias mkapp='mkdir -p {src,docs,assets} && touch src/app.js && touch docs/readme.md'
+```
+
+Run it:
+
+```
+mkapp
+```
+
+Boom — instant project structure.
+
+---
+
+# 🌈 You finished Week 1!
+
+You now have solid fundamentals:  
+navigation, file handling, system monitoring, aliases, and tools like bat/yazi.
+
+Week 2 will feel even smoother because your fingers have already learned the rhythm.
+
+Whenever you're ready, send **Day 8**, and I’ll expand it fully.
 
 
 
