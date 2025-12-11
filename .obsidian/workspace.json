@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Learning/Terminal Tweaking.md",
+                "file": "Terminal Learning/30 Day Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terminal Tweaking"
+              "title": "30 Day Roadmap"
             }
           }
         ]
@@ -197,10 +197,10 @@
   },
   "active": "e6d804f71171a5f0",
   "lastOpenFiles": [
+    "Terminal Learning/Terminal Tweaking.md",
     "Terminal Learning/30 Day Roadmap.md",
     "Untitled.base",
     "Kitty_+_Tmux.md",
-    "Terminal Learning/Terminal Tweaking.md",
     "CSS.md",
     "IMPORTANT.base",
     "Vim.md",
