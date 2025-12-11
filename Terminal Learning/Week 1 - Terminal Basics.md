@@ -224,7 +224,7 @@ Awesome! Day 2 is where things start getting real — you’ll actually **create
 
 ---
 
-# 🌿 **Day 2 — Files & Folders (Expanded + Practical Guide)**
+## 🌿 **Day 2 — Files & Folders (Expanded + Practical Guide)**
 
 ## 🎯 **Goal of the Day**
 
@@ -235,7 +235,7 @@ Let’s break each command into simple language + examples + small tasks.
 
 ---
 
-# 📁 **Commands to Learn**
+## 📁 **Commands to Learn**
 
 ---
 
@@ -336,7 +336,7 @@ cp -r src/ backup/
 
 ---
 
-# 🧪 **Main Task: Create a small project & organize it**
+## 🧪 **Main Task: Create a small project & organize it**
 
 Let’s make a real folder structure like developers do.
 
@@ -391,7 +391,7 @@ You're creating and organizing just like a developer working inside real project
 
 ---
 
-# 🎯 **Mini Challenges (Fun & Helpful)**
+## 🎯 **Mini Challenges (Fun & Helpful)**
 
 ### ✔ Challenge 1
 
@@ -426,7 +426,7 @@ Your hands will start developing muscle memory — that’s the main goal of Day
 
 ---
 
-# 💡 **Innovation Idea of the Day**
+## 💡 **Innovation Idea of the Day**
 
 ### **Create a shortcut command for making a new project instantly**
 
@@ -452,19 +452,219 @@ mkproject blogapp
 
 If you’re ready, send **Day 3**, and I’ll expand it just like this — step-by-step, simple words, practical exercises, and smart ideas.
 
-### Day 3-View Files
+# Day 3-View Files
+
+Perfect! Day 3 is all about **viewing files in a developer-friendly way**, and `bat` makes this soooo much nicer than plain `cat`.  
+Let’s boost this day with simple explanations, examples, and a few creative ideas to build stronger terminal habits.
+
+---
+
+## 🌟 **Day 3 — Viewing Files (with `bat`)**
+
+## 🎯 **Goal of the Day**
+
+Learn how to **read code files directly in the terminal** with:
+
+- line numbers
+    
+- syntax highlighting
+    
+- clean formatting
+    
+
+This skill becomes super useful when you debug projects, explore configs, or read logs without opening a full editor.
+
+---
+
+## 🛠️ Step 1: Install `bat`
+
+### **On Linux Mint / Ubuntu**
+
+```bash
+sudo apt install bat
+```
+
+But the command will be installed as `batcat`.  
+So create an alias to use it as `bat`:
+
+```bash
+echo 'alias bat="batcat"' >> ~/.zshrc
+source ~/.zshrc
+```
+
+Now you can simply type:
+
+```bash
+bat file.txt
+```
+
+---
+
+## 📚 **Day 3 Commands (Explained Simply)**
+
+---
+
+## **1. `bat file` — View a file beautifully**
+
+```bash
+bat app.js
+bat README.md
+bat config.json
+```
+
+You will see:
+
+- **line numbers**
+    
+- **colors**
+    
+- **syntax highlighting**
+    
+- a small separator bar
+    
+
+It feels like VS Code inside your terminal.
+
+---
+
+## **2. `bat --style=plain file` — Plain mode**
+
+This removes decorations and keeps it simple.
+
+```bash
+bat --style=plain app.js
+```
+
+Useful when:
+
+- You want clean output
+    
+- You’re copying code into chat or documentation
+    
+- You dislike extra styling for specific files
+    
+
+---
+
+## 🧪 **Main Task: Explore a Code File**
+
+Pick any real file from your system:
+
+- `.js`
+    
+- `.js`
+    
+- `.css`
+    
+- `.py`
+    
+- `.json`
+    
+- `.md`
+    
+
+Run:
+
+```bash
+bat fileNameHere
+```
+
+### While viewing, notice:
+
+✔ Line numbers  
+✔ Color highlighting  
+✔ Where functions start  
+✔ Where variables are declared  
+✔ Formatting structure
+
+### Then try plain mode:
+
+```bash
+bat --style=plain fileNameHere
+```
+
+This will help your eyes understand the difference between styled and plain output.
+
+---
+
+## 🎯 **Mini Challenges**
+
+### **Challenge 1 — Compare Views**
+
+Run:
+
+```bash
+bat app.js
+bat --style=plain app.js
+```
+
+Notice how your brain reads both differently.
+
+---
+
+### **Challenge 2 — View a big log file**
+
+If you have any log file:
+
+```bash
+bat /var/log/syslog
+```
+
+Even logs look better with syntax highlighting.
+
+---
+
+### **Challenge 3 — Try paging**
+
+Pipe output through `less`:
+
+```bash
+bat app.js | less
+```
+
+Use:
+
+- `j` / `k` to scroll
+    
+- `q` to quit
+    
+
+This becomes useful for long files.
+
+---
+
+## 💡 **Innovation Idea of the Day**
+
+### **Create a super alias to always show line numbers and plain style switch**
+
+Add to your `~/.zshrc`:
+
+```bash
+alias b='bat --paging=always'
+alias bp='bat --style=plain --paging=always'
+```
+
+Now you can quickly test both modes:
+
+```
+b main.py
+bp main.py
+```
+
+Short, fast, developer-friendly.
+
+---
+
+
+# Day 4-Yazi File Explorer
 
 
 
-### Day 4-Yazi File Explorer
+# Day 5-VS Code Terminal + Zsh
 
 
 
-### Day 5-VS Code Terminal + Zsh
-
-
-
-### Day 6-btop + System Monitoring
+# Day 6-btop + System Monitoring
 
 
 
