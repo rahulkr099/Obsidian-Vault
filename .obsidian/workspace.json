@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2fc83adadf20892b",
+        "id": "841bc4db8e0fae57",
         "type": "tabs",
         "children": [
           {
-            "id": "e6d804f71171a5f0",
+            "id": "9fac1fbdf276c8d7",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "IMPORTANT.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "IMPORTANT"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
