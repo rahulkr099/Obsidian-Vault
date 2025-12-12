@@ -11,14 +11,13 @@
             "id": "e6d804f71171a5f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Terminal Learning/Week 1 - Terminal Basics.md",
-                "mode": "source",
-                "source": false
+                "file": "IMPORTANT.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Week 1 - Terminal Basics"
+              "icon": "lucide-table",
+              "title": "IMPORTANT"
             }
           }
         ]
@@ -195,8 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6d804f71171a5f0",
+  "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
+    "Untitled.base",
+    "IMPORTANT.base",
+    "Terminal Learning/Week 1 - Terminal Basics.md",
     "Terminal Learning/30-Day Python Scripting Mastery Plan.md",
     "Terminal Learning/Python Scripting Roadmap.md",
     "Terminal Learning/CheatSheet.md",
@@ -204,12 +206,9 @@
     "Terminal Learning/Week 4 - Scripting, Automation.md",
     "Terminal Learning/Week 3 - Power Tools (fzf, zoxide, piping, processes).md",
     "Terminal Learning/Week 2 - Vim,Neovim + Searching + Git.md",
-    "Terminal Learning/Week 1 - Terminal Basics.md",
     "Terminal Learning/Terminal Tweaking.md",
-    "Untitled.base",
     "Kitty_+_Tmux.md",
     "CSS.md",
-    "IMPORTANT.base",
     "Vim.md",
     "Sem 4/CN,_OS.md",
     "Backend Flow/TodoApp.md",
