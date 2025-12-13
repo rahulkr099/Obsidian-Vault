@@ -43,14 +43,5 @@
       "value": "#ffffff"
     }
   ],
-  "fileColors": [
-    {
-      "path": "Terminal Learning/Level 2.md",
-      "color": "zD8rsZMmavQNLnFJQKYWX"
-    },
-    {
-      "path": "Terminal Learning/Python Scripting Roadmap.md",
-      "color": "vGe4HFLEADLIr5aOnNkIR"
-    }
-  ]
+  "fileColors": []
 }
