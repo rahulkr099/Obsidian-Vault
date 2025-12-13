@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/Expense Tracker API.md",
+                "file": "Backend Flow/Tic Tac Toe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expense Tracker API"
+              "title": "Tic Tac Toe"
             }
           }
         ]
@@ -197,8 +197,11 @@
   },
   "active": "175fca8983c41069",
   "lastOpenFiles": [
-    "Backend Flow/Cab booking system.md",
+    "Backend Flow/Shopping Cart API.md",
+    "Backend Flow/Tic Tac Toe.md",
+    "Backend Flow/chat messaging system.md",
     "Backend Flow/Expense Tracker API.md",
+    "Backend Flow/Cab booking system.md",
     "Backend Flow/Notifications System.md",
     "Backend Flow/Rate Limiting Service.md",
     "Backend Flow/Library Management System.md",
@@ -221,10 +224,7 @@
     "Backend Flow/Shortly app/2. routes.js.md",
     "Backend Flow/Shortly app/3. auth & validation .middlewaere.js.md",
     "Backend Flow/Shortly app/index.js.md",
-    "Backend Flow/3. Blog App.md",
     "Backend Flow/Shortly app",
-    "Backend Flow/4. Shortly App.md",
-    "Backend Flow/1. TodoApp.md",
     "Frontend Flow/3. Expert Frontend",
     "Frontend Flow/2. Intermediate Frontend Code",
     "Frontend Flow/1. HTML & CSS",
