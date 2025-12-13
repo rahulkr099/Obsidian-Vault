@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/Shortly app/googleLogin.service.md",
+                "file": "Backend Flow/Shortly app/resetPassword.services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "googleLogin.service"
+              "title": "resetPassword.services"
             }
           }
         ]
@@ -197,6 +197,8 @@
   },
   "active": "175fca8983c41069",
   "lastOpenFiles": [
+    "Backend Flow/Shortly app/qrCode.services.js.md",
+    "Backend Flow/Shortly app/googleLogin.service.md",
     "Backend Flow/Shortly app/googleAuth.service.md",
     "Backend Flow/Shortly app/authStatus.service.md",
     "Backend Flow/Shortly app/avatar.contorller.js.md",
@@ -204,7 +206,6 @@
     "Backend Flow/Shortly app/user.controller.js.md",
     "Backend Flow/Shortly app/revokeGoogleToken.service.md",
     "Backend Flow/Shortly app/resetPassword.services.md",
-    "Backend Flow/Shortly app/googleLogin.service.md",
     "Backend Flow/Shortly app/4. url & user .model.js.md",
     "Backend Flow/Shortly app/2. routes.js.md",
     "Backend Flow/Shortly app/3. auth & validation .middlewaere.js.md",
@@ -224,7 +225,6 @@
     "Frontend Flow/2. Intermediate Frontend Code/6. Progressive Image Loading Placeholder.md",
     "Frontend Flow/3. Expert Frontend",
     "Frontend Flow/2. Intermediate Frontend Code/29. Progressive web apps.md",
-    "Frontend Flow/2. Intermediate Frontend Code/30. Automated WEb Testing.md",
     "Frontend Flow/2. Intermediate Frontend Code",
     "Frontend Flow/1. HTML & CSS",
     "Untitled",
