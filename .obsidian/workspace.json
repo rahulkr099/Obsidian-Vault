@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/10. Implement a Drag & Drop.md",
+                "file": "Frontend Flow/12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Implement a Drag & Drop"
+              "title": "12"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -198,8 +197,10 @@
   },
   "active": "9fac1fbdf276c8d7",
   "lastOpenFiles": [
-    "Frontend Flow/5. To do list App.md",
+    "Frontend Flow/11. Infinite Scroll.md",
+    "Frontend Flow/12.md",
     "Frontend Flow/10. Implement a Drag & Drop.md",
+    "Frontend Flow/5. To do list App.md",
     "Frontend Flow/4. Image Carousel.md",
     "Frontend Flow/3. JS Calculator.md",
     "Sem 4/CN,_OS.md",
