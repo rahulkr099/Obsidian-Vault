@@ -1,0 +1,459 @@
+# JS Calculator
+## Algorithm: Simple Calculator
+
+---
+
+### Step 1
+
+Start the program.
+
+---
+
+### Step 2
+
+Display a calculator interface with:
+
+- A display box
+    
+- Number buttons (0–9)
+    
+- Operator buttons (+, −, ×, ÷)
+    
+- Clear button (C)
+    
+- Equal button (=)
+    
+
+---
+
+### Step 3
+
+When a **number or operator button** is clicked:
+
+- Take the value of the button
+    
+- Append it to the display
+    
+
+---
+
+### Step 4
+
+When the **Clear (C) button** is clicked:
+
+- Remove all values from the display
+    
+- Make the display empty
+    
+
+---
+
+### Step 5
+
+When the **Equal (=) button** is clicked:
+
+- Read the expression from the display
+    
+- Evaluate the mathematical expression
+    
+
+---
+
+### Step 6
+
+If the expression is **valid**:
+
+- Show the calculated result in the display
+    
+
+---
+
+### Step 7
+
+If the expression is **invalid**:
+
+- Show an error message saying  
+    **"Invalid Calculation"**
+    
+
+---
+
+### Step 8
+
+Stop the program.
+
+Nice choice of example 👍 This is a clean beginner-friendly calculator, so the pseudocode can also stay simple and clear.
+
+Below is **structured pseudocode** that explains the logic of the JavaScript part step by step.
+
+---
+
+## Pseudocode for Calculator Logic
+
+---
+
+### START
+
+---
+
+### FUNCTION `appendValue(value)`
+
+```
+GET the display input field
+ADD the given value to the current display value
+```
+
+---
+
+### FUNCTION `clearDisplay()`
+
+```
+GET the display input field
+SET the display value to empty
+```
+
+---
+
+### FUNCTION `calculate()`
+
+```
+TRY
+    GET the expression from the display
+    EVALUATE the expression
+    SHOW the result in the display
+CATCH error
+    SHOW message "Invalid Calculation"
+END TRY
+```
+
+---
+
+### BUTTON BEHAVIOR
+
+```
+WHEN a number button is clicked
+    CALL appendValue(number)
+
+WHEN an operator button (+, -, *, /) is clicked
+    CALL appendValue(operator)
+
+WHEN the C button is clicked
+    CALL clearDisplay()
+
+WHEN the = button is clicked
+    CALL calculate()
+```
+
+---
+
+### END
+
+---
+
+```javascript
+
+<script>
+    const display = document.getElementById("display");
+    const history = [];
+
+    const operators = ["+", "-", "*", "/"];
+
+    // Append value safely
+    function appendValue(value) {
+        const lastChar = display.value.slice(-1);
+
+        // Prevent two operators in a row
+        if (operators.includes(lastChar) && operators.includes(value)) {
+            return;
+        }
+
+        // Prevent multiple decimals in one number
+        if (value === ".") {
+            const parts = display.value.split(/[\+\-\*\/]/);
+            const currentNumber = parts[parts.length - 1];
+            if (currentNumber.includes(".")) return;
+        }
+
+        display.value += value;
+    }
+
+    // Clear display
+    function clearDisplay() {
+        display.value = "";
+    }
+
+    // Manual calculation logic
+    function calculate() {
+        try {
+            const expression = display.value;
+
+            // Cannot end with operator
+            if (operators.includes(expression.slice(-1))) {
+                showError();
+                return;
+            }
+
+            const tokens = expression.match(/(\d+\.?\d*|\+|\-|\*|\/)/g);
+            if (!tokens) {
+                showError();
+                return;
+            }
+
+            // First pass: * and /
+            let stack = [];
+            let i = 0;
+
+            while (i < tokens.length) {
+                let token = tokens[i];
+
+                if (token === "*" || token === "/") {
+                    let prev = stack.pop();
+                    let next = parseFloat(tokens[i + 1]);
+
+                    if (token === "/" && next === 0) {
+                        showError();
+                        return;
+                    }
+
+                    let result = token === "*"
+                        ? prev * next
+                        : prev / next;
+
+                    stack.push(result);
+                    i += 2;
+                } else {
+                    stack.push(token === "+" || token === "-"
+                        ? token
+                        : parseFloat(token));
+                    i++;
+                }
+            }
+
+            // Second pass: + and -
+            let result = stack[0];
+            for (let j = 1; j < stack.length; j += 2) {
+                const operator = stack[j];
+                const number = stack[j + 1];
+
+                if (operator === "+") result += number;
+                if (operator === "-") result -= number;
+            }
+
+            history.push(`${expression} = ${result}`);
+            display.value = result;
+
+        } catch {
+            showError();
+        }
+    }
+
+    // Show error inside display
+    function showError() {
+        display.value = "Error";
+        setTimeout(() => display.value = "", 1200);
+    }
+
+    // Keyboard support
+    document.addEventListener("keydown", (e) => {
+        if (!isNaN(e.key) || operators.includes(e.key) || e.key === ".") {
+            appendValue(e.key);
+        }
+
+        if (e.key === "Enter") {
+            e.preventDefault();
+            calculate();
+        }
+
+        if (e.key === "Backspace") {
+            display.value = display.value.slice(0, -1);
+        }
+
+        if (e.key === "Escape") {
+            clearDisplay();
+        }
+    });
+</script>
+
+
+```
+Great 👍  
+You’ve now reached the stage where **clean pseudocode** really matters.  
+Below is **exam-ready, structured pseudocode** that clearly explains _what this upgraded calculator does_, without JavaScript syntax.
+
+---
+
+# **Pseudocode: Advanced Calculator (Without `eval`)**
+
+---
+
+## **START**
+
+---
+
+## **INITIALIZATION**
+
+```
+SET display to calculator display box
+CREATE empty list history
+DEFINE operators as { +, −, *, / }
+```
+
+---
+
+## **PROCEDURE appendValue(value)**
+
+```
+GET last character from display
+
+IF last character is an operator
+   AND value is also an operator
+   THEN
+      EXIT procedure
+END IF
+
+IF value is decimal point (.)
+   SPLIT display value using operators
+   GET the current number
+   IF current number already has a decimal
+      EXIT procedure
+END IF
+
+APPEND value to display
+```
+
+---
+
+## **PROCEDURE clearDisplay()**
+
+```
+SET display value to empty
+```
+
+---
+
+## **PROCEDURE calculate()**
+
+```
+TRY
+    READ expression from display
+
+    IF expression ends with an operator
+        CALL showError()
+        EXIT procedure
+    END IF
+
+    SPLIT expression into tokens (numbers and operators)
+    IF tokens are invalid
+        CALL showError()
+        EXIT procedure
+    END IF
+
+    // First pass: handle * and /
+    CREATE empty stack
+    SET index = 0
+
+    WHILE index < length of tokens
+        SET token = tokens[index]
+
+        IF token is "*" OR "/"
+            POP previous number from stack
+            READ next number
+
+            IF token is "/" AND next number is 0
+                CALL showError()
+                EXIT procedure
+            END IF
+
+            COMPUTE result of operation
+            PUSH result into stack
+            INCREMENT index by 2
+        ELSE
+            PUSH token or number into stack
+            INCREMENT index by 1
+        END IF
+    END WHILE
+
+    // Second pass: handle + and -
+    SET result = first value in stack
+
+    FOR each operator-number pair in stack
+        IF operator is "+"
+            ADD number to result
+        ELSE IF operator is "-"
+            SUBTRACT number from result
+        END IF
+    END FOR
+
+    SAVE expression and result in history
+    DISPLAY result
+
+CATCH any error
+    CALL showError()
+END TRY
+```
+
+---
+
+## **PROCEDURE showError()**
+
+```
+DISPLAY "Error" in display
+WAIT for a short time
+CLEAR display
+```
+
+---
+
+## **KEYBOARD INPUT HANDLING**
+
+```
+WHEN a key is pressed
+    IF key is number OR operator OR decimal
+        CALL appendValue(key)
+    END IF
+
+    IF key is Enter
+        CALCULATE result
+    END IF
+
+    IF key is Backspace
+        REMOVE last character from display
+    END IF
+
+    IF key is Escape
+        CLEAR display
+    END IF
+```
+
+---
+
+## **END**
+
+---
+
+## ✅ Why This Pseudocode Is Excellent
+
+✔ Very clear logic  
+✔ No programming language syntax  
+✔ Perfect for **college exams & practical files**  
+✔ Easy to convert into flowchart  
+✔ Shows professional thinking (no `eval`)
+
+---
+
+### 🚀 Want more?
+
+I can next:
+
+- Convert this into a **flowchart**
+    
+- Make a **1-page short exam version**
+    
+- Write **algorithm + flowchart combo**
+    
+- Rewrite for **DSA / OOPS practical record**
+    
+
+Just tell me 👍
+
+# For Future : add bracket support, add history to ui

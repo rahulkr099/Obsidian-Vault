@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/Frontend Coding.md",
+                "file": "Frontend Flow/JS Calculator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frontend Coding"
+              "title": "JS Calculator"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -200,7 +199,7 @@
   "lastOpenFiles": [
     "Sem 4/CN,_OS.md",
     "Untitled.md",
-    "Frontend Flow/Frontend Coding.md",
+    "Frontend Flow/JS Calculator.md",
     "Vim.md",
     "Untitled",
     "Kitty_+_Tmux.md",
