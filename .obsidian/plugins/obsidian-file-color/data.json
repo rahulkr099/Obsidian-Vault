@@ -43,5 +43,10 @@
       "value": "#ffffff"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "Frontend Flow",
+      "color": "beKLPJe-ZJusbzADuD5gg"
+    }
+  ]
 }

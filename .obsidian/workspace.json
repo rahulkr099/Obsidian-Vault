@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim.md",
+                "file": "Sem 4/CN,_OS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vim"
+              "title": "CN,_OS"
             }
           }
         ]
@@ -197,6 +197,11 @@
   },
   "active": "9fac1fbdf276c8d7",
   "lastOpenFiles": [
+    "Frontend Flow/Frontend Coding.md",
+    "Vim.md",
+    "Untitled",
+    "Kitty_+_Tmux.md",
+    "CSS.md",
     "Terminal Learning/Week 2 - Vim,Neovim + Searching + Git.md",
     "Terminal Learning/Terminal Tweaking.md",
     "Terminal Learning/Level 2.md",
@@ -205,12 +210,9 @@
     "Terminal Learning/🌲Week 1 - Terminal Basics.md",
     "Terminal Learning/Week 3 - Power Tools (fzf, zoxide, piping, processes).md",
     "Terminal Learning/Python Scripting Roadmap.md",
-    "Vim.md",
-    "Kitty_+_Tmux.md",
     "Untitled.base",
     "IMPORTANT.base",
     "Terminal Learning/Week 4 - Scripting, Automation.md",
-    "CSS.md",
     "Sem 4/CN,_OS.md",
     "Backend Flow/TodoApp.md",
     "Sem 4/Android_&_VP.md",
