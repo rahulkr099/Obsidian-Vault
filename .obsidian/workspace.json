@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/NotesApp.md",
+                "file": "Backend Flow/1. TodoApp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NotesApp"
+              "title": "1. TodoApp"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "175fca8983c41069",
   "lastOpenFiles": [
-    "Backend Flow/TodoApp.md",
-    "Backend Flow/NotesApp.md",
+    "Backend Flow/2. NotesApp.md",
+    "Backend Flow/1. TodoApp.md",
     "Frontend Flow/3. Expert Frontend/7. Infinite scroll with animation.md",
     "Frontend Flow/3. Expert Frontend/6. Browser History.md",
     "Frontend Flow/3. Expert Frontend/5. Offline Support.md",
