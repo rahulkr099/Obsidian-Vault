@@ -82,7 +82,15 @@ If the expression is **invalid**:
 
 Stop the program.
 
-## Pseudo Code for Calculator Logic
+Nice choice of example 👍 This is a clean beginner-friendly calculator, so the pseudocode can also stay simple and clear.
+
+Below is **structured pseudocode** that explains the logic of the JavaScript part step by step.
+
+---
+
+## Pseudocode for Calculator Logic
+
+---
 
 ### START
 
@@ -90,26 +98,55 @@ Stop the program.
 
 ### FUNCTION `appendValue(value)`
 
-`GET the display input field ADD the given value to the current display value`
+```
+GET the display input field
+ADD the given value to the current display value
+```
 
 ---
 
 ### FUNCTION `clearDisplay()`
 
-`GET the display input field SET the display value to empty`
+```
+GET the display input field
+SET the display value to empty
+```
 
 ---
 
 ### FUNCTION `calculate()`
 
-
-```TRY     GET the expression from the display     EVALUATE the expression     SHOW the result in the display CATCH error     SHOW message "Invalid Calculation" END TRY`
+```
+TRY
+    GET the expression from the display
+    EVALUATE the expression
+    SHOW the result in the display
+CATCH error
+    SHOW message "Invalid Calculation"
+END TRY
+```
 
 ---
 
 ### BUTTON BEHAVIOR
 
+```
+WHEN a number button is clicked
+    CALL appendValue(number)
+
+WHEN an operator button (+, -, *, /) is clicked
+    CALL appendValue(operator)
+
+WHEN the C button is clicked
+    CALL clearDisplay()
+
+WHEN the = button is clicked
+    CALL calculate()
+```
 
 ---
 
 ### END
+
+---
+
