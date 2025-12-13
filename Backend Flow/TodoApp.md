@@ -12,25 +12,134 @@
 ```
 # app.js
 ```
-1. Require files and libraries
-2. Initialize express app
-3. Use middleware
-4. Define routes
-5. Health Check Route
-6. Handle undefined route
-7. Centralised error handling
-8. Exporting this file for starting the server
+START
+
+IMPORT Express framework
+IMPORT async error handler helper
+IMPORT todo routes
+IMPORT centralized error handler
+
+CREATE Express application
+
+ENABLE JSON body parsing middleware
+
+REGISTER "/todos" routes
+
+CREATE "/healthz" route
+    WHEN route is called
+        RETURN { ok: true }
+
+HANDLE unknown routes
+    IF route does not exist
+        RETURN 404 with "Route not found"
+
+REGISTER centralized error handler
+
+EXPORT Express application
+
+END
+
 ```
 # server.js
 ```
-1. Require files and libraries
-2. Load environment variables
-3. try-catch
-4. Connecting to a database
-5. Start the server
-6. Catch the error
-7. Start()
+START
+
+IMPORT mongoose library
+IMPORT dotenv library
+IMPORT Express app
+
+LOAD environment variables
+
+SET port number
+SET MongoDB connection URL
+
+DEFINE async function startServer
+    TRY
+        CONNECT to MongoDB
+        PRINT "Connected to MongoDB"
+
+        START server on given port
+        PRINT "Server running"
+
+    CATCH error
+        PRINT error message
+        EXIT application
+
+CALL startServer function
+
+END
+
 ```
+# Big Picture Flow (Easy to Remember)
+```
+Load configs
+↓
+Create Express app
+↓
+Attach middleware & routes
+↓
+Handle errors
+↓
+Connect database
+↓
+Start server
+
+```
+todo.routes.js
+```
+START
+
+IMPORT Express framework
+CREATE a router instance
+
+IMPORT todo controller
+IMPORT request validation functions
+
+DEFINE route: POST "/"
+    VALIDATE create request
+    CALL controller to create a todo
+
+DEFINE route: GET "/"
+    CALL controller to list all todos
+
+DEFINE route: GET "/stats"
+    CALL controller to return todo statistics
+
+DEFINE route: GET "/:id"
+    EXTRACT todo id from request
+    CALL controller to fetch single todo
+
+DEFINE route: PATCH "/:id"
+    VALIDATE update request
+    CALL controller to update todo
+
+DEFINE route: PATCH "/:id/complete"
+    MARK the given todo as completed
+
+DEFINE route: DELETE "/:id"
+    SOFT DELETE the given todo
+
+DEFINE route: POST "/:id/restore"
+    RESTORE a previously deleted todo
+
+EXPORT router
+
+END
+
+-----
+Request comes in
+↓
+Route matches
+↓
+(Optional) Validation runs
+↓
+Controller handles logic
+↓
+Response sent back
+
+
+```
+
 # src/controller/todo.controller.js
 ### 1. create Todo
 ```
