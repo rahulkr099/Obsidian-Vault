@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Pseudo Code/5. JS Projects/Image Editor App.md",
+                "file": "Frontend Pseudo Code/5. JS Projects/Music Player App.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Image Editor App"
+              "title": "Music Player App"
             }
           }
         ]
@@ -197,8 +197,15 @@
   },
   "active": "175fca8983c41069",
   "lastOpenFiles": [
-    "Frontend Pseudo Code/5. JS Projects/Drawing App.md",
+    "Frontend Pseudo Code/5. JS Projects/Tell Me a Joke.md",
+    "Frontend Pseudo Code/5. JS Projects/Weather App.md",
+    "Frontend Pseudo Code/5. JS Projects/Tic Tac Toe.md",
+    "Frontend Pseudo Code/5. JS Projects/Password Generator App.md",
+    "Frontend Pseudo Code/5. JS Projects/Notes App.md",
+    "Frontend Pseudo Code/5. JS Projects/Music Player App.md",
+    "Frontend Pseudo Code/5. JS Projects/Image Resizer App.md",
     "Frontend Pseudo Code/5. JS Projects/Image Editor App.md",
+    "Frontend Pseudo Code/5. JS Projects/Drawing App.md",
     "Frontend Pseudo Code/5. JS Projects/Dictionary App.md",
     "Frontend Pseudo Code/5. JS Projects/DevDetective.md",
     "Frontend Pseudo Code/5. JS Projects/Countdown Timer App.md",
@@ -217,13 +224,6 @@
     "Backend Pseudo Code/Ludo Game.md",
     "Backend Pseudo Code/Image Processing API.md",
     "Backend Pseudo Code/Caching System.md",
-    "Backend Pseudo Code/Queue System - job processing.md",
-    "Backend Pseudo Code/Queue system - email.md",
-    "Backend Pseudo Code/Reall time analytics counter.md",
-    "Backend Pseudo Code/Polling Voting System.md",
-    "Backend Pseudo Code/Coupan Discount Engine.md",
-    "Backend Pseudo Code/Snake and Ladder.md",
-    "Backend Pseudo Code/Tic Tac Toe.md",
     "Backend Pseudo Code/StudyNotion",
     "Backend Pseudo Code/Shortly app",
     "Frontend Pseudo Code/3. Expert Frontend",
