@@ -37,5 +37,8 @@
     "iconName": "LiBadgeDollarSign",
     "iconColor": "#f96262"
   },
-  "Frontend Pseudo Code": "LiAtom"
+  "Frontend Pseudo Code": {
+    "iconName": "LiAtom",
+    "iconColor": "#b8e84f"
+  }
 }
