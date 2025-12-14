@@ -5,7 +5,7 @@ You can use this in exams, interviews, or documentation.
 
 ---
 
-## Pseudocode — Express Server Setup
+## Pseudocode — Express Server Setup 
 
 ```
 START
