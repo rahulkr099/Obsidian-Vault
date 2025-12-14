@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Pseudo Code/StudyNotion/Controller/Section.js.md",
+                "file": "Backend Pseudo Code/StudyNotion/Controller/courseProgress.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section.js"
+              "title": "courseProgress.js"
             }
           }
         ]
@@ -197,15 +197,16 @@
   },
   "active": "175fca8983c41069",
   "lastOpenFiles": [
-    "Backend Pseudo Code/StudyNotion/Controller/ResetPassword.js.md",
+    "Backend Pseudo Code/StudyNotion/Controller/Course.js.md",
+    "Backend Pseudo Code/StudyNotion/Controller/ContactUs.js.md",
+    "Backend Pseudo Code/StudyNotion/Controller/Category.js.md",
+    "Backend Pseudo Code/StudyNotion/Controller/Subsection.js.md",
     "Backend Pseudo Code/StudyNotion/Controller/Section.js.md",
+    "Backend Pseudo Code/StudyNotion/Controller/ResetPassword.js.md",
     "Backend Pseudo Code/StudyNotion/Controller/RatingAndReview.js.md",
     "Backend Pseudo Code/StudyNotion/Controller/Profile.js.md",
     "Backend Pseudo Code/StudyNotion/Controller/Payments.js.md",
     "Backend Pseudo Code/StudyNotion/Controller/courseProgress.js.md",
-    "Backend Pseudo Code/StudyNotion/Controller/Course.js.md",
-    "Backend Pseudo Code/StudyNotion/Controller/ContactUs.js.md",
-    "Backend Pseudo Code/StudyNotion/Controller/Category.js.md",
     "Backend Pseudo Code/StudyNotion/Controller/Auth.js.md",
     "Backend Pseudo Code/StudyNotion/Untitled.md",
     "Backend Pseudo Code/StudyNotion/Controller",
@@ -223,7 +224,6 @@
     "Frontend Pseudo Code/5. JS Projects/Image Editor App.md",
     "Frontend Pseudo Code/5. JS Projects/Drawing App.md",
     "Frontend Pseudo Code/5. JS Projects/Dictionary App.md",
-    "Frontend Pseudo Code/5. JS Projects/DevDetective.md",
     "Frontend Pseudo Code/5. JS Projects",
     "Backend Pseudo Code/StudyNotion",
     "Backend Pseudo Code/Shortly app",
