@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim.md",
+                "file": "Kitty_+_Tmux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vim"
+              "title": "Kitty_+_Tmux"
             }
           }
         ],
@@ -212,9 +212,9 @@
   },
   "active": "79a6c19ecab098bd",
   "lastOpenFiles": [
+    "Vim.md",
     "Kitty_+_Tmux.md",
     "Frontend Pseudo Code/1. HTML & CSS/3. JS Calculator.md",
-    "Vim.md",
     "Frontend Pseudo Code/5. JS Projects/Music Player App.md",
     "Frontend Pseudo Code/1. HTML & CSS/19. Form Autocomplete.md",
     "Frontend Pseudo Code/1. HTML & CSS/16. Dynamic Content Filtering.md",
