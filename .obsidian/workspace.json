@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kitty_+_Tmux.md",
+                "file": "Vim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kitty_+_Tmux"
+              "title": "Vim"
             }
           }
         ],
@@ -212,6 +212,7 @@
   },
   "active": "79a6c19ecab098bd",
   "lastOpenFiles": [
+    "Kitty_+_Tmux.md",
     "Frontend Pseudo Code/1. HTML & CSS/3. JS Calculator.md",
     "Vim.md",
     "Frontend Pseudo Code/5. JS Projects/Music Player App.md",
@@ -237,7 +238,6 @@
     "Backend Pseudo Code/StudyNotion/Controller/Section.js.md",
     "Backend Pseudo Code/StudyNotion/Controller/ResetPassword.js.md",
     "Backend Pseudo Code/StudyNotion/Controller/RatingAndReview.js.md",
-    "Backend Pseudo Code/StudyNotion/Controller/Profile.js.md",
     "Backend Pseudo Code/StudyNotion/Controller",
     "Frontend Pseudo Code/5. JS Projects",
     "Backend Pseudo Code/StudyNotion",
