@@ -283,3 +283,31 @@ If you want, next I can give you:
     
 
 Just tell me 👍
+# 🚀 How to use Vim effectively for MERN (starter habits)
+
+### 🔹 Fast movement
+
+`w  → next word b  → previous word f{ → jump to {`
+
+### 🔹 Visual mode
+
+`v   → select V   → select line`
+
+### 🔹 Search
+
+`/useEffect n  → next match`
+
+### 🔹 Replace
+
+`:%s/var/const/g`
+
+---
+
+# 🔮 What NOT to add yet (important)
+
+❌ LSP  
+❌ Autocomplete  
+❌ Tree explorers  
+❌ 10+ plugins
+
+These come **later**, when movement becomes natural.
