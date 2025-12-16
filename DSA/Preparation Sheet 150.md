@@ -1,4 +1,5 @@
 1. Determine Even/Odd numbers
+**Ways to solve:** Modulo, Bitwise AND, Division and Multiplication
 ## 🚀 Practice ideas (to improve)
 
 1. Take **10 numbers from user** and classify
