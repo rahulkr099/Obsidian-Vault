@@ -1,6 +1,8 @@
 1. Determine Even/Odd numbers
 
-
+**Modulo:** num % 2 == 0
+**Bitwise AND:** num & 1 == 0
+**Division & Multiplication:** ( num // 2) *  2 == num
 ## 🚀 Practice ideas (to improve)
 
 1. Take **10 numbers from user** and classify
