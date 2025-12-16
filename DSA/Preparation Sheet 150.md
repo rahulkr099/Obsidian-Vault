@@ -1,5 +1,6 @@
 1. Determine Even/Odd numbers
-**Ways to solve:** Modulo, Bitwise AND, Division and Multiplication
+
+
 ## 🚀 Practice ideas (to improve)
 
 1. Take **10 numbers from user** and classify
@@ -10,3 +11,4 @@
 evens = [n for n in range(1, 21) if n % 2 == 0]
 print(evens)
 ```
+
