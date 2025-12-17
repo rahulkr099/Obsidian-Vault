@@ -122,23 +122,6 @@ That answer = ⭐ extra confidence points
 
 ---
 
-## 🔥 Next Steps for You
-
-If you want, we can:
-
-- Write **all prime methods in one file**
-    
-- Convert **every method to pseudo code**
-    
-- Practice **real interview problems**
-    
-- Add **time comparison**
-    
-- Build a **menu-driven program**
-    
-
-Just tell me what you want to do next 👍
-
 ### WAP to check if a given year is a leap year.
 ## Practice Challenges (Level Up)
 
