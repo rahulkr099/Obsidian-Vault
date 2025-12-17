@@ -36,4 +36,18 @@ print(evens)
 9. Check **palindrome prime**
     
 10. Optimize prime checking for large inputs
-11. 
+
+### WAP to check if a given year is a 
+## Practice Challenges (Level Up)
+
+Try solving:
+
+1. Print all leap years from 1900 to 2100
+    
+2. Count leap years in last 100 years
+    
+3. Check leap year using **bitwise operator**
+    
+4. Convert leap year logic into **pseudo code**
+    
+5. Handle invalid inputs (negative years)
