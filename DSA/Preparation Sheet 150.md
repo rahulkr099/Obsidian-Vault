@@ -1,4 +1,4 @@
-1. Determine Even/Odd numbers
+### Write a program to check whether a number is even or not.
 
 **Modulo:** num % 2 == 0
 **Bitwise AND:** num & 1 == 0
