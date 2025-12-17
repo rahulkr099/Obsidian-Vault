@@ -15,3 +15,12 @@ evens = [n for n in range(1, 21) if n % 2 == 0]
 print(evens)
 ```
 
+## 🔥 Next-Level Ideas (Interview-ready)
+
+20. Find **nearest prime** to a given number
+    
+21. Check if a number is a **product of two primes**
+    
+22. Find longest sequence of consecutive primes in a range
+    
+23. Use sieve to answer **multiple prime queries fast**
