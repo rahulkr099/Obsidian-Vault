@@ -122,7 +122,7 @@ That answer = ⭐ extra confidence points
 
 ---
 
-### WAP to check if a given year is a leap year.
+### 3. WAP to check if a given year is a leap year.
 ## Practice Challenges (Level Up)
 
 Try solving:
@@ -205,3 +205,96 @@ Try solving:
 13. Create a **generator** for Armstrong numbers
     
 14. Check Armstrong in **any base (base-n)**
+
+
+# 4. Generating the Fibonacci Series
+```
+START
+  INPUT n
+  SET a = 0, b = 1
+
+  IF n <= 0
+     STOP
+
+  PRINT a
+
+  FOR i from 2 to n
+     PRINT b
+     SET next = a + b
+     SET a = b
+     SET b = next
+  END FOR
+END
+
+
+```
+
+## ❌ Common Interview Mistakes
+
+❌ Mixing series and nth term  
+❌ Infinite loop  
+❌ Not handling `n = 0`  
+❌ Using recursion without optimization
+
+---
+
+# 🎯 Interview Practice Challenges (Must Do)
+
+### 🔹 Beginner Level
+
+1. Print Fibonacci series up to `N`
+    
+2. Print first `N` Fibonacci numbers
+    
+3. Find `Nth` Fibonacci number
+    
+4. Fibonacci using `while` loop
+    
+
+---
+
+### 🔹 Intermediate Level
+
+5. Fibonacci using recursion
+    
+6. Fibonacci using list / array
+    
+7. Check if a number is Fibonacci
+    
+8. Sum of first `N` Fibonacci numbers
+    
+
+---
+
+### 🔹 Advanced / WOW Level
+
+9. Fibonacci using **dynamic programming**
+    
+10. Fibonacci using **generator**
+    
+11. Fibonacci in **O(log n)** (matrix exponentiation – discussion)
+    
+12. Compare recursion vs iteration time
+    
+13. Fibonacci without using extra space
+    
+
+---
+
+## 🚀 Mini Interview Challenge
+
+`Input: n = 6 Output: 0 1 1 2 3 5`
+
+---
+
+## 🧠 Interview Tip (Golden Answer)
+
+If interviewer asks:
+
+> “Which approach is best?”
+
+Say:
+
+> “Iterative approach is best because it is O(n) time and O(1) space.”
+
+Simple, confident, impressive ⭐
