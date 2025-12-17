@@ -1,8 +1,5 @@
 ### Write a program to check whether a number is even or not.
 
-**Modulo:** num % 2 == 0
-**Bitwise AND:** num & 1 == 0
-**Division & Multiplication:** ( num // 2) *  2 == num
 ## 🚀 Practice ideas (to improve)
 
 1. Take **10 numbers from user** and classify
@@ -15,12 +12,28 @@ evens = [n for n in range(1, 21) if n % 2 == 0]
 print(evens)
 ```
 
-## 🔥 Next-Level Ideas (Interview-ready)
+### 2. WAP to determine if a number is prime.
+# 🔥 Interview-Related Prime Number Ideas (Very Important)
 
-20. Find **nearest prime** to a given number
+### ⭐ Common Interview Questions
+
+1. Check if a number is prime
     
-21. Check if a number is a **product of two primes**
+2. Print all primes in a range
     
-22. Find longest sequence of consecutive primes in a range
+3. Count primes up to `n`
     
-23. Use sieve to answer **multiple prime queries fast**
+4. Find **largest prime factor**
+    
+5. Prime numbers in an array
+    
+6. Check **twin primes**
+    
+7. Prime factorization
+    
+8. Find **next prime number**
+    
+9. Check **palindrome prime**
+    
+10. Optimize prime checking for large inputs
+11. 
