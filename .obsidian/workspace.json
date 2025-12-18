@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -198,11 +197,11 @@
   },
   "active": "175fca8983c41069",
   "lastOpenFiles": [
+    "Frontend Pseudo Code/1. HTML & CSS/10. Implement a Drag & Drop.md",
+    "Frontend Pseudo Code/1. HTML & CSS/9. Form Validation.md",
     "Frontend Pseudo Code/1. HTML & CSS/8. Single Page Applications.md",
     "Frontend Pseudo Code/1. HTML & CSS/7. Fetch API.md",
     "DSA/Preparation Sheet 150.md",
-    "Frontend Pseudo Code/1. HTML & CSS/9. Form Validation.md",
-    "Frontend Pseudo Code/1. HTML & CSS/10. Implement a Drag & Drop.md",
     "Frontend Pseudo Code/1. HTML & CSS/6. Responsive Design.md",
     "Frontend Pseudo Code/1. HTML & CSS/5. To do list App.md",
     "Frontend Pseudo Code/1. HTML & CSS/4. Image Carousel.md",
