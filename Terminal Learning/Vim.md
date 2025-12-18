@@ -10,9 +10,11 @@ To start typing, just press ANY of these:
 |Key|What it does|
 |---|---|
 |`i`|Insert BEFORE cursor|
-|`a`|Insert AFTER cursor|
-|`o`|New line BELOW and insert|
-|`O`|New line ABOVE and insert|
+| `I` |  Insert beginning of a line
+|`a`|Insert AFTER cursor
+| `A`| Insert after Ending of a line
+|`o`|New line BELOW and insert
+|`O`|New line ABOVE and insert
 👉 Example workflow:
 ```
 Normal Mode → press i → type code → press Esc to return
