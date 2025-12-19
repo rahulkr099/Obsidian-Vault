@@ -33,11 +33,11 @@
     "useInternalPlugins": false
   },
   "Sem 4": "LiActivity",
-  "Backend Pseudo Code": {
+  "Backend Flow": {
     "iconName": "LiBadgeDollarSign",
     "iconColor": "#f96262"
   },
-  "Frontend Pseudo Code": {
+  "Frontend Flow": {
     "iconName": "LiAtom",
     "iconColor": "#b8e84f"
   }
