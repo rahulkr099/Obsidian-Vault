@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/1. TodoApp.md",
+                "file": "Backend Flow/Coupan Discount Engine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. TodoApp"
+              "title": "Coupan Discount Engine"
             }
           }
         ]
@@ -197,6 +197,8 @@
   },
   "active": "80dfc5a757377755",
   "lastOpenFiles": [
+    "Backend Flow/Bank transfer with acid transaction.md",
+    "Backend Flow/1. TodoApp.md",
     "Frontend Flow/2. Intermediate Frontend Code/17. page transitions.md",
     "Frontend Flow/2. Intermediate Frontend Code/15. Animated Dropdown MEnu.md",
     "Frontend Flow/5. JS Projects/Music Player App.md",
@@ -221,8 +223,6 @@
     "Frontend Flow/1. HTML & CSS/11. Infinite Scroll.md",
     "Frontend Pseudo Code/1. HTML & CSS/12. Interactive Map.md",
     "Frontend Flow/1. HTML & CSS/10. Implement a Drag & Drop.md",
-    "Frontend Flow/1. HTML & CSS/9. Form Validation.md",
-    "Frontend Flow/1. HTML & CSS/3. JS Calculator.md",
     "DSA",
     "Backend Flow/StudyNotion/Controller",
     "Frontend Flow/5. JS Projects",
