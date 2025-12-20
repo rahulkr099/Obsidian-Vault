@@ -18,22 +18,15 @@ These are gold for MERN candidates.
 Build login/signup using:
 
 - React (frontend)
-    
 - Node + Express (backend)
-    
 - MongoDB (users)
-    
 
 Features:
 
 - Signup with hashed password
-    
 - Login returns JWT
-    
 - Protected route (dashboard)
-    
 - Middleware to verify token
-    
 - Logout function
     
 

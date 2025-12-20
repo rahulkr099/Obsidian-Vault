@@ -23,15 +23,10 @@ Understand server setup + routes + controllers.
 ### 📝 Tasks
 
 - Setup Node + Express project
-    
 - Create routes: GET, POST, PUT, DELETE
-    
 - Create controllers folder
-    
 - Add error handling
-    
 - Learn proper status codes
-    
 
 ### 💡 Extra
 
@@ -48,15 +43,10 @@ Master schemas + models + CRUD with DB.
 ### 📝 Tasks
 
 - Connect Node → MongoDB
-    
 - Create a User model
-    
 - Create CRUD API for users
-    
 - Validate fields
-    
 - Handle errors
-    
 
 ### 💡 Extra
 
@@ -73,17 +63,11 @@ Build login/signup the interview way.
 ### 📝 Tasks
 
 - Signup (name, email, password)
-    
 - Hash password using bcrypt
-    
 - Login with email + password
-    
 - Generate JWT token
-    
 - Create protected route
-    
 - Create auth middleware
-    
 
 ### 💡 Extra
 
@@ -102,22 +86,15 @@ Connect React + Node.
 **Frontend:**
 
 - Login form
-    
 - Signup form
-    
 - Private page (dashboard)
-    
 - Store token in localStorage
-    
 - Redirect user after login
-    
 
 **Backend:**
 
 - Validate token
-    
 - Send user data
-    
 
 ### 💡 Extra
 
@@ -134,26 +111,17 @@ Build a Notes CRUD system (classic interview task).
 ### 📝 Backend Tasks
 
 - Create notes model
-    
 - Create APIs: add, update, delete, getAll
-    
 - Add search by title
-    
 - Add pagination (limit, skip)
-    
 
 ### 📝 Frontend Tasks
 
 - Add note
-    
 - Edit note
-    
 - Delete note
-    
 - Search notes
-    
 - Paginate results
-    
 
 ### 💡 Extra
 
@@ -170,22 +138,15 @@ Handle images/files in backend + preview in frontend.
 ### 📝 Backend Tasks
 
 - Image upload route
-    
 - Use multer or Cloudinary uploader
-    
 - Validate type/size
-    
 - Return uploaded URL
-    
 
 ### 📝 Frontend Tasks
 
 - Upload image
-    
 - Preview image
-    
 - Store URL
-    
 
 ### 💡 Extra
 
@@ -205,13 +166,9 @@ Multiple image upload.
 ### 🎯 Requirements
 
 - Clean folder structure
-    
 - Good API calls
-    
 - Error handling
-    
 - Sorting + filtering
-    
 
 ### 💡 Extra
 
@@ -228,17 +185,11 @@ Sharpen backend for real-world logic.
 ### 📝 Tasks
 
 - Rate limiting middleware
-    
 - Request validation middleware
-    
 - Role-based access control
-    
 - Pagination helper function
-    
 - Retry API logic
-    
 - Error class + global handler
-    
 
 ### 💡 Extra
 
@@ -255,13 +206,9 @@ Show that you can think beyond CRUD.
 ### Options (choose 1):
 
 - Real-time chat (simple WebSocket)
-    
 - Notification system using events
-    
 - Polling-based live feed
-    
 - Task status updater
-    
 
 ### 💡 Extra
 
@@ -278,40 +225,24 @@ Simulate a real interview (1–2 hours)
 ### Suggested problems:
 
 - Build a URL Shortener (full MERN)
-    
 - Build a Notes App (full MERN)
-    
 - Build an Expense Tracker
-    
 - Build a Kanban board
-    
 - Build a Movie Search + Favorites app
-    
 - Build an Auth + Todo system
-    
 
 ### 🎯 Requirements
 
 - Clean frontend folder structure
-    
 - Clean backend folder structure
-    
 - Proper naming
-    
 - Reusable React components
-    
 - Error handling
-    
 - Proper MVC
-    
 - JWT auth
-    
 - Pagination/search
-    
 - Basic UI polish
-    
 - Explanation ready
-    
 
 ---
 
@@ -332,12 +263,3 @@ If you complete all 10 days honestly:
 This is exactly how strong MERN developers train.
 
 ---
-
-# 👉 Want me to prepare:
-
-1️⃣ **Daily code skeletons**  
-2️⃣ **Daily challenges**  
-3️⃣ **Interview-style fullstack problems**  
-4️⃣ **Evaluation checklist (what interviewers look for)**
-
-Tell me which one you want — or all of them.
