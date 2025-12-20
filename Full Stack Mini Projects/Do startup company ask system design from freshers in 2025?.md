@@ -268,25 +268,18 @@ title: { $regex: search, $options: "i" }
 ### Use:
 
 - **Multer** for local uploads
-    
 - **Cloudinary / S3** for real apps
-    
 
 ### Return:
 
 - URL
-    
 - file type
-    
 - file size
-    
 
 ### Frontend:
 
 - Preview image
-    
 - Show upload progress (optional)
-    
 
 ---
 
@@ -295,22 +288,15 @@ title: { $regex: search, $options: "i" }
 ### When you need:
 
 - chat
-    
 - notifications
-    
 - live counters
-    
 
 ### Basic flow:
 
 - User connects to socket
-    
 - Send event (`socket.emit`)
-    
 - Receive event (`socket.on`)
-    
 - Store messages in DB
-    
 
 This is enough for freshers.
 
@@ -319,19 +305,13 @@ This is enough for freshers.
 # 🟢 **9. System Scaling (Beginner Level)**
 
 No fancy distributed systems needed.
-
 ### 5 things you MUST know:
 
 - **Caching** (Redis) = speed up reads
-    
 - **Indexes** = fast search
-    
 - **CDN** = static files faster
-    
 - **Load balancer** (just mention)
-    
 - **Rate limiting** = stop abuse
-    
 
 ### Basic scaling answer:
 
@@ -344,31 +324,24 @@ This is more than enough for freshers.
 # 🟢 **10. High-Level Design Template (Use in every answer)**
 
 Always structure your answer like this:
-
 ### **1. Functional Requirements**
 
 What features user needs.
-
 ### **2. Non-Functional Requirements**
 
 Fast, scalable, secure.
-
 ### **3. APIs**
 
 List CRUD endpoints.
-
 ### **4. Database Schema**
 
 Mongo models.
-
 ### **5. Architecture Diagram (explain in words)**
 
 React → Node → MongoDB.
-
 ### **6. Flow**
 
 Step-by-step how the request works.
-
 ### **7. Scaling (simple approach)**
 
 Caching, indexes, CDN.
@@ -380,42 +353,26 @@ This is the **winning format** for all beginner system design questions.
 # 🟢 **11. Must-Know Mini Components (Frontend)**
 
 Startups expect you to know how to build:
-
 - Reusable components
-    
 - Pagination
-    
 - Search bar
-    
 - Filters
-    
 - Modal
-    
 - Dropdown
-    
 - Table
-    
 
 ---
 
 # 🟢 **12. Must-Know Backend Patterns**
 
 - JWT auth
-    
 - CRUD APIs
-    
 - File upload
-    
 - Validation
-    
 - Error handling
-    
 - MVC
-    
 - Pagination logic
-    
 - Query params handling
-    
 
 ---
 
@@ -426,27 +383,21 @@ Use this flow:
 ### **1. Clarify Requirements**
 
 “What features do we need?”
-
 ### **2. Design DB schema**
 
 Basic models.
-
 ### **3. Design APIs**
 
 CRUD.
-
 ### **4. Architecture**
 
 Explain frontend → backend → DB.
-
 ### **5. Flow**
 
 Step-by-step.
-
 ### **6. Scaling ideas**
 
 Mention caching or indexing.
-
 ### **7. Extra features**
 
 If time allows.
@@ -455,18 +406,4 @@ This will make your answer look structured and professional.
 
 ---
 
-# ❤️ Rahul, with this cheat sheet you are **officially ready** for beginner-to-mid system design questions in any startup fullstack interview.
-
-If you want, I can next give you:
-
-### 🔥 20 easy sample diagrams
-
-### 🔥 20 full-length sample answers (full explanations)
-
-### 🔥 A 20-day practice schedule
-
-### 🔥 A mock system design interview (Q&A style)
-
-### 🔥 A MERN-specific system design revision sheet
-
-Just tell me which one you want!
+# ❤️ Rahul, with this cheat sheet you are **officially ready** for beginner-to-mid system design questions in any startup Fullstack interview.

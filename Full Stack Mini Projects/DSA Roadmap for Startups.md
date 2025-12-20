@@ -9,23 +9,16 @@ I’ll explain everything in **very simple, honest, and practical words** — so
 This is the TRUTH.
 
 Let me tell you the exact reality:
-
 ### ✔ Product-based giants (Google, Amazon, Atlassian)
 
 → Ask trees, graphs, DP, segment trees, recursion, dynamic programming.
-
 ### ✔ Service-based companies (TCS, Infosys, Wipro)
-
 → Ask medium-level DSA.
-
 ### ✔ Early & mid-stage startups
-
 → DO NOT ask hard DSA.  
 → DO NOT ask DP.  
 → DO NOT ask trees/graphs.
-
 ### ✔ What they actually ask?
-
 **Simple DSA + JavaScript + MERN + Machine Coding.**
 
 I’ll show you EXACT patterns startups use.
@@ -37,15 +30,10 @@ I’ll show you EXACT patterns startups use.
 ### ⭐ **1. JavaScript Basics**
 
 - map, filter, reduce
-    
 - closures
-    
 - async/await
-    
 - promises
-    
 - debouncing
-    
 - event loop
     
 - array + string questions
