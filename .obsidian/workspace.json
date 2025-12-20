@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/1. TodoApp.md",
+                "file": "Frontend Flow/Machine Coding - Basic/2. Parallax Scrolling Effect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. TodoApp"
+              "title": "2. Parallax Scrolling Effect"
             }
           }
         ]
@@ -197,11 +197,13 @@
   },
   "active": "80dfc5a757377755",
   "lastOpenFiles": [
+    "Backend Flow/1. TodoApp.md",
+    "Frontend Flow/Machine Coding - Basic/2. Parallax Scrolling Effect.md",
+    "Frontend Flow/Machine Coding - Basic",
     "Backend Flow/Cab booking system.md",
     "Backend Flow/Bank transfer with acid transaction.md",
     "Backend Flow/3. Blog App.md",
     "Backend Flow/2. NotesApp.md",
-    "Backend Flow/1. TodoApp.md",
     "Backend Flow/Coupan Discount Engine.md",
     "Frontend Flow/2. Intermediate Frontend Code/17. page transitions.md",
     "Frontend Flow/2. Intermediate Frontend Code/15. Animated Dropdown MEnu.md",
@@ -222,7 +224,6 @@
     "Frontend Flow/2. Intermediate Frontend Code/1. Real time chat app.md",
     "Frontend Flow/1. HTML & CSS/20. Lightbox.md",
     "Frontend Flow/1. HTML & CSS/19. Form Autocomplete.md",
-    "Frontend Flow/1. HTML & CSS/16. Dynamic Content Filtering.md",
     "DSA",
     "Backend Flow/StudyNotion/Controller",
     "Frontend Flow/5. JS Projects",
@@ -231,7 +232,6 @@
     "Frontend Pseudo Code/3. Expert Frontend",
     "Frontend Flow/2. Intermediate Frontend Code",
     "Frontend Flow/1. HTML & CSS",
-    "Untitled.base",
-    "IMPORTANT.base"
+    "Untitled.base"
   ]
 }
