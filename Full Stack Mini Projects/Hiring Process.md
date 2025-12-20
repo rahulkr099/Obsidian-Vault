@@ -280,39 +280,23 @@ Let’s start!
     - Reverse string
     - Remove duplicates
     - Frequency map
-    - Palindrom        
+    - Palindrome        
     - Merge arrays
-        
     - Basic sorting
-        
 - JS basics:
-    
     - Hoisting
-        
     - Closures
-        
     - Event loop
-        
     - Promise
-        
     - Arrow functions
-        
     - Spread/rest
-        
     - Map/filter/reduce
-        
 - SQL basics:
-    
     - SELECT
-        
     - WHERE
-        
     - ORDER BY
-        
-    - LIMIT
-        
+    - LIMI
     - JOIN basics (very simple)
-        
 
 ### ✔ Practice plan:
 
@@ -321,146 +305,84 @@ Daily 4–5 easy problems for 10 days.
 ### ❌ Mistakes to avoid:
 
 - Trying to do LeetCode Hard
-    
 - Memorizing problems
-    
 - Ignoring JS theory
-    
 
 ---
 
 # 🟢 **ROUND 2 — Machine Coding Round (MOST IMPORTANT ROUND)**
 
-This round decides 70% of your chances.
-
+This round decides **70%** of your chances.
 ### ✔ What they expect:
 
 Build a real feature EXACTLY like a company project.
-
 Examples:
-
 - Todo app
-    
 - Notes app
-    
 - Cart system
-    
 - URL Shortener
-    
 - Auth system
-    
 - CRUD + Pagination
-    
 - Search + Filters
-    
 - File Upload (React + Node)
-    
 
 ### ✔ What to prepare:
 
 **Frontend**
-
 - React components
-    
 - Controlled inputs
-    
 - State lifting
-    
 - Context/Zustand basics
-    
 - API calls
-    
 - Form validation
-    
 - Search, debounce
-    
 - Pagination component
-    
 
 **Backend**
-
 - Node/Express setup
-    
 - MongoDB schemas
-    
 - CRUD APIs
-    
 - JWT auth
-    
-- MVC structure
-    
+- MVC structure    
 - Middlewares
-    
 - File upload using Multer
-    
-
 ### ✔ Practice plan:
-
 Build **10–15 mini projects**:
-
 - Todo
-    
 - Notes
-    
 - Cart
-    
 - Auth
-    
 - File upload
-    
 - Pagination
-    
 - Search bar
-    
 - Modal
-    
 - Tabs
-    
 - Dropdown
-    
 
 ### ✔ How to answer in the test:
-
 - Use clean folder structure
-    
 - Build fast
-    
 - Keep UI simple
-    
 - Focus on functionality
-    
 - Add loading + error states
-    
 
 ### ❌ Mistakes to avoid:
-
 - Over-styling UI
-    
 - Hardcoding values
-    
 - Writing everything in one file
-    
 - No error handling
-    
 
 ---
 
 # 🟢 **ROUND 3 — Technical Interview (React + Node + DB)**
 
 Interviewers test if you actually understand MERN.
-
 ### ✔ What they ask (Frontend)
-
 - Props vs State
-    
 - Controlled components
-    
 - useEffect rules
-    
 - Why keys in map
-    
 - Debounce/throttle
-    
 - Why use callback/memo
     
 - Lifting state
