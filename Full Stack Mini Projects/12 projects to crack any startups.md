@@ -16,120 +16,81 @@ These are gold for MERN candidates.
 # ⭐ **1. Authentication System (Most Asked)**
 
 Build login/signup using:
-
 - React (frontend)
 - Node + Express (backend)
 - MongoDB (users)
 
 Features:
-
 - Signup with hashed password
 - Login returns JWT
 - Protected route (dashboard)
 - Middleware to verify token
 - Logout function
-    
 
 ---
 
 # ⭐ **2. Fullstack Todo with Filters**
 
 Backend:
-
 - CRUD APIs
-    
 - search
-    
 - pagination
-    
 
 Frontend:
-
 - Add, edit, delete
-    
 - Tabs: All | Active | Completed
-    
 - Sync with server
-    
 
 Bonus:
-
 - User-specific todos → requires authentication.
-    
 
 ---
 
 # ⭐ **3. Notes App (CRUD + Search)**
 
 Backend:
-
 - Create notes
-    
 - Update note
-    
 - Delete note
-    
 - Search notes by title
-    
 
 Frontend:
-
 - List notes
-    
 - Edit in popup
-    
 - Search bar
-    
 
 Bonus:
-
 - Pin notes
-    
 
 ---
 
 # ⭐ **4. URL Shortener (Medium Level)**
 
 Backend:
-
 - POST /shorten
-    
 - GET /:shortId → redirect
-    
 - Track click count
-    
 
 Frontend:
-
 - Input URL
-    
 - Show shortened URL
-    
 - Click count UI
-    
 
 Bonus:
-
 - History page.
-    
 
 ---
 
 # ⭐ **5. File Upload System**
 
 Backend:
-
 - Multer or Cloudinary uploader
-    
 - Validate file size/type
-    
 
 Frontend:
-
 - Upload form
-    
 - Image preview
-    
+
 - Show uploaded URL
     
 
