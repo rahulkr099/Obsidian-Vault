@@ -384,56 +384,30 @@ Interviewers test if you actually understand MERN.
 - Why keys in map
 - Debounce/throttle
 - Why use callback/memo
-    
 - Lifting state
-    
 - Component architecture
-    
 - API integration
-    
 - Error handling
-    
 - React optimization basics
-    
 
 ### ✔ What they ask (Backend)
-
 - How Express works
-    
 - Middlewares
-    
 - JWT flow
-    
 - Error handlers
-    
 - File upload
-    
 - Mongoose models
-    
 - DB relations
-    
 - Aggregation basics (optional)
-    
-
 ### ✔ What they ask (Fullstack thinking)
-
 - How frontend talks to backend
-    
 - How to store token
-    
 - How to handle refresh token
-    
 - How to structure MERN project
-    
 - How to secure APIs
-    
 - How to do pagination + filtering
-    
 - How to design reusable components
-    
-
 ### ✔ Practice plan:
-
 Explain your projects out loud, like you’re teaching someone.
 
 ---
@@ -441,45 +415,24 @@ Explain your projects out loud, like you’re teaching someone.
 # 🟢 **ROUND 4 — System Design (Beginner level)**
 
 Don’t worry — this is SIMPLE system design.
-
 ### ✔ What they ask:
-
 - Design a URL Shortener
-    
 - Design a Notes App
-    
 - Design a Task Manager
-    
 - Design Auth system
-    
 - Design Search system
-    
 - Design Chat app (simple)
-    
 - Design File Upload system
-    
-
 ### ✔ What to prepare:
-
 Understand basics:
-
 - API design
-    
 - Database schema
-    
 - Client → Server → DB flow
-    
 - Caching basics
-    
 - Indexes
-    
 - Folder structure
-    
 - Component structure
-    
-
 ### ✔ How to answer:
-
 Use this template:
 
 #### 1. Requirements
@@ -497,82 +450,44 @@ Use this template:
 #### 7. Edge cases
 
 ### ✔ Must-know scaling ideas:
-
 - Add indexes
-    
 - Add caching
-    
 - Add rate limiting
-    
 - Use CDN for images
-    
-
 ### ❌ Mistakes to avoid:
-
 - Explaining Netflix-scale designs
-    
 - Mentioning things you don’t know
-    
 
 ---
 
 # 🟢 **ROUND 5 — HR + Culture Round**
 
 Easy round, no technical depth.
-
 ### ✔ What they check:
-
 - Communication
-    
 - Attitude
-    
 - Confidence
-    
 - Enthusiasm
-    
 - Team fit
-    
 - Your future goals
-    
 - Salary expectations
-    
-
 ### ✔ Questions:
-
 - Tell me about yourself
-    
 - Explain your best project
-    
 - Why startup?
-    
 - Why MERN?
-    
 - What motivates you?
-    
 - What do you want to learn?
-    
 - When can you join?
-    
-
 ### ✔ How to answer:
-
 - Be honest
-    
 - Be calm
-    
 - Show curiosity
-    
 - Show hunger to grow
-    
-
 ### ❌ Mistakes to avoid:
-
 - Over-explaining
-    
 - Acting arrogant
-    
 - Talking bad about previous companies
-    
 
 ---
 
@@ -593,17 +508,3 @@ This is **exactly how 90% of startups hire fullstack developers in 2025**.
 ---
 
 # ❤️ Rahul, you now have a complete interview roadmap — you won’t be surprised or confused in any round.
-
-If you want, I can now prepare:
-
-### 🔥 A **7-day interview revision plan**
-
-### 🔥 A **Round-wise checklist PDF**
-
-### 🔥 A **Mock technical interview (React + Node)**
-
-### 🔥 A **Mock system design interview**
-
-### 🔥 A personal **Fullstack interview tracker sheet**
-
-Just tell me what you want next!

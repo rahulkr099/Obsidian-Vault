@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack Mini Projects/Hiring Process.md",
+                "file": "Full Stack Mini Projects/3 months roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hiring Process"
+              "title": "3 months roadmap"
             }
           }
         ]
@@ -198,15 +198,15 @@
   },
   "active": "80dfc5a757377755",
   "lastOpenFiles": [
-    "Full Stack Mini Projects/Fullstack machine coding evaluation.md",
-    "Full Stack Mini Projects/DSA Roadmap for Startups.md",
-    "Full Stack Mini Projects/Do startup company ask system design from freshers in 2025?.md",
-    "Full Stack Mini Projects/12 projects to crack any startups.md",
     "Full Stack Mini Projects/10 day mern Roadmap.md",
+    "Full Stack Mini Projects/12 projects to crack any startups.md",
+    "Full Stack Mini Projects/Do startup company ask system design from freshers in 2025?.md",
+    "Full Stack Mini Projects/DSA Roadmap for Startups.md",
+    "Full Stack Mini Projects/Fullstack machine coding evaluation.md",
+    "Full Stack Mini Projects/Hiring Process.md",
     "Full Stack Mini Projects/3 months roadmap.md",
     "Frontend Flow/10 day machine coding round.md",
     "Backend Flow/Debounce Throttle API Calls.md",
-    "Full Stack Mini Projects/Hiring Process.md",
     "Full Stack Mini Projects",
     "Frontend Flow/Machine Coding - Basic/2. Parallax Scrolling Effect.md",
     "Backend Flow/1. TodoApp.md",
