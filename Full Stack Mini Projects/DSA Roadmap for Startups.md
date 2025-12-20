@@ -382,88 +382,59 @@ Problems:
 2. Group by key
 3. Sort array of objects
 4. Convert array to object
-
 ---
 
 ## **DAY 10 — String Transformation**
 
 Problems:
-
 1. Anagram check
-    
 2. Remove characters
-    
 3. Longest word in sentence
-    
 4. Capitalize each word
-    
 
 ---
 
 ## **DAY 11 — Subarrays + Prefix Logic (Beginner Version)**
 
 Problems:
-
 1. Kadane (you can skip if difficult)
-    
 2. Count subarrays with sum = k
-    
 3. Max repeating number
-    
 
 ---
 
 ## **DAY 12 — Coding Questions Asked in Startups**
 
 Real patterns from startups:
-
 1. Remove duplicates
-    
 2. Flatten array
-    
 3. Chunk array
-    
 4. Frequency map
-    
 5. Sort array of objects by date
-    
 
 ---
 
 ## **DAY 13 — Mock Test**
 
 1-hour mock coding:
-
 - 1 easy array
-    
 - 1 easy string
-    
 - 1 hashmap
-    
 - 1 simple logic
-    
 - 1 JS function implementation
-    
 
 ---
 
 ## **DAY 14 — Final Revision + Confidence Day**
 
 Revise:
-
 - Patterns
-    
 - Mistakes
-    
 - Code snippets
-    
 - Time + space basics (very light)
-    
 
 Do:
-
 - 5 random questions from each category
-    
 
 ---
 
@@ -483,33 +454,6 @@ And THIS plan is perfect for that.
 
 ---
 
-# ⭐ If you want next, I can make:
-
-### ✔ A 40-question DSA sheet (startup-level only)
-
-### ✔ A 14-day schedule sheet
-
-### ✔ A coding templates cheat sheet (JS functions for everything)
-
-### ✔ A mock DSA test for you
-
-Just tell me — I’ll guide you step by step!
-
-Absolutely Rahul!  
-Here is your **Startup-Level DSA Question Sheet** — only the type of problems that _real startups ask full-stack MERN freshers_.
-
-No trees.  
-No graphs.  
-No DP.  
-No hard problems.  
-Just **simple–medium coding that actually appears in interviews.**
-
-This sheet is perfect for cracking Round-1 coding tests.
-
-I’ll keep everything in **simple categories** so you can practice easily.
-
----
-
 # 🚀 **STARTUP-LEVEL DSA QUESTION SHEET (40 Problems)**
 
 _(Handpicked for MERN + fullstack interviews)_  
@@ -520,131 +464,83 @@ _Difficulty: EASY → MEDIUM_
 # 🟢 **SECTION 1 — ARRAYS (10 Questions)**
 
 These ALWAYS appear.
-
 1. Find the maximum number in an array
-    
 2. Find the minimum number in an array
-    
 3. Reverse an array
-    
 4. Remove duplicates from array
-    
 5. Find the second largest number
-    
 6. Check if array is sorted
-    
 7. Move all zeros to the end
-    
 8. Merge two sorted arrays
-    
 9. Rotate array by k positions
-    
 10. Find missing number in array of 1 to n
-    
 
 ---
 
 # 🟢 **SECTION 2 — STRINGS (8 Questions)**
 
 Startups LOVE string questions.
-
 11. Reverse a string
-    
 12. Check if string is palindrome
-    
 13. Count vowels in a string
-    
 14. Find the first non-repeating character
-    
 15. Check if two strings are anagrams
-    
 16. Remove all digits from a string
-    
 17. Longest word in a sentence
-    
 18. Capitalize each word in a sentence
-    
 
 ---
 
 # 🟢 **SECTION 3 — HASHMAP & LOGIC (7 Questions)**
 
 This is the MOST important section.
-
 19. Two-sum problem
-    
 20. Character frequency map
-    
 21. Most frequent element in array
-    
 22. Majority element (simple version)
-    
 23. Find duplicate characters in string
-    
 24. Find intersection of two arrays
-    
 25. Count occurrences of each word in a sentence
-    
 
 ---
 
 # 🟢 **SECTION 4 — SORTING & SEARCHING (6 Questions)**
 
 26. Sort array of numbers
-    
 27. Sort array of strings by length
-    
 28. Sort array of objects by age or score
-    
 29. Binary search in sorted array
-    
 30. Find floor/ceil of a number in sorted array
-    
 31. Find k-th largest element (sorting version)
-    
 
 ---
 
 # 🟢 **SECTION 5 — 2-POINTER TECHNIQUE (4 Questions)**
 
 32. Check if a pair exists with given sum
-    
 33. Remove duplicates from sorted array (in-place)
-    
 34. Find the closest pair sum
-    
 35. Partition negative and positive numbers
-    
 
 ---
 
 # 🟢 **SECTION 6 — SLIDING WINDOW (Easy Version) (3 Questions)**
 
 36. Maximum sum subarray of size k
-    
 37. Minimum subarray length with sum ≥ target
-    
 38. Longest substring without repeating characters (easy logic)
-    
 
 ---
 
 # 🟢 **SECTION 7 — OBJECT / JS LOGIC QUESTIONS (6 Questions)**
 
 Interviewers LOVE these.
-
 39. Flatten nested array
-    
 40. Deep copy vs shallow copy example
-    
 41. Convert array to object (key → value)
-    
 42. Group objects by category
-    
-43. Get unique values from array of objects
-    
+43. Get unique values from array of object
 44. Chunk an array into size k
-    
 
 ---
 
@@ -654,15 +550,3 @@ You **do NOT** need 500 questions.
 Just these **40**, solved properly in JavaScript, are enough.
 
 ---
-
-# ⭐ If you want, I can also give you:
-
-### ✔ Solutions for all 40 questions
-
-### ✔ JavaScript template code for each pattern
-
-### ✔ A 14-day practice schedule for these 40 questions
-
-### ✔ Mock DSA test (10 questions, timed)
-
-Just tell me — I’ll prepare it for you!
