@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/10 day machine coding round.md",
+                "file": "Full Stack Mini Projects/10 day mern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 day machine coding round"
+              "title": "10 day mern"
             }
           }
         ]
@@ -197,8 +197,10 @@
   },
   "active": "80dfc5a757377755",
   "lastOpenFiles": [
-    "Frontend Flow/Machine Coding - Basic/2. Parallax Scrolling Effect.md",
     "Frontend Flow/10 day machine coding round.md",
+    "Full Stack Mini Projects/10 day mern.md",
+    "Full Stack Mini Projects",
+    "Frontend Flow/Machine Coding - Basic/2. Parallax Scrolling Effect.md",
     "Backend Flow/1. TodoApp.md",
     "Frontend Flow/Machine Coding - Basic",
     "Backend Flow/Cab booking system.md",
@@ -223,7 +225,6 @@
     "Frontend Flow/2. Intermediate Frontend Code/4. Sticky Navigation.md",
     "Frontend Pseudo Code/2. Intermediate Frontend Code/3. Data Visulization.md",
     "Frontend Flow/2. Intermediate Frontend Code/1. Real time chat app.md",
-    "Frontend Flow/1. HTML & CSS/20. Lightbox.md",
     "DSA",
     "Backend Flow/StudyNotion/Controller",
     "Frontend Flow/5. JS Projects",
@@ -231,7 +232,6 @@
     "Backend Flow/Shortly app",
     "Frontend Pseudo Code/3. Expert Frontend",
     "Frontend Flow/2. Intermediate Frontend Code",
-    "Frontend Flow/1. HTML & CSS",
-    "Untitled.base"
+    "Frontend Flow/1. HTML & CSS"
   ]
 }
