@@ -2,17 +2,11 @@ Sure Rahul!
 Let me give you a **clear, simple, detailed explanation** of how **FULLSTACK DEVELOPER hiring happens in startups (2025)**.
 
 I will tell you:
-
 - Number of rounds
-    
 - What happens in each round
-    
 - What they expect from freshers
-    
 - How MERN candidates get selected
-    
 - What skills matter most
-    
 
 This is exactly how real startups hire.
 
@@ -33,13 +27,9 @@ Let’s break them down one by one.
 ### What happens:
 
 - Resume shortlisting
-    
 - Quick coding test (HackerRank / in-house)
-    
 - Basic DSA questions (very simple)
-    
 - Sometimes simple MCQs: JS, DB, APIs, React
-    
 
 ### DSA Level:
 
