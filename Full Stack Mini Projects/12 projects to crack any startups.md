@@ -269,38 +269,18 @@ Bonus:
 # ❤️ **Rahul, These 15 Problems Are Enough to Crack ANY Startup Fullstack Round**
 
 They cover:
-
 - Authentication
 - CRUD
 - Pagination
-    
 - Search
-    
 - File uploads
-    
 - Real-time
-    
 - State management
-    
 - Database design
-    
 - Component structure
-    
 - API design
-    
 
 Exactly the fullstack skills startups check.
 
 ---
 
-# 👉 Want me to also prepare:
-
-### ✔ 10 fullstack system design questions
-
-### ✔ A scoring checklist (how interviewers evaluate you)
-
-### ✔ Boilerplate templates for fast development
-
-### ✔ One full mock test (timed)
-
-Just tell me — I’ll build it for you.
