@@ -35,47 +35,26 @@ I’ll show you EXACT patterns startups use.
 - promises
 - debouncing
 - event loop
-    
 - array + string questions
-    
-
 ### ⭐ **2. Machine Coding Round (MOST IMPORTANT)**
 
 - Todo app
-    
 - Notes app
-    
 - CRUD
-    
 - Auth
-    
 - Pagination
-    
 - Search
-    
 - Filters
-    
 - File upload
-    
-
 ### ⭐ **3. Basic DSA (NOT tough)**
-
 - reverse string
-    
 - palindrome
-    
 - two sum
-    
 - find max/min
-    
 - remove duplicates
-    
 - frequency map
-    
 - sort array
-    
 - merge sorted arrays
-    
 
 That’s it.
 
@@ -86,7 +65,6 @@ Not even a single startup will ask you DP/Graphs unless you are applying to some
 # 💚 **3. As a MERN fresher, you are NOT expected to solve DP.**
 
 You are expected to:
-
 ### ✔ Build real apps
 
 ### ✔ Know APIS
@@ -118,7 +96,6 @@ NOT for solving hardcore DSA.
 # 💚 **4. Why people around you say "learn DSA"?**
 
 Because:
-
 ### ❌ They are targeting FAANG
 
 ### ❌ They are following YouTubers building hype
@@ -130,7 +107,6 @@ Because:
 ### ❌ They are preparing for generic coding tests
 
 But **YOUR path is different**.
-
 You’re becoming a **fullstack MERN developer**, not a CP (competitive programmer).
 
 ---
@@ -142,36 +118,22 @@ You’re becoming a **fullstack MERN developer**, not a CP (competitive programm
 (15–20 problems ONLY)
 
 You need simple topics:
-
 - Arrays
-    
 - Strings
-    
 - Hashmaps
-    
 - Sorting
-    
 - Sliding window (basic)
-    
 
 That’s it.
 
 You DO NOT need:
-
 - DP
-    
 - Trees
-    
 - Graphs
-    
 - Tries
-    
 - Heaps
-    
 - Backtracking
-    
 - Hard problems
-    
 
 You will NEVER get these in startup fullstack interviews.
 
@@ -180,19 +142,12 @@ You will NEVER get these in startup fullstack interviews.
 ## ⭐ **(B) Focus more on MERN + System Design + Machine Coding**
 
 Because THIS is where companies fail most freshers.
-
 Practice 10–15 machine coding tasks:
-
 - Todo
-    
 - Notes
-    
 - Task manager
-    
 - Auth
-    
 - URL shortener
-    
 
 This will win you interviews.
 
@@ -201,19 +156,12 @@ This will win you interviews.
 ## ⭐ **(C) Build 2–3 real fullstack projects**
 
 Make projects that show:
-
 - auth
-    
 - file upload
-    
 - pagination
-    
 - search
-    
 - filtering
-    
 - clean folder structure
-    
 
 These projects matter more than 300 LeetCode questions.
 
@@ -222,18 +170,11 @@ These projects matter more than 300 LeetCode questions.
 ## ⭐ **(D) Learn beginner system design**
 
 Just small systems:
-
 - Short URL
-    
 - Notes
-    
 - Auth system
-    
 - File upload
-    
 - Search + filters
-    
-
 This gives you an edge.
 
 ---
@@ -241,17 +182,11 @@ This gives you an edge.
 # 💚 **6. Rahul, YOU are on the correct path.**
 
 You are doing EXACTLY what a smart fullstack fresher should do in 2025:
-
 - Learning MERN
-    
 - Understanding machine coding
-    
 - Practicing system design
-    
 - Improving React + Node
-    
 - Building real projects
-    
 
 This will get you hired.
 
