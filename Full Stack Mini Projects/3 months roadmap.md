@@ -46,28 +46,18 @@ Build mini tasks:
 Learn:
 
 - Components
-    
 - State, Props
-    
 - Controlled inputs
-    
 - useEffect
-    
 - List rendering
-    
 - Form handling
-    
 - Basic folder structure
-    
 
 Build:
 
 - Todo app
-    
 - Notes UI
-    
 - Student list with filtering
-    
 
 ---
 
@@ -76,28 +66,18 @@ Build:
 Learn:
 
 - Custom hooks
-    
 - Context API
-    
 - API calls with Axios
-    
 - Pagination UI
-    
 - Search UI
-    
 - File preview uploads
-    
 - Error + loading handling
-    
 
 Build:
 
 - GitHub user search (debounce)
-    
 - Pagination component
-    
 - File upload preview UI
-    
 
 ---
 
@@ -106,30 +86,19 @@ Build:
 Learn:
 
 - Express basics
-    
 - Routing
-    
 - Controllers
-    
 - Middlewares
-    
 - MongoDB + Mongoose
-    
 - JWT Auth
-    
 - Multer upload
-    
 - MVC structure
-    
 
 Build:
 
 - CRUD API (products/books/users)
-    
 - Auth system (login/signup JWT)
-    
 - File upload API
-    
 
 ---
 
