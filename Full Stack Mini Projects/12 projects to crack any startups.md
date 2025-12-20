@@ -90,284 +90,179 @@ Backend:
 Frontend:
 - Upload form
 - Image preview
-
 - Show uploaded URL
-    
 
 Bonus:
-
 - Multiple files support.
-    
 
 ---
 
 # ⭐ **6. Product Cart System (E-commerce Mini)**
 
 Backend:
-
 - Products API
-    
 - Cart API
-    
 - Add/remove/update quantity
-    
 
 Frontend:
-
 - List products
-    
-- Add to cart
-    
+- Add to cart    
 - Display total
-    
 
 Bonus:
-
 - Coupon discount system.
-    
 
 ---
 
 # ⭐ **7. Expense Tracker (Fullstack)**
 
 Backend:
-
 - CRUD expenses
-    
 - Filter by date
-    
 - Calculate total spent
-    
 
 Frontend:
-
 - Add expense
-    
 - Show category-wise filter
-    
 - Monthly view
-    
 
 Bonus:
-
 - Pie chart (optional).
-    
 
 ---
 
 # ⭐ **8. Movie Search + Favorites App**
 
 Backend:
-
 - Users
-    
 - Favorites list
-    
 - Add/delete favorite movies
-    
 
 Frontend:
-
 - Search movies using API
-    
 - Add to favorites
-    
 - View favorites
-    
 
 Bonus:
-
 - Login required to add favorites.
-    
 
 ---
 
 # ⭐ **9. Blog Mini-System**
 
 Backend:
-
 - Post model
-    
 - CRUD routes
-    
 - Search + category filter
-    
 
 Frontend:
-
 - Show posts
-    
 - Detailed post page
-    
 - Add/edit post
-    
 
 Bonus:
-
 - Rich text editor.
-    
 
 ---
 
 # ⭐ **10. Kanban Board (Drag & Drop)**
 
 Backend:
-
 - Boards → columns → tasks
-    
 - Update column on drag
-    
 - Persist state
-    
 
 Frontend:
-
 - Columns: Todo, Doing, Done
-    
 - Drag & drop tasks
-    
 - Add/edit task
-    
 
 Bonus:
-
 - Add multiple boards per user.
-    
 
 ---
 
 # ⭐ **11. Poll / Voting System**
 
 Backend:
-
 - Create poll
-    
 - Vote option
-    
 - Prevent double voting
-    
 
 Frontend:
-
 - Show poll
-    
 - Live vote counts
-    
 - Submit vote
-    
 
 Bonus:
-
 - WebSocket for live updates.
-    
 
 ---
 
 # ⭐ **12. Real-Time Chat (Simple)**
 
 Backend:
-
 - WebSocket server
-    
 - Save messages to DB
-    
 
 Frontend:
-
 - Chat UI
-    
 - Live messages
-    
 - Username input
-    
 
 Bonus:
-
 - Typing indicator.
-    
-
 ---
 
 # ⭐ **13. Job Board Mini App**
 
 Backend:
-
 - Jobs API (title, company, location)
-    
 - Filtering & search
-    
 - Sorting (latest)
-    
 
 Frontend:
-
 - Job list
-    
 - Job details page
-    
 - Search + filters
-    
 
 Bonus:
-
 - Bookmark jobs.
-    
 
 ---
 
 # ⭐ **14. Inventory Management System**
 
 Backend:
-
 - CRUD inventory items
-    
 - Quantity updates
-    
 - Low stock alert
-    
 
 Frontend:
-
 - Add product
-    
 - Update stock
-    
 - Filters: low stock, category
-    
 
 Bonus:
-
 - Graph of stock over time.
-    
 
 ---
 
 # ⭐ **15. Booking System (Medium Level)**
 
 Backend:
-
 - CRUD bookings
-    
 - User authentication
-    
 - Check slot availability
-    
 
 Frontend:
-
 - Book slot
-    
 - View bookings
-    
 - Cancel booking
-    
 - Calendar UI
-    
 
 Bonus:
-
 - Email notification (optional).
-    
 
 ---
 
@@ -376,9 +271,7 @@ Bonus:
 They cover:
 
 - Authentication
-    
 - CRUD
-    
 - Pagination
     
 - Search
