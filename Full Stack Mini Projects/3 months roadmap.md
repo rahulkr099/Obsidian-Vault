@@ -196,7 +196,7 @@ Create:
 Your resume must show:
 
 - MERN skills
-- 3+ good projects
+- 2 good projects with AI Integration
 - Clear tech stack
 - Clean structure
 
@@ -216,7 +216,7 @@ Prepare for:
 
 ### **JavaScript Questions**
 
-- Promis
+- Promise
 - Event loop
 - Closures
 - this
