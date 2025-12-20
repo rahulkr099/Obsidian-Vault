@@ -20,35 +20,24 @@ Let’s go step by step.
 
 # 🟢 **MONTH 1 — Master MERN Foundations + Build Strong Basics**
 
-## ✅ **Week 1: JavaScript Mastery (Important for interviews)**
+### ✅ **Week 1: JavaScript Mastery (Important for interviews)**
 
 Focus:
 
 - DOM + Events
-    
 - Arrays, Objects
-    
 - Promises, Async/Await
-    
-- Closures
-    
+- Closures    
 - This, Hoisting
-    
 - Debounce/Throttle
-    
 - localStorage
-    
 
 Build mini tasks:
 
 - Counter
-    
 - Todo (JS-only)
-    
 - Search bar + debounce
-    
 - Modal, Tabs, Accordion
-    
 
 ---
 
@@ -146,44 +135,29 @@ Build:
 
 # 🟢 **MONTH 2 — Fullstack Projects + Machine Coding Prep**
 
-## ✅ **Week 5 & 6: Build 2 Fullstack Projects**
+### ✅ **Week 5 & 6: Build 2 Fullstack Projects**
 
 Build **two strong MERN projects** with:
 
 - Authentication
-    
 - CRUD
-    
 - Pagination
-    
 - Filtering
-    
 - Search
-    
 - File Upload
-    
 - Good folder structure
-    
 
 Suggested projects:
 
 1. **Notes App (Google Keep Mini)**
-    
 2. **Task Manager with status & filters**
-    
 3. **Expense Tracker**
-    
 4. **Movie Library with favorites**
-    
 5. **URL Shortener**
-    
 
 These must have both:
-
 - Clean React frontend
-    
 - Clean Node backend
-    
 
 ---
 
@@ -192,17 +166,11 @@ These must have both:
 Practice 10 machine coding problems:
 
 - Todo (React + Node)
-    
 - Notes (React + Node)
-    
 - Task Manager
-    
 - Cart System
-    
 - Product Listing + Filters
-    
 - URL Shortener
-    
 - File Upload System
     
 - Chat (simple)
