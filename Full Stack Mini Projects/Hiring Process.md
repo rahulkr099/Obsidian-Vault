@@ -30,23 +30,14 @@ Let’s break them down one by one.
 - Quick coding test (HackerRank / in-house)
 - Basic DSA questions (very simple)
 - Sometimes simple MCQs: JS, DB, APIs, React
-
 ### DSA Level:
-
 - Reverse string
-    
 - Palindrome
-    
 - Two sum
-    
 - Basic arrays
-    
 - Frequency map
-    
 - Easy strings
-    
 - No trees, no graphs
-    
 
 ### Goal:
 
@@ -55,13 +46,9 @@ Filter out people who don’t know fundamentals.
 ### Your Preparation:
 
 - Easy DSA + JavaScript basics
-    
 - Promise, closure, event loop basics
-    
 - SQL basics
-    
 - OOPS basics
-    
 
 ---
 
@@ -74,42 +61,25 @@ You are given 60–120 minutes to **build a working feature or mini fullstack pr
 ### Examples:
 
 - Todo App (React + Node)
-    
 - Notes App
-    
 - Task Manager
-    
 - Cart System
-    
 - URL Shortener
-    
 - CRUD + Pagination
-    
 - Search + Filters
-    
 - Auth (login/signup)
-    
 
 ### Skills tested:
 
 - Problem solving
-    
 - Basic architecture
-    
 - Clean code
-    
 - API understanding
-    
 - React components
-    
 - Node + Express basics
-    
 - Mongo schema design
-    
 - State management
-    
 - Error handling
-    
 
 ### THIS ROUND MATTERS THE MOST for a fullstack dev.
 
@@ -122,56 +92,32 @@ This is a **face-to-face** or **video** interview with a senior engineer.
 ### Questions asked:
 
 ### ⭐ **Frontend (React/JS)**
-
 - Component architecture
-    
 - Props/state
-    
 - Controlled components
-    
 - React hooks
-    
 - Debounce/throttle
-    
 - Lifecycle
-    
 - Rendering process
-    
 - Fetch vs Axios
-    
 - State management (Context/Zustand/basic Redux)
-    
 
 ### ⭐ **Backend (Node/Express)**
-
 - MVC structure
-    
 - Middlewares
-    
 - JWT auth
-    
 - File upload
-    
 - REST API design
-    
 - Pagination/search
-    
 - Error handling
-    
 - MongoDB queries
-    
 
 ### ⭐ **Fullstack Thinking**
 
 - How frontend communicates with backend
-    
 - How you structure both projects
-    
 - How you handle edge cases
-    
 - API integration flow
-    
-
 ### No heavy DSA here.
 
 Mostly **practical skills**.
@@ -181,80 +127,46 @@ Mostly **practical skills**.
 # 🟢 **ROUND 4 — System Design (Beginner Level)**
 
 Freshers get **easy system design**, not the hard one.
-
 ### They ask things like:
-
 - Design a Notes App
-    
 - Design a URL Shortener
-    
 - Design a Task Manager
-    
 - Design search + filter system
-    
 - Design login/signup system
-    
 - Design a File Upload system
-    
-
 ### What they check:
-
 - How you think
-    
 - Database schema
-    
 - API routes
-    
 - Components
-    
 - Flow: Client → Server → DB
-    
 - Basic scaling (indexes, cache)
-    
-
 ### No load balancers, no microservices.
-
 Just simple MERN-level system design.
 
 ---
-
 # 🟢 **ROUND 5 — HR / Managerial Round**
 
 Very easy round.
-
 ### Questions:
-
 - Tell me about yourself
-    
 - Why startup?
-    
 - Projects
-    
 - How you learn things
-    
 - Passion for coding
-    
 - Your strengths
-    
 - Your weaknesses
-    
 - Future goals
-    
 - Salary expectations
-    
 
 This is mostly a **culture-fit round**.
 
 They only reject if:
 
 - Bad attitude
-    
 - Poor communication
-    
 - Zero clarity
-    
 - Fake answers
-    
 
 ---
 
@@ -334,44 +246,16 @@ Your preparation is actually PERFECT for this.
 
 ---
 
-# ❤️ Rahul, if you want, I can build:
-
-### ✔ A **custom preparation plan for each round**
-
-### ✔ A **mock machine coding test**
-
-### ✔ A **mock technical interview (React + Node)**
-
-### ✔ A **mock system design interview**
-
-### ✔ A **startup interview revision sheet**
-
-Tell me what you want next!
-
-Alright Rahul — here is your **Custom Preparation Plan for EACH Round** of a **Fullstack Developer Startup Interview (2025)**.
-
-I’ll explain everything in **simple words**, super clear, and step-by-step so you know **exactly what to prepare** to crack every round.
-
-Let’s make your fullstack interview journey smooth and predictable!
-
----
-
 # 🚀 **CUSTOM PREPARATION PLAN FOR EACH ROUND**
 
 (Focused on MERN + Startup interviews)
 
 You’ll see:
-
 - What they ask
-    
 - What to prepare
-    
 - What to practice
-    
 - How to answer
-    
 - Mistakes to avoid
-    
 
 Let’s start!
 
@@ -380,36 +264,23 @@ Let’s start!
 # 🟢 **ROUND 1 — Online Test (Aptitude + Basic Coding + MCQ)**
 
 **Goal**: Filter weak candidates. Easy level.
-
 ### ✔ What they ask:
 
 - Basic JavaScript
-    
 - Simple DSA (easy array/string questions)
-    
 - SQL basics
-    
 - React MCQs
-    
 - Node/Express basics
-    
 - Sometimes aptitude (rare)
-    
 
 ### ✔ How to prepare:
 
 - Practice 20–30 easy DSA problems:
-    
     - Two sum
-        
     - Reverse string
-        
     - Remove duplicates
-        
     - Frequency map
-        
-    - Palindrome
-        
+    - Palindrom        
     - Merge arrays
         
     - Basic sorting
