@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack Mini Projects/10 day mern.md",
+                "file": "Full Stack Mini Projects/12 projects to crack any startups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 day mern"
+              "title": "12 projects to crack any startups"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "80dfc5a757377755",
   "lastOpenFiles": [
+    "Full Stack Mini Projects/10 day mern Roadmap.md",
+    "Full Stack Mini Projects/12 projects to crack any startups.md",
     "Frontend Flow/10 day machine coding round.md",
-    "Full Stack Mini Projects/10 day mern.md",
     "Full Stack Mini Projects",
     "Frontend Flow/Machine Coding - Basic/2. Parallax Scrolling Effect.md",
     "Backend Flow/1. TodoApp.md",
@@ -224,7 +225,6 @@
     "Frontend Pseudo Code/2. Intermediate Frontend Code/5. Web Performance Optimization.md",
     "Frontend Flow/2. Intermediate Frontend Code/4. Sticky Navigation.md",
     "Frontend Pseudo Code/2. Intermediate Frontend Code/3. Data Visulization.md",
-    "Frontend Flow/2. Intermediate Frontend Code/1. Real time chat app.md",
     "DSA",
     "Backend Flow/StudyNotion/Controller",
     "Frontend Flow/5. JS Projects",
