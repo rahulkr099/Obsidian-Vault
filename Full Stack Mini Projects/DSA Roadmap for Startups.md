@@ -189,7 +189,6 @@ You are doing EXACTLY what a smart fullstack fresher should do in 2025:
 - Building real projects
 
 This will get you hired.
-
 DSA is just a small add-on for round 1 — not the main thing.
 
 ---
@@ -213,27 +212,8 @@ DSA is just a small add-on for round 1 — not the main thing.
 This is the _real path_ for a MERN fresher.
 
 ---
-
 # ❤️ Rahul, you’re not behind.
 
-You’re not wasting time.  
-You’re not doing the wrong thing.
-
-You’re building **exactly** the skills startups hire for.
-
-If you want, I can also make for you:
-
-### ✔ A 20-problem DSA list (only what startups ask)
-
-### ✔ A 2-week DSA crash plan
-
-### ✔ A MERN + Machine Coding daily schedule
-
-### ✔ A "What to learn next" roadmap
-
-### ✔ A confidence-building plan for interviews
-
-Just tell me which one you want — I’m here for you.
 
 Absolutely Rahul — here is a **DSA Plan Made ONLY For Startup Fullstack Interviews**, not for FAANG.  
 This is the **exact level** you need as a MERN fresher — no trees, no DP, no graphs, no stress.
@@ -286,189 +266,122 @@ This is EXACTLY what startups ask.
 # 🟢 **WEEK 1 — Core Patterns (Easy Problems Only)**
 
 ---
-
 ## **DAY 1 — Arrays Basics**
 
 Learn:
-
 - Iteration
-    
 - Max/Min
-    
 - Sum
-    
 - Reverse
-    
 
 Problems:
-
 1. Find max in array
-    
 2. Reverse an array
-    
 3. Remove duplicates
-    
 4. Check if array sorted
-    
 
 ---
 
 ## **DAY 2 — Strings**
 
 Learn:
-
 - Reverse
-    
 - Palindrome
-    
 - Frequency count
-    
 
 Problems:
-
 1. Reverse string
-    
 2. Palindrome
-    
 3. Count vowels
-    
 4. Character frequency map
-    
 
 ---
 
 ## **DAY 3 — Hashmaps (Most Important)**
 
 Learn:
-
 - Frequency map
-    
 - Counting occurrences
-    
 - Two-sum logic
-    
 
 Problems:
-
 1. Two sum
-    
 2. First unique character
-    
 3. Majority element
-    
 4. Find repeating elements
-    
 
 ---
 
 ## **DAY 4 — Sorting + Searching Basics**
 
 Learn:
-
 - Bubble, selection conceptually
-    
 - Built-in sort
-    
 - Binary search logic
-    
 
 Problems:
-
 1. Sort array
-    
 2. Search element (binary search)
-    
 3. Find 2nd largest
-    
 4. Merge two sorted arrays
-    
 
 ---
 
 ## **DAY 5 — 2-Pointer Method**
 
 Learn:
-
 - Left/right pointer
-    
 - Moving pointers based on condition
-    
 
 Problems:
-
 1. Move zeros to end
-    
-2. Pair sum in sorted array
-    
+2. Pair sum in sorted arra
 3. Remove duplicates from sorted array
-    
 
 ---
 
 ## **DAY 6 — Sliding Window (Super Easy Version)**
 
 Learn:
-
 - Fixed window
-    
 - Running sum
-    
 
 Problems:
-
 1. Max sum of subarray of size k
-    
 2. Subarray with given sum (easy)
-    
 3. Longest substring without repeat (easy logic)
-    
 
 ---
 
 ## **DAY 7 — Practice + Review**
 
 Do:
-
 - 5–7 timed questions
-    
 - Revise all patterns
-    
 - Note mistakes
-    
+
 
 ---
 
 # 🟢 **WEEK 2 — Interview-Focused DSA (Easy-Medium)**
 
----
-
 ## **DAY 8 — Math + Logic Problems**
 
 Problems:
-
 1. FizzBuzz
-    
 2. Count digits
-    
 3. Calculate power
-    
 4. Check prime (simple)
-    
 
 ---
 
 ## **DAY 9 — Object / Map Problems (JS Interview Favorites)**
 
 Problems:
-
 1. Deep copy vs shallow copy
-    
 2. Group by key
-    
 3. Sort array of objects
-    
 4. Convert array to object
-    
 
 ---
 
