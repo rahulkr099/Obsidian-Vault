@@ -252,18 +252,18 @@ These things show you’re an actual fullstack developer.
 
 (Startups typically use this scale)
 
-|Category|Marks|
-|---|---|
-|Project Setup|10|
-|API Design|15|
-|Database|10|
-|Auth + Security|15|
-|Frontend Quality|15|
-|UI Logic / State Mgmt|10|
-|API Integration|10|
-|Error Handling|10|
-|Bonus Features|10|
-|**Total**|**100**|
+| Category              | Marks   |
+| --------------------- | ------- |
+| Project Setup         | 10      |
+| API Design            | 15      |
+| Database              | 10      |
+| Auth + Security       | 15      |
+| Frontend Quality      | 15      |
+| UI Logic / State Mgmt | 10      |
+| API Integration       | 10      |
+| Error Handling        | 10      |
+| Bonus Features        | 10      |
+| **Total**             | **100** |
 
 If you score **70+**, you are considered “Hire”.  
 If you score **85+**, you are “Strong Hire”.
