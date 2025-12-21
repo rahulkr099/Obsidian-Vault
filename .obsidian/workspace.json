@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/Leaderboard System.md",
+                "file": "Backend Flow/17. Tic Tac Toe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leaderboard System"
+              "title": "17. Tic Tac Toe"
             }
           }
         ]
@@ -236,9 +236,12 @@
   },
   "active": "b484e6bffc3f3e03",
   "lastOpenFiles": [
-    "Full Stack Mini Projects/12 projects to crack any startups.md",
+    "Backend Flow/16. Cab booking system.md",
+    "Backend Flow/15. Rate Limiting Service.md",
+    "Backend Flow/14. Bank transfer with acid transaction.md",
+    "Backend Flow/13. Event Booking Api.md",
     "Backend Flow/Leaderboard System.md",
-    "Backend Flow/Cab booking system.md",
+    "Full Stack Mini Projects/12 projects to crack any startups.md",
     "Backend Flow/12. Polling Voting System.md",
     "Backend Flow/11. Inventory Management Sysatem.md",
     "Backend Flow/10. Library Management System.md",
@@ -261,9 +264,6 @@
     "Frontend Flow/10 day machine coding round.md",
     "Frontend Flow/2. Intermediate Frontend Code/23. Implement a Photo Gallery.md",
     "Frontend Flow/Machine Coding - Basic/2. Parallax Scrolling Effect.md",
-    "Frontend Flow/2. Intermediate Frontend Code/18. keyboard shortucuts.md",
-    "Frontend Flow/2. Intermediate Frontend Code/17. page transitions.md",
-    "Frontend Flow/2. Intermediate Frontend Code/12. Image Gallery.md",
     "Full Stack Mini Projects",
     "Frontend Flow/JS Machine Coding- Intermediate",
     "DSA",
