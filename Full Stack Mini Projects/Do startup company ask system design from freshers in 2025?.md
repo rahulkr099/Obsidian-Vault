@@ -13,7 +13,6 @@ Let’s break it down in simple words.
 ### ✔ YES they ask system design
 
 But only **small functional systems**, like:
-
 - Design a Todo App
 - Design a URL Shortener
 - Design an Auth System
@@ -24,8 +23,8 @@ But only **small functional systems**, like:
 - Design a Search + Pagination API
 
 This is the _exact level you’re practicing_.  
-They mainly want to see:
 
+They mainly want to see:
 - Can you structure a backend well?
 - Can you design APIs cleanly?
 - Can you think in components?
