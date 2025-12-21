@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/11. Drag and Drop Sortable.md",
+                "file": "Frontend Flow/JavaScript/Machine Coding- Intermediate/24. Dynamic Report Card.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Drag and Drop Sortable"
+              "title": "24. Dynamic Report Card"
             }
           }
         ]
@@ -234,21 +234,21 @@
       }
     ]
   },
-  "active": "b484e6bffc3f3e03",
+  "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
-    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/9. Simple Tic Tac Toe.md",
-    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/8. Todo List App.md",
-    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/5. Quiz Application.md",
-    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/4. Create Image Slider.md",
-    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/3. Captcha Generator.md",
-    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/2. Create Stopwatch.md",
-    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/24. Dynamic Report Card.md",
-    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/22. Creating a Simple Image Editor.md",
-    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/20. Quiz App with Timer.md",
-    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/16. Snake Game.md",
-    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/15. Simple Calender.md",
-    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/13. QR Code Scanner.md",
-    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/11. Drag and Drop Sortable.md",
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate/22. Creating a Simple Image Editor.md",
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate/20. Quiz App with Timer.md",
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate/16. Snake Game.md",
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate/15. Simple Calender.md",
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate/13. QR Code Scanner.md",
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate/11. Drag and Drop Sortable.md",
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate/9. Simple Tic Tac Toe.md",
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate/8. Todo List App.md",
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate/5. Quiz Application.md",
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate/4. Create Image Slider.md",
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate/3. Captcha Generator.md",
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate/2. Create Stopwatch.md",
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate/24. Dynamic Report Card.md",
     "Backend Flow/17. Tic Tac Toe.md",
     "Frontend Flow/JavaScript",
     "Backend Flow/16. Cab booking system.md",
@@ -266,7 +266,7 @@
     "Frontend Flow/(React) Roadside Coder",
     "Frontend Flow/(React) Machine Coding - Advanced",
     "Full Stack Mini Projects",
-    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate",
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate",
     "DSA",
     "Backend Flow/StudyNotion/Controller",
     "Frontend Flow/JavaScript/5. JS Projects",
