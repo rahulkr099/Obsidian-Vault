@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/17. Tic Tac Toe.md",
+                "file": "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/8. Todo List App.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. Tic Tac Toe"
+              "title": "8. Todo List App"
             }
           }
         ]
@@ -236,6 +236,13 @@
   },
   "active": "b484e6bffc3f3e03",
   "lastOpenFiles": [
+    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/5. Quiz Application.md",
+    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/8. Todo List App.md",
+    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/4. Create Image Slider.md",
+    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/3. Captcha Generator.md",
+    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate/2. Create Stopwatch.md",
+    "Backend Flow/17. Tic Tac Toe.md",
+    "Frontend Flow/JavaScript",
     "Backend Flow/16. Cab booking system.md",
     "Backend Flow/15. Rate Limiting Service.md",
     "Backend Flow/14. Bank transfer with acid transaction.md",
@@ -250,27 +257,20 @@
     "Backend Flow/6. Expense Tracker API.md",
     "Backend Flow/5. Ecommerce Product API.md",
     "Backend Flow/4. File Uploading using.md",
-    "Frontend Flow/JS Machine Coding- Intermediate/2. Create Stopwatch.md",
     "Full Stack Mini Projects/3 months roadmap.md",
     "Full Stack Mini Projects/Hiring Process.md",
     "Full Stack Mini Projects/Fullstack machine coding evaluation.md",
     "Full Stack Mini Projects/DSA Roadmap for Startups.md",
     "Full Stack Mini Projects/Do startup company ask system design from freshers in 2025?.md",
     "Full Stack Mini Projects/AI integration with MERN projects.md",
-    "Full Stack Mini Projects/10 day mern Roadmap.md",
-    "Frontend Flow/5. JS Projects/Bookmark Manager app.md",
     "Frontend Flow/(React) Roadside Coder",
     "Frontend Flow/(React) Machine Coding - Advanced",
-    "Frontend Flow/10 day machine coding round.md",
-    "Frontend Flow/2. Intermediate Frontend Code/23. Implement a Photo Gallery.md",
-    "Frontend Flow/Machine Coding - Basic/2. Parallax Scrolling Effect.md",
     "Full Stack Mini Projects",
-    "Frontend Flow/JS Machine Coding- Intermediate",
+    "Frontend Flow/JavaScript/JS Machine Coding- Intermediate",
     "DSA",
     "Backend Flow/StudyNotion/Controller",
-    "Frontend Flow/5. JS Projects",
+    "Frontend Flow/JavaScript/5. JS Projects",
     "Backend Flow/StudyNotion",
-    "Backend Flow/Shortly app",
-    "Frontend Pseudo Code/3. Expert Frontend"
+    "Backend Flow/Shortly app"
   ]
 }
