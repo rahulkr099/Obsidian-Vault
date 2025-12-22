@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/3. Blog App/3. Blog App.md",
+                "file": "Backend Flow/3. Blog App/app.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Blog App"
+              "title": "app.js"
             }
           }
         ]
@@ -211,10 +211,14 @@
                 "id": "775e2334433ca3c8",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "Backend Flow/3. Blog App/3. Blog App.md",
+                    "mode": "source",
+                    "source": false
+                  },
                   "icon": "lucide-file",
-                  "title": "New tab"
+                  "title": "3. Blog App"
                 }
               }
             ]
@@ -230,10 +234,16 @@
       }
     ]
   },
-  "active": "775e2334433ca3c8",
+  "active": "1083ab2e60408317",
   "lastOpenFiles": [
-    "Backend Flow/2. Notes App/Intro.md",
     "Backend Flow/3. Blog App/3. Blog App.md",
+    "Backend Flow/3. Blog App/app.js.md",
+    "Backend Flow/3. Blog App/index.js.md",
+    "Backend Flow/3. Blog App/docker-compose.yml.md",
+    "Backend Flow/3. Blog App/Dockerfile.md",
+    "Backend Flow/3. Blog App/env.example.md",
+    "Backend Flow/3. Blog App/package.json.md",
+    "Backend Flow/2. Notes App/Intro.md",
     "Backend Flow/2. Notes App/index.js.md",
     "Backend Flow/2. Notes App/app.js.md",
     "Backend Flow/2. Notes App/validation.middleware.js.md",
@@ -255,12 +265,6 @@
     "Backend Flow/1. Todo App/server.js.md",
     "Backend Flow/1. Todo App/errorHandler.js.md",
     "Backend Flow/1. Todo App/createTodo.md",
-    "Backend Flow/1. Todo App/app.js.md",
-    "Backend Flow/1. Todo App/activity.model.js.md",
-    "Backend Flow/1. Todo App/Update Todo.md",
-    "Backend Flow/1. Todo App/Todo Statistics.md",
-    "Backend Flow/1. Todo App/Soft delete Todo.md",
-    "Backend Flow/1. Todo App/Restore Soft deleted Todo.md",
     "Backend Flow/1. Todo App",
     "Backend Flow/13. Inventory Management System",
     "Backend Flow/Untitled Folder",
