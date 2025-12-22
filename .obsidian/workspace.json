@@ -6,7 +6,6 @@
       {
         "id": "eecbd585581f161f",
         "type": "tabs",
-        "dimension": 22.22222222222222,
         "children": [
           {
             "id": "4a9bcb5fe1f8dfa1",
@@ -14,56 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/Shortly app/user.routes.js.md",
+                "file": "Backend Flow/StudyNotion/1. index.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "user.routes.js"
-            }
-          }
-        ]
-      },
-      {
-        "id": "11b369eb8032f735",
-        "type": "tabs",
-        "dimension": 77.77777777777779,
-        "children": [
-          {
-            "id": "58a4d00bd65bf6f7",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Backend Flow/Shortly app/user.routes.js.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1.97952182952183,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.5,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of user.routes.js"
+              "title": "1. index.js"
             }
           }
         ]
@@ -123,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -241,12 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58a4d00bd65bf6f7",
+  "active": "4a9bcb5fe1f8dfa1",
   "lastOpenFiles": [
+    "Backend Flow/Shortly app/user.routes.js.md",
     "Backend Flow/Shortly app/url.routes.js.md",
     "Backend Flow/Shortly app/url.controller.js.md",
     "Backend Flow/Shortly app/user.controller.js.md",
-    "Backend Flow/Shortly app/user.routes.js.md",
     "Backend Flow/Shortly app/user.validation.js.md",
     "Backend Flow/Shortly app/middleware.md",
     "Backend Flow/Shortly app/googleLogin.service.md",
