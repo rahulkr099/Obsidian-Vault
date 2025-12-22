@@ -1,3 +1,15 @@
+```text
+## Endpoints
+
+- `POST /todos` - Create todo
+- `GET /todos` - List todos (filters: status, tag, q, page, limit, sortBy)
+- `GET /todos/:id` - Get todo
+- `PATCH /todos/:id` - Update todo (partial)
+- `PATCH /todos/:id/complete` - Mark complete
+- `DELETE /todos/:id` - Soft delete
+- `POST /todos/:id/restore` - Restore soft-deleted todo
+- `GET /todos/stats` - Simple stats aggregation
+```
 # src/routes/todo.routes.js
 ```bash
 Purpose: CRUD routes of todo

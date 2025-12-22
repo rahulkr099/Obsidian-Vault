@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/TodoApp/Update Todo.md",
+                "file": "Backend Flow/TodoApp/Flow of Backend Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Update Todo"
+              "title": "Flow of Backend Data"
             }
           }
         ]
@@ -213,12 +213,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Backend Flow/TodoApp/1. TodoApp.md",
+                    "file": "Backend Flow/TodoApp/Flow of Backend Data.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "1. TodoApp"
+                  "title": "Flow of Backend Data"
                 }
               }
             ]
@@ -236,20 +236,25 @@
   },
   "active": "819da3fe26d4c8bf",
   "lastOpenFiles": [
-    "Backend Flow/TodoApp/List Todo.md",
+    "Backend Flow/TodoApp/todo.routes.js.md",
+    "Backend Flow/TodoApp/Flow of Backend Data.md",
+    "Backend Flow/TodoApp/validate.js.md",
+    "Backend Flow/TodoApp/Untitled.md",
+    "Backend Flow/TodoApp/errorHandler.js.md",
+    "Backend Flow/TodoApp/activity.model.js.md",
+    "Backend Flow/TodoApp/todo.model.js.md",
+    "Backend Flow/TodoApp/Todo Statistics.md",
+    "Backend Flow/TodoApp/Restore Soft deleted Todo.md",
+    "Backend Flow/TodoApp/Soft delete Todo.md",
+    "Backend Flow/TodoApp/Mark Todo as Completed.md",
     "Backend Flow/TodoApp/Update Todo.md",
-    "Backend Flow/TodoApp/1. TodoApp.md",
+    "Backend Flow/TodoApp/List Todo.md",
     "Backend Flow/TodoApp/Get a Single Todo.md",
     "Backend Flow/TodoApp/createTodo.md",
     "Backend Flow/TodoApp/todo.controller.js.md",
-    "Backend Flow/TodoApp/todo.routes.js.md",
     "Backend Flow/TodoApp/server.js.md",
     "Backend Flow/TodoApp/app.js.md",
     "Backend Flow/TodoApp/Dockerfile.md",
-    "Backend Flow/TodoApp/activity.model.js.md",
-    "Backend Flow/TodoApp/errorHandler.js.md",
-    "Backend Flow/TodoApp/validate.js.md",
-    "Backend Flow/TodoApp/todo.model.js.md",
     "Backend Flow/TodoApp",
     "Backend Flow/Shortly app/index.js.md",
     "Full Stack Mini Projects/12 projects to crack any startups.md",
@@ -258,11 +263,6 @@
     "Frontend Flow/JavaScript/Machine Coding- Intermediate/20. Quiz App with Timer.md",
     "Frontend Flow/JavaScript/Machine Coding- Intermediate/16. Snake Game.md",
     "Frontend Flow/JavaScript/Machine Coding- Intermediate/15. Simple Calender.md",
-    "Frontend Flow/JavaScript/Machine Coding- Intermediate/13. QR Code Scanner.md",
-    "Frontend Flow/JavaScript/Machine Coding- Intermediate/11. Drag and Drop Sortable.md",
-    "Frontend Flow/JavaScript/Machine Coding- Intermediate/9. Simple Tic Tac Toe.md",
-    "Frontend Flow/JavaScript/Machine Coding- Intermediate/8. Todo List App.md",
-    "Frontend Flow/JavaScript/Machine Coding- Intermediate/5. Quiz Application.md",
     "Frontend Flow/JavaScript",
     "Frontend Flow/(React) Roadside Coder",
     "Frontend Flow/(React) Machine Coding - Advanced",
