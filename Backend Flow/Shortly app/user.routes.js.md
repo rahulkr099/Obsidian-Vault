@@ -54,7 +54,7 @@ END
 
 ON GET "/google/auth"
     START Google Login
-END
+ENDurl & 
 
 ON POST "/google/auth/status"
     VERIFY Google Token
