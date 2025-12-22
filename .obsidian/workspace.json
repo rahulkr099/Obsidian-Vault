@@ -236,6 +236,10 @@
   },
   "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
+    "Backend Flow/StudyNotion/controllers/Category Controller/addCourseToCategory.md",
+    "Backend Flow/StudyNotion/controllers/Category Controller/categoryPageDetails.md",
+    "Backend Flow/StudyNotion/controllers/Category Controller/showAllCategories.md",
+    "Backend Flow/StudyNotion/controllers/Category Controller/createCategory.md",
     "Backend Flow/StudyNotion/controllers/Category Controller",
     "Backend Flow/StudyNotion/controllers/Untitled Folder",
     "Backend Flow/StudyNotion/controllers/Auth Controller/Change Password.md",
@@ -261,16 +265,12 @@
     "Backend Flow/StudyNotion/controllers/verifyPayment.md",
     "Backend Flow/StudyNotion/controllers/capturePayment.md",
     "Backend Flow/StudyNotion/controllers/deleteCourse.md",
-    "Backend Flow/StudyNotion/controllers/Course.controller.js.md",
-    "Backend Flow/StudyNotion/controllers/getInstructorCourses.md",
-    "Backend Flow/StudyNotion/controllers/getFullCourseDetails.md",
     "Backend Flow/StudyNotion/routes",
     "Backend Flow/StudyNotion/Untitled Folder",
     "Backend Flow/StudyNotion/controllers",
     "Backend Flow/StudyNotion/models",
     "Backend Flow/Auth Advanced",
     "Backend Flow/TodoApp",
-    "Frontend Flow/JavaScript",
-    "Frontend Flow/(React) Roadside Coder"
+    "Frontend Flow/JavaScript"
   ]
 }
