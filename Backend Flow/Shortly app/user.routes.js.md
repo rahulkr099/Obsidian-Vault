@@ -1,7 +1,9 @@
 ### 🔹 `user.routes.js` — PSEUDOCODE
 [[validation.middleware.js]]
 [[avatar.contorller.js]]
-
+[[user.validation.js]]
+[[validation.middleware.js]]
+[[auth.middleware.js]]
 [[authStatus.service]]
 [[refreshAccessToken]]
 [[resetPassword.services]]
