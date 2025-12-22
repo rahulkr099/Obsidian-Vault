@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/StudyNotion/routes.md",
+                "file": "Backend Flow/StudyNotion/model.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "routes"
+              "title": "model.js"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "08f20dea4edf3822",
   "lastOpenFiles": [
-    "Backend Flow/StudyNotion/Contact.routes.js.md",
     "Backend Flow/StudyNotion/routes.md",
+    "Backend Flow/StudyNotion/Contact.routes.js.md",
     "Backend Flow/StudyNotion/Payments.routes.js.md",
     "Backend Flow/StudyNotion/Course.routes.js.md",
     "Backend Flow/StudyNotion/Profile.routes.js.md",
