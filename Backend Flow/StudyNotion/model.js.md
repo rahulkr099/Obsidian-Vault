@@ -22,6 +22,7 @@ User signs up → OTP verification
 ---
 
 ## 📌 1. `User.js` – User Account
+[[Auth.js]]
 
 ```
 START User Module
