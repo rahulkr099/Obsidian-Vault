@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/3. Blog App/app.js.md",
+                "file": "Backend Flow/3. Blog App/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "app.js"
+              "title": "Untitled"
             }
           }
         ]
@@ -236,7 +236,20 @@
   },
   "active": "1083ab2e60408317",
   "lastOpenFiles": [
+    "Backend Flow/3. Blog App/Comment.routes.js.md",
+    "Backend Flow/3. Blog App/Untitled.md",
     "Backend Flow/3. Blog App/3. Blog App.md",
+    "Backend Flow/3. Blog App/postController.js.md",
+    "Backend Flow/3. Blog App/posts.routes.js.md",
+    "Backend Flow/3. Blog App/authController.js.md",
+    "Backend Flow/3. Blog App/Auth.routes.js.md",
+    "Backend Flow/3. Blog App/errorHandler.middleware.js.md",
+    "Backend Flow/3. Blog App/auth.middleware.js.md",
+    "Backend Flow/3. Blog App/utils>paginate.js.md",
+    "Backend Flow/3. Blog App/Comment.model.js.md",
+    "Backend Flow/3. Blog App/Post.model.js.md",
+    "Backend Flow/3. Blog App/user.model.js.md",
+    "Backend Flow/3. Blog App/config>db.js.md",
     "Backend Flow/3. Blog App/app.js.md",
     "Backend Flow/3. Blog App/index.js.md",
     "Backend Flow/3. Blog App/docker-compose.yml.md",
@@ -249,22 +262,9 @@
     "Backend Flow/2. Notes App/validation.middleware.js.md",
     "Backend Flow/2. Notes App/routes.md",
     "Backend Flow/2. Notes App/In Mongo DB/note.controller.js.md",
-    "Backend Flow/2. Notes App/In Memory/note.controller.js.md",
-    "Backend Flow/2. Notes App/In Mongo DB/note.service.js.md",
-    "Backend Flow/2. Notes App/In Memory/note.service.js.md",
-    "Backend Flow/2. Notes App/In Mongo DB/note.model.js.md",
-    "Backend Flow/2. Notes App/In Memory/note.model.js.md",
     "Backend Flow/2. Notes App/In Mongo DB",
     "Backend Flow/2. Notes App/In Memory",
-    "Backend Flow/2. NotesApp/2. NotesApp.md",
     "Backend Flow/2. Notes App",
-    "Backend Flow/1. Todo App/validate.js.md",
-    "Backend Flow/1. Todo App/todo.routes.js.md",
-    "Backend Flow/1. Todo App/todo.model.js.md",
-    "Backend Flow/1. Todo App/todo.controller.js.md",
-    "Backend Flow/1. Todo App/server.js.md",
-    "Backend Flow/1. Todo App/errorHandler.js.md",
-    "Backend Flow/1. Todo App/createTodo.md",
     "Backend Flow/1. Todo App",
     "Backend Flow/13. Inventory Management System",
     "Backend Flow/Untitled Folder",
