@@ -9,15 +9,9 @@
 - `DELETE /todos/:id` - Soft delete
 - `POST /todos/:id/restore` - Restore soft-deleted todo
 - `GET /todos/stats` - Simple stats aggregation
+
 ```
-[[createTodo]]
-[[List Todo]]
-[[Todo Statistics]]
-[[Get a Single Todo]]
-[[Update Todo]]
-[[Mark Todo as Completed]]
-[[Soft delete Todo]]
-[[Restore Soft deleted Todo]]
+[[todo.controller.js]]
 [[validate.js]]
 
 # src/routes/todo.routes.js
