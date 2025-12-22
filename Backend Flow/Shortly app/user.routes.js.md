@@ -1,7 +1,7 @@
 ### 🔹 `user.routes.js` — PSEUDOCODE
 
 [[avatar.contorller.js]]
-[[validate.js]]
+[[user.validation.js]]
 [[middleware]]
 [[services]]
 [[user.controller.js]]

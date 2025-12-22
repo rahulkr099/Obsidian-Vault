@@ -6,7 +6,7 @@
       {
         "id": "bca806ee6b4dc563",
         "type": "tabs",
-        "dimension": 77.01072386058982,
+        "dimension": 68.63270777479893,
         "children": [
           {
             "id": "0426c70a6b4a5f80",
@@ -27,7 +27,7 @@
       {
         "id": "0418a53a518f9a1a",
         "type": "tabs",
-        "dimension": 22.989276139410187,
+        "dimension": 31.36729222520107,
         "children": [
           {
             "id": "03ebeda5d61721c0",
@@ -48,11 +48,11 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
+                  "collapse-display": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "nodeSizeMultiplier": 1.4497920997921,
+                  "lineSizeMultiplier": 5,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
@@ -240,11 +240,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0426c70a6b4a5f80",
+  "active": "03ebeda5d61721c0",
   "lastOpenFiles": [
-    "Backend Flow/Shortly app/services.md",
-    "Backend Flow/Shortly app/user.routes.js.md",
     "Backend Flow/Shortly app/validations.md",
+    "Backend Flow/Shortly app/user.routes.js.md",
+    "Backend Flow/TodoApp/validate.js.md",
+    "Backend Flow/Shortly app/services.md",
     "Backend Flow/Shortly app/user.controller.js.md",
     "Backend Flow/Shortly app/middleware.md",
     "Backend Flow/Shortly app/user.validation.js.md",
@@ -267,7 +268,6 @@
     "Backend Flow/Shortly app/url.model.js.md",
     "Backend Flow/Shortly app/authStatus.service.md",
     "Backend Flow/Shortly app/avatar.contorller.js.md",
-    "Backend Flow/Shortly app/refreshAccessToken.md",
     "Backend Flow/TodoApp",
     "Frontend Flow/JavaScript",
     "Frontend Flow/(React) Roadside Coder",
