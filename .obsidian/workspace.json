@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "handleGetAnalytics.md",
+                "file": "Backend Flow/Shortly app/login.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "handleGetAnalytics"
+              "title": "login"
             }
           }
         ]
@@ -197,10 +197,19 @@
   },
   "active": "0426c70a6b4a5f80",
   "lastOpenFiles": [
+    "Backend Flow/Shortly app/signup.md",
+    "Backend Flow/Shortly app/login.md",
+    "Backend Flow/Shortly app/user.controller.js.md",
+    "Backend Flow/Shortly app/user.model.js.md",
+    "Backend Flow/Shortly app/url.controller.js.md",
+    "Backend Flow/Shortly app/url.routes.js.md",
+    "Backend Flow/Shortly app/url.model.js.md",
+    "handleGetAnalytics.md",
+    "Backend Flow/Shortly app/handleShortenURL.md",
+    "Backend Flow/Shortly app/handleRedirect.md",
+    "Backend Flow/Shortly app/handleGetAnalytics.md",
     "handleRedirect.md",
     "handleShortenURL.md",
-    "handleGetAnalytics.md",
-    "Backend Flow/Shortly app/url.controller.js.md",
     "Backend Flow/Shortly app/handleUserAnalytics.md",
     "Backend Flow/Shortly app/index.js.md",
     "Backend Flow/Shortly app/googleLogin.service.md",
@@ -208,21 +217,12 @@
     "Backend Flow/Shortly app/qrCode.services.js.md",
     "Backend Flow/Shortly app/resetPassword.services.md",
     "Backend Flow/Shortly app/user.routes.js.md",
-    "Backend Flow/Shortly app/user.controller.js.md",
-    "Backend Flow/Shortly app/user.model.js.md",
-    "Backend Flow/Shortly app/url.model.js.md",
     "Backend Flow/Shortly app/auth.middleware.js.md",
     "Backend Flow/Shortly app/validation.middleware.js.md",
-    "Backend Flow/Shortly app/url.routes.js.md",
     "Backend Flow/TodoApp/server.js.md",
     "Backend Flow/TodoApp/todo.controller.js.md",
     "Backend Flow/TodoApp/todo.routes.js.md",
     "Backend Flow/TodoApp/app.js.md",
-    "Backend Flow/TodoApp/activity.model.js.md",
-    "Backend Flow/TodoApp/errorHandler.js.md",
-    "Backend Flow/TodoApp/Dockerfile.md",
-    "Backend Flow/TodoApp/Flow of Backend Data.md",
-    "Backend Flow/TodoApp/validate.js.md",
     "Backend Flow/TodoApp",
     "Frontend Flow/JavaScript",
     "Frontend Flow/(React) Roadside Coder",
