@@ -13,7 +13,9 @@ No shortcuts. No magic jumps.
 [[Section.model.js]]
 [[Subsection.model.js]]
 [[CourseProgress.model.js]]
-
+[[createCourse]]
+[[deleteCourse]]
+[[editCours]]
 
 
 ---

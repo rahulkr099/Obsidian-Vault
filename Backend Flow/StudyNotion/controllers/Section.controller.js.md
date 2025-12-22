@@ -7,6 +7,10 @@ I’ll go **function by function**, explaining **every step and intention**.
 ---
 
 # 📁 `sectionController.js` — DETAILED PSEUDOCODE
+[[Section.model.js]]
+[[Course.model.js]]
+[[Subsection.model.js]]
+
 
 ---
 
