@@ -1,5 +1,7 @@
 ## 📌 1. `User.js` – User Authentication & Account
-
+[[Auth.controller.js]]
+[[ResetPassword.controller.js]]
+[[Backend Flow/StudyNotion/auth.middleware.js|auth.middleware.js]]
 ```
 START User Module
 

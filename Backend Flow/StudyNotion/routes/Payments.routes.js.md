@@ -1,5 +1,5 @@
 ## 📌 4. `Payments.js` – Payment Processing
-
+[[Payments.controller.js]]
 ```
 START Payments Module
 

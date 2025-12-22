@@ -1,5 +1,5 @@
 ## 📌 3. `Course.js` – Courses Handling
-
+[[Course.controller.js]]
 ```
 START Course Module
 
