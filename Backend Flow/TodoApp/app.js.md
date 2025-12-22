@@ -15,7 +15,7 @@ Purpose: Express setup for initialization of server
 	Parse cookies
 	Parse URL-encoded payloads
 
-4.REGISTER "/todos" routes
+4.REGISTER "/todos" routes [[todo.routes.js]]
 
 5.CREATE "/healthz" route
     WHEN route is called
