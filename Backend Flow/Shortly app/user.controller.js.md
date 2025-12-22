@@ -4,8 +4,8 @@ No notes. No explanation. Just **pure pseudocode**.
 
 ---
 [[Backend Flow/Shortly app/user.model.js]]
-[[login]]
-[[signup]]
+[[Backend Flow/Shortly app/login]]
+[[Backend Flow/Shortly app/signup]]
 [[logout]]
 [[refreshAccessToken]]
 ### 🔹 `user.controller.js` — PSEUDOCODE
