@@ -22,49 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "1b1ab5b31f9ed88b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "91717957ba951fa4",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Backend Flow/StudyNotion/model.js.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of model.js"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -279,8 +236,9 @@
   },
   "active": "177647c2817800e0",
   "lastOpenFiles": [
-    "Backend Flow/StudyNotion/Controller/Auth.js.md",
+    "Backend Flow/StudyNotion/3. routes.js.md",
     "Backend Flow/StudyNotion/model.js.md",
+    "Backend Flow/StudyNotion/Controller/Auth.js.md",
     "Backend Flow/StudyNotion/1. index.js.md",
     "Backend Flow/Shortly app/user.routes.js.md",
     "Backend Flow/Shortly app/url.routes.js.md",
@@ -305,7 +263,6 @@
     "Backend Flow/Shortly app/handleShortenURL.md",
     "Backend Flow/Shortly app/auth.middleware.js.md",
     "Backend Flow/Shortly app/handleRedirect.md",
-    "Backend Flow/Shortly app/handleUserAnalytics.md",
     "Backend Flow/TodoApp",
     "Frontend Flow/JavaScript",
     "Frontend Flow/(React) Roadside Coder",
