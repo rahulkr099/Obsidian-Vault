@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/1. TodoApp/app.js.md",
+                "file": "Backend Flow/2. NotesApp/2. NotesApp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "app.js"
+              "title": "2. NotesApp"
             }
           }
         ]
@@ -197,11 +197,24 @@
   },
   "active": "9bbb774483e10a24",
   "lastOpenFiles": [
+    "Backend Flow/13. Inventory Management System/11. Inventory Management Sysatem.md",
+    "Backend Flow/13. Inventory Management System",
+    "Backend Flow/Untitled Folder",
+    "Backend Flow/12. Library Management System/10. Library Management System.md",
+    "Backend Flow/12. Library Management System",
+    "Backend Flow/11. Chat Messaging System/8. chat messaging system.md",
+    "Backend Flow/11. Chat Messaging System",
+    "Backend Flow/10. Shopping Cart API/7. Shopping Cart API.md",
+    "Backend Flow/10. Shopping Cart API",
+    "Backend Flow/9. Expense Tracker API/6. Expense Tracker API.md",
+    "Backend Flow/9. Expense Tracker API",
+    "Backend Flow/8. Ecommerce Product API/5. Ecommerce Product API.md",
+    "Backend Flow/8. Ecommerce Product API",
+    "Backend Flow/1. TodoApp/app.js.md",
     "Backend Flow/1. TodoApp/activity.model.js.md",
     "Backend Flow/4. File Uploading",
     "Backend Flow/3. Blog App",
     "Untitled",
-    "Backend Flow/2. NotesApp",
     "Backend Flow/7. StudyNotion/routes/Contact.routes.js.md",
     "Backend Flow/7. StudyNotion/model.md",
     "Backend Flow/7. StudyNotion/controllers/Subsection.controller.js.md",
@@ -219,19 +232,6 @@
     "Backend Flow/7. StudyNotion/models/Subsection.model.js.md",
     "Backend Flow/7. StudyNotion/models/Category.model.js.md",
     "Backend Flow/7. StudyNotion/routes/User.routes.js.md",
-    "Backend Flow/7. StudyNotion/index.js.md",
-    "Backend Flow/7. StudyNotion/routes/Profile.routes.js.md",
-    "Backend Flow/7. StudyNotion/routes/Payments.routes.js.md",
-    "Backend Flow/7. StudyNotion/routes/Course.routes.js.md",
-    "Backend Flow/7. StudyNotion/auth.middleware.js.md",
-    "Backend Flow/7. StudyNotion/routes.md",
-    "Backend Flow/7. StudyNotion/controllers/Subsection Controller/deleteSubsection.md",
-    "Backend Flow/7. StudyNotion/controllers/Subsection Controller/updateSubsection.md",
-    "Backend Flow/7. StudyNotion/controllers/Subsection Controller",
-    "Backend Flow/StudyNotion/controllers/Untitled Folder",
-    "Backend Flow/7. StudyNotion/controllers/Section Controller",
-    "Backend Flow/7. StudyNotion/controllers/ResetPassword Controller",
-    "Backend Flow/7. StudyNotion/controllers/RatingAndReview Controller",
-    "Backend Flow/7. StudyNotion/controllers/Profile Controller"
+    "Backend Flow/7. StudyNotion/index.js.md"
   ]
 }
