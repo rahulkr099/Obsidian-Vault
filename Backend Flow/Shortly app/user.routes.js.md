@@ -1,5 +1,4 @@
 ### 🔹 `user.routes.js` — PSEUDOCODE
-
 [[avatar.contorller.js]]
 [[user.validation.js]]
 [[middleware]]
