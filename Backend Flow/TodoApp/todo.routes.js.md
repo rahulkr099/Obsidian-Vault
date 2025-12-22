@@ -24,7 +24,7 @@ Purpose: CRUD routes of todo
 
 ====== CRUD routes =======
 3.DEFINE route: POST "/"
-    VALIDATE create request
+    VALIDATE create request 
     CALL controller to create a todo
 
 4.DEFINE route: GET "/"
