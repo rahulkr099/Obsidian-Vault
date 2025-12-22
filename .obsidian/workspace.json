@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/StudyNotion/Course.routes.js.md",
+                "file": "Backend Flow/StudyNotion/routes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Course.routes.js"
+              "title": "routes"
             }
           }
         ]
@@ -195,50 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "c009d49b57d5c6d1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9b0133735186c45f",
-        "type": "window",
-        "children": [
-          {
-            "id": "0dab293cd0b53511",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "177647c2817800e0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Backend Flow/StudyNotion/3. routes.js.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "3. routes.js"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1536,
-        "y": 0,
-        "width": 1088,
-        "height": 308,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "177647c2817800e0",
+  "active": "08f20dea4edf3822",
   "lastOpenFiles": [
+    "Backend Flow/StudyNotion/Contact.routes.js.md",
+    "Backend Flow/StudyNotion/routes.md",
+    "Backend Flow/StudyNotion/Payments.routes.js.md",
     "Backend Flow/StudyNotion/Course.routes.js.md",
     "Backend Flow/StudyNotion/Profile.routes.js.md",
-    "Backend Flow/StudyNotion/3. routes.js.md",
     "Backend Flow/StudyNotion/User.routes.js.md",
     "Backend Flow/StudyNotion/Category.model.js.md",
     "Backend Flow/StudyNotion/Section.model.js.md",
@@ -260,8 +223,6 @@
     "Backend Flow/Shortly app/user.validation.js.md",
     "Backend Flow/Shortly app/middleware.md",
     "Backend Flow/Shortly app/googleLogin.service.md",
-    "Backend Flow/Shortly app/url.model.js.md",
-    "Backend Flow/Shortly app/index.js.md",
     "Backend Flow/Auth Advanced",
     "Backend Flow/TodoApp",
     "Frontend Flow/JavaScript",
