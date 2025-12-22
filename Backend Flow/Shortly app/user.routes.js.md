@@ -1,13 +1,13 @@
 ### 🔹 `user.routes.js` — PSEUDOCODE
 [[validation.middleware.js]]
 [[avatar.contorller.js]]
-[[logout]]
+
 [[authStatus.service]]
 [[refreshAccessToken]]
 [[resetPassword.services]]
 [[googleLogin.service]]
 [[googleAuth.services.js]]
-
+[[user.controller.js]]
 ```text
 IMPORT Router from Express
 IMPORT Auth Middleware

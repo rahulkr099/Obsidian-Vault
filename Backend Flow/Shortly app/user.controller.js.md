@@ -3,7 +3,10 @@ Here is **ONE clean pseudocode snippet**, same compact style as before.
 No notes. No explanation. Just **pure pseudocode**.
 
 ---
-
+[[login]]
+[[signup]]
+[[logout]]
+[[refreshAccessToken]]
 ### 🔹 `user.controller.js` — PSEUDOCODE
 
 ```text

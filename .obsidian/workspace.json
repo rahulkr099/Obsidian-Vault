@@ -6,7 +6,7 @@
       {
         "id": "bca806ee6b4dc563",
         "type": "tabs",
-        "dimension": 55.01700680272109,
+        "dimension": 34.24932975871314,
         "children": [
           {
             "id": "0426c70a6b4a5f80",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/Shortly app/url.controller.js.md",
+                "file": "Backend Flow/Shortly app/user.controller.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "url.controller.js"
+              "title": "user.controller.js"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "0418a53a518f9a1a",
         "type": "tabs",
-        "dimension": 44.982993197278915,
+        "dimension": 65.75067024128687,
         "children": [
           {
             "id": "03ebeda5d61721c0",
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backend Flow/Shortly app/url.controller.js.md",
+                "file": "Backend Flow/Shortly app/user.controller.js.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of url.controller.js"
+              "title": "Graph of user.controller.js"
             }
           }
         ]
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -240,11 +241,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0426c70a6b4a5f80",
+  "active": "03ebeda5d61721c0",
   "lastOpenFiles": [
-    "Backend Flow/Shortly app/url.routes.js.md",
-    "Backend Flow/Shortly app/url.controller.js.md",
     "Backend Flow/Shortly app/user.routes.js.md",
+    "Backend Flow/Shortly app/url.controller.js.md",
+    "Backend Flow/Shortly app/url.routes.js.md",
     "Backend Flow/Shortly app/googleAuth.services.js.md",
     "Backend Flow/Shortly app/refreshGoogleToken.md",
     "Backend Flow/Shortly app/authenticateGoogleRequest.md",
