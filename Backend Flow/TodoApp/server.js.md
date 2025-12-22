@@ -1,18 +1,17 @@
+
 # server.js
 ```bash
 Purpose: database connection and start the server
 
 1.Require files and libraries
-	IMPORT mongoose library
+	IMPORT mongoose library 
 	IMPORT dotenv library
-	IMPORT Express app
+	IMPORT Express app [[app.js]]
 
 2.LOAD environment variables
 	dotenv configuration
 	SET port number
 	SET MongoDB connection URL
-
-
 
 3.DEFINE async function startServer
     TRY 
