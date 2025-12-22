@@ -6,7 +6,7 @@
       {
         "id": "eecbd585581f161f",
         "type": "tabs",
-        "dimension": 29.022988505747126,
+        "dimension": 22.22222222222222,
         "children": [
           {
             "id": "4a9bcb5fe1f8dfa1",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/Shortly app/url.model.js.md",
+                "file": "Backend Flow/Shortly app/user.routes.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "url.model.js"
+              "title": "user.routes.js"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "11b369eb8032f735",
         "type": "tabs",
-        "dimension": 70.97701149425288,
+        "dimension": 77.77777777777779,
         "children": [
           {
             "id": "58a4d00bd65bf6f7",
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backend Flow/Shortly app/url.model.js.md",
+                "file": "Backend Flow/Shortly app/user.routes.js.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -58,12 +58,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 1.5,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of url.model.js"
+              "title": "Graph of user.routes.js"
             }
           }
         ]
@@ -123,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -241,21 +241,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a9bcb5fe1f8dfa1",
+  "active": "58a4d00bd65bf6f7",
   "lastOpenFiles": [
+    "Backend Flow/Shortly app/url.routes.js.md",
+    "Backend Flow/Shortly app/url.controller.js.md",
+    "Backend Flow/Shortly app/user.controller.js.md",
+    "Backend Flow/Shortly app/user.routes.js.md",
+    "Backend Flow/Shortly app/user.validation.js.md",
+    "Backend Flow/Shortly app/middleware.md",
+    "Backend Flow/Shortly app/googleLogin.service.md",
+    "Backend Flow/Shortly app/url.model.js.md",
     "Backend Flow/Shortly app/index.js.md",
     "Backend Flow/StudyNotion/1. index.js.md",
     "Backend Flow/Auth Advanced",
-    "Backend Flow/Shortly app/url.controller.js.md",
-    "Backend Flow/Shortly app/url.routes.js.md",
-    "Backend Flow/Shortly app/user.controller.js.md",
     "Backend Flow/Shortly app/user.model.js.md",
-    "Backend Flow/Shortly app/user.routes.js.md",
     "Backend Flow/Shortly app/validations.md",
     "Backend Flow/TodoApp/validate.js.md",
     "Backend Flow/Shortly app/services.md",
-    "Backend Flow/Shortly app/middleware.md",
-    "Backend Flow/Shortly app/user.validation.js.md",
     "Backend Flow/Shortly app/validation.middleware.js.md",
     "Backend Flow/Shortly app/googleAuth.services.js.md",
     "Backend Flow/Shortly app/refreshGoogleToken.md",
@@ -267,8 +269,6 @@
     "Backend Flow/Shortly app/handleRedirect.md",
     "Backend Flow/Shortly app/handleUserAnalytics.md",
     "Backend Flow/Shortly app/resetPassword.services.md",
-    "Backend Flow/Shortly app/googleLogin.service.md",
-    "Backend Flow/Shortly app/url.model.js.md",
     "Backend Flow/Shortly app/authStatus.service.md",
     "Backend Flow/TodoApp",
     "Frontend Flow/JavaScript",

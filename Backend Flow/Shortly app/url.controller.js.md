@@ -6,7 +6,6 @@ No explanations. No extra text.
 [[url.model.js]]
 [[handleShortenURL]]
 [[handleRedirect]]
-[[auth.middleware.js]]
 [[handleGetAnalytics]]
 [[handleUserAnalytics]]
 ### 🔹 `url.controller.js` — PSEUDOCODE
