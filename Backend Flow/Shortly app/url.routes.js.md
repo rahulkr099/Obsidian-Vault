@@ -1,10 +1,6 @@
 ### 🔹 `url.routes.js` — PSEUDOCODE
-[[handleShortenURL]]
-[[handleRedirect]]
-[[auth.middleware.js]]
-[[handleGetAnalytics]]
-[[handleUserAnalytics]]
 
+[[url.controller.js]]
 ```text
 IMPORT Router from Express
 IMPORT Auth Middleware

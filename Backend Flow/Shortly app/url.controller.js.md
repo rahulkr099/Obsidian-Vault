@@ -3,7 +3,11 @@ Here is **ONE clean pseudocode snippet**, same compact style as before.
 No explanations. No extra text.
 
 ---
-
+[[handleShortenURL]]
+[[handleRedirect]]
+[[auth.middleware.js]]
+[[handleGetAnalytics]]
+[[handleUserAnalytics]]
 ### 🔹 `url.controller.js` — PSEUDOCODE
 
 ```text
