@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/StudyNotion/controllers/Auth.controller.js.md",
+                "file": "Backend Flow/StudyNotion/controllers/courseProgress.controller.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auth.controller.js"
+              "title": "courseProgress.controller.js"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backend Flow/StudyNotion/controllers/Auth.controller.js.md",
+                "file": "Backend Flow/StudyNotion/controllers/courseProgress.controller.js.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -61,7 +61,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Auth.controller.js"
+              "title": "Graph of courseProgress.controller.js"
             }
           }
         ]
@@ -279,6 +279,11 @@
   },
   "active": "cdaee0860a1ebb8e",
   "lastOpenFiles": [
+    "Backend Flow/StudyNotion/controllers/Course.controller.js.md",
+    "Backend Flow/StudyNotion/controllers/ContactUs.controller.js.md",
+    "Backend Flow/StudyNotion/controllers/Category.controller.js.md",
+    "Backend Flow/StudyNotion/models/Category.model.js.md",
+    "Backend Flow/StudyNotion/controllers/Auth.controller.js.md",
     "Backend Flow/StudyNotion/routes/User.routes.js.md",
     "Backend Flow/StudyNotion/index.js.md",
     "Backend Flow/StudyNotion/routes/Profile.routes.js.md",
@@ -300,16 +305,11 @@
     "Backend Flow/StudyNotion/controllers/ResetPassword Controller/resetPassword.md",
     "Backend Flow/StudyNotion/controllers/ResetPassword.controller.js.md",
     "Backend Flow/StudyNotion/controllers/ResetPassword Controller/resetPasswordToken.md",
-    "Backend Flow/StudyNotion/controllers/getAllRating.md",
     "Backend Flow/StudyNotion/controllers/Subsection Controller",
     "Backend Flow/StudyNotion/controllers/Untitled Folder",
     "Backend Flow/StudyNotion/controllers/Section Controller",
     "Backend Flow/StudyNotion/controllers/ResetPassword Controller",
-    "Backend Flow/StudyNotion/controllers/RatingAndReview Controller/getAllRating.md",
-    "Backend Flow/StudyNotion/controllers/RatingAndReview Controller/getAverageRating.md",
-    "Backend Flow/StudyNotion/controllers/RatingAndReview Controller/createRating.md",
     "Backend Flow/StudyNotion/controllers/RatingAndReview Controller",
-    "Backend Flow/StudyNotion/controllers/Profile Controller/instructorDashboard.md",
     "Backend Flow/StudyNotion/controllers/Profile Controller",
     "Backend Flow/StudyNotion/controllers/Payment Controller",
     "Backend Flow/StudyNotion/controllers/Course Controller",

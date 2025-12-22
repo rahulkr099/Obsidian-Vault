@@ -5,6 +5,10 @@ I’ll break it **function by function**, and **every logical step is written cl
 ---
 
 # 📁 authController.js — Detailed Pseudocode
+[[Backend Flow/StudyNotion/models/User.model.js|User.model.js]]
+[[OTP.model.js]]
+
+
 
 ---
 

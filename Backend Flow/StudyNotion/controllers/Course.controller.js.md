@@ -7,6 +7,14 @@ No shortcuts. No magic jumps.
 ---
 
 # 📁 `courseController.js` — FULL DETAILED PSEUDOCODE
+[[Course.model.js]]
+[[Category.model.js]]
+[[Backend Flow/StudyNotion/models/User.model.js|User.model.js]]
+[[Section.model.js]]
+[[Subsection.model.js]]
+[[CourseProgress.model.js]]
+
+
 
 ---
 

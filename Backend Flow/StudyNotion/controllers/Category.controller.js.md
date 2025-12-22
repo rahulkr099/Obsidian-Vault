@@ -14,6 +14,8 @@ I’ll keep words simple and logic explicit so you can:
 ---
 
 # 📁 categoryController.js — Detailed Pseudocode
+[[Category.model.js]]
+
 
 ---
 

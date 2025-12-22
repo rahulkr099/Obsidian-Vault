@@ -7,6 +7,8 @@ I’ll keep words simple and logic crystal clear.
 ---
 
 # 📁 courseProgressController.js — Detailed Pseudocode
+[[]]
+
 
 ---
 
