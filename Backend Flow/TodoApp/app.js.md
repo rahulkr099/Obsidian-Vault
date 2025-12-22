@@ -1,5 +1,5 @@
 [[todo.routes.js]]
-
+[[errorHandler.js]]
 # app.js
 ```bash
 Purpose: Express setup for initialization of server
@@ -29,7 +29,7 @@ Purpose: Express setup for initialization of server
 	       - success: false
 	       - "Route not found"
 
-7.REGISTER centralized error handler
+7.REGISTER centralized error handler [[errorHandler.js]]
 
 8.EXPORT Express application to start the server
 ```
