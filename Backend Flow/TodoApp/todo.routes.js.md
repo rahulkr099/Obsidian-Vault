@@ -10,6 +10,8 @@
 - `POST /todos/:id/restore` - Restore soft-deleted todo
 - `GET /todos/stats` - Simple stats aggregation
 ```
+[[createTodo]]
+[[List Todo]]
 # src/routes/todo.routes.js
 ```bash
 Purpose: CRUD routes of todo
@@ -24,31 +26,31 @@ Purpose: CRUD routes of todo
 
 ====== CRUD routes =======
 3.DEFINE route: POST "/"
-    VALIDATE create request 
-    CALL controller to create a todo
+    VALIDATE create request [[validate.js]]
+    CALL controller to create a todo [[createTodo]]
 
 4.DEFINE route: GET "/"
-    CALL controller to list all todos
+    CALL controller to list all todos [[List Todo]]
 
 5.DEFINE route: GET "/stats"
-    CALL controller to return todo statistics
+    CALL controller to return todo statistics [[Todo Statistics]]
 
 6.DEFINE route: GET "/:id"
-    EXTRACT todo id from request
-    CALL controller to fetch single todo
+    EXTRACT todo id from request 
+    CALL controller to fetch single todo [[Get a Single Todo]]
 
 7.DEFINE route: PATCH "/:id"
-    VALIDATE update request
-    CALL controller to update todo
+    VALIDATE update request [[validate.js]]
+    CALL controller to update todo [[Update Todo]]
 
 8.DEFINE route: PATCH "/:id/complete"
-    MARK the given todo as completed
+    MARK the given todo as completed [[Mark Todo as Completed]]
 
 9.DEFINE route: DELETE "/:id"
-    SOFT DELETE the given todo
+    SOFT DELETE the given todo [[Soft delete Todo]]
 
 10.DEFINE route: POST "/:id/restore"
-    RESTORE a previously deleted todo
+    RESTORE a previously deleted todo [[Restore Soft deleted Todo]]
 
 EXPORT router
 ```
