@@ -1,6 +1,11 @@
 ### 🔹 `user.routes.js` — PSEUDOCODE
-[[valid]]
-
+[[validation.middleware.js]]
+[[avatar.contorller.js]]
+[[logout]]
+[[authStatus.service]]
+[[refreshAccessToken]]
+[[resetPassword.services]]
+[[googleLogin.service]]
 
 
 ```text
