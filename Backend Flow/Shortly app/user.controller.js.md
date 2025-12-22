@@ -3,7 +3,7 @@ Here is **ONE clean pseudocode snippet**, same compact style as before.
 No notes. No explanation. Just **pure pseudocode**.
 
 ---
-[[user.model.js]]
+[[Backend Flow/Shortly app/user.model.js]]
 [[login]]
 [[signup]]
 [[logout]]
