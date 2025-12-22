@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/TodoApp/todo.routes.js.md",
+                "file": "Backend Flow/TodoApp/Update Todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo.routes.js"
+              "title": "Update Todo"
             }
           }
         ]
@@ -234,11 +234,15 @@
       }
     ]
   },
-  "active": "b484e6bffc3f3e03",
+  "active": "819da3fe26d4c8bf",
   "lastOpenFiles": [
-    "Backend Flow/TodoApp/todo.routes.js.md",
+    "Backend Flow/TodoApp/List Todo.md",
+    "Backend Flow/TodoApp/Update Todo.md",
     "Backend Flow/TodoApp/1. TodoApp.md",
+    "Backend Flow/TodoApp/Get a Single Todo.md",
+    "Backend Flow/TodoApp/createTodo.md",
     "Backend Flow/TodoApp/todo.controller.js.md",
+    "Backend Flow/TodoApp/todo.routes.js.md",
     "Backend Flow/TodoApp/server.js.md",
     "Backend Flow/TodoApp/app.js.md",
     "Backend Flow/TodoApp/Dockerfile.md",
@@ -259,10 +263,6 @@
     "Frontend Flow/JavaScript/Machine Coding- Intermediate/9. Simple Tic Tac Toe.md",
     "Frontend Flow/JavaScript/Machine Coding- Intermediate/8. Todo List App.md",
     "Frontend Flow/JavaScript/Machine Coding- Intermediate/5. Quiz Application.md",
-    "Frontend Flow/JavaScript/Machine Coding- Intermediate/4. Create Image Slider.md",
-    "Frontend Flow/JavaScript/Machine Coding- Intermediate/3. Captcha Generator.md",
-    "Frontend Flow/JavaScript/Machine Coding- Intermediate/2. Create Stopwatch.md",
-    "Backend Flow/17. Tic Tac Toe.md",
     "Frontend Flow/JavaScript",
     "Frontend Flow/(React) Roadside Coder",
     "Frontend Flow/(React) Machine Coding - Advanced",
