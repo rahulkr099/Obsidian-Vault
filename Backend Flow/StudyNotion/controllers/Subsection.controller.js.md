@@ -9,7 +9,9 @@ I’ll go **function by function**.
 # 📁 `subSectionController.js` — DETAILED PSEUDOCODE
 [[Section.model.js]]
 [[Subsection.model.js]]
-
+[[createSubSection]]
+[[deleteSubsection]]
+[[updateSubsection]]
 
 ---
 
