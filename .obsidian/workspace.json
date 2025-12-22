@@ -6,6 +6,7 @@
       {
         "id": "bca806ee6b4dc563",
         "type": "tabs",
+        "dimension": 42.26190476190476,
         "children": [
           {
             "id": "0426c70a6b4a5f80",
@@ -26,6 +27,7 @@
       {
         "id": "0418a53a518f9a1a",
         "type": "tabs",
+        "dimension": 57.738095238095234,
         "children": [
           {
             "id": "03ebeda5d61721c0",
@@ -238,10 +240,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0426c70a6b4a5f80",
+  "active": "03ebeda5d61721c0",
   "lastOpenFiles": [
-    "Backend Flow/StudyNotion/Controller/ResetPassword.js.md",
+    "Backend Flow/Shortly app/googleAuth.services.js.md",
+    "Backend Flow/Shortly app/refreshGoogleToken.md",
+    "Backend Flow/Shortly app/authenticateGoogleRequest.md",
+    "Backend Flow/Shortly app/checkGoogleAccessToken.md",
     "Backend Flow/Shortly app/user.routes.js.md",
+    "Backend Flow/StudyNotion/Controller/ResetPassword.js.md",
     "Backend Flow/Shortly app/validation.middleware.js.md",
     "Backend Flow/Shortly app/url.routes.js.md",
     "Backend Flow/Shortly app/handleShortenURL.md",
@@ -250,7 +256,6 @@
     "Backend Flow/Shortly app/handleUserAnalytics.md",
     "Backend Flow/Shortly app/index.js.md",
     "Backend Flow/Shortly app/resetPassword.services.md",
-    "Backend Flow/Shortly app/googleAuth.service.md",
     "Backend Flow/Shortly app/googleLogin.service.md",
     "Backend Flow/Shortly app/user.model.js.md",
     "Backend Flow/Shortly app/url.model.js.md",
@@ -263,9 +268,6 @@
     "Backend Flow/Shortly app/user.controller.js.md",
     "Backend Flow/Shortly app/url.controller.js.md",
     "handleGetAnalytics.md",
-    "Backend Flow/Shortly app/handleGetAnalytics.md",
-    "handleRedirect.md",
-    "handleShortenURL.md",
     "Backend Flow/TodoApp",
     "Frontend Flow/JavaScript",
     "Frontend Flow/(React) Roadside Coder",

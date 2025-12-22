@@ -6,7 +6,7 @@
 [[refreshAccessToken]]
 [[resetPassword.services]]
 [[googleLogin.service]]
-
+[[googleAuth.services.js]]
 
 ```text
 IMPORT Router from Express
