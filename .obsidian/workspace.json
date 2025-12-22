@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/StudyNotion/model.js.md",
+                "file": "Backend Flow/StudyNotion/Course.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "model.js"
+              "title": "Course.js"
             }
           }
         ]
@@ -236,8 +236,14 @@
   },
   "active": "177647c2817800e0",
   "lastOpenFiles": [
-    "Backend Flow/StudyNotion/3. routes.js.md",
     "Backend Flow/StudyNotion/model.js.md",
+    "Backend Flow/StudyNotion/Course.js.md",
+    "Backend Flow/Shortly app/auth.middleware.js.md",
+    "Backend Flow/StudyNotion/Category.js.md",
+    "Backend Flow/StudyNotion/Profile.js.md",
+    "Backend Flow/StudyNotion/OTP.js.md",
+    "Backend Flow/StudyNotion/User.js.md",
+    "Backend Flow/StudyNotion/3. routes.js.md",
     "Backend Flow/StudyNotion/Controller/Auth.js.md",
     "Backend Flow/StudyNotion/1. index.js.md",
     "Backend Flow/Shortly app/user.routes.js.md",
@@ -257,12 +263,6 @@
     "Backend Flow/Shortly app/validation.middleware.js.md",
     "Backend Flow/Shortly app/googleAuth.services.js.md",
     "Backend Flow/Shortly app/refreshGoogleToken.md",
-    "Backend Flow/Shortly app/authenticateGoogleRequest.md",
-    "Backend Flow/Shortly app/checkGoogleAccessToken.md",
-    "Backend Flow/StudyNotion/Controller/ResetPassword.js.md",
-    "Backend Flow/Shortly app/handleShortenURL.md",
-    "Backend Flow/Shortly app/auth.middleware.js.md",
-    "Backend Flow/Shortly app/handleRedirect.md",
     "Backend Flow/TodoApp",
     "Frontend Flow/JavaScript",
     "Frontend Flow/(React) Roadside Coder",
