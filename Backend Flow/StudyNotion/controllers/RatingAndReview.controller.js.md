@@ -16,6 +16,9 @@ I’ll go **function by function**, slow and clear, so it’s perfect for:
 ---
 
 # 📁 `ratingAndReviewController.js` — DETAILED PSEUDOCODE
+[[RatingAndReview.model.js]]
+[[Course.model.js]]
+
 
 ---
 

@@ -7,8 +7,9 @@ I’ll keep words simple and logic crystal clear.
 ---
 
 # 📁 courseProgressController.js — Detailed Pseudocode
-[[]]
 
+[[Subsection.model.js]]
+[[CourseProgress.model.js]]
 
 ---
 

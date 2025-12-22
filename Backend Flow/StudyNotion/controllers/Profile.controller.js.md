@@ -7,6 +7,11 @@ I’ll keep words simple and explanation calm, just like before.
 ---
 
 # 📁 `profileController.js` — DETAILED PSEUDOCODE
+[[Profile.model.js]]
+[[CourseProgress.model.js]]
+[[Course.model.js]]
+[[Backend Flow/StudyNotion/models/User.model.js|User.model.js]]
+
 
 ---
 

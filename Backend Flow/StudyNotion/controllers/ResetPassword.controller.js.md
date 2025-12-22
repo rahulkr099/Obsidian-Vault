@@ -10,6 +10,8 @@ I’ll split it into **two parts**:
 
 # 📁 `resetPasswordController.js` — DETAILED PSEUDOCODE
 
+
+
 ---
 
 
