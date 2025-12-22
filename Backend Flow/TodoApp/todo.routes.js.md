@@ -12,6 +12,14 @@
 ```
 [[createTodo]]
 [[List Todo]]
+[[Todo Statistics]]
+[[Get a Single Todo]]
+[[Update Todo]]
+[[Mark Todo as Completed]]
+[[Soft delete Todo]]
+[[Restore Soft deleted Todo]]
+[[validate.js]]
+
 # src/routes/todo.routes.js
 ```bash
 Purpose: CRUD routes of todo
