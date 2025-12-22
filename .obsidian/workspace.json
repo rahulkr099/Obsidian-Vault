@@ -6,7 +6,7 @@
       {
         "id": "0ffb8f08958600bb",
         "type": "tabs",
-        "dimension": 54.62662337662337,
+        "dimension": 59.82142857142857,
         "children": [
           {
             "id": "cdaee0860a1ebb8e",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/StudyNotion/controllers/Course.controller.js.md",
+                "file": "Backend Flow/StudyNotion/controllers/Section.controller.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Course.controller.js"
+              "title": "Section.controller.js"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "e9faf2da8961edfc",
         "type": "tabs",
-        "dimension": 45.37337662337662,
+        "dimension": 40.17857142857143,
         "children": [
           {
             "id": "54a47ff3db05199e",
@@ -35,7 +35,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backend Flow/StudyNotion/controllers/Course.controller.js.md",
+                "file": "Backend Flow/StudyNotion/controllers/Section.controller.js.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -63,7 +63,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Course.controller.js"
+              "title": "Graph of Section.controller.js"
             }
           }
         ]
@@ -281,19 +281,19 @@
   },
   "active": "cdaee0860a1ebb8e",
   "lastOpenFiles": [
+    "Backend Flow/StudyNotion/controllers/ResetPassword.controller.js.md",
+    "Backend Flow/StudyNotion/controllers/RatingAndReview.controller.js.md",
+    "Backend Flow/StudyNotion/controllers/Profile.controller.js.md",
+    "Backend Flow/StudyNotion/controllers/Payments.controller.js.md",
+    "Backend Flow/StudyNotion/controllers/courseProgress.controller.js.md",
+    "Backend Flow/StudyNotion/controllers/Course.controller.js.md",
     "Backend Flow/StudyNotion/controllers/ContactUs.controller.js.md",
     "Backend Flow/StudyNotion/controllers/Category.controller.js.md",
     "Backend Flow/StudyNotion/controllers/Auth.controller.js.md",
     "Backend Flow/StudyNotion/controllers/Subsection.controller.js.md",
     "Backend Flow/StudyNotion/controllers/Section.controller.js.md",
-    "Backend Flow/StudyNotion/controllers/ResetPassword.controller.js.md",
-    "Backend Flow/StudyNotion/controllers/RatingAndReview.controller.js.md",
-    "Backend Flow/StudyNotion/controllers/Profile.controller.js.md",
-    "Backend Flow/StudyNotion/controllers/Payments.controller.js.md",
     "Backend Flow/StudyNotion/models/Course.model.js.md",
-    "Backend Flow/StudyNotion/controllers/courseProgress.controller.js.md",
     "Backend Flow/StudyNotion/models/Subsection.model.js.md",
-    "Backend Flow/StudyNotion/controllers/Course.controller.js.md",
     "Backend Flow/StudyNotion/models/Category.model.js.md",
     "Backend Flow/StudyNotion/routes/User.routes.js.md",
     "Backend Flow/StudyNotion/index.js.md",

@@ -10,7 +10,8 @@ I’ll split it into **two parts**:
 
 # 📁 `resetPasswordController.js` — DETAILED PSEUDOCODE
 [[Backend Flow/StudyNotion/models/User.model.js|User.model.js]]
-
+[[resetPassword]]
+[[resetPasswordToken]]
 
 
 ---

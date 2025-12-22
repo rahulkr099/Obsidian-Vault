@@ -15,7 +15,11 @@ No shortcuts. No magic jumps.
 [[CourseProgress.model.js]]
 [[createCourse]]
 [[deleteCourse]]
-[[editCours]]
+[[editCourse]]
+[[getCourseDetails]]
+[[getFullCourseDetails]]
+[[getInstructorCourses]]
+[[showAllCourses]]
 
 
 ---

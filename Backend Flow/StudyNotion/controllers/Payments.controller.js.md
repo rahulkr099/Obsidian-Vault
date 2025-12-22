@@ -16,6 +16,11 @@ I’ll break it into **logical blocks** so you can:
 [[Course.model.js]]
 [[Backend Flow/StudyNotion/models/User.model.js|User.model.js]]
 [[CourseProgress.model.js]]
+[[capturePayment]]
+[[enrollStudents]]
+[[sendPaymentSuccessEmail]]
+[[verifyPayment]]
+
 
 ---
 
