@@ -5,12 +5,12 @@ I’ll break it **function by function**, and **every logical step is written cl
 ---
 
 # 📁 authController.js — Detailed Pseudocode
-[[Backend Flow/StudyNotion/models/User.model.js|User.model.js]]
+[[Backend Flow/7. StudyNotion/models/User.model.js|User.model.js]]
 [[OTP.model.js]]
 [[Change Password]]
-[[Backend Flow/StudyNotion/controllers/Auth Controller/login|login]]
+[[Backend Flow/7. StudyNotion/controllers/Auth Controller/login|login]]
 [[send otp]]
-[[Backend Flow/StudyNotion/controllers/Auth Controller/signup|signup]]
+[[Backend Flow/7. StudyNotion/controllers/Auth Controller/signup|signup]]
 
 
 ---

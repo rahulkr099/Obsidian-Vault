@@ -14,7 +14,7 @@ I’ll break it into **logical blocks** so you can:
 
 # 📁 `paymentController.js` — DETAILED PSEUDOCODE
 [[Course.model.js]]
-[[Backend Flow/StudyNotion/models/User.model.js|User.model.js]]
+[[Backend Flow/7. StudyNotion/models/User.model.js|User.model.js]]
 [[CourseProgress.model.js]]
 [[capturePayment]]
 [[enrollStudents]]

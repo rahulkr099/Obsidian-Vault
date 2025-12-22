@@ -3,9 +3,9 @@ Here is **ONE clean pseudocode snippet**, same compact style as before.
 No notes. No explanation. Just **pure pseudocode**.
 
 ---
-[[Backend Flow/Shortly app/user.model.js]]
-[[Backend Flow/Shortly app/login]]
-[[Backend Flow/Shortly app/signup]]
+[[Backend Flow/6. Shortly app/user.model.js]]
+[[Backend Flow/6. Shortly app/login]]
+[[Backend Flow/6. Shortly app/signup]]
 [[logout]]
 [[refreshAccessToken]]
 ### 🔹 `user.controller.js` — PSEUDOCODE

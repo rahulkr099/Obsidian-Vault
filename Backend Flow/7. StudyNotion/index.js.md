@@ -4,7 +4,7 @@ Below is the **simple, clear pseudocode** that explains _what is happening_, not
 You can use this in exams, interviews, or documentation.
 
 ---
-[[Backend Flow/StudyNotion/routes/User.routes.js|User.routes.js]]
+[[Backend Flow/7. StudyNotion/routes/User.routes.js|User.routes.js]]
 [[Profile.routes.js]]
 [[Course.routes.js]]
 [[Payments.routes.js]]

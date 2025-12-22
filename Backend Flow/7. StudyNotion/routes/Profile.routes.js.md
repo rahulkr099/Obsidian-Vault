@@ -1,5 +1,5 @@
 ## 📌 2. `Profile.js` – User Profile Management
-[[Backend Flow/StudyNotion/auth.middleware.js|auth.middleware.js]]
+[[Backend Flow/7. StudyNotion/auth.middleware.js|auth.middleware.js]]
 [[Profile.controller.js]]
 ```
 START Profile Module
