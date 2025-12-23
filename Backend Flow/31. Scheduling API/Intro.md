@@ -22,120 +22,21 @@ Components:
 
 ---
 
-## 📦 2. Job Data Structure
-
-```text
-Job:
-  id
-  task
-  delaySeconds
-  status        // scheduled | running | completed | failed
-  scheduledAt
-  executeAt
-  completedAt
-  error
-```
 
 ---
 
-## 🗄️ 3. Job Store (In-Memory)
-
-```text
-STORE jobs = empty map
-
-FUNCTION addJob(jobId, job):
-  jobs[jobId] = job
-
-FUNCTION getJob(jobId):
-  RETURN jobs[jobId]
-
-FUNCTION updateJob(jobId, updates):
-  jobs[jobId] = merge(jobs[jobId], updates)
-```
 
 ---
 
-## ⏱️ 4. Scheduler Engine (Core Logic)
-
-```text
-FUNCTION scheduleTask(task, delaySeconds, executeCallback):
-
-  jobId = generateUUID()
-
-  job = {
-    id: jobId,
-    task: task,
-    delaySeconds: delaySeconds,
-    status: "scheduled",
-    scheduledAt: currentTime(),
-    executeAt: currentTime() + delaySeconds
-  }
-
-  addJob(jobId, job)
-
-  SET TIMER after delaySeconds:
-    updateJob(jobId, { status: "running" })
-
-    TRY:
-      executeCallback(job)
-      updateJob(jobId, {
-        status: "completed",
-        completedAt: currentTime()
-      })
-    CATCH error:
-      updateJob(jobId, {
-        status: "failed",
-        error: error.message
-      })
-
-  RETURN jobId
-```
 
 ---
 
-## 🌐 5. API — Schedule a Task
-
-```text
-API POST /schedule
-
-INPUT:
-  task
-  delaySeconds
-
-IF task missing OR delaySeconds missing:
-  RETURN error
-
-jobId = scheduleTask(task, delaySeconds, executeTask)
-
-RETURN {
-  jobId,
-  message: "Task scheduled"
-}
-```
 
 ---
 
-## 🔍 6. API — Check Job Status
-
-```text
-API GET /status/:jobId
-
-job = getJob(jobId)
-
-IF job not found:
-  RETURN 404
-
-RETURN job
-```
 
 ---
 
-## ⚙️ 7. Task Execution (Simulation)
-
-```text
-FUNCTION executeTask(job):
-  PRINT "Executing job", job.id, "->", job.task
-```
 
 ---
 
