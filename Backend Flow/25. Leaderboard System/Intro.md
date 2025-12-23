@@ -40,55 +40,15 @@ Components:
 
 ---
 
-## 🔄 8. Durability (Optional but Smart)
-
-```text
-ON score update:
-
-  WRITE to Redis (fast)
-  PUSH event to queue
-
-WORKER:
-  READ event
-  SAVE to DB (history / audit)
-```
 
 ---
 
-## ⚖️ 9. Tie-Breaking Strategy
-
-```text
-If two users have same score:
-  1. Earlier updated wins
-  OR
-  2. Lexicographically smaller userId wins
-```
-
-(Explain this clearly in interview)
 
 ---
 
-## ⚡ 10. Real-Time Updates (WOW)
-
-```text
-ON score update:
-
-  oldRank = previous rank
-  newRank = current rank
-
-  IF change affects Top-N:
-    BROADCAST leaderboard update via WebSocket
-```
 
 ---
 
-## 🛡️ 11. Security & Fairness
-
-```text
-- Validate score server-side
-- Rate-limit score submissions
-- Log suspicious jumps
-```
 
 ---
 
