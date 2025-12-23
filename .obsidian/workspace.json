@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d68225b2639a7961",
+        "id": "e56333a1982ba344",
         "type": "tabs",
         "children": [
           {
-            "id": "505a3bf5c014d256",
+            "id": "7b5dfce03964b520",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend Flow/12. Polling Voting System.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "12. Polling Voting System"
+              "title": "New tab"
             }
           }
         ]
@@ -195,8 +191,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
+  "floating": {
+    "id": "9ce681bde2b4e4db",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5ba6c21d88286b0c",
+        "type": "window",
+        "children": [
+          {
+            "id": "1c5fe6524f157cd3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "505a3bf5c014d256",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Backend Flow/13. Inventory Management System/11. Inventory Management Sysatem.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "11. Inventory Management Sysatem"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1536,
+        "y": 0,
+        "width": 1088,
+        "height": 308,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "505a3bf5c014d256",
   "lastOpenFiles": [
+    "Backend Flow/12. Polling Voting System.md",
     "Backend Flow/13. Inventory Management System/11. Inventory Management Sysatem.md",
     "Backend Flow/12. Library Management System/Intro.md",
     "Backend Flow/12. Library Management System/error handling.md",
@@ -222,7 +258,6 @@
     "Backend Flow/11. Chat Messaging System/read receipt.md",
     "Backend Flow/11. Chat Messaging System/message delivery acknowledgement.md",
     "Backend Flow/11. Chat Messaging System/sending a message.md",
-    "Backend Flow/11. Chat Messaging System/join or leave conversation.md",
     "Backend Flow/2. Notes App/In Mongo DB",
     "Backend Flow/2. Notes App/In Memory",
     "Backend Flow/2. Notes App",
