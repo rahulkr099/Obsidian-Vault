@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/15. Event Booking API/create event.md",
+                "file": "Backend Flow/15. Event Booking API/qr code generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "create event"
+              "title": "qr code generation"
             }
           }
         ]
@@ -236,9 +236,16 @@
   },
   "active": "85d95d2467bb7701",
   "lastOpenFiles": [
-    "Backend Flow/15. Event Booking API/data models.md",
-    "Backend Flow/15. Event Booking API/create event.md",
+    "Backend Flow/15. Event Booking API/real time seat updates.md",
+    "Backend Flow/15. Event Booking API/qr code generation.md",
     "Backend Flow/15. Event Booking API/13. Event Booking Api.md",
+    "Backend Flow/15. Event Booking API/list booking.md",
+    "Backend Flow/15. Event Booking API/cancel booking.md",
+    "Backend Flow/15. Event Booking API/book seat.md",
+    "Backend Flow/15. Event Booking API/get event details.md",
+    "Backend Flow/15. Event Booking API/list event.md",
+    "Backend Flow/15. Event Booking API/create event.md",
+    "Backend Flow/15. Event Booking API/data models.md",
     "Backend Flow/15. Event Booking API/application startup.md",
     "Backend Flow/14. Polling Voting System/extra smart enhancements.md",
     "Backend Flow/14. Polling Voting System/Intro.md",
@@ -262,15 +269,8 @@
     "Backend Flow/29. Queue System - job processing",
     "Backend Flow/28. Queue System - email/Queue system - email.md",
     "Backend Flow/28. Queue System - email",
-    "Backend Flow/27. Notification System/Notifications System.md",
     "Backend Flow/27. Notification System",
-    "Backend Flow/26. Ludo Game/Ludo Game.md",
     "Backend Flow/26. Ludo Game",
-    "Backend Flow/25. Leaderboard System/Leaderboard System.md",
-    "Backend Flow/25. Leaderboard System",
-    "Backend Flow/24. Image Processing API/Image Processing API.md",
-    "Backend Flow/23. Debounce Throttle API/Debounce Throttle API Calls.md",
-    "Backend Flow/22. CSV JSON convert API/CSV - JSON convert API.md",
-    "Backend Flow/21. Coupan Discount Engine/Coupan Discount Engine.md"
+    "Backend Flow/25. Leaderboard System"
   ]
 }
