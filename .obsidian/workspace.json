@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ea0a08cc6ec93f6a",
+        "id": "e7a2b5d25c2081ef",
         "type": "tabs",
         "children": [
           {
-            "id": "9085e93f8f85c66c",
+            "id": "b86f2bf1125904bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/28. Queue System - email/Queue initialization.md",
+                "file": "Backend Flow/29. Queue System - job processing/worker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Queue initialization"
+              "title": "worker"
             }
           }
         ]
@@ -200,25 +200,25 @@
     "type": "floating",
     "children": [
       {
-        "id": "58182c974663f7c3",
+        "id": "230b5a59847f98b0",
         "type": "window",
         "children": [
           {
-            "id": "ad67cf6f9d9dbf21",
+            "id": "b7945a78d16464dc",
             "type": "tabs",
             "children": [
               {
-                "id": "a7e2642945955502",
+                "id": "9085e93f8f85c66c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Backend Flow/28. Queue System - email/Queue system - email.md",
+                    "file": "Backend Flow/29. Queue System - job processing/Queue System - job processing.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Queue system - email"
+                  "title": "Queue System - job processing"
                 }
               }
             ]
@@ -234,10 +234,22 @@
       }
     ]
   },
-  "active": "a7e2642945955502",
+  "active": "b86f2bf1125904bf",
   "lastOpenFiles": [
-    "Backend Flow/28. Queue System - email/Queue initialization.md",
+    "Backend Flow/29. Queue System - job processing/worker logic.md",
+    "Backend Flow/29. Queue System - job processing/worker.md",
+    "Backend Flow/29. Queue System - job processing/Queue System - job processing.md",
+    "Backend Flow/29. Queue System - job processing/get job status.md",
+    "Backend Flow/29. Queue System - job processing/add job.md",
+    "Backend Flow/29. Queue System - job processing/queue initialization.md",
+    "Backend Flow/28. Queue System - email/graceful shutdown.md",
+    "Backend Flow/28. Queue System - email/health check.md",
     "Backend Flow/28. Queue System - email/Queue system - email.md",
+    "Backend Flow/28. Queue System - email/metrics endpoint.md",
+    "Backend Flow/28. Queue System - email/mailer logic.md",
+    "Backend Flow/28. Queue System - email/email worker.md",
+    "Backend Flow/28. Queue System - email/enqueue email api.md",
+    "Backend Flow/28. Queue System - email/Queue initialization.md",
     "Backend Flow/27. Notification System/error handling strategy.md",
     "Backend Flow/27. Notification System/Intro.md",
     "Backend Flow/27. Notification System/metrics endpoint.md",
@@ -250,18 +262,6 @@
     "Backend Flow/27. Notification System/worker loop.md",
     "Backend Flow/27. Notification System/create notifications api.md",
     "Backend Flow/27. Notification System/data structures.md",
-    "Backend Flow/26. Ludo Game/game end condition.md",
-    "Backend Flow/26. Ludo Game/Intro.md",
-    "Backend Flow/26. Ludo Game/spectator mode.md",
-    "Backend Flow/26. Ludo Game/event log or replay.md",
-    "Backend Flow/26. Ludo Game/auto reconnection.md",
-    "Backend Flow/26. Ludo Game/turn timer.md",
-    "Backend Flow/26. Ludo Game/move token event.md",
-    "Backend Flow/26. Ludo Game/turn management.md",
-    "Backend Flow/26. Ludo Game/kill logic.md",
-    "Backend Flow/26. Ludo Game/token movement rules.md",
-    "Backend Flow/26. Ludo Game/dice roll logic.md",
-    "Backend Flow/26. Ludo Game/create or join room.md",
     "Backend Flow/33. Snake and Ladder",
     "Backend Flow/Untitled Folder",
     "Backend Flow/32. Simple Payment Solution",

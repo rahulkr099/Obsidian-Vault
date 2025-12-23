@@ -22,122 +22,18 @@ Components:
 
 ---
 
-## 📦 2. Queue Initialization
-
-```text
-GLOBAL redisConnection
-GLOBAL queue
-GLOBAL queueEvents
-
-FUNCTION initQueue():
-
-  IF queue already exists
-    RETURN queue
-
-  redisConnection = CONNECT Redis(host, port)
-
-  queue = CREATE Queue(queueName, redisConnection)
-
-  queueEvents = CREATE QueueEvents(queueName, redisConnection)
-
-  RETURN queue
-```
 
 ---
 
-## ➕ 3. Add Job (Producer API)
-
-```text
-FUNCTION createJob(request):
-
-  READ type, payload, priority, delayMs FROM request.body
-
-  IF type is missing
-    SET type = "default"
-
-  MAP priority string to number
-    high → 1
-    normal → 5
-    low → 10
-
-  jobOptions:
-    attempts = 3
-    backoff = exponential (500ms)
-    priority = mapped value
-    delay = delayMs
-    auto-remove completed jobs
-    auto-remove failed jobs later
-
-  jobData:
-    id = generate UUID
-    type = type
-    payload = payload
-
-  job = queue.ADD(type, jobData, jobOptions)
-
-  RETURN job.id
-```
 
 ---
 
-## 🔍 4. Get Job Status
-
-```text
-FUNCTION getJobStatus(jobId):
-
-  job = queue.GET_JOB(jobId)
-
-  IF job does not exist
-    RETURN "Job not found"
-
-  state = job.GET_STATE()
-
-  RETURN {
-    jobId,
-    type,
-    state,
-    progress,
-    attemptsMade
-  }
-```
 
 ---
 
-## ⚙️ 5. Worker Logic (Background Processing)
-
-```text
-FUNCTION workerProcessor(job):
-
-  steps = job.payload.steps OR 5
-
-  FOR step FROM 1 TO steps:
-    WAIT some time
-    percent = (step / steps) * 100
-    job.UPDATE_PROGRESS({ step, percent })
-
-  IF job.payload.fail == true
-    THROW error
-
-  RETURN success result
-```
 
 ---
 
-## 🧵 6. Worker Initialization
-
-```text
-FUNCTION startWorker():
-
-  worker = CREATE Worker(queueName, workerProcessor)
-    concurrency = N
-    redisConnection
-
-  ON job completed:
-    LOG success
-
-  ON job failed:
-    LOG error
-```
 
 ---
 

@@ -28,104 +28,16 @@ Components:
 
 ---
 
-## ⚙️ 4. Email Worker (Background Process)
-
-```text
-FUNCTION startWorker():
-
-  queue = initQueue()
-
-  PROCESS "send-email" jobs WITH concurrency = 5
-
-    FOR each job:
-      READ to, subject, text, html
-
-      LOG "Processing job"
-
-      CALL sendMail(to, subject, text, html)
-
-      LOG "Email sent successfully"
-
-      RETURN success
-```
 
 ---
 
-## ✉️ 5. Mailer Logic (SMTP / Ethereal)
 
-```text
-GLOBAL transporter
-
-FUNCTION createTransporter():
-
-  IF transporter exists
-    RETURN transporter
-
-  IF environment is development
-    CREATE Ethereal test account
-    transporter = CREATE SMTP transporter with Ethereal creds
-  ELSE
-    transporter = CREATE SMTP transporter using real SMTP creds
-
-  RETURN transporter
-```
-
-```text
-FUNCTION sendMail(emailData):
-
-  transporter = createTransporter()
-
-  info = transporter.sendMail(emailData)
-
-  IF Ethereal
-    ATTACH preview URL for debugging
-
-  RETURN info
-```
 
 ---
 
-## 📊 6. Metrics Endpoint
-
-```text
-FUNCTION getMetrics():
-
-  queue = initQueue()
-
-  counts = queue.getJobCounts()
-    (waiting, active, completed, failed)
-
-  RETURN counts
-```
 
 ---
 
-## 🩺 7. Health Check
-
-```text
-FUNCTION healthCheck():
-
-  RETURN status = "ok"
-  RETURN current timestamp
-```
-
----
-
-## 🛑 8. Graceful Shutdown (Very Important WOW)
-
-```text
-ON SIGINT or SIGTERM:
-
-  STOP accepting HTTP requests
-
-  WAIT for active jobs to finish
-
-  CLOSE queue connections
-
-  CLOSE Redis connection
-
-  EXIT process safely
-```
 
 ---
 
