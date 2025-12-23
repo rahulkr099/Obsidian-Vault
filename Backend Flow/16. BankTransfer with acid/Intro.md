@@ -45,34 +45,6 @@ If **any step fails → rollback everything**.
 ---
 
 
----
-
-
----
-
-
----
-
-
----
-
-
-
----
-
-
-
----
-
-## 🔄 11. Retry Logic (Optional WOW)
-
-```text
-IF transaction fails due to transient error:
-  RETRY up to N times
-```
-
----
-
 ## 🧪 12. Test Scenarios (Say This Confidently)
 
 ```text
