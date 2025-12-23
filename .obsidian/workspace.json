@@ -11,10 +11,14 @@
             "id": "973ee394291f4963",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Backend Flow/19. Tic Tac Toe/move handling.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "move handling"
             }
           }
         ]
@@ -232,6 +236,14 @@
   },
   "active": "cbfe6b62d81e6967",
   "lastOpenFiles": [
+    "Backend Flow/19. Tic Tac Toe/move handling.md",
+    "Backend Flow/19. Tic Tac Toe/create or join room.md",
+    "Backend Flow/19. Tic Tac Toe/17. Tic Tac Toe.md",
+    "Backend Flow/19. Tic Tac Toe/join match making.md",
+    "Backend Flow/19. Tic Tac Toe/socket connection flow.md",
+    "Backend Flow/19. Tic Tac Toe/match making flow.md",
+    "Backend Flow/19. Tic Tac Toe/game engine.md",
+    "Backend Flow/19. Tic Tac Toe/data structures.md",
     "Backend Flow/18. Cab booking system/error handling.md",
     "Backend Flow/18. Cab booking system/Intro.md",
     "Backend Flow/18. Cab booking system/socket.io room strategy.md",
@@ -250,14 +262,6 @@
     "Backend Flow/17. Rate Limiting Service/decision handling.md",
     "Backend Flow/17. Rate Limiting Service/token bucket logic.md",
     "Backend Flow/17. Rate Limiting Service/request flow middleware.md",
-    "Backend Flow/17. Rate Limiting Service/data stored in redis.md",
-    "Backend Flow/16. BankTransfer with acid/retry logic.md",
-    "Backend Flow/16. BankTransfer with acid/Intro.md",
-    "Backend Flow/16. BankTransfer with acid/ledger or journal.md",
-    "Backend Flow/16. BankTransfer with acid/idempotency.md",
-    "Backend Flow/16. BankTransfer with acid/durability.md",
-    "Backend Flow/16. BankTransfer with acid/isolation.md",
-    "Backend Flow/16. BankTransfer with acid/consistency.md",
     "Backend Flow/33. Snake and Ladder",
     "Backend Flow/Untitled Folder",
     "Backend Flow/32. Simple Payment Solution",
