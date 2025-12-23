@@ -11,10 +11,14 @@
             "id": "f8dca55050613271",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Backend Flow/10. Shopping Cart API/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -230,8 +234,16 @@
       }
     ]
   },
-  "active": "67430309523f0977",
+  "active": "f8dca55050613271",
   "lastOpenFiles": [
+    "Backend Flow/10. Shopping Cart API/apply coupan.md",
+    "Backend Flow/10. Shopping Cart API/Untitled.md",
+    "Backend Flow/10. Shopping Cart API/7. Shopping Cart API.md",
+    "Backend Flow/10. Shopping Cart API/remove item from cart.md",
+    "Backend Flow/10. Shopping Cart API/add item to cart.md",
+    "Backend Flow/10. Shopping Cart API/get or create cart.md",
+    "Backend Flow/10. Shopping Cart API/product flow.md",
+    "Backend Flow/10. Shopping Cart API/core data models.md",
     "Backend Flow/9. Expense Tracker API/recurring expenses.md",
     "Backend Flow/9. Expense Tracker API/Intro.md",
     "Backend Flow/9. Expense Tracker API/export expenses as CSV.md",
@@ -250,14 +262,6 @@
     "Backend Flow/8. Ecommerce Product API/Intro.md",
     "Backend Flow/8. Ecommerce Product API/seed script logic.md",
     "Backend Flow/8. Ecommerce Product API/faceted aggregation pipeline.md",
-    "Backend Flow/8. Ecommerce Product API/get single product.md",
-    "Backend Flow/8. Ecommerce Product API/page based pagination.md",
-    "Backend Flow/8. Ecommerce Product API/cursor based pagination flow.md",
-    "Backend Flow/8. Ecommerce Product API/get products.md",
-    "Backend Flow/8. Ecommerce Product API/parse sorting.md",
-    "Backend Flow/8. Ecommerce Product API/build filters  (helper logic).md",
-    "Backend Flow/8. Ecommerce Product API/routing layer.md",
-    "Backend Flow/8. Ecommerce Product API/product data model.md",
     "Backend Flow/2. Notes App/In Mongo DB",
     "Backend Flow/2. Notes App/In Memory",
     "Backend Flow/2. Notes App",
