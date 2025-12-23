@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/8. Ecommerce Product API/parse sorting.md",
+                "file": "Backend Flow/8. Ecommerce Product API/get single product.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "parse sorting"
+              "title": "get single product"
             }
           }
         ]
@@ -237,6 +237,10 @@
   "active": "7975d5dfd4333476",
   "lastOpenFiles": [
     "Backend Flow/8. Ecommerce Product API/5. Ecommerce Product API.md",
+    "Backend Flow/8. Ecommerce Product API/get single product.md",
+    "Backend Flow/8. Ecommerce Product API/page based pagination.md",
+    "Backend Flow/8. Ecommerce Product API/cursor based pagination flow.md",
+    "Backend Flow/8. Ecommerce Product API/get products.md",
     "Backend Flow/8. Ecommerce Product API/parse sorting.md",
     "Backend Flow/8. Ecommerce Product API/build filters  (helper logic).md",
     "Backend Flow/8. Ecommerce Product API/routing layer.md",
@@ -258,10 +262,6 @@
     "Backend Flow/4. File Uploading/server initialization.md",
     "Backend Flow/3. Blog App/comment.controller.js.md",
     "Backend Flow/3. Blog App/Intro.md",
-    "Backend Flow/3. Blog App/Comment.routes.js.md",
-    "Backend Flow/3. Blog App/postController.js.md",
-    "Backend Flow/3. Blog App/posts.routes.js.md",
-    "Backend Flow/3. Blog App/authController.js.md",
     "Backend Flow/2. Notes App/In Mongo DB",
     "Backend Flow/2. Notes App/In Memory",
     "Backend Flow/2. Notes App",
