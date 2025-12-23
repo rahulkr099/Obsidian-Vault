@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/12. Library Management System/application startup.md",
+                "file": "Backend Flow/12. Library Management System/audit logging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "application startup"
+              "title": "audit logging"
             }
           }
         ]
@@ -236,8 +236,21 @@
   },
   "active": "aa2c7cfe35fb0467",
   "lastOpenFiles": [
-    "Backend Flow/12. Library Management System/application startup.md",
+    "Backend Flow/12. Library Management System/audit logging.md",
+    "Backend Flow/12. Library Management System/analytics endpoint.md",
     "Backend Flow/12. Library Management System/10. Library Management System.md",
+    "Backend Flow/12. Library Management System/list loans.md",
+    "Backend Flow/12. Library Management System/cancel reservation.md",
+    "Backend Flow/12. Library Management System/create reservation.md",
+    "Backend Flow/12. Library Management System/uj.md",
+    "Backend Flow/12. Library Management System/reservation auto promotion.md",
+    "Backend Flow/12. Library Management System/return book.md",
+    "Backend Flow/12. Library Management System/borrow book.md",
+    "Backend Flow/12. Library Management System/get single book.md",
+    "Backend Flow/12. Library Management System/list books.md",
+    "Backend Flow/12. Library Management System/create book.md",
+    "Backend Flow/12. Library Management System/data models.md",
+    "Backend Flow/12. Library Management System/application startup.md",
     "Backend Flow/11. Chat Messaging System/fetch messages (pagination).md",
     "Backend Flow/11. Chat Messaging System/Intro.md",
     "Backend Flow/11. Chat Messaging System/fetch conversation.md",
@@ -249,19 +262,6 @@
     "Backend Flow/11. Chat Messaging System/join or leave conversation.md",
     "Backend Flow/11. Chat Messaging System/websocket connection flow.md",
     "Backend Flow/11. Chat Messaging System/authentication simple.md",
-    "Backend Flow/11. Chat Messaging System/server startup.md",
-    "Backend Flow/11. Chat Messaging System/core data models.md",
-    "Backend Flow/10. Shopping Cart API/get cart details.md",
-    "Backend Flow/10. Shopping Cart API/Intro.md",
-    "Backend Flow/10. Shopping Cart API/checkout flow.md",
-    "Backend Flow/10. Shopping Cart API/calculate cart total.md",
-    "Backend Flow/10. Shopping Cart API/apply coupan.md",
-    "Backend Flow/10. Shopping Cart API/remove item from cart.md",
-    "Backend Flow/10. Shopping Cart API/add item to cart.md",
-    "Backend Flow/10. Shopping Cart API/get or create cart.md",
-    "Backend Flow/10. Shopping Cart API/product flow.md",
-    "Backend Flow/10. Shopping Cart API/core data models.md",
-    "Backend Flow/9. Expense Tracker API/recurring expenses.md",
     "Backend Flow/2. Notes App/In Mongo DB",
     "Backend Flow/2. Notes App/In Memory",
     "Backend Flow/2. Notes App",
