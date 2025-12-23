@@ -32,98 +32,21 @@ Components:
 
 ---
 
-## 📦 6. Capture Payment (Optional Flow)
-
-```text
-FUNCTION capturePayment(paymentId):
-
-  FIND payment
-  IF status NOT in (authorized, succeeded)
-    RETURN error
-
-  status = "captured"
-  UPDATE timestamp
-
-  SEND webhook "payment.captured"
-
-  RETURN payment
-```
 
 ---
 
-## 🔄 7. Refund Payment
-
-```text
-FUNCTION refundPayment(paymentId, amount):
-
-  FIND payment
-  IF status NOT in (succeeded, captured)
-    RETURN error
-
-  CREATE refund object
-  ADD refund to payment.refunds
-
-  UPDATE payment timestamp
-
-  SEND webhook "payment.refunded"
-
-  RETURN refund
-```
 
 ---
 
-## 🔍 8. Get Payment Status
-
-```text
-FUNCTION getPayment(paymentId):
-
-  FIND payment
-  IF not found
-    RETURN error
-
-  RETURN payment
-```
 
 ---
 
-## 🌐 9. Webhook Emission (Simulated)
-
-```text
-FUNCTION sendWebhook(event, payment):
-
-  IF payment.metadata.webhook_url does not exist
-    RETURN
-
-  CREATE payload = { event, payment }
-
-  SIGN payload using shared secret
-
-  POST payload to webhook_url
-```
 
 ---
 
-## 🔑 10. Idempotency Handling
-
-```text
-ON request with Idempotency-Key:
-
-  IF key already exists
-    RETURN saved response
-
-  ELSE
-    PROCESS request
-    SAVE response against key
-```
 
 ---
 
-## 🩺 11. Health Check
-
-```text
-FUNCTION health():
-  RETURN { status: "ok" }
-```
 
 ---
 

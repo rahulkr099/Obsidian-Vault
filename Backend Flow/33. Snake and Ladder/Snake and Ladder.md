@@ -36,132 +36,25 @@ Game State (Players, Turns, Board)
 
 ---
 
-## 3️⃣ Core Data Structures
-
-### Snakes & Ladders Map
-
-```
-SNAKES = {
-  99 → 54,
-  70 → 55,
-  52 → 42,
-  25 → 2
-}
-
-LADDERS = {
-  3 → 22,
-  5 → 8,
-  11 → 26,
-  20 → 29
-}
-```
 
 ---
 
-### Players State
-
-```
-PLAYERS = {
-  playerId: {
-    position: 0
-  }
-}
-```
 
 ---
 
-### Turn Management
-
-```
-TURN_ORDER = [player1, player2, ...]
-CURRENT_TURN_INDEX = 0
-```
 
 ---
 
-## 4️⃣ Player Join Flow
-
-```
-ON player_connect(playerId):
-
-  ADD playerId to PLAYERS with position = 0
-  ADD playerId to TURN_ORDER
-
-  BROADCAST updated PLAYERS to all clients
-```
 
 ---
 
-## 5️⃣ Dice Roll Flow (Core Logic ⭐)
-
-```
-ON dice_roll(playerId):
-
-  IF playerId ≠ TURN_ORDER[CURRENT_TURN_INDEX]
-    SEND error "Not your turn"
-    RETURN
-
-  dice = RANDOM number between 1 and 6
-
-  newPosition = PLAYERS[playerId].position + dice
-
-  IF newPosition > 100
-    newPosition = old position   // must land exactly on 100
-```
 
 ---
 
-## 6️⃣ Snake & Ladder Check
-
-```
-IF newPosition exists in LADDERS
-  newPosition = LADDERS[newPosition]
-
-ELSE IF newPosition exists in SNAKES
-  newPosition = SNAKES[newPosition]
-```
 
 ---
 
-## 7️⃣ Update Player Position
 
-```
-PLAYERS[playerId].position = newPosition
-```
-
----
-
-## 8️⃣ Win Condition
-
-```
-IF newPosition == 100:
-  BROADCAST "game_end" with winner = playerId
-  RESET game state
-  RETURN
-```
-
----
-
-## 9️⃣ Broadcast Game Update
-
-```
-BROADCAST:
-  - updated PLAYERS positions
-  - last move details (playerId, dice, newPosition)
-```
-
----
-
-## 🔁 Turn Switching Logic
-
-```
-CURRENT_TURN_INDEX =
-  (CURRENT_TURN_INDEX + 1) % TURN_ORDER.length
-
-NEXT_PLAYER = TURN_ORDER[CURRENT_TURN_INDEX]
-
-BROADCAST next turn
-```
 
 ---
 

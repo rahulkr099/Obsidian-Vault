@@ -1,0 +1,10 @@
+## 🔁 Turn Switching Logic
+
+```
+CURRENT_TURN_INDEX =
+  (CURRENT_TURN_INDEX + 1) % TURN_ORDER.length
+
+NEXT_PLAYER = TURN_ORDER[CURRENT_TURN_INDEX]
+
+BROADCAST next turn
+```
