@@ -42,61 +42,18 @@ Components:
 
 ---
 
-## ⏱️ 9. Turn Timer (WOW Feature)
-
-```text
-START timer when turn changes (20 seconds)
-
-IF player does not act
-  auto-advance turn
-```
 
 ---
 
-## 🔄 10. Auto Reconnection (WOW)
-
-```text
-ON socket reconnect:
-
-  FIND player by userId
-  REATTACH socket
-  SEND current room state
-```
 
 ---
 
-## 📜 11. Event Log / Replay (WOW)
-
-```text
-LOG every action:
-  dice-roll
-  token-move
-  kill
-  turn-change
-
-USE log to replay or debug game
-```
 
 ---
 
-## 👀 12. Spectator Mode (Optional)
-
-```text
-IF join request has spectate=true
-  DO NOT add to players
-  JOIN room as viewer
-```
 
 ---
 
-## 🛑 13. Game End Condition
-
-```text
-IF all tokens of a player are finished
-  DECLARE winner
-  SET room status = finished
-  BROADCAST "game-finished"
-```
 
 ---
 
