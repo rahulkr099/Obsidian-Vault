@@ -11,10 +11,14 @@
             "id": "acc62004f6ed2a95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Backend Flow/21. Coupan Discount Engine/evaluate each coupon.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "evaluate each coupon"
             }
           }
         ]
@@ -230,8 +234,19 @@
       }
     ]
   },
-  "active": "979642413a9b0dc6",
+  "active": "acc62004f6ed2a95",
   "lastOpenFiles": [
+    "Backend Flow/21. Coupan Discount Engine/Coupan Discount Engine.md",
+    "Backend Flow/21. Coupan Discount Engine/evaluate each coupon.md",
+    "Backend Flow/21. Coupan Discount Engine/auto select best coupon.md",
+    "Backend Flow/21. Coupan Discount Engine/return final result.md",
+    "Backend Flow/21. Coupan Discount Engine/update coupon usage.md",
+    "Backend Flow/21. Coupan Discount Engine/discount calculation logic.md",
+    "Backend Flow/21. Coupan Discount Engine/user level usage check.md",
+    "Backend Flow/21. Coupan Discount Engine/validation check.md",
+    "Backend Flow/21. Coupan Discount Engine/apply coupon.md",
+    "Backend Flow/21. Coupan Discount Engine/create coupon flow.md",
+    "Backend Flow/21. Coupan Discount Engine/core data structures.md",
     "Backend Flow/20. Caching System /cache stampede protection.md",
     "Backend Flow/20. Caching System /Intro.md",
     "Backend Flow/20. Caching System /api flow.md",
@@ -247,17 +262,6 @@
     "Backend Flow/19. Tic Tac Toe/spectator mode.md",
     "Backend Flow/19. Tic Tac Toe/undo flow.md",
     "Backend Flow/19. Tic Tac Toe/rematch flow.md",
-    "Backend Flow/19. Tic Tac Toe/rating updates.md",
-    "Backend Flow/19. Tic Tac Toe/move handling.md",
-    "Backend Flow/19. Tic Tac Toe/create or join room.md",
-    "Backend Flow/19. Tic Tac Toe/join match making.md",
-    "Backend Flow/19. Tic Tac Toe/socket connection flow.md",
-    "Backend Flow/19. Tic Tac Toe/match making flow.md",
-    "Backend Flow/19. Tic Tac Toe/game engine.md",
-    "Backend Flow/19. Tic Tac Toe/data structures.md",
-    "Backend Flow/18. Cab booking system/error handling.md",
-    "Backend Flow/18. Cab booking system/Intro.md",
-    "Backend Flow/18. Cab booking system/socket.io room strategy.md",
     "Backend Flow/33. Snake and Ladder",
     "Backend Flow/Untitled Folder",
     "Backend Flow/32. Simple Payment Solution",
