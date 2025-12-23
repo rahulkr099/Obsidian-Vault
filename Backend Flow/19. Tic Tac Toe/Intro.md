@@ -68,69 +68,18 @@ Game Engine (Pure Logic)
 
 ---
 
-## 11. Rating Update (ELO-like)
-
-```
-FUNCTION updateRatings(winner, loser):
-  expectedWinner = formula
-  ratings[winner] += K * (1 - expectedWinner)
-  ratings[loser] -= K * (expectedWinner)
-```
 
 ---
 
-## 12. Rematch Flow
-
-```
-EVENT rematch_request:
-  add player to rematchVotes
-
-IF rematchVotes count == 2:
-  reset game
-  clear rematchVotes
-  broadcast new game
-```
 
 ---
 
-## 13. Undo Flow (Optional WOW)
-
-```
-EVENT offer_undo:
-  notify opponent
-
-EVENT accept_undo:
-  game.undoLastMove()
-  broadcast updated board
-```
 
 ---
 
-## 14. Spectator Mode
-
-```
-EVENT spectate(roomId):
-  IF room exists
-    join socket room
-    send current game snapshot
-```
 
 ---
 
-## 15. Disconnect Handling
-
-```
-ON disconnect:
-  IF player in queue
-    remove from queue
-
-  IF player in room:
-    notify opponent
-    mark game finished
-    opponent wins by forfeit
-    update ratings
-    clean up room
-```
 
 ---
 
