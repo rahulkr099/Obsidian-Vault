@@ -11,10 +11,14 @@
             "id": "67430309523f0977",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Backend Flow/9. Expense Tracker API/recurring expenses.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "recurring expenses"
             }
           }
         ]
@@ -230,8 +234,22 @@
       }
     ]
   },
-  "active": "7975d5dfd4333476",
+  "active": "67430309523f0977",
   "lastOpenFiles": [
+    "Backend Flow/9. Expense Tracker API/export expenses as CSV.md",
+    "Backend Flow/9. Expense Tracker API/recurring expenses.md",
+    "Backend Flow/9. Expense Tracker API/6. Expense Tracker API.md",
+    "Backend Flow/9. Expense Tracker API/analytics - category breakdonw.md",
+    "Backend Flow/9. Expense Tracker API/analytics monthly summary.md",
+    "Backend Flow/9. Expense Tracker API/delete expense.md",
+    "Backend Flow/9. Expense Tracker API/update expense.md",
+    "Backend Flow/9. Expense Tracker API/get single expense.md",
+    "Backend Flow/9. Expense Tracker API/list expense.md",
+    "Backend Flow/9. Expense Tracker API/create expense.md",
+    "Backend Flow/9. Expense Tracker API/auth middleware.md",
+    "Backend Flow/9. Expense Tracker API/authentication flow.md",
+    "Backend Flow/9. Expense Tracker API/app startup.md",
+    "Backend Flow/9. Expense Tracker API/core data models.md",
     "Backend Flow/8. Ecommerce Product API/docker setup logic.md",
     "Backend Flow/8. Ecommerce Product API/Intro.md",
     "Backend Flow/8. Ecommerce Product API/seed script logic.md",
@@ -244,20 +262,6 @@
     "Backend Flow/8. Ecommerce Product API/build filters  (helper logic).md",
     "Backend Flow/8. Ecommerce Product API/routing layer.md",
     "Backend Flow/8. Ecommerce Product API/product data model.md",
-    "Backend Flow/8. Ecommerce Product API/database connection logic.md",
-    "Backend Flow/8. Ecommerce Product API/app.js.md",
-    "Backend Flow/4. File Uploading/High Level Architecture.md",
-    "Backend Flow/4. File Uploading/Intro.md",
-    "Backend Flow/4. File Uploading/Global Error Handling.md",
-    "Backend Flow/4. File Uploading/Generate S3 Signed Download URL.md",
-    "Backend Flow/4. File Uploading/Get Single File Metadata.md",
-    "Backend Flow/4. File Uploading/List All Uploaded Files.md",
-    "Backend Flow/4. File Uploading/Upload File to AWS S3.md",
-    "Backend Flow/4. File Uploading/Upload File to Local Disk.md",
-    "Backend Flow/4. File Uploading/Health Check Endpoint.md",
-    "Backend Flow/4. File Uploading/S3 Upload Setup.md",
-    "Backend Flow/4. File Uploading/Local Disk Upload Setup.md",
-    "Backend Flow/4. File Uploading/Multer Configuration.md",
     "Backend Flow/2. Notes App/In Mongo DB",
     "Backend Flow/2. Notes App/In Memory",
     "Backend Flow/2. Notes App",
