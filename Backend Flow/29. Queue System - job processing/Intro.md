@@ -37,66 +37,15 @@ Components:
 
 ---
 
-## ⚡ 7. WebSocket (Real-Time Updates)
-
-```text
-ON WebSocket client connect:
-  SEND welcome message
-
-FOR each queue event (waiting, active, progress, completed, failed):
-  BROADCAST event + job data to all connected clients
-```
 
 ---
 
-## 📊 8. Job Lifecycle Flow
-
-```text
-Client
-  ↓
-POST /jobs
-  ↓
-Job stored in Redis queue
-  ↓
-Worker picks job
-  ↓
-Progress updates emitted
-  ↓
-Job completed OR retried on failure
-```
 
 ---
 
-## 🔁 9. Retry & Backoff Strategy
-
-```text
-IF job fails:
-  IF attempts remaining
-    WAIT backoff delay
-    RETRY job
-  ELSE
-    MOVE job to failed state
-```
 
 ---
 
-## 🛑 10. Graceful Shutdown (WOW Feature)
-
-```text
-ON SIGINT or SIGTERM:
-
-  STOP accepting new HTTP requests
-
-  STOP WebSocket server
-
-  WAIT for active jobs to finish
-
-  CLOSE worker
-
-  CLOSE queue and Redis connections
-
-  EXIT process safely
-```
 
 ---
 
