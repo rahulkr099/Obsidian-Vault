@@ -59,63 +59,16 @@ Allow request OR Reject with 429
 
 ---
 
-## 7. Decision Handling
-
-```
-IF allowed
-  Allow request to continue
-  Set response headers:
-    - Rate limit
-    - Remaining tokens
-    - Reset estimate
-
-ELSE
-  Reject request
-  Return HTTP 429 (Too Many Requests)
-```
 
 ---
 
-## 8. Fallback Strategy (WOW ⭐)
 
-```
-IF Redis is unavailable
-
-  Use local in-memory counter
-    - Fixed short window
-    - Best-effort protection
-
-  This keeps service available
-  Even if global limit is briefly exceeded
-```
-
-👉 **Trade-off explained clearly**:  
-Availability is preferred over strict correctness when Redis is down.
 
 ---
 
-## 9. Response Headers (Good API Design)
-
-```
-X-RateLimit-Limit      → max tokens
-X-RateLimit-Remaining  → remaining tokens
-X-RateLimit-Reset      → seconds until refill
-Retry-After            → when client should retry (optional)
-```
 
 ---
 
-## 10. Example Configuration
-
-```
-Public API:
-  capacity = 5
-  refillRate = 0.5 tokens/sec
-
-Admin API:
-  capacity = 1000
-  refillRate = 1000 tokens/sec
-```
 
 ---
 
@@ -142,24 +95,6 @@ Scales horizontally
 
 ---
 
-## 13. Alternatives (Mention Briefly)
-
-```
-Fixed Window
-  - Simple
-  - Burst at window edge (bad)
-
-Sliding Window
-  - Accurate
-  - Higher memory & CPU
-
-Leaky Bucket
-  - Smooth traffic
-  - No bursts
-
-Token Bucket (chosen)
-  - Best balance for APIs
-```
 
 ---
 
