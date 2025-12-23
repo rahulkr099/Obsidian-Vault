@@ -11,14 +11,10 @@
             "id": "96681c068544bdcc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend Flow/12. Polling Voting System.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "12. Polling Voting System"
+              "title": "New tab"
             }
           }
         ]
@@ -197,8 +193,12 @@
   },
   "active": "96681c068544bdcc",
   "lastOpenFiles": [
-    "Backend Flow/14. Polling Voting System",
+    "Backend Flow/15. Event Booking API/13. Event Booking Api.md",
+    "Backend Flow/12. Polling Voting System.md",
+    "Backend Flow/14. Polling Voting System/12. Polling Voting System.md",
+    "Backend Flow/15. Event Booking API",
     "Backend Flow/Untitled Folder",
+    "Backend Flow/14. Polling Voting System",
     "Backend Flow/13. Inventory Management System/error handling.md",
     "Backend Flow/13. Inventory Management System/Intro.md",
     "Backend Flow/13. Inventory Management System/inventory transaction system.md",
@@ -211,7 +211,6 @@
     "Backend Flow/13. Inventory Management System/pagination helper.md",
     "Backend Flow/13. Inventory Management System/data models.md",
     "Backend Flow/13. Inventory Management System/application startup.md",
-    "Backend Flow/12. Polling Voting System.md",
     "Backend Flow/12. Library Management System/Intro.md",
     "Backend Flow/12. Library Management System/error handling.md",
     "Backend Flow/12. Library Management System/audit logging.md",
@@ -223,15 +222,12 @@
     "Backend Flow/12. Library Management System/reservation auto promotion.md",
     "Backend Flow/12. Library Management System/return book.md",
     "Backend Flow/12. Library Management System/borrow book.md",
-    "Backend Flow/12. Library Management System/get single book.md",
     "Backend Flow/2. Notes App/In Mongo DB",
     "Backend Flow/2. Notes App/In Memory",
     "Backend Flow/2. Notes App",
     "Backend Flow/1. Todo App",
     "Backend Flow/13. Inventory Management System",
     "Backend Flow/12. Library Management System",
-    "Backend Flow/11. Chat Messaging System",
-    "Backend Flow/10. Shopping Cart API",
-    "Backend Flow/9. Expense Tracker API"
+    "Backend Flow/11. Chat Messaging System"
   ]
 }
