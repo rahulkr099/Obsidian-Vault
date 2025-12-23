@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cf2c125739e0e155",
+        "id": "210c35b33c824a7e",
         "type": "tabs",
         "children": [
           {
-            "id": "7975d5dfd4333476",
+            "id": "67430309523f0977",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend Flow/8. Ecommerce Product API/get single product.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "get single product"
+              "title": "New tab"
             }
           }
         ]
@@ -200,25 +196,25 @@
     "type": "floating",
     "children": [
       {
-        "id": "f887f9e08d5af57f",
+        "id": "b6ba0658982db8d3",
         "type": "window",
         "children": [
           {
-            "id": "1ea8afeb00783c46",
+            "id": "7102c9800d9d9549",
             "type": "tabs",
             "children": [
               {
-                "id": "bfb27f75f52b800c",
+                "id": "7975d5dfd4333476",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Backend Flow/8. Ecommerce Product API/5. Ecommerce Product API.md",
+                    "file": "Backend Flow/9. Expense Tracker API/6. Expense Tracker API.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "5. Ecommerce Product API"
+                  "title": "6. Expense Tracker API"
                 }
               }
             ]
@@ -236,7 +232,10 @@
   },
   "active": "7975d5dfd4333476",
   "lastOpenFiles": [
-    "Backend Flow/8. Ecommerce Product API/5. Ecommerce Product API.md",
+    "Backend Flow/8. Ecommerce Product API/docker setup logic.md",
+    "Backend Flow/8. Ecommerce Product API/Intro.md",
+    "Backend Flow/8. Ecommerce Product API/seed script logic.md",
+    "Backend Flow/8. Ecommerce Product API/faceted aggregation pipeline.md",
     "Backend Flow/8. Ecommerce Product API/get single product.md",
     "Backend Flow/8. Ecommerce Product API/page based pagination.md",
     "Backend Flow/8. Ecommerce Product API/cursor based pagination flow.md",
@@ -259,9 +258,6 @@
     "Backend Flow/4. File Uploading/S3 Upload Setup.md",
     "Backend Flow/4. File Uploading/Local Disk Upload Setup.md",
     "Backend Flow/4. File Uploading/Multer Configuration.md",
-    "Backend Flow/4. File Uploading/server initialization.md",
-    "Backend Flow/3. Blog App/comment.controller.js.md",
-    "Backend Flow/3. Blog App/Intro.md",
     "Backend Flow/2. Notes App/In Mongo DB",
     "Backend Flow/2. Notes App/In Memory",
     "Backend Flow/2. Notes App",
