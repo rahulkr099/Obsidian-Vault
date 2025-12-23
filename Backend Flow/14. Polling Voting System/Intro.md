@@ -10,58 +10,6 @@ I’ll keep it **simple**, **logical**, and **easy to speak while coding**.
 ---
 
 
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-## ⏰ 6. Poll Expiry Cleaner (WOW – Cron Job)
-
-```text
-EVERY 10 minutes:
-
-  FIND polls WHERE expiresAt < current time
-  DELETE expired polls
-```
-
----
-
-## ⚡ 7. Real-Time Updates (Super WOW)
-
-```text
-WHEN vote happens:
-  SEND event "vote-update"
-    pollId
-    updated options
-```
-
-Clients listening → UI updates instantly.
-
----
-
-## 🧠 8. Extra Smart Enhancements (Say this confidently)
-
-```text
-IF userId not available:
-  use IP address to limit voting
-
-ALLOW multiple option selection:
-  accept array of optionIndexes
-
-STORE analytics:
-  timestamp of each vote
-```
-
----
 
 # 🎯 How to Explain This in Interview (Golden Lines)
 
