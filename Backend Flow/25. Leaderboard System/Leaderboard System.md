@@ -21,123 +21,22 @@ Components:
 
 ---
 
-## 📦 2. Data Structures
-
-### Redis Sorted Set
-
-```text
-Key: leaderboard:<name>
-
-Member: userId
-Score: numeric score
-```
-
-Example:
-
-```text
-leaderboard:global
-  userA → 1200
-  userB → 980
-```
 
 ---
 
-## 🔁 3. Update Score (SET or INCREMENT)
-
-```text
-FUNCTION updateScore(leaderboardName, userId, score, operation):
-
-  key = "leaderboard:" + leaderboardName
-
-  IF operation == "incr":
-    newScore = REDIS.ZINCRBY(key, score, userId)
-  ELSE:
-    REDIS.ZADD(key, score, userId)
-    newScore = score
-
-  // (optional) persist event asynchronously to DB
-
-  RETURN newScore
-```
 
 ---
 
-## 🏆 4. Get Top-N Users
-
-```text
-FUNCTION getTopN(leaderboardName, N):
-
-  key = "leaderboard:" + leaderboardName
-
-  results = REDIS.ZREVRANGE(key, 0, N-1, WITH_SCORES)
-
-  rank = 1
-  FOR each (userId, score) in results:
-    ADD { userId, score, rank } to response
-    rank = rank + 1
-
-  RETURN response
-```
 
 ---
 
-## 🧮 5. Get User Rank
 
-```text
-FUNCTION getUserRank(leaderboardName, userId):
-
-  key = "leaderboard:" + leaderboardName
-
-  rankIndex = REDIS.ZREVRANK(key, userId)
-
-  IF rankIndex is NULL:
-    RETURN null
-
-  score = REDIS.ZSCORE(key, userId)
-
-  RETURN {
-    rank: rankIndex + 1,
-    score: score
-  }
-```
 
 ---
 
-## 👥 6. Get Users Around a Player (Neighbors)
-
-```text
-FUNCTION getAroundUser(leaderboardName, userId, k):
-
-  key = "leaderboard:" + leaderboardName
-
-  userRank = REDIS.ZREVRANK(key, userId)
-  IF userRank is NULL:
-    RETURN null
-
-  start = max(0, userRank - k)
-  end = userRank + k
-
-  results = REDIS.ZREVRANGE(key, start, end, WITH_SCORES)
-
-  FOR each result:
-    CALCULATE rank = start + index + 1
-    ADD { userId, score, rank }
-
-  RETURN list
-```
 
 ---
 
-## 🌍 7. Time-Based Leaderboards (Daily / Weekly)
-
-```text
-FUNCTION getLeaderboardKey(base, date):
-  RETURN base + ":" + date
-
-Example:
-  leaderboard:daily:2025-12-14
-  leaderboard:weekly:2025-W50
-```
 
 ---
 
