@@ -15,11 +15,3 @@ FOR each coupon IN coupons:
     bestDiscount = discount
     bestCoupon = coupon
 ```
-### ✅ Return Best Match
-
-```
-RETURN {
-  bestCoupon,
-  bestDiscount
-}
-```

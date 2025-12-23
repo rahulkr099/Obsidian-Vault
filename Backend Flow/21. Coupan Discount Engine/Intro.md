@@ -53,32 +53,9 @@ Build a service that:
 
 ---
 
-## 9️⃣ IDEMPOTENT APPLY (BONUS WOW ⭐)
-
-```
-FUNCTION applyCouponIdempotent(requestId, userId, couponCode):
-
-  IF requestId already processed
-    RETURN previous result
-
-  ELSE
-    result = applyCoupon(couponCode, orderValue, userId)
-    STORE result with requestId
-    RETURN result
-```
 
 ---
 
-## 🔒 Misuse Protection Summary
-
-```
-✔ Expiry validation
-✔ Global usage limit
-✔ Per-user usage limit
-✔ Min order value check
-✔ Max discount cap
-✔ Idempotent apply support
-```
 
 ---
 
