@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4abab3b66c2f82e1",
+        "id": "e98a2724fe943318",
         "type": "tabs",
         "children": [
           {
-            "id": "85d95d2467bb7701",
+            "id": "2f56ded7ebd98727",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/15. Event Booking API/qr code generation.md",
+                "file": "Backend Flow/16. BankTransfer with acid/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "qr code generation"
+              "title": "Untitled"
             }
           }
         ]
@@ -200,25 +200,25 @@
     "type": "floating",
     "children": [
       {
-        "id": "1971327af9fcd0ed",
+        "id": "d438f5d2d6dc23f0",
         "type": "window",
         "children": [
           {
-            "id": "5861995904fc0d3b",
+            "id": "73b16f1e8afe85dd",
             "type": "tabs",
             "children": [
               {
-                "id": "3513ad29ee56bdad",
+                "id": "85d95d2467bb7701",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Backend Flow/15. Event Booking API/13. Event Booking Api.md",
+                    "file": "Backend Flow/16. BankTransfer with acid/14. Bank transfer with acid transaction.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "13. Event Booking Api"
+                  "title": "14. Bank transfer with acid transaction"
                 }
               }
             ]
@@ -234,11 +234,22 @@
       }
     ]
   },
-  "active": "85d95d2467bb7701",
+  "active": "2f56ded7ebd98727",
   "lastOpenFiles": [
-    "Backend Flow/15. Event Booking API/real time seat updates.md",
+    "Backend Flow/16. BankTransfer with acid/idempotency.md",
+    "Backend Flow/16. BankTransfer with acid/Untitled.md",
+    "Backend Flow/16. BankTransfer with acid/14. Bank transfer with acid transaction.md",
+    "Backend Flow/16. BankTransfer with acid/durability.md",
+    "Backend Flow/16. BankTransfer with acid/isolation.md",
+    "Backend Flow/16. BankTransfer with acid/consistency.md",
+    "Backend Flow/16. BankTransfer with acid/atomicity.md",
+    "Backend Flow/16. BankTransfer with acid/transfer money.md",
+    "Backend Flow/16. BankTransfer with acid/data models.md",
+    "Backend Flow/15. Event Booking API/error handling.md",
+    "Backend Flow/15. Event Booking API/Intro.md",
+    "Backend Flow/15. Event Booking API/rate limit and safety.md",
     "Backend Flow/15. Event Booking API/qr code generation.md",
-    "Backend Flow/15. Event Booking API/13. Event Booking Api.md",
+    "Backend Flow/15. Event Booking API/real time seat updates.md",
     "Backend Flow/15. Event Booking API/list booking.md",
     "Backend Flow/15. Event Booking API/cancel booking.md",
     "Backend Flow/15. Event Booking API/book seat.md",
@@ -251,23 +262,12 @@
     "Backend Flow/14. Polling Voting System/Intro.md",
     "Backend Flow/14. Polling Voting System/Real time updates.md",
     "Backend Flow/14. Polling Voting System/Poll expiry.md",
-    "Backend Flow/14. Polling Voting System/get poll results.md",
-    "Backend Flow/14. Polling Voting System/get poll details.md",
-    "Backend Flow/14. Polling Voting System/vote on poll.md",
-    "Backend Flow/14. Polling Voting System/create poll.md",
-    "Backend Flow/14. Polling Voting System/data model.md",
-    "Backend Flow/33. Snake and Ladder/Snake and Ladder.md",
     "Backend Flow/33. Snake and Ladder",
     "Backend Flow/Untitled Folder",
-    "Backend Flow/32. Simple Payment Solution/Simple Payment Solution.md",
     "Backend Flow/32. Simple Payment Solution",
-    "Backend Flow/31. Scheduling API/Scheduling API.md",
     "Backend Flow/31. Scheduling API",
-    "Backend Flow/30. Real Time Analytics/Reall time analytics counter.md",
     "Backend Flow/30. Real Time Analytics",
-    "Backend Flow/29. Queue System - job processing/Queue System - job processing.md",
     "Backend Flow/29. Queue System - job processing",
-    "Backend Flow/28. Queue System - email/Queue system - email.md",
     "Backend Flow/28. Queue System - email",
     "Backend Flow/27. Notification System",
     "Backend Flow/26. Ludo Game",
