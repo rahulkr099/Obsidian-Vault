@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/JavaScript/Machine Coding- Intermediate/2. Create Stopwatch.md",
+                "file": "Full Stack Mini Projects/How company will know my worth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Create Stopwatch"
+              "title": "How company will know my worth"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -198,10 +197,11 @@
   },
   "active": "86e14f4a599fe422",
   "lastOpenFiles": [
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate/2. Create Stopwatch.md",
+    "Full Stack Mini Projects/How company will know my worth.md",
     "Backend Flow/Database Designing.md",
     "Backend Flow/0. API Design.md",
     "Full Stack Mini Projects/High paying target.md",
-    "Frontend Flow/JavaScript/Machine Coding- Intermediate/2. Create Stopwatch.md",
     "Nemo Scripts.md",
     "Nemo Plugin.md",
     "Frontend Flow/JavaScript/1. HTML & CSS/4. Image Carousel.md",
@@ -223,7 +223,6 @@
     "Backend Flow/32. Simple Payment Solution/get payment status.md",
     "Backend Flow/32. Simple Payment Solution/refund payment.md",
     "Backend Flow/32. Simple Payment Solution/capture payment.md",
-    "Backend Flow/32. Simple Payment Solution/simulate client payment.md",
     "Backend Flow/33. Snake and Ladder",
     "Backend Flow/Untitled Folder",
     "Backend Flow/32. Simple Payment Solution",
