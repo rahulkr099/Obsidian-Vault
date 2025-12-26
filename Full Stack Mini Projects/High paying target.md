@@ -225,16 +225,16 @@ This is a **roadmap many backend engineers actually follow** in India (startups 
 
 ### _(Your possible path from fresher → senior engineer → high-paying roles)_
 
-|Stage|Experience|Skills You Need to Add|Possible Salary Range|What You Must Focus On|
-|---|---|---|---|---|
-|**1. Fresher**|0–1 year|MERN, basic DSA, SQL|**5–7 LPA**|Get a job → learn code quality|
-|**2. Junior Engineer**|1–2 years|API design, auth, testing (Jest), caching basics|**10–15 LPA**|Take ownership of real features|
-|**3. Backend Engineer**|2–3 years|Redis, queues, Docker, DB indexing, optimization|**15–25 LPA**|Handle production systems + debugging|
-|**4. Senior Backend Engineer**|3–4 years|Microservices, system design basics, AWS|**25–35 LPA**|Build systems end-to-end|
-|**5. High-Level Backend Engineer**|4–5 years|Kubernetes, event-driven systems, CI/CD|**35–45 LPA**|Improve performance, scalability|
-|**6. Staff Engineer / Tech Lead (Startup)**|5–6 years|Architecture, mentoring, infra cost optimization|**45–60 LPA**|Lead modules and guide juniors|
-|**7. Senior Staff / Principal Engineer**|6–7 years|Distributed systems, deep system design, reliability|**60–80 LPA**|Own core architecture of full systems|
-|**8. Top-Tier Engineer (FAANG-like / funded startup)**|7–8 years|Advanced architecture, leadership, cross-team systems|**80–90+ LPA**|Solve high-scale, high-impact problems|
+| Stage                                                  | Experience | Skills You Need to Add                                | Possible Salary Range | What You Must Focus On                 |
+| ------------------------------------------------------ | ---------- | ----------------------------------------------------- | --------------------- | -------------------------------------- |
+| **1. Fresher**                                         | 0–1 year   | MERN, basic DSA, SQL                                  | **5–7 LPA**           | Get a job → learn code quality         |
+| **2. Junior Engineer**                                 | 1–2 years  | API design, auth, testing (Jest), caching basics      | **10–15 LPA**         | Take ownership of real features        |
+| **3. Backend Engineer**                                | 2–3 years  | Redis, queues, Docker, DB indexing, optimization      | **15–25 LPA**         | Handle production systems + debugging  |
+| **4. Senior Backend Engineer**                         | 3–4 years  | Microservices, system design basics, AWS              | **25–35 LPA**         | Build systems end-to-end               |
+| **5. High-Level Backend Engineer**                     | 4–5 years  | Kubernetes, event-driven systems, CI/CD               | **35–45 LPA**         | Improve performance, scalability       |
+| **6. Staff Engineer / Tech Lead (Startup)**            | 5–6 years  | Architecture, mentoring, infra cost optimization      | **45–60 LPA**         | Lead modules and guide juniors         |
+| **7. Senior Staff / Principal Engineer**               | 6–7 years  | Distributed systems, deep system design, reliability  | **60–80 LPA**         | Own core architecture of full systems  |
+| **8. Top-Tier Engineer (FAANG-like / funded startup)** | 7–8 years  | Advanced architecture, leadership, cross-team systems | **80–90+ LPA**        | Solve high-scale, high-impact problems |
 
 ---
 
