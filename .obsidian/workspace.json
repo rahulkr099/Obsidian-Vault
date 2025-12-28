@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/JavaScript/Machine Coding- Intermediate/4. Create Image Slider.md",
+                "file": "Frontend Flow/JavaScript/Machine Coding- Intermediate/5. Quiz Application.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Create Image Slider"
+              "title": "5. Quiz Application"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "86e14f4a599fe422",
   "lastOpenFiles": [
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate/4. Create Image Slider.md",
     "Frontend Flow/10 day machine coding round.md",
     "Frontend Flow/JavaScript/Machine Coding- Intermediate/3. Captcha Generator.md",
     "Terminal Learning/(Level 2) Terminal Mastery Roadmap.md",
@@ -224,7 +225,6 @@
     "Backend Flow/33. Snake and Ladder/player disconnect handling.md",
     "Backend Flow/33. Snake and Ladder/Intro.md",
     "Backend Flow/33. Snake and Ladder/turn switching logic.md",
-    "Backend Flow/33. Snake and Ladder/broadcast game update.md",
     "Backend Flow/33. Snake and Ladder",
     "Backend Flow/Untitled Folder",
     "Backend Flow/32. Simple Payment Solution",
