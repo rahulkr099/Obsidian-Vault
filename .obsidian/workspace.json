@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/JavaScript/Machine Coding- Intermediate/3. Captcha Generator.md",
+                "file": "Full Stack Mini Projects/12 projects to crack any startups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Captcha Generator"
+              "title": "12 projects to crack any startups"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -198,8 +197,9 @@
   },
   "active": "86e14f4a599fe422",
   "lastOpenFiles": [
-    "Frontend Flow/JavaScript/Machine Coding- Intermediate/2. Create Stopwatch.md",
+    "Full Stack Mini Projects/The Infosys 2025 Career Accelerator_ A Fresher's Onboarding Guide .pdf",
     "Frontend Flow/JavaScript/Machine Coding- Intermediate/3. Captcha Generator.md",
+    "Frontend Flow/JavaScript/Machine Coding- Intermediate/2. Create Stopwatch.md",
     "Terminal Learning/Vim.md",
     "Terminal Learning/Terminal Tweaking.md",
     "Terminal Learning/Python Scripting Roadmap.md",
@@ -223,7 +223,6 @@
     "Backend Flow/33. Snake and Ladder/player join flow.md",
     "Backend Flow/33. Snake and Ladder/core data structures.md",
     "Backend Flow/32. Simple Payment Solution/health check.md",
-    "Backend Flow/32. Simple Payment Solution/Intro.md",
     "Backend Flow/33. Snake and Ladder",
     "Backend Flow/Untitled Folder",
     "Backend Flow/32. Simple Payment Solution",
@@ -232,7 +231,6 @@
     "Backend Flow/29. Queue System - job processing",
     "Backend Flow/28. Queue System - email",
     "Backend Flow/27. Notification System",
-    "Backend Flow/26. Ludo Game",
-    "Backend Flow/25. Leaderboard System"
+    "Backend Flow/26. Ludo Game"
   ]
 }
