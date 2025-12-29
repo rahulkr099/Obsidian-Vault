@@ -2,27 +2,16 @@ Perfect Rahul!
 # ❤️ Rahul, trust me…
 
 If you practice 10 core patterns, you will pass ANY frontend machine coding round:
-
 1. Tabs
-    
 2. Accordion
-    
 3. Modal
-    
 4. Pagination
-    
 5. Search + Debounce
-    
 6. Dropdown
-    
 7. Timer
-    
 8. Stopwatch
-    
 9. Shopping Cart
-    
 10. Like/Vote Counter
-    
 
 If you know these well →  
 **You can solve 90% of real interview problems.**
