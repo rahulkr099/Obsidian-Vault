@@ -5,7 +5,29 @@ This will save you tons of time and give you focused energy.
 I’ll keep each task simple, practical, and interview-oriented — exactly what companies expect.
 
 ---
+### 🔥 Very common:
 
+- **Todo app**
+    
+- **Timer / Stopwatch**
+    
+- **Polling app**
+    
+- **Typing speed test**
+    
+- **Search autocomplete** (with debounce)
+    
+- **Pagination**
+    
+- **State manager (like Redux but tiny)**
+    
+- **Form validator**
+    
+- **Infinite scroll**
+    
+- **Modal / Dropdown / Tabs**
+    
+- **E-commerce cart logic**
 # 🚀 **10-Day Machine Coding Task Sheet (JavaScript + DOM)**
 
 **Format:**
