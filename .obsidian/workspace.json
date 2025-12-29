@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/Full Stack Mock Interview.md",
+                "file": "Backend Flow/Mock Interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Full Stack Mock Interview"
+              "title": "Mock Interview"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "86e14f4a599fe422",
   "lastOpenFiles": [
-    "Backend Flow/Mock Interview.md",
     "Backend Flow/Full Stack Mock Interview.md",
+    "Backend Flow/Mock Interview.md",
     "Frontend Flow/Mock Interview.md",
     "Frontend Flow/10 day machine coding round.md",
     "Frontend Flow/50 Machine Coding Round Questions.md",
