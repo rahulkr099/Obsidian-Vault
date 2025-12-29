@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/50 Machine Coding Round Questions.md",
+                "file": "Frontend Flow/Mock Interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "50 Machine Coding Round Questions"
+              "title": "Mock Interview"
             }
           }
         ]
@@ -198,6 +198,7 @@
   "active": "86e14f4a599fe422",
   "lastOpenFiles": [
     "Frontend Flow/10 day machine coding round.md",
+    "Frontend Flow/Mock Interview.md",
     "Frontend Flow/50 Machine Coding Round Questions.md",
     "Frontend Flow/1. HTML & CSS/16. Dynamic Content Filtering.md",
     "Frontend Flow/1. HTML & CSS/13. Web Accessibility.md",
@@ -222,7 +223,6 @@
     "Terminal Learning/Kitty_+_Tmux.md",
     "Terminal Learning/Dev Tricks.md",
     "Frontend Flow/Machine Coding- Intermediate/7. Music Player.md",
-    "Frontend Flow/Machine Coding- Intermediate/5. Quiz Application.md",
     "Frontend Flow/Machine Coding- Intermediate",
     "Frontend Flow/5. JS Projects",
     "Frontend Flow/2. Intermediate Frontend Code",
