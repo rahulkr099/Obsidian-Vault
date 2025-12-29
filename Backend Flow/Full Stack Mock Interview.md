@@ -990,9 +990,3 @@ If you want, I can now generate:
 👉 Starter templates  
 👉 Questions + scoring sheet  
 👉 Sample answers
-
-Just tell me:
-
-### **Start Full Stack Round X**
-
-(Choose any number from 1 to 20)
