@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/Full Stack Mock Interview.md",
+                "file": "Backend Flow/Mock Interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Full Stack Mock Interview"
+              "title": "Mock Interview"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "9bf489ba14a7ec9d",
   "lastOpenFiles": [
-    "Backend Flow/Mock Interview.md",
     "Backend Flow/Full Stack Mock Interview.md",
+    "IMPORTANT.base",
+    "Backend Flow/Mock Interview.md",
     "Backend Flow/Database Designing.md",
     "Backend Flow/0. API Design.md",
     "Frontend Flow/Mock Interview.md",
@@ -226,12 +227,10 @@
     "Full Stack Mini Projects/Fullstack machine coding evaluation.md",
     "Full Stack Mini Projects/System Design/Fresher Level System Design.md",
     "Full Stack Mini Projects/System Design/Experienced Level System Design.md",
-    "Full Stack Mini Projects/DSA Roadmap for Startups.md",
     "Frontend Flow/0. Mock Interview",
     "Backend Flow/0. Mock Interview",
     "Frontend Flow/Machine Coding- Intermediate",
     "Frontend Flow/5. JS Projects",
-    "Frontend Flow/2. Intermediate Frontend Code",
-    "Frontend Flow/1. HTML & CSS"
+    "Frontend Flow/2. Intermediate Frontend Code"
   ]
 }
