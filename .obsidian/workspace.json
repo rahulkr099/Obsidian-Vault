@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/10 day machine coding round.md",
+                "file": "Frontend Flow/Mock Interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 day machine coding round"
+              "title": "Mock Interview"
             }
           }
         ]
@@ -197,9 +197,9 @@
   },
   "active": "86e14f4a599fe422",
   "lastOpenFiles": [
+    "Frontend Flow/10 day machine coding round.md",
     "Frontend Flow/Mock Interview.md",
     "Frontend Flow/50 Machine Coding Round Questions.md",
-    "Frontend Flow/10 day machine coding round.md",
     "Frontend Flow/Modal.md",
     "Frontend Flow/Accordion.md",
     "Frontend Flow/Tabs.md",
