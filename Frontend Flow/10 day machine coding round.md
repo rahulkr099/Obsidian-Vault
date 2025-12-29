@@ -444,11 +444,4 @@ This is exactly how top candidates prepare.
 
 ---
 
-If you want, I can also create:  
-🔥 **Daily code templates**  
-🔥 **Daily challenges**  
-🔥 **Mini evaluation after each day**  
-🔥 **A GitHub-ready folder structure**
-
-Want me to prepare that too?
 
