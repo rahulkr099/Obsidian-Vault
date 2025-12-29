@@ -35,7 +35,8 @@
               "title": "Mock Interview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,10 +264,11 @@
       }
     ]
   },
-  "active": "86e14f4a599fe422",
+  "active": "f9e9d0ac641467ac",
   "lastOpenFiles": [
-    "Frontend Flow/Mock Interview.md",
+    "Backend Flow/Full Stack Mock Interview.md",
     "Frontend Flow/10 day machine coding round.md",
+    "Frontend Flow/Mock Interview.md",
     "Frontend Flow/2. Intermediate Frontend Code/Pagination.md",
     "Full Stack Mini Projects/10 day mern Roadmap.md",
     "Full Stack Mini Projects/System Design/readme.md",
@@ -288,7 +290,6 @@
     "Backend Flow/Mock Interview.md",
     "Frontend Flow/0. Mock Interview",
     "Backend Flow/0. Mock Interview",
-    "Backend Flow/Full Stack Mock Interview.md",
     "Frontend Flow/50 Machine Coding Round Questions.md",
     "Frontend Flow/2. Intermediate Frontend Code/Modal.md",
     "Frontend Flow/2. Intermediate Frontend Code/Accordion.md",
