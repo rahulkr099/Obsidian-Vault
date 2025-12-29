@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/50 Machine Coding Round Questions.md",
+                "file": "Frontend Flow/10 day machine coding round.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "50 Machine Coding Round Questions"
+              "title": "10 day machine coding round"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "86e14f4a599fe422",
   "lastOpenFiles": [
+    "Frontend Flow/50 Machine Coding Round Questions.md",
     "Frontend Flow/10 day machine coding round.md",
     "Frontend Flow/1. HTML & CSS/16. Dynamic Content Filtering.md",
     "Frontend Flow/1. HTML & CSS/13. Web Accessibility.md",
@@ -209,7 +210,6 @@
     "Frontend Flow/2. Intermediate Frontend Code/15. Animated Dropdown MEnu.md",
     "Frontend Flow/2. Intermediate Frontend Code/12. Image Gallery.md",
     "Frontend Flow/2. Intermediate Frontend Code/4. Sticky Navigation.md",
-    "Frontend Flow/50 Machine Coding Round Questions.md",
     "Frontend Flow/Machine Coding- Intermediate/6. Dark Mode.md",
     "Frontend Flow/Machine Coding- Intermediate/22. Creating a Simple Image Editor.md",
     "Frontend Flow/Machine Coding- Intermediate/20. Quiz App with Timer.md",

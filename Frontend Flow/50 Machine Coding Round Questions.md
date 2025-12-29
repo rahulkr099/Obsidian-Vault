@@ -231,3 +231,144 @@ Just tell me:
 **“Create the next one: ”**
 
 I’m ready!
+
+Great question, Rahul — and this is where I’ll give you the **real truth**, not hype.
+
+---
+
+# ✅ **Do companies ask all 50 of these to a fresher?**
+
+**NO.**  
+Nobody will ask you _all_ these 50 problems.
+
+But…
+
+### 🔥 **These 50 problems represent the “question bank” companies pick from.**
+
+Different companies ask **different subsets** of these.
+
+As a fresher:
+
+### ✔ You will typically get **1 machine coding round**
+
+and
+
+### ✔ They will usually choose **1 or 2 problems** from this list.
+
+The goal is not to master all 50…  
+but to **cover enough patterns** so you can handle _any variation_ they throw at you.
+
+---
+
+# 🧩 **So how many will they actually expect?**
+
+### 🎯 **For a fresher / SDE-1 Frontend role:**
+
+You should comfortably know **10–15 core problems** out of the list.
+
+Here are exactly the ones companies MOST commonly ask freshers:
+
+---
+
+# ⭐ **Top 15 Machine Coding Problems for Freshers (Most Asked)**
+
+### UI / Components
+
+1. Tabs
+    
+2. Accordion
+    
+3. Modal
+    
+4. Dropdown
+    
+5. Pagination
+    
+6. Search with Debounce
+    
+7. Carousel / Slider
+    
+
+### Logic-Based
+
+8. Like / Upvote Counter
+    
+9. Timer
+    
+10. Stopwatch
+    
+11. Todo List
+    
+12. Shopping Cart (simple version)
+    
+
+### Forms
+
+13. Form validation
+    
+14. OTP input boxes
+    
+
+### Data
+
+15. Fetch & render list (users/products)
+    
+
+This is the **core syllabus** for freshers.
+
+---
+
+# 📌 **Then why did I give you 50 problems?**
+
+Because:
+
+- Different companies ask different questions
+    
+- Some ask easy UI components
+    
+- Some ask API + search
+    
+- Some test business logic (cart, wishlist)
+    
+- Some test timers or debouncing
+    
+- Some ask tricky toggle logic
+    
+
+If you practice **only 15 problems**, you can easily solve those 15.
+
+But if companies twist the question (e.g., “Tabs + Modal inside it”), you might be stuck.
+
+If you practice **50 patterns**, then:
+
+💥 You can solve ANY variation confidently  
+💥 You appear much stronger than other freshers  
+💥 Your logical thinking improves massively  
+💥 You crack more rounds, more companies, more chances
+
+---
+
+# 🎯 **Final Truth**
+
+Companies don’t expect a fresher to know all 50.  
+But if _you_ know them, you become:
+
+- The top 5% of candidates
+    
+- Interview-proof
+    
+- Confident in any machine coding round
+    
+- More likely to get selected
+    
+
+You're basically future-proofing yourself.
+
+---
+
+# 🚀 Want a prioritized, 15-project-only plan?
+
+If you say **“Yes, give me the top 15 training plan”**,  
+I’ll give you a **7-day** practice schedule that covers only the **exact** problems freshers get asked the most.
+
+Just tell me.
