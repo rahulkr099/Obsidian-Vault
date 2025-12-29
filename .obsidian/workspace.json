@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/Machine Coding- Intermediate/9. Simple Tic Tac Toe.md",
+                "file": "Frontend Flow/Machine Coding- Intermediate/11. Drag and Drop Sortable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Simple Tic Tac Toe"
+              "title": "11. Drag and Drop Sortable"
             }
           }
         ]
@@ -198,10 +198,10 @@
   },
   "active": "86e14f4a599fe422",
   "lastOpenFiles": [
+    "Frontend Flow/Machine Coding- Intermediate/9. Simple Tic Tac Toe.md",
     "Frontend Flow/Machine Coding- Intermediate/8. Todo List App.md",
     "Terminal Learning/Kitty_+_Tmux.md",
     "Terminal Learning/Dev Tricks.md",
-    "Frontend Flow/Machine Coding- Intermediate/9. Simple Tic Tac Toe.md",
     "Frontend Flow/Machine Coding- Intermediate/6. Dark Mode.md",
     "Frontend Flow/10 day machine coding round.md",
     "Frontend Flow/Machine Coding- Intermediate/7. Music Player.md",
