@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/2. Intermediate Frontend Code/Pagination.md",
+                "file": "Frontend Flow/10 day machine coding round.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pagination"
+              "title": "10 day machine coding round"
+            }
+          },
+          {
+            "id": "f9e9d0ac641467ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend Flow/Mock Interview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mock Interview"
             }
           }
         ]
@@ -251,7 +265,9 @@
   },
   "active": "86e14f4a599fe422",
   "lastOpenFiles": [
+    "Frontend Flow/Mock Interview.md",
     "Frontend Flow/10 day machine coding round.md",
+    "Frontend Flow/2. Intermediate Frontend Code/Pagination.md",
     "Full Stack Mini Projects/10 day mern Roadmap.md",
     "Full Stack Mini Projects/System Design/readme.md",
     "Full Stack Mini Projects/System Design",
@@ -273,7 +289,6 @@
     "Frontend Flow/0. Mock Interview",
     "Backend Flow/0. Mock Interview",
     "Backend Flow/Full Stack Mock Interview.md",
-    "Frontend Flow/Mock Interview.md",
     "Frontend Flow/50 Machine Coding Round Questions.md",
     "Frontend Flow/2. Intermediate Frontend Code/Modal.md",
     "Frontend Flow/2. Intermediate Frontend Code/Accordion.md",
