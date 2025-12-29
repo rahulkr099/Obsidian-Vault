@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/0. Mock Interview/Debounce + Search.md",
+                "file": "Frontend Flow/10 day machine coding round.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Debounce + Search"
+              "title": "10 day machine coding round"
             }
           }
         ],
@@ -266,10 +266,10 @@
   },
   "active": "9bf489ba14a7ec9d",
   "lastOpenFiles": [
-    "Frontend Flow/0. Mock Interview/Modal, Tabs, Accordion.md",
     "Frontend Flow/0. Mock Interview/Shopping Cart Sytem.md",
-    "Frontend Flow/10 day machine coding round.md",
+    "Frontend Flow/0. Mock Interview/Modal, Tabs, Accordion.md",
     "Frontend Flow/0. Mock Interview/Debounce + Search.md",
+    "Frontend Flow/10 day machine coding round.md",
     "Frontend Flow/0. Mock Interview/ToDo App.md",
     "Frontend Flow/Mock Interview.md",
     "Frontend Flow/0. Mock Interview/Form Validation.md",
