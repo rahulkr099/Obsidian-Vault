@@ -5,6 +5,74 @@ This will save you tons of time and give you focused energy.
 I’ll keep each task simple, practical, and interview-oriented — exactly what companies expect.
 
 ---
+# 🎯 What machine coding rounds actually test
+
+### **UI + Logic**
+
+- Todo App
+    
+- Notes App
+    
+- Timer / Stopwatch
+    
+- Calculator
+    
+- Pagination
+    
+- Searchbox + Debounce
+    
+- Like / Vote counter
+    
+- Shopping cart
+    
+- Tabs, accordion, modal
+    
+- Infinite scroll
+    
+- Simple chat UI
+    
+- Form validation
+    
+
+### **Logic-heavy**
+
+- Debounce / Throttle
+    
+- Promise utilities
+    
+- EventEmitter
+    
+- LRU Cache
+    
+- Deep clone
+    
+- Flatten nested objects
+    
+- Retry logic
+    
+- Rate limiting
+    
+- Currying
+    
+- Pub/Sub
+    
+
+### **Basic DSA**
+
+- Arrays
+    
+- Maps
+    
+- Sets
+    
+- Queue
+    
+- Stack
+    
+- Sorting
+    
+
+These are the real, expected topics.
 ### 🔥 Very common:
 
 - **Todo app**
