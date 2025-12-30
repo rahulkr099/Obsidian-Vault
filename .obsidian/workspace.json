@@ -11,10 +11,14 @@
             "id": "320452ef961ec4bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Frontend Flow/Mock Interview.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mock Interview"
             }
           }
         ]

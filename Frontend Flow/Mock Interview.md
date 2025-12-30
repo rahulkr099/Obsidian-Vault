@@ -5,7 +5,7 @@ I’ll give you **mock machine-coding interviews for ALL 15 core frontend patter
 - Clear problem statement
     
 - Time limit
-    
+     
 - Requirements
     
 - Edge cases
