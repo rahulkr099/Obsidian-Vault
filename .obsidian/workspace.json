@@ -191,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "544ea4d7090638f9",
+  "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
+    "Frontend Flow/Hitesh DOM",
     "Backend Flow/Data Sanitization.md",
     "Backend Flow/Mock Interview.md",
     "Backend Flow/Full Stack Mock Interview.md",
@@ -223,7 +224,6 @@
     "Full Stack Mini Projects/Get Hired as a Software Engineer.md",
     "Full Stack Mini Projects/Fullstack machine coding evaluation.md",
     "Full Stack Mini Projects/System Design/Fresher Level System Design.md",
-    "Full Stack Mini Projects/System Design/Experienced Level System Design.md",
     "Frontend Flow/0. Mock Interview",
     "Backend Flow/0. Mock Interview",
     "Frontend Flow/Machine Coding- Intermediate",
