@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack Mini Projects/Round 1.md",
+                "file": "Full Stack Mini Projects/Hiring Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Round 1"
+              "title": "Hiring Process"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "6f58b8bdd9d3f17f",
   "lastOpenFiles": [
-    "Full Stack Mini Projects/System Design/Learn.md",
+    "Full Stack Mini Projects/System Design/No need to afraid.md",
     "Full Stack Mini Projects/Round 1.md",
+    "Full Stack Mini Projects/System Design/Learn.md",
     "Full Stack Mini Projects/Round 4 Explanation.md",
     "Full Stack Mini Projects/Hiring Process.md",
     "Full Stack Mini Projects/10 day mern Roadmap.md",
@@ -222,7 +223,6 @@
     "Backend Flow/0. Mock Interview/16. Bookmark or Favorites API.md",
     "Backend Flow/0. Mock Interview/15. File Uploading API.md",
     "Backend Flow/0. Mock Interview/14. Background Jobs & Queues.md",
-    "Backend Flow/0. Mock Interview/13. Notes App Backend.md",
     "Frontend Flow/Code with Sufyan",
     "Frontend Flow/Hitesh DOM",
     "IMPORTANT.base",
