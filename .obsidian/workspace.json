@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/Mock Interview.md",
+                "file": "Backend Flow/0. Mock Interview/9. Order Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mock Interview"
+              "title": "9. Order Management"
             }
           }
         ]
@@ -197,8 +197,10 @@
   },
   "active": "91031bf135c02061",
   "lastOpenFiles": [
-    "Backend Flow/0. Mock Interview/7. Ticket Booking System.md",
     "Backend Flow/Mock Interview.md",
+    "Backend Flow/0. Mock Interview/9. Order Management.md",
+    "Backend Flow/0. Mock Interview/8. Inventory System.md",
+    "Backend Flow/0. Mock Interview/7. Ticket Booking System.md",
     "Backend Flow/0. Mock Interview/6. Wallet System.md",
     "Frontend Flow/Mock Interview.md",
     "Backend Flow/0. Mock Interview/5. URL Shortener API.md",
@@ -221,8 +223,6 @@
     "Frontend Flow/0. Mock Interview/Round 5 - Multi Select Dropdown.md",
     "Frontend Flow/0. Mock Interview/Round 4 - Dropdown.md",
     "Frontend Flow/0. Mock Interview/Round 3 - Modal or Popup.md",
-    "Frontend Flow/0. Mock Interview/Round 2 - Accordion.md",
-    "Frontend Flow/0. Mock Interview/Round 1 - Tabs.md",
     "Frontend Flow/Code with Sufyan",
     "Frontend Flow/Hitesh DOM",
     "IMPORTANT.base",
