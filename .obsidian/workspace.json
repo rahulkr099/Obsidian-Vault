@@ -195,8 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c751148767085e87",
+  "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
+    "AI/Untitled",
+    "AI/AI Agents with TS and more",
+    "Untitled",
+    "AI",
+    "DSA-251 By Parikh Jain.xlsx",
     "Full Stack Mini Projects/Do startup company ask system design from freshers in 2025?.md",
     "Full Stack Mini Projects/DSA Roadmap for Startups.md",
     "Full Stack Mini Projects/3 months roadmap.md",
@@ -222,16 +227,11 @@
     "Backend Flow/0. Mock Interview/24. Rate Limiting + Redis.md",
     "Backend Flow/0. Mock Interview/23. File Upload + Validation + S3.md",
     "Backend Flow/0. Mock Interview/22. Payment System like Razorpay.md",
-    "Backend Flow/0. Mock Interview/21. Real Time Chat Backend.md",
     "Frontend Flow/Code with Sufyan",
     "Frontend Flow/Hitesh DOM",
     "IMPORTANT.base",
     "Frontend Flow/0. Mock Interview/Easy",
     "Frontend Flow/0. Mock Interview/Medium",
-    "Full Stack Mini Projects/System Design",
-    "Full Stack Mini Projects/System Design/The Infosys 2025 Career Accelerator_ A Fresher's Onboarding Guide .pdf",
-    "Frontend Flow/0. Mock Interview",
-    "Backend Flow/0. Mock Interview",
-    "Frontend Flow/Machine Coding- Intermediate"
+    "Full Stack Mini Projects/System Design"
   ]
 }
