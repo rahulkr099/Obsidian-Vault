@@ -166,7 +166,7 @@ Learn:
 
 Problems:
 1. Move zeros to end
-2. Pair sum in sorted arra
+2. Pair sum in sorted array
 3. Remove duplicates from sorted array
 
 ---
