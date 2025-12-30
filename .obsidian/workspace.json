@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/0. Mock Interview/4. JWT Authentication System.md",
+                "file": "Backend Flow/Mock Interview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. JWT Authentication System"
+              "title": "Mock Interview"
             }
           }
         ]
@@ -197,12 +197,15 @@
   },
   "active": "91031bf135c02061",
   "lastOpenFiles": [
+    "Backend Flow/0. Mock Interview/7. Ticket Booking System.md",
     "Backend Flow/Mock Interview.md",
+    "Backend Flow/0. Mock Interview/6. Wallet System.md",
+    "Frontend Flow/Mock Interview.md",
+    "Backend Flow/0. Mock Interview/5. URL Shortener API.md",
     "Backend Flow/0. Mock Interview/4. JWT Authentication System.md",
     "Backend Flow/0. Mock Interview/3. Todo API with Filter.md",
     "Backend Flow/0. Mock Interview/2. Shopping Cart Backend.md",
     "Backend Flow/0. Mock Interview/1. CRUD API.md",
-    "Frontend Flow/Mock Interview.md",
     "Frontend Flow/0. Mock Interview/Round 17 - Virtual List.md",
     "Frontend Flow/0. Mock Interview/Round 16 - Toast Notifications.md",
     "Frontend Flow/0. Mock Interview/Round 15 - Infinite Scroll.md",
@@ -222,10 +225,7 @@
     "Frontend Flow/0. Mock Interview/Round 1 - Tabs.md",
     "Frontend Flow/Code with Sufyan",
     "Frontend Flow/Hitesh DOM",
-    "Backend Flow/Data Sanitization.md",
-    "Backend Flow/Full Stack Mock Interview.md",
     "IMPORTANT.base",
-    "Backend Flow/Database Designing.md",
     "Frontend Flow/0. Mock Interview/Easy",
     "Frontend Flow/0. Mock Interview/Medium",
     "Full Stack Mini Projects/System Design",
