@@ -1,7 +1,7 @@
 Alright Rahul —  
 Absolutely Rahul —  
 I’ll give you **mock machine-coding interviews for ALL 15 core frontend patterns**, each formatted exactly like a real interview round:
-
+star rating, tic tac toe,  
 - Clear problem statement
     
 - Time limit
