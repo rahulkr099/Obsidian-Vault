@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/Mock Interview.md",
+                "file": "Frontend Flow/0. Mock Interview/Round 8 - Like Upvote Counter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mock Interview"
+              "title": "Round 8 - Like Upvote Counter"
             }
           }
         ],
@@ -208,8 +208,12 @@
   },
   "active": "320452ef961ec4bc",
   "lastOpenFiles": [
-    "Frontend Flow/0. Mock Interview/Round 4 - Dropdown.md",
     "Frontend Flow/Mock Interview.md",
+    "Frontend Flow/0. Mock Interview/Round 8 - Like Upvote Counter.md",
+    "Frontend Flow/0. Mock Interview/Round 7 - Search with Debounce.md",
+    "Frontend Flow/0. Mock Interview/Round 6 - Pagination.md",
+    "Frontend Flow/0. Mock Interview/Round 5 - Multi Select Dropdown.md",
+    "Frontend Flow/0. Mock Interview/Round 4 - Dropdown.md",
     "Frontend Flow/0. Mock Interview/Round 3 - Modal or Popup.md",
     "Frontend Flow/0. Mock Interview/Round 2 - Accordion.md",
     "Frontend Flow/0. Mock Interview/Round 1 - Tabs.md",
@@ -236,11 +240,7 @@
     "Full Stack Mini Projects/10 day mern Roadmap.md",
     "Full Stack Mini Projects/System Design/readme.md",
     "Full Stack Mini Projects/System Design",
-    "Full Stack Mini Projects/System Design/SDE 1 & SDE 2.md",
     "Full Stack Mini Projects/System Design/The Infosys 2025 Career Accelerator_ A Fresher's Onboarding Guide .pdf",
-    "Full Stack Mini Projects/System Design/Learn.md",
-    "Full Stack Mini Projects/Hiring Process.md",
-    "Full Stack Mini Projects/System Design/High paying target.md",
     "Frontend Flow/0. Mock Interview",
     "Backend Flow/0. Mock Interview",
     "Frontend Flow/Machine Coding- Intermediate"
