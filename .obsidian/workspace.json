@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/0. Mock Interview/Round 8 - Like Upvote Counter.md",
+                "file": "Frontend Flow/0. Mock Interview/Round 15 - Infinite Scroll.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Round 8 - Like Upvote Counter"
+              "title": "Round 15 - Infinite Scroll"
             }
           }
         ],
@@ -209,6 +209,13 @@
   "active": "320452ef961ec4bc",
   "lastOpenFiles": [
     "Frontend Flow/Mock Interview.md",
+    "Frontend Flow/0. Mock Interview/Round 15 - Infinite Scroll.md",
+    "Frontend Flow/0. Mock Interview/Round 14 - Table Sorting + Filtering.md",
+    "Frontend Flow/0. Mock Interview/Round 13 - OTP Boxes.md",
+    "Frontend Flow/0. Mock Interview/Round 12 - Todo List with Filters.md",
+    "Frontend Flow/0. Mock Interview/Round 11 - Shopping Cart.md",
+    "Frontend Flow/0. Mock Interview/Round 10 - Stopwatch.md",
+    "Frontend Flow/0. Mock Interview/Round 9 - Timer.md",
     "Frontend Flow/0. Mock Interview/Round 8 - Like Upvote Counter.md",
     "Frontend Flow/0. Mock Interview/Round 7 - Search with Debounce.md",
     "Frontend Flow/0. Mock Interview/Round 6 - Pagination.md",
@@ -232,13 +239,6 @@
     "Frontend Flow/0. Mock Interview/Medium/File Explorer.md",
     "Frontend Flow/0. Mock Interview/Medium/Timer + Stopwatch.md",
     "Frontend Flow/0. Mock Interview/Medium/Shopping Cart Sytem.md",
-    "Frontend Flow/0. Mock Interview/Medium/Modal, Tabs, Accordion.md",
-    "Frontend Flow/0. Mock Interview/Medium/Debounce + Search.md",
-    "Frontend Flow/0. Mock Interview/Medium/ToDo App.md",
-    "Frontend Flow/0. Mock Interview/Medium/Form Validation.md",
-    "Frontend Flow/2. Intermediate Frontend Code/Pagination.md",
-    "Full Stack Mini Projects/10 day mern Roadmap.md",
-    "Full Stack Mini Projects/System Design/readme.md",
     "Full Stack Mini Projects/System Design",
     "Full Stack Mini Projects/System Design/The Infosys 2025 Career Accelerator_ A Fresher's Onboarding Guide .pdf",
     "Frontend Flow/0. Mock Interview",
