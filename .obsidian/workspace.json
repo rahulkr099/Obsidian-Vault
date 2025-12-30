@@ -4,9 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "24368558619af824",
+        "id": "077a4653aaf32815",
         "type": "tabs",
         "children": [
+          {
+            "id": "dbdced84d7158b11",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
           {
             "id": "320452ef961ec4bc",
             "type": "leaf",
@@ -21,7 +31,8 @@
               "title": "Mock Interview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,6 +208,7 @@
   },
   "active": "320452ef961ec4bc",
   "lastOpenFiles": [
+    "Frontend Flow/Code with Sufyan",
     "Frontend Flow/Hitesh DOM",
     "Backend Flow/Data Sanitization.md",
     "Backend Flow/Mock Interview.md",
@@ -231,7 +243,6 @@
     "Frontend Flow/0. Mock Interview",
     "Backend Flow/0. Mock Interview",
     "Frontend Flow/Machine Coding- Intermediate",
-    "Frontend Flow/5. JS Projects",
-    "Frontend Flow/2. Intermediate Frontend Code"
+    "Frontend Flow/5. JS Projects"
   ]
 }
