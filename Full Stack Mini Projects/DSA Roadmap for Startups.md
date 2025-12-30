@@ -1,3 +1,4 @@
+
 # 💚 **1. You do NOT need trees, graphs, or DP for startup fullstack jobs.**
 
 This is the TRUTH.
