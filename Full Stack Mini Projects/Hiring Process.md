@@ -1,4 +1,4 @@
-                            Sure Rahul!  
+Sure Rahul!  
 Let me give you a **clear, simple, detailed explanation** of how **FULLSTACK DEVELOPER hiring happens in startups (2025)**.
 
 I will tell you:
