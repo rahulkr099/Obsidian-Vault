@@ -1,34 +1,4 @@
-Alright Rahul —  
-Absolutely Rahul —  
-I’ll give you **mock machine-coding interviews for ALL 15 core frontend patterns**, each formatted exactly like a real interview round:
-star rating, tic tac toe,  
-- Clear problem statement
-    
-- Time limit
-     
-- Requirements
-    
-- Edge cases
-    
-- Evaluation criteria
-    
-- Bonus features
-    
-- You write the code
-    
-- I evaluate like an interviewer
-    
-
-This will prepare you **far beyond** what any fresher normally achieves.
-
-Below is the **complete 15-round mock pack**.
-
-You can start ANY one anytime — just say  
-👉 **“Start Round X”**
-
-Let's begin.
-
----
+ ---
 
 # 🧠 **🔥 15 Mock Machine Coding Rounds (Frontend)**
 
