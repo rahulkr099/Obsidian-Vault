@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/Mock Interview.md",
+                "file": "Backend Flow/0. Mock Interview/4. JWT Authentication System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mock Interview"
+              "title": "4. JWT Authentication System"
             }
           }
         ]
@@ -197,6 +197,11 @@
   },
   "active": "91031bf135c02061",
   "lastOpenFiles": [
+    "Backend Flow/Mock Interview.md",
+    "Backend Flow/0. Mock Interview/4. JWT Authentication System.md",
+    "Backend Flow/0. Mock Interview/3. Todo API with Filter.md",
+    "Backend Flow/0. Mock Interview/2. Shopping Cart Backend.md",
+    "Backend Flow/0. Mock Interview/1. CRUD API.md",
     "Frontend Flow/Mock Interview.md",
     "Frontend Flow/0. Mock Interview/Round 17 - Virtual List.md",
     "Frontend Flow/0. Mock Interview/Round 16 - Toast Notifications.md",
@@ -218,16 +223,11 @@
     "Frontend Flow/Code with Sufyan",
     "Frontend Flow/Hitesh DOM",
     "Backend Flow/Data Sanitization.md",
-    "Backend Flow/Mock Interview.md",
     "Backend Flow/Full Stack Mock Interview.md",
     "IMPORTANT.base",
     "Backend Flow/Database Designing.md",
-    "Backend Flow/0. API Design.md",
-    "Frontend Flow/0. Mock Interview/Medium/Pagination + Sorting + Filtering.md",
     "Frontend Flow/0. Mock Interview/Easy",
     "Frontend Flow/0. Mock Interview/Medium",
-    "Frontend Flow/10 day machine coding round.md",
-    "Frontend Flow/0. Mock Interview/Medium/File Explorer.md",
     "Full Stack Mini Projects/System Design",
     "Full Stack Mini Projects/System Design/The Infosys 2025 Career Accelerator_ A Fresher's Onboarding Guide .pdf",
     "Frontend Flow/0. Mock Interview",
