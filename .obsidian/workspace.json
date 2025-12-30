@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "411783e161812e10",
+        "id": "24368558619af824",
         "type": "tabs",
         "children": [
           {
-            "id": "544ea4d7090638f9",
+            "id": "320452ef961ec4bc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -191,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "247cc5b2e302d5c3",
+  "active": "320452ef961ec4bc",
   "lastOpenFiles": [
     "Frontend Flow/Hitesh DOM",
     "Backend Flow/Data Sanitization.md",
