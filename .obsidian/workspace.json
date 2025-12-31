@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -195,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "247cc5b2e302d5c3",
+  "active": "c751148767085e87",
   "lastOpenFiles": [
     "Backend from First Principles",
     "Frontend Flow/2. Intermediate Frontend Code/Accordion.md",
