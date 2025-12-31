@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -196,13 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c751148767085e87",
+  "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
+    "Backend from First Principles",
     "Frontend Flow/2. Intermediate Frontend Code/Accordion.md",
     "Full Stack Mini Projects/DSA Roadmap for Startups.md",
     "AI/Master Agentic Ai and its workflow...",
     "AI/AI Agents with TS and more",
-    "Untitled",
     "AI",
     "DSA-251 By Parikh Jain.xlsx",
     "Full Stack Mini Projects/Do startup company ask system design from freshers in 2025?.md",
@@ -228,7 +227,6 @@
     "Backend Flow/0. Mock Interview/25. Notifications ( email, sms, webhooks).md",
     "Backend Flow/0. Mock Interview/24. Rate Limiting + Redis.md",
     "Backend Flow/0. Mock Interview/23. File Upload + Validation + S3.md",
-    "Backend Flow/0. Mock Interview/22. Payment System like Razorpay.md",
     "Frontend Flow/Code with Sufyan",
     "Frontend Flow/Hitesh DOM",
     "IMPORTANT.base",
