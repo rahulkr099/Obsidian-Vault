@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/2. Intermediate Frontend Code/Accordion.md",
+                "file": "Frontend Flow/5. JS Projects/Bookmark Manager app.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accordion"
+              "title": "Bookmark Manager app"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "c751148767085e87",
   "lastOpenFiles": [
+    "Frontend Flow/2. Intermediate Frontend Code/Accordion.md",
     "Full Stack Mini Projects/DSA Roadmap for Startups.md",
     "AI/Master Agentic Ai and its workflow...",
     "AI/AI Agents with TS and more",
