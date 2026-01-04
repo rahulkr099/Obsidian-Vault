@@ -195,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbc5d13f2cc32004",
+  "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
+    "Backend Flow/34. Parking Lot System(vImp)",
     "Frontend Flow/5. JS Projects/Light-Dark Mode.md",
     "Frontend Flow/5. JS Projects/Bookmark Manager app.md",
     "Backend from First Principles",
@@ -227,7 +228,6 @@
     "Backend Flow/0. Mock Interview/27. Social Media Feed Engine.md",
     "Backend Flow/0. Mock Interview/26. Comment System (nested replies).md",
     "Backend Flow/0. Mock Interview/25. Notifications ( email, sms, webhooks).md",
-    "Backend Flow/0. Mock Interview/24. Rate Limiting + Redis.md",
     "Frontend Flow/Code with Sufyan",
     "Frontend Flow/Hitesh DOM",
     "IMPORTANT.base",
