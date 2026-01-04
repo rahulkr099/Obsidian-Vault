@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack Mini Projects/DSA Roadmap for Startups.md",
+                "file": "POTD/Easy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSA Roadmap for Startups"
+              "title": "Easy"
             }
           }
         ]
@@ -195,14 +195,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "247cc5b2e302d5c3",
+  "active": "cbc5d13f2cc32004",
   "lastOpenFiles": [
+    "Full Stack Mini Projects/DSA Roadmap for Startups.md",
+    "POTD/Easy.md",
+    "POTD/Easy",
+    "Untitled",
+    "POTD",
     "Backend Flow/34. Parking Lot System(vImp)",
     "Frontend Flow/5. JS Projects/Light-Dark Mode.md",
     "Frontend Flow/5. JS Projects/Bookmark Manager app.md",
     "Backend from First Principles",
     "Frontend Flow/2. Intermediate Frontend Code/Accordion.md",
-    "Full Stack Mini Projects/DSA Roadmap for Startups.md",
     "AI/Master Agentic Ai and its workflow...",
     "AI/AI Agents with TS and more",
     "AI",
@@ -228,10 +232,6 @@
     "Backend Flow/0. Mock Interview/27. Social Media Feed Engine.md",
     "Backend Flow/0. Mock Interview/26. Comment System (nested replies).md",
     "Backend Flow/0. Mock Interview/25. Notifications ( email, sms, webhooks).md",
-    "Frontend Flow/Code with Sufyan",
-    "Frontend Flow/Hitesh DOM",
-    "IMPORTANT.base",
-    "Frontend Flow/0. Mock Interview/Easy",
-    "Frontend Flow/0. Mock Interview/Medium"
+    "Frontend Flow/Code with Sufyan"
   ]
 }
