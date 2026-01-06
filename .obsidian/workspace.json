@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POTD/Medium.md",
+                "file": "DSA/Coding Ninjas > Easy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Medium"
+              "title": "Coding Ninjas > Easy"
             }
           }
         ]
@@ -197,14 +197,15 @@
   },
   "active": "cbc5d13f2cc32004",
   "lastOpenFiles": [
+    "DSA/POTD > Easy.md",
+    "DSA/Coding Ninjas > Easy.md",
+    "DSA/POTD > Medium.md",
     "Pasted image 20260106204848.png",
-    "POTD/Easy.md",
-    "POTD/Medium.md",
     "Sem 4/CN,_OS.md",
     "Full Stack Mini Projects/DSA Roadmap for Startups.md",
     "POTD/Easy",
     "Untitled",
-    "POTD",
+    "DSA",
     "Backend Flow/34. Parking Lot System(vImp)",
     "Frontend Flow/5. JS Projects/Light-Dark Mode.md",
     "Frontend Flow/5. JS Projects/Bookmark Manager app.md",
