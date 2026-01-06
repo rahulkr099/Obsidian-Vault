@@ -125,3 +125,56 @@ Coins are printed in **decreasing order** ✔️
 - **Space Complexity:** `O(N)` (to store coins)
 
 Fast enough for `N ≤ 10^5` ✅
+
+# 3. You have been given three distinct integers ‘X’, ‘Y’ and ‘Z’. You need to find the number with a value in the middle.
+
+For example :
+
+```
+X = 4, Y = 6, Z = 2
+Here the element with value in the middle is 4, because 2 < 4 < 6.
+```
+
+Note :
+
+```
+You need to try doing it using minimum comparisons.
+```
+
+```python
+def middleOfThree(x:int, y:int, z:int):
+
+# Write your code here
+
+# Return an integer
+
+if x < y and x < z:
+
+if y < z:
+
+return y
+
+if z < y:
+
+return z
+
+if y < x and y < z:
+
+if x < z:
+
+return x
+
+if z < x:
+
+return z
+
+if z < x and z < y:
+
+if x < y:
+
+return x
+
+if y < x:
+
+return y
+```
