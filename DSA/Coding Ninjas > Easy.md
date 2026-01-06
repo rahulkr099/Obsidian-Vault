@@ -81,5 +81,10 @@ take two pointer "left" and "right" pointer
 ### Optimal Approach (Hashing)  O(n)
 take an empty map of name "seen"
 take an empty list of name "pairs"
-subtract number from target to get "needed number"
-if needed number exists in seen and 
+1. Calculate the **needed number** by subtracting target and number
+2. Check if we have **already seen** that number
+3. If yes → we found a valid pair
+4. Store the pair
+5. Otherwise → remember the current number
+
+We use a **hash map (dictionary)** to remember previously seen numbers.d 
