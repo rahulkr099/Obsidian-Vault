@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POTD/Easy.md",
+                "file": "POTD/Medium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Easy"
+              "title": "Medium"
             }
           }
         ]
@@ -197,8 +197,10 @@
   },
   "active": "cbc5d13f2cc32004",
   "lastOpenFiles": [
-    "Sem 4/CN,_OS.md",
+    "Pasted image 20260106204848.png",
     "POTD/Easy.md",
+    "POTD/Medium.md",
+    "Sem 4/CN,_OS.md",
     "Full Stack Mini Projects/DSA Roadmap for Startups.md",
     "POTD/Easy",
     "Untitled",
@@ -230,8 +232,6 @@
     "Backend Flow/1. Todo App/activity.model.js.md",
     "Backend Flow/Full Stack Mock Interview.md",
     "Backend Flow/Mock Interview.md",
-    "Backend Flow/0. Mock Interview/27. Social Media Feed Engine.md",
-    "Backend Flow/0. Mock Interview/26. Comment System (nested replies).md",
     "Frontend Flow/Code with Sufyan"
   ]
 }
