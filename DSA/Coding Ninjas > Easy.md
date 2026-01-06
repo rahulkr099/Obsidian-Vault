@@ -67,4 +67,14 @@ For the second test case, there are two valid pairs (-1,2) and (-1,2), which add
 
 ## Answer
 ## Brute Force Approach ( O (n^2) )
+take an empty list
+Run loops such that:
+	current element + next element = target
+	 append it to list
+### Better Approach ( Sorting + Two pointers)
+sort the array
+take an empty list
+take two pointer "left" and "right" pointer
+		arr[left]  + arr[right]  == target
+		append it to list
 
