@@ -71,10 +71,15 @@ take an empty list
 Run loops such that:
 	current element + next element = target
 	 append it to list
-### Better Approach ( Sorting + Two pointers)
+### Better Approach ( O(n log n) )
 sort the array
 take an empty list
 take two pointer "left" and "right" pointer
 		arr[left]  + arr[right]  == target
 		append it to list
 
+### Optimal Approach (Hashing)  O(n)
+take an empty map of name "seen"
+take an empty list of name "pairs"
+subtract number from target to get "needed number"
+if needed number exists in seen and 
