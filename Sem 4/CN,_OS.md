@@ -6,6 +6,8 @@ Assume Data frame is 1101011011 and generator polynomial,
 G(x) is x + x + 1. Calculate the transmitted frame using CRC
 method.
 
+Explain the parity bit method used for error detection. Suppose a bit sequence 1111101 is received. Assume even parity bit method is used, find whether it has been received correctly or not, if not, correct it.
+
 What is Computer Network?
 How does a Computer Network work?
 ### Criteria of a Good Network
