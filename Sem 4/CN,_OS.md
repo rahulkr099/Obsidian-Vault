@@ -1,3 +1,11 @@
+if the 7-bit Hamming code received by a receiver is 1011011 . Assuming the
+even parity, state whether the received word is correct or not . if wrong locate
+the bit having error.
+
+Assume Data frame is 1101011011 and generator polynomial,
+G(x) is x + x + 1. Calculate the transmitted frame using CRC
+method.
+
 What is Computer Network?
 How does a Computer Network work?
 ### Criteria of a Good Network

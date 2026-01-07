@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 4/Android_&_VP.md",
+                "file": "Sem 4/CN,_OS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Android_&_VP"
+              "title": "CN,_OS"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "cbc5d13f2cc32004",
   "lastOpenFiles": [
+    "Sem 4/Android_&_VP.md",
     "Sem 4/CN,_OS.md",
     "DSA/Coding Ninjas > Easy.md",
     "DSA/POTD > Easy.md",
@@ -232,7 +233,6 @@
     "Full Stack Mini Projects/Round 4 Explanation.md",
     "Backend Flow/1. Todo App/activity.model.js.md",
     "Backend Flow/Full Stack Mock Interview.md",
-    "Backend Flow/Mock Interview.md",
     "Frontend Flow/Code with Sufyan"
   ]
 }
