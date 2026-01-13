@@ -11,10 +11,14 @@
             "id": "785f0b7358349d68",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Is everything in JS is object?.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Is everything in JS is object?"
             }
           }
         ]
@@ -193,6 +197,8 @@
   },
   "active": "785f0b7358349d68",
   "lastOpenFiles": [
+    "Pasted image 20260106204848.png",
+    "Is everything in JS is object?.md",
     "Sem 4/Android_&_VP.md",
     "DSA/DSA Roadmap for Startups.md",
     "SPA vs MPA.md",
@@ -200,7 +206,6 @@
     "DSA/Coding Ninjas > Easy.md",
     "DSA/POTD > Easy.md",
     "DSA/POTD > Medium.md",
-    "Pasted image 20260106204848.png",
     "POTD/Easy",
     "Untitled",
     "DSA",
@@ -227,8 +232,6 @@
     "Full Stack Mini Projects/System Design/Fresher Level System Design.md",
     "Full Stack Mini Projects/System Design/No need to afraid.md",
     "Full Stack Mini Projects/System Design/Learn.md",
-    "Full Stack Mini Projects/Round 4 Explanation.md",
-    "Backend Flow/1. Todo App/activity.model.js.md",
     "Frontend Flow/Code with Sufyan"
   ]
 }
