@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/1. Todo App/app.js.md",
+                "file": "Backend Flow/1. Todo App/server.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "app.js"
+              "title": "server.js"
             }
           }
         ]
@@ -197,9 +197,9 @@
   },
   "active": "785f0b7358349d68",
   "lastOpenFiles": [
+    "Backend Flow/1. Todo App/app.js.md",
     "Backend Flow/1. Todo App/todo.routes.js.md",
     "Backend Flow/1. Todo App/todo.controller.js.md",
-    "Backend Flow/1. Todo App/app.js.md",
     "Backend Flow/1. Todo App/errorHandler.js.md",
     "Backend Flow/1. Todo App/server.js.md",
     "Is everything in JS is object?.md",
