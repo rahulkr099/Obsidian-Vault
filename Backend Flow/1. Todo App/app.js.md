@@ -17,7 +17,7 @@ Purpose: Express setup for initialization of server
 	Parse cookies
 	Parse URL-encoded payloads
 
-4.REGISTER "/todos" routes [[todo.routes.js]]
+4.REGISTER "/todos" routes 
 
 5.CREATE "/healthz" route
     WHEN route is called
@@ -29,7 +29,7 @@ Purpose: Express setup for initialization of server
 	       - success: false
 	       - "Route not found"
 
-7.REGISTER centralized error handler [[errorHandler.js]]
+7.REGISTER centralized error handler
 
 8.EXPORT Express application to start the server
 ```

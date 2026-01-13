@@ -6,7 +6,7 @@ Purpose: database connection and start the server
 1.Require files and libraries
 	IMPORT mongoose library 
 	IMPORT dotenv library
-	IMPORT Express app [[app.js]]
+	IMPORT Express app
 
 2.LOAD environment variables
 	dotenv configuration
