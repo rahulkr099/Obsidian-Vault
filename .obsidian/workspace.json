@@ -197,9 +197,10 @@
   },
   "active": "785f0b7358349d68",
   "lastOpenFiles": [
+    "Backend Flow/1. Todo App/todo.controller.js.md",
+    "Backend Flow/1. Todo App/todo.routes.js.md",
     "Backend Flow/1. Todo App/app.js.md",
     "Backend Flow/1. Todo App/errorHandler.js.md",
-    "Backend Flow/1. Todo App/todo.routes.js.md",
     "Backend Flow/1. Todo App/server.js.md",
     "Is everything in JS is object?.md",
     "Pasted image 20260106204848.png",
@@ -232,7 +233,6 @@
     "Full Stack Mini Projects/How company will know my worth.md",
     "Full Stack Mini Projects/Hiring Process.md",
     "Full Stack Mini Projects/Get Hired as a Software Engineer.md",
-    "Full Stack Mini Projects/System Design/Experienced Level System Design.md",
     "Frontend Flow/Code with Sufyan"
   ]
 }
