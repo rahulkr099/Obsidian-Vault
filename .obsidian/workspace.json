@@ -11,12 +11,14 @@
             "id": "4d5f4d30da7b3aac",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260106204848.png"
+                "file": "SPA vs MPA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260106204848"
+              "icon": "lucide-file",
+              "title": "SPA vs MPA"
             }
           }
         ]
@@ -195,6 +197,10 @@
   },
   "active": "4d5f4d30da7b3aac",
   "lastOpenFiles": [
+    "Pasted image 20260106204848.png",
+    "SPA vs MPA.md",
+    "Nemo Plugin.md",
+    "Nemo Scripts.md",
     "Tips and Tricks/chat GPT 2 chats notedown.md",
     "Frontend Flow/Ninjas Output Questions.md",
     "Tips and Tricks",
@@ -206,10 +212,8 @@
     "Backend Flow/1. Todo App/todo.controller.js.md",
     "Backend Flow/1. Todo App/errorHandler.js.md",
     "Is everything in JS is object?.md",
-    "Pasted image 20260106204848.png",
     "Sem 4/Android_&_VP.md",
     "DSA/DSA Roadmap for Startups.md",
-    "SPA vs MPA.md",
     "Sem 4/CN,_OS.md",
     "DSA/Coding Ninjas > Easy.md",
     "DSA/POTD > Easy.md",
@@ -228,9 +232,6 @@
     "Full Stack Mini Projects/Do startup company ask system design from freshers in 2025?.md",
     "Full Stack Mini Projects/3 months roadmap.md",
     "Full Stack Mini Projects/10 day mern Roadmap.md",
-    "Full Stack Mini Projects/12 projects to crack any startups.md",
-    "Full Stack Mini Projects/AI integration with MERN projects.md",
-    "Full Stack Mini Projects/Fullstack machine coding evaluation.md",
     "Frontend Flow/Code with Sufyan"
   ]
 }
