@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPA vs MPA.md",
+                "file": "Tips and Tricks/Arrow Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SPA vs MPA"
+              "title": "Arrow Function"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 260.5,
+    "collapsed": true
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -197,11 +198,11 @@
   },
   "active": "4d5f4d30da7b3aac",
   "lastOpenFiles": [
-    "Pasted image 20260106204848.png",
     "SPA vs MPA.md",
+    "Pasted image 20260106204848.png",
     "Nemo Plugin.md",
     "Nemo Scripts.md",
-    "Tips and Tricks/chat GPT 2 chats notedown.md",
+    "Tips and Tricks/Arrow Function.md",
     "Frontend Flow/Ninjas Output Questions.md",
     "Tips and Tricks",
     "Frontend Flow/1. HTML & CSS/4. Image Carousel.md",
