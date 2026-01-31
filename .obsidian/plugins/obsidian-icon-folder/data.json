@@ -32,7 +32,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Sem 4": "LiActivity",
   "Backend Flow": {
     "iconName": "LiBadgeDollarSign",
     "iconColor": "#f96262"
@@ -40,5 +39,6 @@
   "Frontend Flow": {
     "iconName": "LiAtom",
     "iconColor": "#b8e84f"
-  }
+  },
+  "Sem 5": "LiActivity"
 }
