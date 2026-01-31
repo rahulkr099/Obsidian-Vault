@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/1. HTML & CSS/4. Image Carousel.md",
+                "file": "Frontend Flow/1. HTML & CSS/5. To do list App.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Image Carousel"
+              "title": "5. To do list App"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -198,6 +197,7 @@
   },
   "active": "6e4ec97867b4d40a",
   "lastOpenFiles": [
+    "Frontend Flow/1. HTML & CSS/4. Image Carousel.md",
     "Frontend Flow/1. HTML & CSS/3. JS Calculator.md",
     "Frontend Flow/0. Mock Interview/Medium/Debounce + Search.md",
     "Backend Flow/1. Todo App/Restore Soft deleted Todo.md",
@@ -223,7 +223,6 @@
     "Terminal Learning/(Level 2) Terminal Mastery Roadmap.md",
     "Terminal Learning/(Level 1) Terminal Mastery Roadmap.md",
     "Tips and Tricks/System Design Story.md",
-    "Tips and Tricks/Node js controller bugs.md",
     "Pasted image 20260106204848.png",
     "Tips and Tricks",
     "POTD/Easy",
