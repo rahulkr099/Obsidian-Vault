@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Stack Mini Projects/System Design/High paying target.md",
+                "file": "DSA/POTD > Easy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "High paying target"
+              "title": "POTD > Easy"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -198,6 +197,8 @@
   },
   "active": "6e4ec97867b4d40a",
   "lastOpenFiles": [
+    "DSA/Coding Ninjas > Easy.md",
+    "Full Stack Mini Projects/System Design/High paying target.md",
     "Full Stack Mini Projects/Fullstack machine coding evaluation.md",
     "Full Stack Mini Projects/Get Hired as a Software Engineer.md",
     "Frontend Flow/1. HTML & CSS/5. To do list App.md",
@@ -222,8 +223,6 @@
     "Terminal Learning/🐦Vim Mastery Roadmap.md",
     "Terminal Learning/🏅Week 4 - Scripting, Automation.md",
     "Terminal Learning/🎁Week 3 - Power Tools (fzf, zoxide, piping, processes).md",
-    "Terminal Learning/🎀 Week 2 - Vim,Neovim + Searching + Git.md",
-    "Terminal Learning/🌲Week 1 - Terminal Basics.md",
     "Pasted image 20260106204848.png",
     "Tips and Tricks",
     "POTD/Easy",

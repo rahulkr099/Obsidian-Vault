@@ -178,3 +178,53 @@ if y < x:
 
 return y
 ```
+
+ # Shrey has just arrived in the city. When he entered the city, he was given two strings. Now, after arriving at his college, his professor gave him an extra string. To check his intelligence, his professor told him to check if the third string given to him has all the characters of the first and second strings in any order. Help Shrey before his professor scolds him. He has to answer “YES” if all characters are present else “NO”.
+
+```
+Example: ‘HELLO’ and ‘SHREY’ are two initial strings, and his professor gave him ’HLOHEELSRY’. So, here all the characters are present, so he has to say “YES”.
+
+Note: The strings contain only uppercase Latin characters.
+Detailed explanation ( Input/output format, Notes, Images )
+Constraints:
+
+1 <= T <= 10^2
+1 <= |FIRST|, |SECOND|, |THIRD| <= 10^5
+
+Time Limit: 1 sec
+
+Sample Input 1:
+
+2
+HI HEY EIHYH
+ALL GOOD ADOLLG
+
+Sample Output 1:
+
+YES
+NO
+
+Explanation For Sample Input 1:
+
+In the first test case, the string ‘THIRD’ has all the characters present in the strings ‘FIRST’ and ‘SECOND’. So, we will return “YES”.
+
+In the second test case, the strings ‘FIRST’ and ‘SECOND’ combined has 1 A, 2 L, 1 G, 2 O and 1 D. While the string ‘THIRD’ has 1 A, 2 L, 1 G, 1 O and 1 D and So, it has one character less than the combined ‘FIRST’ and ‘SECOND’. Thus, we will return “NO”.
+
+Sample Input 1:
+
+2
+CODING NINJA NINCODINGJA
+YES NO NEEOOYS
+
+Sample Output 1:
+
+YES
+NO
+
+Explanation For Sample Input 1:
+
+In the first test case, the string ‘THIRD’ has all the characters present in the strings ‘FIRST’ and ‘SECOND’. So, we will return “YES”.
+
+In the second test case, the strings ‘FIRST’ and ‘SECOND’ combined have 1 N, 1 Y, 1 E, 1 S and 1 O. While the string ‘THIRD’ has 1 N, 1 Y, 2 E, 1 S and 2 O and So, it has one character more than ‘FIRST’ and ‘SECOND’. Thus, we will return “NO”.
+```
+
