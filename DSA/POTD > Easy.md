@@ -407,41 +407,375 @@ So → **NO**
 ---
 # 5. You are given a string 'S' of length 'N' consisting of lowercase English alphabet letters. You are also given a positive integer 'K'. Now, a substring of this string is good if it contains at most 'K' distinct characters. A string 'X' is a substring of string 'Y' if it can be obtained by deletion of several continuous elements(possibly zero) from the beginning and the end from the string 'Y'. Your task is to return the maximum size of any good substring of the string 'S'.
 
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Example:**
 
 ```
+‘S’ = “bacda” and ‘K’ = 3.
+
+So, the substrings having at most ‘3’ distinct characters are called good substrings. Some possible good substrings are:
+1. “bac”
+2. “acd”
+3. “acda”
+
+The substring “acda” is the largest possible good substring, as we cannot get any other substring of length 5 or more having distinct characters less than or equal to ‘3’. Thus, you should return ‘4’ as the answer.
+```
+
+Detailed explanation ( Input/output format, Notes, Images )
+
+**Constraints:**
+
+```
+1 <= T <= 10
+1 <= K <= 26
+1 <= N <= 10^4
+
+All the characters of the string are lowercase English alphabet letters.
+
+Time Limit: 1 sec
+```
+
+**Sample Input 1:**
+
+```
+2
+2
+abcbc
+1
+abccc
+```
+
+**Sample Output 1:**
+
+```
+4
+3
+```
+
+**Explanation For Sample Input 1:**
+
+```
+For the first test case :
+K = 2, so we can choose substring “bcbc” having 2 distinct character which is less than or equal to K = 2. 
+
+We cannot get any other substring of length 5 or more having distinct characters less than or equal to 2. Thus, you should return ‘4’ as the answer.
+
+For the second test case :
+K = 1, so we can choose substring “ccc” having only 1 distinct character which is less than or equal to K = 1. 
+
+We cannot get any other substring of length 4 or more having distinct characters less than or equal to 1. Thus, you should return ‘3’ as the answer.
+```
+
+**Sample Input 2:**
+
+```
+1
+6
+abcba
+3
+acbdab
+```
+
+**Sample Output 2:**
+
+```
+5
+4
+```
+
+Nice problem 👍  
+This is a **very famous sliding window problem**. I’ll explain it **slowly**, in **simple words**, and in **three levels**:
+
+1. Brute Force
+    
+2. Better Solution
+    
+3. Optimal Solution (Sliding Window) ✅
+    
+
+I’ll also give **Python code** for each so you can clearly see the difference.
+
+---
+
+## 🔍 Problem Restated (Very Simple)
+
+You are given:
+
+- A string **S**
+    
+- A number **K**
+    
+
+👉 A substring is **good** if it has **at most K distinct characters**.
+
+Your goal:
+
+> **Find the maximum length of any good substring**
+
+---
+
+## 🧠 Key Observation (IMPORTANT)
+
+- “At most K” means **≤ K**
+    
+- Order must be **continuous** (substring, not subsequence)
+    
+- We must try **all possible substrings** and pick the **longest valid one**
+    
+
+---
+
+# 🧪 1. Brute Force Solution (Easy but Slow)
+
+### 💡 Idea
+
+- Generate **all substrings**
+    
+- For each substring:
+    
+    - Count distinct characters
+        
+    - If distinct ≤ K → update answer
+        
+
+---
+
+### 🪜 Steps
+
+1. Fix starting index `i`
+    
+2. Fix ending index `j`
+    
+3. Extract substring `S[i:j+1]`
+    
+4. Count distinct characters using `set`
+    
+5. Track maximum length
+    
+
+---
+
+### 🧑‍💻 Python Code (Brute Force)
+
+```python
+def max_good_substring_bruteforce(s, k):
+    n = len(s)
+    ans = 0
+
+    for i in range(n):
+        for j in range(i, n):
+            substring = s[i:j+1]
+            if len(set(substring)) <= k:
+                ans = max(ans, j - i + 1)
+
+    return ans
+```
+
+---
+
+### ⏱ Time Complexity
+
+- Substrings: `O(N²)`
+    
+- Set operation: `O(N)`
+    
+- ❌ Overall: `O(N³)`
+    
+
+---
+
+### ❌ Why not good?
+
+- Too slow for large `N`
+    
+- Only useful to **understand logic**
+    
+
+---
+
+# ⚡ 2. Better Solution (Improved Brute Force)
+
+### 💡 Idea
+
+Instead of recalculating `set()` every time:
+
+- Use a **frequency array**
+    
+- Extend substring from `i`
+    
+- Stop when distinct characters exceed `K`
+    
+
+---
+
+### 🪜 Steps
+
+1. Fix starting index `i`
+    
+2. Create frequency array of size 26
+    
+3. Move `j` forward:
+    
+    - Update frequency
+        
+    - Track distinct count
+        
+4. If distinct > K → break
+    
+
+---
+
+### 🧑‍💻 Python Code (Better)
+
+```python
+def max_good_substring_better(s, k):
+    n = len(s)
+    ans = 0
+
+    for i in range(n):
+        freq = [0] * 26
+        distinct = 0
+
+        for j in range(i, n):
+            idx = ord(s[j]) - ord('a')
+            if freq[idx] == 0:
+                distinct += 1
+            freq[idx] += 1
+
+            if distinct > k:
+                break
+
+            ans = max(ans, j - i + 1)
+
+    return ans
+```
+
+---
+
+### ⏱ Time Complexity
+
+- `O(N²)` ✅  
+    Much better than brute force
+    
+
+---
+
+### ✅ When to use?
+
+- Medium constraints
+    
+- Exam-friendly improvement
+    
+
+---
+
+# 🚀 3. Optimal Solution (Sliding Window) ✅
+
+### 💡 Core Idea (BEST)
+
+Use **two pointers (sliding window)**:
+
+- Expand window using `right`
+    
+- Shrink window using `left` when distinct > K
+    
+
+👉 Window always stays **valid**
+
+---
+
+### 🪜 Steps
+
+1. Initialize:
+    
+    - `left = 0`
+        
+    - `freq[26]`
+        
+    - `distinct = 0`
+        
+2. Move `right` pointer:
+    
+    - Add character
+        
+3. If `distinct > K`:
+    
+    - Move `left` pointer
+        
+    - Remove characters
+        
+4. Update maximum length
+    
+
+---
+
+### 🧑‍💻 Python Code (Optimal)
+
+```python
+def max_good_substring_optimal(s, k):
+    n = len(s)
+    freq = [0] * 26
+    left = 0
+    distinct = 0
+    ans = 0
+
+    for right in range(n):
+        idx = ord(s[right]) - ord('a')
+        if freq[idx] == 0:
+            distinct += 1
+        freq[idx] += 1
+
+        while distinct > k:
+            left_idx = ord(s[left]) - ord('a')
+            freq[left_idx] -= 1
+            if freq[left_idx] == 0:
+                distinct -= 1
+            left += 1
+
+        ans = max(ans, right - left + 1)
+
+    return ans
+```
+
+---
+
+### ⏱ Time Complexity
+
+- **O(N)** ✅  
+    (each character added & removed once)
+    
+
+### 🧠 Space Complexity
+
+- **O(1)** (26 characters only)
+    
+
+---
+
+## 🧪 Example Walkthrough
+
+**S = "abcbc", K = 2**
+
+Sliding window finds:
+
+```
+"bcbc" → length 4 ✅
+```
+
+---
+
+## 📊 Comparison Table
+
+|Approach|Time|Space|Recommended|
+|---|---|---|---|
+|Brute Force|O(N³)|O(N)|❌ No|
+|Better|O(N²)|O(1)|⚠️ Okay|
+|Sliding Window|O(N)|O(1)|✅ BEST|
+
+---
+
+## 🧠 Memory Trick (Very Useful)
+
+> **Substring + condition + max/min → think SLIDING WINDOW**
+
+---
+
