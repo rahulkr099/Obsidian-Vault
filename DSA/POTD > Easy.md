@@ -179,7 +179,7 @@ if y < x:
 return y
 ```
 
- # Shrey has just arrived in the city. When he entered the city, he was given two strings. Now, after arriving at his college, his professor gave him an extra string. To check his intelligence, his professor told him to check if the third string given to him has all the characters of the first and second strings in any order. Help Shrey before his professor scolds him. He has to answer “YES” if all characters are present else “NO”.
+ # 4. Shrey has just arrived in the city. When he entered the city, he was given two strings. Now, after arriving at his college, his professor gave him an extra string. To check his intelligence, his professor told him to check if the third string given to him has all the characters of the first and second strings in any order. Help Shrey before his professor scolds him. He has to answer “YES” if all characters are present else “NO”.
 
 ```
 Example: ‘HELLO’ and ‘SHREY’ are two initial strings, and his professor gave him ’HLOHEELSRY’. So, here all the characters are present, so he has to say “YES”.
@@ -228,3 +228,180 @@ In the first test case, the string ‘THIRD’ has all the characters present in
 In the second test case, the strings ‘FIRST’ and ‘SECOND’ combined have 1 N, 1 Y, 1 E, 1 S and 1 O. While the string ‘THIRD’ has 1 N, 1 Y, 2 E, 1 S and 2 O and So, it has one character more than ‘FIRST’ and ‘SECOND’. Thus, we will return “NO”.
 ```
 
+## 🧠 Key Insight (Very Important)
+
+This is **NOT** about substring  
+This is **NOT** about order
+
+This is about **character frequency (count)**.
+
+---
+
+# 🧪 Approach 1: Brute Force (Easy but Slow)
+
+### 💡 Idea
+
+- For every character in FIRST and SECOND
+- Try to find and remove it from THIRD
+- If at any point a character is missing → NO
+
+---
+
+### 🪜 Steps
+
+1. Convert THIRD string into a list (so we can remove characters)
+2. Loop through FIRST:
+    - If character exists in THIRD → remove it
+    - Else → print NO
+3. Loop through SECOND:
+    - Same logic
+4. If all characters matched → YES
+
+---
+
+### ⏱ Time Complexity
+- Worst case: **O(N²)**  
+    (Searching and removing again and again)
+
+---
+
+### ❌ Why not good?
+
+- Very slow for large strings (up to 10⁵ length)
+- Might fail time limit
+
+---
+
+### ✅ When to use?
+
+- Very small input
+- Only for understanding logic
+
+---
+
+# ⚡ Approach 2: Better Solution (Sorting Method)
+
+### 💡 Idea
+
+If THIRD contains exactly all characters of FIRST + SECOND:
+
+👉 Then **sorted(FIRST + SECOND) == sorted(THIRD)**
+
+---
+
+### 🪜 Steps
+
+1. Combine FIRST and SECOND → `COMBINED`
+2. Sort `COMBINED`
+3. Sort `THIRD`
+4. Compare both strings:
+    - If same → YES
+    - Else → NO
+
+
+---
+
+### ⏱ Time Complexity
+
+- Sorting takes: **O(N log N)**
+
+---
+
+### ✅ Pros
+
+- Easy to write
+- Cleaner logic
+
+### ❌ Cons
+
+- Sorting is still costly
+- Not the best for huge inputs
+
+---
+
+### 🧠 Exam Tip
+
+If input size is **medium**, sorting is acceptable.
+
+---
+
+# 🚀 Approach 3: Optimal Solution (Frequency Count) ✅
+
+### 💡 Idea (BEST WAY)
+
+- Count characters using an array of size **26**
+- Since only **uppercase letters (A–Z)**
+
+---
+
+### 🪜 Steps
+
+1. Create an array `freq[26]` initialized to 0
+2. For each character in FIRST:
+    - `freq[char - 'A']++`
+3. For each character in SECOND:
+    - `freq[char - 'A']++`
+
+4. For each character in THIRD:
+    - `freq[char - 'A']--`
+5. After this:
+    - If **all values in freq[] are exactly 0 → YES**
+    - Else → NO
+
+---
+
+### ⏱ Time Complexity
+
+- **O(N)** ✅ (Fastest possible)
+
+### 🧠 Space Complexity
+
+- **O(1)** (Only 26 size array)
+
+---
+
+### 🌟 Why this is BEST?
+
+- Very fast
+- Works for large input
+- Interview-preferred solution
+- Clean and professional
+
+---
+
+## 🧪 Example Walkthrough (Simple)
+
+**FIRST = "ALL"**  
+**SECOND = "GOOD"**
+
+Combined counts:
+
+```
+A:1 L:2 G:1 O:2 D:1
+```
+
+**THIRD = "ADOLLG"**
+
+```
+A:1 L:2 G:1 O:1 D:1 ❌ (O is less)
+```
+
+So → **NO**
+
+---
+
+## 🧠 Memory Trick (For Exams)
+
+> “Whenever order doesn’t matter → think **frequency array**”
+
+---
+
+## 📌 Final Comparison Table
+
+|Approach|Method|Time|Best For|
+|---|---|---|---|
+|Brute Force|Remove chars|O(N²)|Learning only|
+|Better|Sorting|O(N log N)|Medium input|
+|Optimal|Frequency array|O(N)|Exams & Interviews ✅|
+
+---
