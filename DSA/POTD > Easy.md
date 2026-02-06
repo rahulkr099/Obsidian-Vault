@@ -779,3 +779,257 @@ Sliding window finds:
 
 ---
 
+# 6. Given a string ‘STR’ consisting of lower case English letters, the task is to find the first non-repeating character in the string and return it. If it doesn’t exist, return ‘#’.
+
+For example:
+
+```
+For the input string 'abcab', the first non-repeating character is ‘c’. As depicted the character ‘a’ repeats at index 3 and character ‘b’ repeats at index 4. Hence we return the character ‘c’ present at index 2.
+```
+
+Detailed explanation ( Input/output format, Notes, Images )
+
+**Constraints:**
+
+```
+1 <= T <= 100
+1 <= N <= 10 ^ 4
+
+Where ‘T’ is the number of test cases, and ‘N’ is the length of the string.
+
+Time Limit: 1 sec
+```
+
+**Sample Input 1:**
+
+```
+2
+bbabcbcb
+babaabea
+```
+
+**Sample Output 1:**
+
+```
+a
+e
+```
+
+**Explanation of Sample Input 1:**
+
+```
+For the first test case, 
+the first non-repeating character is ‘a’. As depicted the character ‘b’ repeats at index 1, 3, 5, 7, and character ‘c’ repeats at index 6. Hence we return the character ‘a’ present at index 2.
+
+For the second test case, 
+the character ‘e’ is the first non-repeating character. As depicted the character ‘b’ repeats at index 2, 5, and character ‘a’ repeats at index 3, 4, and 7. Hence we return the character ‘e’ present at index 6.
+```
+
+**Sample Input 2:**
+
+```
+3
+cbbd
+bebeeed
+abcd
+```
+
+**Sample Output 2:**
+
+```
+c
+d
+a
+```
+
+Great problem 👍 This one is **very common in exams, interviews, and coding practice**.  
+Let’s solve it **step by step**, from simple to best.
+
+I’ll explain in **easy words** and give **Python code** (you can easily convert to C++/Java later).
+
+---
+
+# 🧠 Problem in one line
+
+For each string, **find the first character that appears only once**.  
+If no such character exists → return `#`.
+
+---
+
+## 🟢 1️⃣ Brute Force Solution (Very simple, slow)
+
+### 👉 Idea
+
+For every character:
+
+- Count how many times it appears in the whole string
+    
+- If count == 1 → return it
+    
+
+### ⏱ Time Complexity
+
+- For each character (N), we scan the string (N)
+    
+- **O(N²)** ❌ (slow for large input)
+    
+
+### 🧾 Space Complexity
+
+- **O(1)**
+    
+
+### ✅ Python Code
+
+```python
+def firstNonRepeating_bruteforce(s):
+    for i in range(len(s)):
+        count = 0
+        for j in range(len(s)):
+            if s[i] == s[j]:
+                count += 1
+        if count == 1:
+            return s[i]
+    return '#'
+```
+
+### ✔ Example
+
+```
+"abcab" → c
+```
+
+---
+
+## 🟡 2️⃣ Better Solution (Using frequency array)
+
+### 👉 Idea
+
+- Count frequency of each character first
+    
+- Then scan string again to find first char with frequency 1
+    
+
+Since only **lowercase letters**, we use array of size 26.
+
+### ⏱ Time Complexity
+
+- Counting → O(N)
+    
+- Checking → O(N)
+    
+- **Total: O(N)** ✅
+    
+
+### 🧾 Space Complexity
+
+- **O(26) → O(1)**
+    
+
+### ✅ Python Code
+
+```python
+def firstNonRepeating_better(s):
+    freq = [0] * 26
+
+    for ch in s:
+        freq[ord(ch) - ord('a')] += 1
+
+    for ch in s:
+        if freq[ord(ch) - ord('a')] == 1:
+            return ch
+
+    return '#'
+```
+
+### ✔ Example
+
+```
+"bbabcbcb" → a
+```
+
+---
+
+## 🔵 3️⃣ Optimal Solution (Using dictionary / hashmap)
+
+### 👉 Idea
+
+- Use a hashmap (dictionary) to count characters
+    
+- Preserve order by scanning string again
+    
+
+This is **clean, readable, and interview-friendly**.
+
+### ⏱ Time Complexity
+
+- **O(N)** ✅
+    
+
+### 🧾 Space Complexity
+
+- **O(N)** (worst case all characters unique)
+    
+
+### ✅ Python Code
+
+```python
+def firstNonRepeating_optimal(s):
+    freq = {}
+
+    for ch in s:
+        freq[ch] = freq.get(ch, 0) + 1
+
+    for ch in s:
+        if freq[ch] == 1:
+            return ch
+
+    return '#'
+```
+
+---
+
+## 🧪 Handling Multiple Test Cases
+
+```python
+t = int(input())
+for _ in range(t):
+    s = input().strip()
+    print(firstNonRepeating_optimal(s))
+```
+
+---
+
+## 📊 Comparison Summary
+
+|Approach|Time|Space|Use when|
+|---|---|---|---|
+|Brute Force|O(N²)|O(1)|Learning basics|
+|Better (Array)|O(N)|O(1)|Exams, constraints known|
+|Optimal (Map)|O(N)|O(N)|Interviews, clean code|
+
+---
+
+## 💡 Pro Tip (Exam & Interview)
+
+- **Mention brute force first**
+    
+- Then improve it
+    
+- End with optimal → interviewer loves this flow 😄
+    
+
+---
+
+If you want next:
+
+- C++ / Java version
+    
+- Interview explanation in words
+    
+- Similar problems for practice
+    
+- Dry run with diagram
+    
+
+Just tell me 🚀
