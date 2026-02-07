@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "POTD > Easy"
             }
+          },
+          {
+            "id": "dc3a8732ba69325c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e4ec97867b4d40a",
+  "active": "dc3a8732ba69325c",
   "lastOpenFiles": [
     "DSA/Coding Ninjas > Easy.md",
     "DSA/DSA Roadmap for Startups.md",
