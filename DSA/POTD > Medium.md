@@ -356,3 +356,33 @@ I can:
     
 
 Just tell me 😊
+
+# You are given two binary search trees of integers having **_‘N’_** and **_‘M’_** nodes. Return an array that contains elements of both BST in sorted order.  A binary search tree (BST) is a binary tree data structure with the following properties.
+
+```
+• The left subtree of a node contains only nodes with data less than the node’s data.
+
+• The right subtree of a node contains only nodes with data greater than the node’s data.
+
+• Both the left and right subtrees must also be binary search trees.
+```
+##### Sample Input 1:
+
+```
+2 1 3 -1 -1 -1 -1
+4 -1 -1
+```
+
+##### Sample Output 1:
+
+```
+1 2 3 4 
+```
+
+##### Explanation For Sample Output 1:
+
+```
+ The given BST are:-
+```
+![[Pasted image 20260207192829.png]]
+![[Pasted image 20260207192840.png]]
