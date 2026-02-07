@@ -1033,3 +1033,264 @@ If you want next:
     
 
 Just tell me 🚀
+
+# Given the time in hours and minutes, you need to calculate the angle between the hour hand and the minute hand.
+
+**Note :**
+
+```
+There can be two angles between the hour hand and minute hand, you need to print a minimum of two. Also, print the floor value of angle i.e. if the angle is 15.2, you need to print 15.
+```
+**Constraints:**
+
+```
+1 <= T <= 50
+1 <= H <= 12
+0 <= M <= 59
+
+Time Limit: 1 sec
+```
+
+##### Sample Input 1:
+
+```
+2
+6 30
+8 55
+```
+
+##### Sample Output 1:
+
+```
+15
+62
+```
+
+##### Explanation For Sample Input 1:
+
+```
+For test case 1: when the time is 6:30 the two angles between the hour hand and the minute hand is 15 degree and 345 degrees. As 15 is the smallest so the ans is 15.
+
+For test case 1: when the time is 8:55 the two angles between the hour hand and the minute hand is 62.5 degree and 297.5 degrees. As 62.75 is the smallest so the ans is 62.
+```
+
+##### Sample Input 2:
+
+```
+2
+3 30
+12 0
+```
+
+##### Sample Output 2:
+
+```
+75
+0
+```
+
+Nice problem 👍—this one is very common in exams and interviews, so learning it **step by step** is a great idea.
+
+We’ll solve it in **three ways**:
+
+1. Brute force
+    
+2. Better
+    
+3. Optimal (best + clean formula)
+    
+
+I’ll keep words simple and logic very clear.
+
+---
+
+## 🕒 Basic idea (important to understand first)
+
+- A **clock has 360°**
+    
+- **Hour hand**
+    
+    - Moves **30° per hour** (360 ÷ 12)
+        
+    - Also moves **0.5° per minute** (30 ÷ 60)
+        
+- **Minute hand**
+    
+    - Moves **6° per minute** (360 ÷ 60)
+        
+
+After finding positions of both hands:
+
+- Take the **absolute difference**
+    
+- Choose the **minimum angle**
+    
+- Print the **floor value**
+    
+
+---
+
+## 1️⃣ Brute Force Approach (Slow but easy to understand)
+
+### Idea
+
+Simulate how much each hand moves from 12:00.
+
+### Steps
+
+1. Hour hand movement:
+    
+    - `hour_angle = (H % 12) * 30 + M * 0.5`
+        
+2. Minute hand movement:
+    
+    - `minute_angle = M * 6`
+        
+3. Find difference:
+    
+    - `angle = abs(hour_angle - minute_angle)`
+        
+4. Minimum angle:
+    
+    - `angle = min(angle, 360 - angle)`
+        
+5. Print `floor(angle)`
+    
+
+### Code (Brute Force)
+
+```python
+import math
+
+def clock_angle_bruteforce(H, M):
+    hour_angle = (H % 12) * 30 + M * 0.5
+    minute_angle = M * 6
+
+    angle = abs(hour_angle - minute_angle)
+    angle = min(angle, 360 - angle)
+
+    return math.floor(angle)
+```
+
+✔ Easy  
+❌ Slightly repetitive calculations
+
+---
+
+## 2️⃣ Better Approach (Cleaner logic)
+
+### Improvement
+
+Same math, but we **directly think in angles**, no simulation feeling.
+
+### Formula
+
+```
+angle = |30H - 5.5M|
+```
+
+Why?
+
+- Hour hand = `30H + 0.5M`
+    
+- Minute hand = `6M`
+    
+- Difference = `|30H + 0.5M - 6M|`
+    
+- Simplify → `|30H - 5.5M|`
+    
+
+### Code (Better)
+
+```python
+import math
+
+def clock_angle_better(H, M):
+    angle = abs(30 * H - 5.5 * M)
+    angle = min(angle, 360 - angle)
+    return math.floor(angle)
+```
+
+✔ Short  
+✔ Faster  
+✔ Interview-friendly
+
+---
+
+## 3️⃣ Optimal Approach (Best & standard)
+
+### Why this is optimal?
+
+- O(1) time
+    
+- O(1) space
+    
+- Direct formula
+    
+- Clean and professional
+    
+
+### Final Formula
+
+```
+min(|30H - 5.5M|, 360 - |30H - 5.5M|)
+```
+
+### Code (Optimal)
+
+```python
+import math
+
+def clock_angle_optimal(H, M):
+    angle = abs(30 * (H % 12) - 5.5 * M)
+    return math.floor(min(angle, 360 - angle))
+```
+
+✔ Best for exams  
+✔ Best for interviews  
+✔ Best for competitive programming
+
+---
+
+## 🧪 Example Walkthrough
+
+### Input: `8 55`
+
+- `|30×8 - 5.5×55|`
+    
+- `|240 - 302.5| = 62.5`
+    
+- Minimum = `62.5`
+    
+- Floor → **62**
+    
+
+✔ Output matches sample
+
+---
+
+## 🚀 Extra Tips (for improvement)
+
+- Memorize this formula: **`|30H - 5.5M|`**
+    
+- Always apply **`min(angle, 360 - angle)`**
+    
+- Don’t forget **floor value**
+    
+- Use `(H % 12)` to avoid errors for 12
+    
+
+---
+
+If you want, next I can:
+
+- Convert this to **C / C++ / Java**
+    
+- Give **trick to remember formula**
+    
+- Provide **exam-ready short answer**
+    
+- Give **MCQs based on this concept**
+    
+
+Just tell me 😊
