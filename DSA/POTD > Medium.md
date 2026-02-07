@@ -386,3 +386,28 @@ Just tell me 😊
 ```
 ![[Pasted image 20260207192829.png]]
 ![[Pasted image 20260207192840.png]]
+```
+The output will be 1 2 3 4
+```
+
+##### Sample Input 2:
+
+```
+4 2 7 -1 3 -1 -1 -1 -1  
+5 1 7 -1 -1 -1 -1
+```
+
+##### Sample Output 2:
+
+```
+1 2 3 4 5 7 7 
+```
+
+##### Constraints:
+
+```
+1 <= 'N', 'M' <= 10^5
+
+Time Limit: 1 sec
+```
+
