@@ -411,3 +411,286 @@ The output will be 1 2 3 4
 Time Limit: 1 sec
 ```
 
+Nice work 👏👏  
+You **debugged it correctly**, understood the platform expectation, and now you have an **accepted solution**. That’s solid learning right there.
+
+Now let me give you **clean, exam-ready answers** for **Brute Force, Better, and Optimal** solutions — exactly how you can write/explain them in tests or interviews.
+
+---
+
+# ✅ Problem Recap (in simple words)
+
+You are given **two Binary Search Trees (BSTs)**.  
+You must **merge them and return a BST** that contains **all elements in sorted order**.
+
+Key rule:
+
+> Inorder traversal of a BST gives elements in sorted order.
+
+---
+
+# 1️⃣ Brute Force Solution
+
+### 💡 Idea
+
+1. Traverse **both BSTs**
+    
+2. Store all elements in one array
+    
+3. **Sort the array**
+    
+4. Convert sorted array into a **BST**
+    
+5. Return the BST root
+    
+
+---
+
+### 🔧 Steps
+
+- Do inorder traversal of BST1 → array
+    
+- Do inorder traversal of BST2 → array
+    
+- Sort array
+    
+- Build BST from sorted array
+    
+
+---
+
+### 🧠 Code (Brute Force)
+
+```python
+def inorder(root, arr):
+    if not root:
+        return
+    inorder(root.left, arr)
+    arr.append(root.data)
+    inorder(root.right, arr)
+
+
+def sortedArrayToBST(arr):
+    if not arr:
+        return None
+    mid = len(arr) // 2
+    root = TreeNode(arr[mid])
+    root.left = sortedArrayToBST(arr[:mid])
+    root.right = sortedArrayToBST(arr[mid + 1:])
+    return root
+
+
+def mergeBST(root1, root2):
+    arr = []
+    inorder(root1, arr)
+    inorder(root2, arr)
+
+    arr.sort()
+    return sortedArrayToBST(arr)
+```
+
+---
+
+### ⏱ Complexity
+
+- Time: **O((N + M) log(N + M))**
+    
+- Space: **O(N + M)**
+    
+
+### ✅ Pros / ❌ Cons
+
+✔ Very easy  
+❌ Sorting makes it slow
+
+---
+
+# 2️⃣ Better Solution
+
+### 💡 Idea
+
+1. Inorder traversal of BST1 → sorted list A
+    
+2. Inorder traversal of BST2 → sorted list B
+    
+3. Merge two sorted arrays
+    
+4. Convert merged array into BST
+    
+
+---
+
+### 🔧 Steps
+
+- Get two sorted arrays
+    
+- Merge like merge sort
+    
+- Build BST
+    
+
+---
+
+### 🧠 Code (Better)
+
+```python
+def inorder(root, arr):
+    if not root:
+        return
+    inorder(root.left, arr)
+    arr.append(root.data)
+    inorder(root.right, arr)
+
+
+def mergeArrays(a, b):
+    i = j = 0
+    res = []
+
+    while i < len(a) and j < len(b):
+        if a[i] <= b[j]:
+            res.append(a[i])
+            i += 1
+        else:
+            res.append(b[j])
+            j += 1
+
+    res.extend(a[i:])
+    res.extend(b[j:])
+    return res
+
+
+def sortedArrayToBST(arr):
+    if not arr:
+        return None
+    mid = len(arr) // 2
+    root = TreeNode(arr[mid])
+    root.left = sortedArrayToBST(arr[:mid])
+    root.right = sortedArrayToBST(arr[mid + 1:])
+    return root
+
+
+def mergeBST(root1, root2):
+    a, b = [], []
+    inorder(root1, a)
+    inorder(root2, b)
+
+    merged = mergeArrays(a, b)
+    return sortedArrayToBST(merged)
+```
+
+---
+
+### ⏱ Complexity
+
+- Time: **O(N + M)**
+    
+- Space: **O(N + M)**
+    
+
+### ✅ Why better?
+
+✔ No sorting  
+✔ Linear time  
+❌ Still uses extra arrays
+
+---
+
+# 3️⃣ Optimal Solution (Your Accepted One 🔥)
+
+### 💡 Idea
+
+- Use **two stacks**
+    
+- Do **simultaneous inorder traversal**
+    
+- Merge elements **on the fly**
+    
+- Build BST from final sorted list
+    
+
+---
+
+### 🧠 Code (Optimal – Accepted)
+
+```python
+def sortedArrayToBST(arr):
+    if not arr:
+        return None
+
+    mid = len(arr) // 2
+    root = TreeNode(arr[mid])
+    root.left = sortedArrayToBST(arr[:mid])
+    root.right = sortedArrayToBST(arr[mid + 1:])
+    return root
+
+
+def mergeBST(root1, root2):
+    stack1, stack2 = [], []
+    result = []
+
+    while root1 or root2 or stack1 or stack2:
+
+        while root1:
+            stack1.append(root1)
+            root1 = root1.left
+
+        while root2:
+            stack2.append(root2)
+            root2 = root2.left
+
+        if not stack2 or (stack1 and stack1[-1].data <= stack2[-1].data):
+            node = stack1.pop()
+            result.append(node.data)
+            root1 = node.right
+        else:
+            node = stack2.pop()
+            result.append(node.data)
+            root2 = node.right
+
+    return sortedArrayToBST(result)
+```
+
+---
+
+### ⏱ Complexity
+
+- Time: **O(N + M)**
+    
+- Space: **O(H1 + H2 + N + M)**  
+    (stacks + result array)
+    
+
+✔ Fast  
+✔ Interview-grade  
+✔ Platform-accepted
+
+---
+
+## 📊 Final Comparison
+
+|Approach|Time|Space|Level|
+|---|---|---|---|
+|Brute Force|O((N+M)log(N+M))|O(N+M)|Beginner|
+|Better|O(N+M)|O(N+M)|Intermediate|
+|Optimal|O(N+M)|O(H1+H2)|Advanced|
+
+---
+
+## 🎯 How to explain in interview (1-liner)
+
+> “I used inorder traversal to get sorted values from BSTs, merged them efficiently, and constructed a balanced BST from the merged result.”
+
+---
+
+If you want next:
+
+- How to **optimize space further**
+    
+- How to answer this in **2 minutes verbally**
+    
+- Convert to **C++ / Java**
+    
+- Similar problems to practice
+    
+
+Just tell me 👍
