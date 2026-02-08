@@ -1295,3 +1295,273 @@ If you want, next I can:
 
 Just tell me 😊
 
+# You are provided with the two strings named X and Y respectively. Y has its own specific order and has no repeating characters. Your task is to arrange the characters of the first string i.e. X in such a way that the order of characters in X is exactly the same as in Y, which means if ‘d’ occurs after ‘c’ in Y then it should also occur after ‘c’ in X ( obviously if X has ‘d’ and ‘c’ as characters in it ). All you have to do is, convert string X in the specific order with respect to string Y.
+
+Note :
+
+```
+Both the strings have only lowercase English alphabets. 
+There may be more than one correct solution, you have to return any one of the possible solutions.
+```
+
+**Constraints :**
+
+```
+1 <= T <= 10
+1 <= |X| <= 10000
+1 <= |Y| <= 26
+where ‘T’ is the number of test cases, |X| is the length of the first string and |Y| is the length of the second string.
+Time Limit: 1 sec
+```
+
+#### Sample Input 1:
+
+```
+1
+acabd
+abc
+```
+
+#### Sample Output 1:
+
+```
+aabcd
+```
+
+#### Explanation of Sample Input 1:
+
+```
+String Y has ‘a’ first then ‘b’ and then ‘c’ and therefore string X must be ordered as ‘aabcd’ to keep the respective order of characters same as in string Y.
+Other possible answers are: ‘daabc’ , ‘adabc’ , ‘aadbc’, ‘aabdc’.
+```
+
+#### Sample Input 2:
+
+```
+4
+dfhfgk
+h
+aabbb
+gd
+abababab
+ab
+cag
+abcdef
+```
+
+#### Sample Output 2:
+
+```
+hdffgk
+aabbb
+aaaabbbb
+acg
+```
+
+Nice, this is a **classic ordering problem**.  
+Let’s solve it in **three levels** so you clearly see how to improve step by step 👇  
+I’ll keep the words simple and exam-friendly.
+
+---
+
+# 🔹 Problem recap (in one line)
+
+You must **rearrange string X** so that characters appear in the **same relative order as in Y**.  
+Characters not present in Y can be placed anywhere.
+
+---
+
+# 🥉 1️⃣ Brute Force Solution
+
+(Simple but slow – good for understanding)
+
+### 💡 Idea
+
+- For each character in **Y**
+    
+- Scan the whole **X**
+    
+- Pick matching characters
+    
+- Then pick remaining characters
+    
+
+### ❌ Drawback
+
+- Repeated scanning
+    
+- Slow for large strings
+    
+
+### ⏱️ Time Complexity
+
+```
+O(|X| × |Y|)
+```
+
+---
+
+### ✅ Brute Force Code
+
+```python
+def specificOrder_bruteforce(X, Y):
+    result = []
+    used = [False] * len(X)
+
+    # Place characters in Y order
+    for ch in Y:
+        for i in range(len(X)):
+            if X[i] == ch and not used[i]:
+                result.append(ch)
+                used[i] = True
+
+    # Place remaining characters
+    for i in range(len(X)):
+        if not used[i]:
+            result.append(X[i])
+
+    return ''.join(result)
+```
+
+---
+
+# 🥈 2️⃣ Better Solution
+
+(Using sorting + custom priority)
+
+### 💡 Idea
+
+- Give each character a **priority**
+    
+- Characters in Y get higher priority
+    
+- Sort X based on that priority
+    
+
+### ⏱️ Time Complexity
+
+```
+O(|X| log |X|)
+```
+
+### 🧠 Why better?
+
+- Cleaner
+    
+- No nested loops
+    
+- Still not optimal
+    
+
+---
+
+### ✅ Better Solution Code
+
+```python
+def specificOrder_better(X, Y):
+    priority = {}
+
+    # Assign priority based on Y
+    for i in range(len(Y)):
+        priority[Y[i]] = i
+
+    # Characters not in Y get large priority
+    def sort_key(ch):
+        return priority[ch] if ch in priority else len(Y)
+
+    return ''.join(sorted(X, key=sort_key))
+```
+
+---
+
+# 🥇 3️⃣ Best Solution (Optimal)
+
+(Frequency counting – fastest & cleanest)
+
+### 💡 Idea
+
+- Count frequency of characters in X
+    
+- Add characters in order of Y
+    
+- Add remaining characters
+    
+
+### ⏱️ Time Complexity
+
+```
+O(|X| + |Y|)
+```
+
+### 🧠 Why BEST?
+
+- No sorting
+    
+- No nested loops
+    
+- Works fast even for 10,000 characters
+    
+
+---
+
+### ✅ Best Solution Code (Recommended)
+
+```python
+def specificOrder_best(X, Y):
+    freq = [0] * 26
+
+    # Count characters in X
+    for ch in X:
+        freq[ord(ch) - ord('a')] += 1
+
+    result = []
+
+    # Add characters in Y order
+    for ch in Y:
+        idx = ord(ch) - ord('a')
+        if freq[idx] > 0:
+            result.append(ch * freq[idx])
+            freq[idx] = 0
+
+    # Add remaining characters
+    for i in range(26):
+        if freq[i] > 0:
+            result.append(chr(i + ord('a')) * freq[i])
+
+    return ''.join(result)
+```
+
+---
+
+# 📊 Comparison Table (very useful for exams)
+
+|Approach|Time Complexity|Space|Verdict|
+|---|---|---|---|
+|Brute Force|O(X × Y)|O(X)|❌ Slow|
+|Better|O(X log X)|O(X)|👍 Good|
+|Best|O(X + Y)|O(1)|⭐ Best|
+
+---
+
+# 🚀 Final exam tip
+
+If asked:
+
+> _“Write the most efficient solution”_
+
+👉 Always choose **frequency-count method**  
+👉 Mention **O(n)** time complexity
+
+You’re thinking in the **right direction** 👏  
+If you want, I can:
+
+- Add **dry run**
+    
+- Convert to **C / Java**
+    
+- Write **exam-style explanation**
+    
+- Handle **T test cases**
+    
+
+Just tell me 😊
