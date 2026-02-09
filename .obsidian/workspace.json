@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/1. HTML & CSS/7. Fetch API.md",
+                "file": "Frontend Flow/1. HTML & CSS/8. Single Page Applications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Fetch API"
+              "title": "8. Single Page Applications"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "dc3a8732ba69325c",
   "lastOpenFiles": [
+    "Frontend Flow/1. HTML & CSS/7. Fetch API.md",
     "Frontend Flow/1. HTML & CSS/6. Responsive Design.md",
     "Frontend Flow/1. HTML & CSS/5. To do list App.md",
     "Backend Flow/1. Todo App/app.js.md",
@@ -228,7 +229,6 @@
     "Terminal Learning/Terminal Tweaking.md",
     "Terminal Learning/Python Scripting Roadmap.md",
     "Terminal Learning/Kitty_+_Tmux.md",
-    "Terminal Learning/Dev Tricks.md",
     "Tips and Tricks",
     "POTD/Easy",
     "DSA",
