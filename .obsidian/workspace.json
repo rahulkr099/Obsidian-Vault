@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/1. HTML & CSS/16. Dynamic Content Filtering.md",
+                "file": "Frontend Flow/1. HTML & CSS/19. Form Autocomplete.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. Dynamic Content Filtering"
+              "title": "19. Form Autocomplete"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "dc3a8732ba69325c",
   "lastOpenFiles": [
-    "Frontend Flow/1. HTML & CSS/19. Form Autocomplete.md",
     "Frontend Flow/1. HTML & CSS/16. Dynamic Content Filtering.md",
+    "Frontend Flow/1. HTML & CSS/19. Form Autocomplete.md",
     "Frontend Flow/1. HTML & CSS/13. Web Accessibility.md",
     "Frontend Flow/1. HTML & CSS/11. Infinite Scroll.md",
     "Frontend Flow/1. HTML & CSS/9. Form Validation.md",
