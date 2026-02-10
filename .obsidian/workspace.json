@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/1. HTML & CSS/19. Form Autocomplete.md",
+                "file": "Frontend Flow/2. Intermediate Frontend Code/1. Real time chat app.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19. Form Autocomplete"
+              "title": "1. Real time chat app"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -197,8 +198,8 @@
   },
   "active": "dc3a8732ba69325c",
   "lastOpenFiles": [
-    "Frontend Flow/1. HTML & CSS/16. Dynamic Content Filtering.md",
     "Frontend Flow/1. HTML & CSS/19. Form Autocomplete.md",
+    "Frontend Flow/1. HTML & CSS/16. Dynamic Content Filtering.md",
     "Frontend Flow/1. HTML & CSS/13. Web Accessibility.md",
     "Frontend Flow/1. HTML & CSS/11. Infinite Scroll.md",
     "Frontend Flow/1. HTML & CSS/9. Form Validation.md",
