@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/2. Intermediate Frontend Code/17. page transitions.md",
+                "file": "Backend Flow/1. Todo App/app.js.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. page transitions"
+              "title": "app.js"
+            }
+          },
+          {
+            "id": "35a89fe88f449144",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -195,8 +207,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc3a8732ba69325c",
+  "active": "35a89fe88f449144",
   "lastOpenFiles": [
+    "Backend Flow/1. Todo App/app.js.md",
+    "Frontend Flow/2. Intermediate Frontend Code/Accordion.md",
+    "Frontend Flow/Mock Interview.md",
+    "Frontend Flow/Ninjas Output Questions.md",
+    "Frontend Flow/2. Intermediate Frontend Code/17. page transitions.md",
     "Frontend Flow/2. Intermediate Frontend Code/1. Real time chat app.md",
     "Frontend Flow/1. HTML & CSS/19. Form Autocomplete.md",
     "Frontend Flow/1. HTML & CSS/16. Dynamic Content Filtering.md",
@@ -207,7 +224,6 @@
     "Frontend Flow/1. HTML & CSS/7. Fetch API.md",
     "Frontend Flow/1. HTML & CSS/6. Responsive Design.md",
     "Frontend Flow/1. HTML & CSS/5. To do list App.md",
-    "Backend Flow/1. Todo App/app.js.md",
     "Backend Flow/1. Todo App/activity.model.js.md",
     "DSA/POTD > Easy.md",
     "DSA/POTD > Medium.md",
@@ -224,10 +240,6 @@
     "Frontend Flow/1. HTML & CSS/4. Image Carousel.md",
     "Frontend Flow/1. HTML & CSS/3. JS Calculator.md",
     "Frontend Flow/0. Mock Interview/Medium/Debounce + Search.md",
-    "Backend Flow/1. Todo App/Restore Soft deleted Todo.md",
-    "Frontend Flow/0. Mock Interview/Medium/File Explorer.md",
-    "Frontend Flow/0. Mock Interview/Round 1 - Tabs.md",
-    "Frontend Flow/2. Intermediate Frontend Code/Searchbox + Debounce.md",
     "Tips and Tricks",
     "POTD/Easy",
     "DSA",
