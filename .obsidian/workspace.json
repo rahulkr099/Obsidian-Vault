@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/1. Todo App/todo.routes.js.md",
+                "file": "Backend Flow/1. Todo App/todo.controller.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo.routes.js"
+              "title": "todo.controller.js"
             }
           }
         ],
@@ -213,6 +213,7 @@
   },
   "active": "9660298ce071d46e",
   "lastOpenFiles": [
+    "Backend Flow/1. Todo App/todo.routes.js.md",
     "Backend Flow/1. Todo App/app.js.md",
     "Backend Flow/1. Todo App/server.js.md",
     "Frontend Flow/2. Intermediate Frontend Code/Accordion.md",
@@ -243,7 +244,6 @@
     "Full Stack Mini Projects/Fullstack machine coding evaluation.md",
     "Full Stack Mini Projects/Get Hired as a Software Engineer.md",
     "Frontend Flow/1. HTML & CSS/4. Image Carousel.md",
-    "Frontend Flow/1. HTML & CSS/3. JS Calculator.md",
     "Tips and Tricks",
     "POTD/Easy",
     "DSA",
