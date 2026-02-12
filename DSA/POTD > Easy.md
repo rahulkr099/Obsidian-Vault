@@ -1565,3 +1565,82 @@ If you want, I can:
     
 
 Just tell me 😊
+
+
+
+
+# You are given an array/list ‘ARR’ of size ‘N’. ‘ARR' is binary i.e. it contains only 0s and 1s (ARR[i] = {0, 1}). Your task is to find out the minimum number of swaps required to group all 1s together.
+
+Note: If ‘ARR’ contains only 0’s then print -1.
+
+Example:
+
+```
+Let ‘ARR’ = [ 0, 1, 0, 1]. We can group all 1s together in the following ways: ‘ARR’ =[0, 0, 1, 1] or ‘ARR’ = [0, 1, 1, 0]. 
+
+In this example, we need only 1 swap to group all 1’s together which is the minimum possible. 
+```
+
+**Constraints:**
+
+```
+1 <= ‘T’ <= 100
+2 <= ‘N’ <= 5000
+0 <= ‘ARR[i]’ <= 1
+
+Where ‘ARR[i]’ represents the elements of array/list ‘ARR’. 
+
+Time Limit: 1 sec
+```
+
+##### Sample Input 1:
+
+```
+2
+5
+1 0 1 0 1
+6
+1 1 1 1 1 1
+```
+
+##### Sample Output 1:
+
+```
+1
+0
+```
+
+#### Explanation for Sample Output 1:
+
+```
+In test case 1, swap ‘ARR[1]’ and ‘ARR[4]’ (0-based indexing). Then ‘ARR’ = [1, 1, 1, 0, 0]. So, the minimum swaps to group all 1s together is 1.
+
+In test case 2, all 1s are already together in 'ARR'. So, we don’t need any swaps. Hence, the minimum swaps to group all 1s together is 0.
+```
+
+##### Sample Input 2:
+
+```
+2
+4 
+0 0 0 0
+6
+1 1 0 0 1 1
+```
+
+##### Sample Output 2:
+
+```
+-1
+ 2
+```
+
+#### Explanation for Sample Output 2:
+
+```
+In test case 1, the number of 1s in 'ARR' is 0. So we return -1.
+
+In test case 2, first, we swap ‘ARR[2]’ and ‘ARR[4]’ (0-based indexing). Now, ‘ARR’ = [1, 1, 1, 0, 0, 1].
+Then, swap ‘ARR[3]’ and ‘ARR[5]’. Now, ‘ARR’ = [1, 1, 1, 1, 0, 0]. So, the minimum swaps to group all 1s together is 2.
+```
+
