@@ -1566,6 +1566,264 @@ If you want, I can:
 
 Just tell me 😊
 
+# You are given a string 'STR'. The string contains [a-z] [A-Z] [0-9] [special characters]. You have to find the reverse of the string.
+
+For example:
+
+```
+ If the given string is: STR = "abcde". You have to print the string "edcba".
+```
+
+**follow up:**
+
+```
+Try to solve the problem in O(1) space complexity. 
+```
+**Constraints:**
+
+```
+1 ≤ T ≤ 10
+1 ≤ |STR| ≤ 10 ^ 5 
+
+Where |STR| is the length of the string STR.
+
+Time limit: 1 sec.
+```
+
+##### Sample Input 1:
+
+```
+3
+abcde
+coding
+hello1
+```
+
+##### Sample Output 1:
+
+```
+edcba
+gnidoc
+1olleh
+```
+
+##### Explanation of the Sample Input 1:
+
+```
+For the first test case, STR = "abcde". We need to reverse the string, that is the first element becomes the last element and the last element becomes the first element, the second element becomes the second last element and the second last element becomes the second element and so on. So we get, "edcba".
+```
+
+##### Sample Input 2:
+
+```
+3
+a
+1det@Z
+$1xYuP
+```
+
+##### Sample Output 2
+
+```
+a
+Z@ted1
+PuYx1$
+```
+
+Great question 👍 This is a classic string problem, but the **O(1) space follow-up** makes it more interesting.
+
+We’ll solve it in 3 ways:
+
+- ✅ Brute Force
+    
+- ✅ Better
+    
+- ✅ Optimal (O(1) extra space)
+    
+
+---
+
+# 🔹 1️⃣ Brute Force Solution
+
+### 💡 Idea:
+
+Create a new string and append characters from the end to the start.
+
+### ⏱ Time Complexity: O(N)
+
+### 📦 Space Complexity: O(N) (extra string used)
+
+### ✅ Python Code:
+
+```python
+def reverse_string_brute(s):
+    result = ""
+    for i in range(len(s) - 1, -1, -1):
+        result += s[i]
+    return result
+```
+
+### ⚠ Problem:
+
+String concatenation inside loop is costly (strings are immutable in Python).  
+It creates many intermediate strings.
+
+---
+
+# 🔹 2️⃣ Better Solution
+
+### 💡 Idea:
+
+Convert string to list, reverse using slicing.
+
+### ⏱ Time Complexity: O(N)
+
+### 📦 Space Complexity: O(N)
+
+### ✅ Python Code:
+
+```python
+def reverse_string_better(s):
+    return s[::-1]
+```
+
+OR
+
+```python
+def reverse_string_better(s):
+    return ''.join(reversed(s))
+```
+
+### ✔ Why better?
+
+Cleaner, faster than manual concatenation.
+
+But still uses **extra space**.
+
+---
+
+# 🔹 3️⃣ Optimal Solution (O(1) Space) 🔥
+
+Now this is what interviewers love.
+
+### 💡 Idea:
+
+Use **two-pointer swapping**.  
+Convert string into list (since Python strings are immutable).  
+Swap from start and end moving inward.
+
+### ⏱ Time Complexity: O(N)
+
+### 📦 Extra Space: O(1)
+
+(Only constant variables used. We modify in-place.)
+
+---
+
+### ✅ Python Code:
+
+```python
+def reverse_string_optimal(s):
+    arr = list(s)   # convert to list to allow modification
+    left = 0
+    right = len(arr) - 1
+
+    while left < right:
+        arr[left], arr[right] = arr[right], arr[left]
+        left += 1
+        right -= 1
+
+    return ''.join(arr)
+```
+
+---
+
+# 🔹 How It Works (Example: "hello1")
+
+Initial:
+
+```
+h e l l o 1
+^         ^
+```
+
+Swap:
+
+```
+1 e l l o h
+  ^     ^
+```
+
+Swap:
+
+```
+1 o l l e h
+    ^ ^
+```
+
+Done ✅
+
+Result: `"1olleh"`
+
+---
+
+# 🚀 If You Want Truly O(1) Space
+
+In languages like **C++**, you can directly modify the string without converting:
+
+```cpp
+void reverseString(string &s) {
+    int left = 0;
+    int right = s.length() - 1;
+
+    while(left < right) {
+        swap(s[left], s[right]);
+        left++;
+        right--;
+    }
+}
+```
+
+That is **real in-place reversal**.
+
+---
+
+# 🔥 Final Comparison
+
+|Approach|Time|Space|Good For|
+|---|---|---|---|
+|Brute Force|O(N)|O(N)|Basic understanding|
+|Slicing|O(N)|O(N)|Clean coding|
+|Two Pointer|O(N)|O(1)|Interviews 🔥|
+
+---
+
+# 💡 Pro Tip (Interview Ready)
+
+If interviewer asks:
+
+> “Can you do this without extra space?”
+
+You should immediately think:  
+👉 Two pointers  
+👉 In-place swapping  
+👉 Left & Right movement
+
+---
+
+If you want, I can also give:
+
+- Java version
+    
+- C version
+    
+- Competitive programming input format version
+    
+- Or how to handle multiple test cases properly
+    
+
+Just tell me 😄
+
 
 
 
@@ -1644,3 +1902,265 @@ In test case 2, first, we swap ‘ARR[2]’ and ‘ARR[4]’ (0-based indexing).
 Then, swap ‘ARR[3]’ and ‘ARR[5]’. Now, ‘ARR’ = [1, 1, 1, 1, 0, 0]. So, the minimum swaps to group all 1s together is 2.
 ```
 
+Nice problem! Let’s break it down step-by-step and build intuition first, then move from **brute → better → optimal** solutions.
+
+---
+
+# 🧠 Problem Understanding
+
+You need to **group all 1s together** with **minimum swaps**.
+
+Important observations:
+
+- Order doesn’t matter.
+    
+- Swapping can be between any two positions.
+    
+- Goal = all 1s should be **contiguous**.
+    
+- If array has **no 1s → return -1**.
+    
+
+---
+
+# 🔎 Key Insight (Core Logic)
+
+If total number of `1`s = **k**
+
+Then all valid grouped arrangements must contain a block (window) of size **k** that holds all 1s.
+
+👉 So we just need to find:
+
+> A window of size **k** having **maximum number of 1s**
+
+Why?
+
+Because:
+
+```
+swaps needed = k − (number of 1s already inside window)
+```
+
+We want swaps minimum → maximize ones inside window.
+
+---
+
+# 🥉 1. Brute Force Solution
+
+### Idea
+
+Check every possible window of size `k` and count how many 1s inside.
+
+### Steps
+
+1. Count total 1s → `k`
+    
+2. For each window of size k:
+    
+    - count 1s
+        
+    - calculate swaps
+        
+3. Take minimum.
+    
+
+---
+
+### Complexity
+
+- Time = **O(N²)**
+    
+- Space = O(1)
+    
+
+---
+
+### Code
+
+```python
+def min_swaps_bruteforce(arr):
+    k = arr.count(1)
+    if k == 0:
+        return -1
+
+    n = len(arr)
+    ans = float('inf')
+
+    for i in range(n - k + 1):
+        ones = 0
+        for j in range(i, i + k):
+            if arr[j] == 1:
+                ones += 1
+
+        ans = min(ans, k - ones)
+
+    return ans
+```
+
+---
+
+# 🥈 2. Better Solution (Prefix Sum)
+
+Instead of counting ones again and again, precompute prefix sums.
+
+### Idea
+
+Prefix array stores count of 1s till index.
+
+Then window ones count:
+
+```
+ones = prefix[r] - prefix[l-1]
+```
+
+---
+
+### Complexity
+
+- Time = **O(N)**
+    
+- Space = **O(N)**
+    
+
+---
+
+### Code
+
+```python
+def min_swaps_better(arr):
+    k = arr.count(1)
+    if k == 0:
+        return -1
+
+    n = len(arr)
+
+    prefix = [0]*n
+    prefix[0] = arr[0]
+
+    for i in range(1,n):
+        prefix[i] = prefix[i-1] + arr[i]
+
+    ans = float('inf')
+
+    for i in range(n-k+1):
+        j = i + k - 1
+        ones = prefix[j] - (prefix[i-1] if i>0 else 0)
+        ans = min(ans, k - ones)
+
+    return ans
+```
+
+---
+
+# 🥇 3. Optimal Solution (Sliding Window) 🚀
+
+This is the best solution and interview favorite.
+
+---
+
+### Idea
+
+Instead of recomputing counts, maintain a sliding window of size `k`.
+
+When window moves:
+
+- subtract outgoing element
+    
+- add incoming element
+    
+
+---
+
+### Complexity
+
+- Time = **O(N)**
+    
+- Space = **O(1)** ✅
+    
+
+---
+
+### Code
+
+```python
+def min_swaps_optimal(arr):
+    k = arr.count(1)
+    if k == 0:
+        return -1
+
+    n = len(arr)
+
+    # count ones in first window
+    ones = sum(arr[:k])
+    max_ones = ones
+
+    for i in range(k, n):
+        ones += arr[i]      # add new
+        ones -= arr[i-k]    # remove old
+        max_ones = max(max_ones, ones)
+
+    return k - max_ones
+```
+
+---
+
+# 🔥 Example Walkthrough
+
+```
+arr = [1,0,1,0,1]
+k = 3
+```
+
+Windows size = 3
+
+|Window|Ones|Swaps|
+|---|---|---|
+|[1,0,1]|2|1|
+|[0,1,0]|1|2|
+|[1,0,1]|2|1|
+
+Minimum = **1**
+
+---
+
+# 🏆 Final Complexity Comparison
+
+|Approach|Time|Space|Notes|
+|---|---|---|---|
+|Brute|O(N²)|O(1)|slow|
+|Prefix|O(N)|O(N)|faster|
+|Sliding|O(N)|O(1)|best ⭐|
+
+---
+
+# 🎯 Interview Answer Summary (Short Form)
+
+If asked directly:
+
+> Count total 1s = k.  
+> Use sliding window of size k.  
+> Find window with max 1s.  
+> Answer = k − maxOnes.
+
+---
+
+# 💡 Advanced Thought (Bonus Insight)
+
+Same trick works for:
+
+- grouping all 0s together
+    
+- minimum swaps to group characters
+    
+- grouping vowels together
+    
+- grouping same values
+    
+
+This pattern is called:
+
+> **Fixed-size Sliding Window Optimization**
+
+---
+
+If you want, I can also show a visual animation style dry run to make this idea instantly intuitive.
