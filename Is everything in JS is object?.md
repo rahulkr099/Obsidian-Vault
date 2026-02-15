@@ -296,4 +296,176 @@ As a Full Stack Developer, you have three main ways to handle this "Deep Copying
 
 Since you're working on the MERN stack, you'll likely use **Redux Toolkit** or **Zustand** for state management. These libraries often use a library called **Immer** under the hood, which handles all this "Immutable" logic for you so you can write code that _looks_ like mutation but acts like a copy.
 
-**Would you like to see how we apply this specifically inside a React `useState` hook for an AI Chat application?**
+## **Third parameter of `addEventListener()`**
+When this parameter is an **object**, it lets you control how the event listener behaves. Let’s break it down clearly and simply.
+
+---
+
+# 📌 Syntax
+
+```javascript
+element.addEventListener(type, listener, options);
+```
+
+The `options` object can include:
+
+```javascript
+{
+  capture: true/false,
+  once: true/false,
+  passive: true/false
+}
+```
+
+---
+
+# 🔹 1. `capture` — Event Phase Control
+
+Normally events run in **bubbling phase** (default).
+
+If `capture: true`, the event runs during the **capturing phase**.
+
+### Example
+
+```javascript
+btn.addEventListener("click", handler, { capture: true });
+```
+
+### Event flow:
+
+```
+Capturing:   Window → Document → Parent → Child
+Target
+Bubbling:    Child → Parent → Document → Window
+```
+
+✔ Default:
+
+```javascript
+capture = false
+```
+
+---
+
+# 🔹 2. `once` — Run Listener Only One Time
+
+If set to `true`, the event handler automatically removes itself after first execution.
+
+### Example
+
+```javascript
+btn.addEventListener("click", () => {
+    console.log("Clicked once!");
+}, { once: true });
+```
+
+After first click → listener removed automatically ✅
+
+Useful for:
+
+- OTP buttons
+    
+- Confirm dialogs
+    
+- One-time animations
+    
+
+---
+
+# 🔹 3. `passive` — Performance Optimization
+
+When `passive: true`, you promise **not to call `preventDefault()`** inside the listener.
+
+This lets the browser optimize scrolling performance.
+
+### Example
+
+```javascript
+window.addEventListener("scroll", handler, { passive: true });
+```
+
+Best for:
+
+- scroll
+    
+- touchstart
+    
+- wheel
+    
+
+If you try:
+
+```javascript
+event.preventDefault()
+```
+
+Browser will warn ⚠️ because you said you wouldn’t.
+
+---
+
+# 🔥 Combined Example
+
+```javascript
+document.addEventListener("click", handler, {
+    capture: true,
+    once: true,
+    passive: true
+});
+```
+
+Meaning:  
+✔ Run during capture phase  
+✔ Run only once  
+✔ Won’t block default behavior
+
+---
+
+# 🎯 When To Use Each
+
+|Option|Use Case|
+|---|---|
+|capture|Event delegation or parent interception|
+|once|One-time actions|
+|passive|Scroll/touch performance|
+
+---
+
+# 🧠 Interview Insight
+
+Older syntax used boolean:
+
+```javascript
+addEventListener("click", handler, true)
+```
+
+This is same as:
+
+```javascript
+{ capture: true }
+```
+
+Modern best practice → **always use object form** because it’s clearer and supports multiple options.
+
+---
+
+# 🚀 Pro Tip for Real Projects
+
+You can combine `once + passive` for UI performance optimizations:
+
+```javascript
+btn.addEventListener("click", submitForm, {
+    once: true,
+    passive: true
+});
+```
+
+Prevents:
+
+- double clicks
+    
+- unnecessary memory usage
+    
+
+---
+
+If you want, I can also show a **visual event propagation diagram with code simulation** that makes capturing vs bubbling crystal clear.

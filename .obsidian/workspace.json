@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/POTD > Easy.md",
+                "file": "Is everything in JS is object?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POTD > Easy"
+              "title": "Is everything in JS is object?"
             }
           },
           {
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -212,6 +211,7 @@
   },
   "active": "e80e8d799116521d",
   "lastOpenFiles": [
+    "DSA/POTD > Easy.md",
     "Backend Flow/1. Todo App/app.js.md",
     "Backend Flow/1. Todo App/createTodo.md",
     "Backend Flow/1. Todo App/todo.controller.js.md",
@@ -233,7 +233,6 @@
     "Frontend Flow/1. HTML & CSS/6. Responsive Design.md",
     "Frontend Flow/1. HTML & CSS/5. To do list App.md",
     "Backend Flow/1. Todo App/activity.model.js.md",
-    "DSA/POTD > Easy.md",
     "DSA/POTD > Medium.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
