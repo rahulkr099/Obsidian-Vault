@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/1. HTML & CSS/11. Infinite Scroll.md",
+                "file": "Frontend Flow/2. Intermediate Frontend Code/Accordion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Infinite Scroll"
+              "title": "Accordion"
             }
           },
           {
@@ -212,6 +212,12 @@
   },
   "active": "e80e8d799116521d",
   "lastOpenFiles": [
+    "Frontend Flow/2. Intermediate Frontend Code/17. page transitions.md",
+    "Frontend Flow/2. Intermediate Frontend Code/1. Real time chat app.md",
+    "Frontend Flow/1. HTML & CSS/13. Web Accessibility.md",
+    "Frontend Flow/1. HTML & CSS/19. Form Autocomplete.md",
+    "Frontend Flow/1. HTML & CSS/16. Dynamic Content Filtering.md",
+    "Frontend Flow/1. HTML & CSS/11. Infinite Scroll.md",
     "Backend Flow/1. Todo App/activity.model.js.md",
     "DSA/POTD > Easy.md",
     "Is everything in JS is object?.md",
@@ -224,12 +230,6 @@
     "Frontend Flow/2. Intermediate Frontend Code/Accordion.md",
     "Frontend Flow/Mock Interview.md",
     "Frontend Flow/Ninjas Output Questions.md",
-    "Frontend Flow/2. Intermediate Frontend Code/17. page transitions.md",
-    "Frontend Flow/2. Intermediate Frontend Code/1. Real time chat app.md",
-    "Frontend Flow/1. HTML & CSS/19. Form Autocomplete.md",
-    "Frontend Flow/1. HTML & CSS/16. Dynamic Content Filtering.md",
-    "Frontend Flow/1. HTML & CSS/13. Web Accessibility.md",
-    "Frontend Flow/1. HTML & CSS/11. Infinite Scroll.md",
     "Frontend Flow/1. HTML & CSS/9. Form Validation.md",
     "Frontend Flow/1. HTML & CSS/8. Single Page Applications.md",
     "Frontend Flow/1. HTML & CSS/7. Fetch API.md",
