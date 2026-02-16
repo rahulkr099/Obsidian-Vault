@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/2. Intermediate Frontend Code/Modal.md",
+                "file": "Frontend Flow/2. Intermediate Frontend Code/Pagination.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modal"
+              "title": "Pagination"
             }
           },
           {
@@ -212,6 +212,7 @@
   },
   "active": "e80e8d799116521d",
   "lastOpenFiles": [
+    "Frontend Flow/2. Intermediate Frontend Code/Modal.md",
     "Frontend Flow/2. Intermediate Frontend Code/Like or Vote Counter.md",
     "Frontend Flow/2. Intermediate Frontend Code/Accordion.md",
     "Frontend Flow/2. Intermediate Frontend Code/17. page transitions.md",
@@ -242,7 +243,6 @@
     "Pasted image 20260205210343.png",
     "Pasted image 20260106204848.png",
     "Pasted image 20260207192840.png",
-    "DSA/Coding Ninjas > Easy.md",
     "Tips and Tricks",
     "POTD/Easy",
     "DSA",
