@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/2. Intermediate Frontend Code/Shopping Cart.md",
+                "file": "DSA/Coding Ninjas > Easy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shopping Cart"
+              "title": "Coding Ninjas > Easy"
             }
           },
           {
@@ -212,6 +212,7 @@
   },
   "active": "e80e8d799116521d",
   "lastOpenFiles": [
+    "Frontend Flow/2. Intermediate Frontend Code/Shopping Cart.md",
     "Frontend Flow/2. Intermediate Frontend Code/Searchbox + Debounce.md",
     "Frontend Flow/2. Intermediate Frontend Code/Pagination.md",
     "Frontend Flow/2. Intermediate Frontend Code/Modal.md",
@@ -237,7 +238,6 @@
     "Frontend Flow/1. HTML & CSS/9. Form Validation.md",
     "Frontend Flow/1. HTML & CSS/8. Single Page Applications.md",
     "Frontend Flow/1. HTML & CSS/7. Fetch API.md",
-    "Frontend Flow/1. HTML & CSS/6. Responsive Design.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
     "Pasted image 20260205210343.png",
