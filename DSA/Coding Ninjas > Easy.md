@@ -28,10 +28,10 @@ Time Limit: 1 sec.
 **Sample Input 1 :**
 
 ```
-2
-4 9
+2 = two inputs
+4 9  {4 is number of elements and 9 is target element}
 2 7 11 13
-5 1
+5 1  {5 is number of elements and 1 is target element}
 1 -1 -1 2 2
 ```
 
@@ -46,7 +46,7 @@ Time Limit: 1 sec.
 **Explanation for Sample 1:**
 
 ```
-For the first test case, we can see that the sum of  2 and 7 is equal to 9 and it is the only valid pair.
+For the first test case, we can see that the sum of 2 and 7 is equal to 9 and it is the only valid pair.
 
 For the second test case, there are two valid pairs (-1,2) and (-1,2), which add up to 1.
 ```
