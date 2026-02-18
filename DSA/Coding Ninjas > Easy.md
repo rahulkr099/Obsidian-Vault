@@ -54,8 +54,8 @@ For the second test case, there are two valid pairs (-1,2) and (-1,2), which add
 **Sample Input 2 :**
 
 ```
-1
-4 16
+1  = one input
+4 16 {4 is number of elements and 16 is target element}
 2 7 11 13
 ```
 
