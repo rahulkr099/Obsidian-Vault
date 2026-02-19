@@ -220,7 +220,7 @@ function removeItem(id) {
 function changeQty(id, amount) {
     cart[id].qty += amount;
 
-    if (cart[id].qty <= 0) {
+    if (cart[id].qty <= 0) 
         removeItem(id);
     }
 
