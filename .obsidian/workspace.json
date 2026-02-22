@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/5. JS Projects/Notes App.md",
+                "file": "DSA/DSA Copy Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes App"
+              "title": "DSA Copy Notes"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -198,6 +197,8 @@
   },
   "active": "e80e8d799116521d",
   "lastOpenFiles": [
+    "Frontend Flow/5. JS Projects/Notes App.md",
+    "DSA/DSA Copy Notes.md",
     "Frontend Flow/Machine Coding- Intermediate/2. Create Stopwatch.md",
     "Frontend Flow/5. JS Projects/Dictionary App.md",
     "Frontend Flow/5. JS Projects/Countdown Timer App.md",
@@ -222,8 +223,6 @@
     "Backend Flow/1. Todo App/app.js.md",
     "Backend Flow/1. Todo App/createTodo.md",
     "Backend Flow/1. Todo App/todo.controller.js.md",
-    "Backend Flow/1. Todo App/todo.model.js.md",
-    "Backend Flow/1. Todo App/todo.routes.js.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
     "Pasted image 20260205210343.png",
