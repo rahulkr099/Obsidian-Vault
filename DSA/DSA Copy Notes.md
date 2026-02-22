@@ -1,10 +1,5 @@
 # Array
 
-### Insertion
-Great 👍 this is a very common **interview question**, so I’ll give you a clean + explainable answer you can say confidently.
-
----
-
 ## ✅ Python Program (Manual Insertion – Interview Style)
 
 ```python
@@ -151,3 +146,4 @@ arr.remove(value)
     
 
 ---
+
