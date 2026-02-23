@@ -147,3 +147,121 @@ arr.remove(value)
 
 ---
 
+Great 👍 this is a **very important linked list question** — often asked in interviews.
+
+Let’s keep it simple and clear so you can explain confidently.
+
+---
+# Linked List
+## ✅ Python Program (Insertion at Beginning in Linked List)
+
+```python
+# Node class
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+
+
+# Function to insert at beginning
+def insert_at_beginning(head, value):
+    new_node = Node(value)   # create new node
+    new_node.next = head     # point new node to current head
+    head = new_node          # update head
+    return head
+
+
+# Function to print linked list
+def print_list(head):
+    temp = head
+    while temp:
+        print(temp.data, end=" -> ")
+        temp = temp.next
+    print("None")
+
+
+# Driver code
+head = None
+
+# Creating list
+n = int(input("Enter number of elements: "))
+for _ in range(n):
+    value = int(input("Enter value: "))
+    head = insert_at_beginning(head, value)
+
+print("Linked List:")
+print_list(head)
+```
+
+---
+
+## 🧠 How to Explain in Interview
+
+You can say:
+
+👉 _"To insert at the beginning of a linked list, we first create a new node. Then we make its next pointer point to the current head. After that, we update the head to this new node."_
+
+---
+
+## ⏱ Time Complexity
+
+- **O(1)** ✅ (Very important point)
+    
+
+👉 No traversal needed — constant time operation
+
+---
+
+## 🔥 Why This is Important
+
+Interviewers like this because:
+
+- Tests pointer understanding
+    
+- Foundation for stacks & advanced structures
+    
+
+---
+
+## ⚡ Follow-up Questions
+
+Be ready for these:
+
+### 1. Why is it O(1)?
+
+👉 No loop, just pointer change
+
+### 2. What if list is empty?
+
+👉 Head is `None`, still works perfectly
+
+### 3. Insert at end vs beginning?
+
+- Beginning → O(1)
+    
+- End → O(n) (if no tail pointer)
+    
+
+---
+
+## 🚀 Pro Tip
+
+If you say this line in interview, it’s powerful:
+
+👉 _"Insertion at beginning is preferred when we need constant time operations, like in stack implementation using linked list."_
+
+---
+
+If you want next level 🚀  
+I can give:
+
+- Insertion at end
+    
+- Insertion at position
+    
+- Doubly linked list version
+    
+- Real interview problems
+    
+
+Just tell me 👍
