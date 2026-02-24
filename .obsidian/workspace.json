@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/1. HTML & CSS/3.1 JS Calculator LLD.md",
+                "file": "Frontend Flow/1. HTML & CSS/3.2 JS Calculator HLD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 JS Calculator LLD"
+              "title": "3.2 JS Calculator HLD"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "e80e8d799116521d",
   "lastOpenFiles": [
-    "Frontend Flow/1. HTML & CSS/3. JS Calculator.md",
     "Frontend Flow/1. HTML & CSS/3.1 JS Calculator LLD.md",
+    "Frontend Flow/1. HTML & CSS/3. JS Calculator.md",
     "Frontend Flow/1. HTML & CSS/3.2 JS Calculator HLD.md",
     "Frontend Flow/2. Intermediate Frontend Code/Searchbox + Debounce.md",
     "Frontend Flow/2. Intermediate Frontend Code/Pagination.md",
