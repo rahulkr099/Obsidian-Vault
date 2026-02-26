@@ -5,7 +5,9 @@
 START updateTodo
 
 1.READ todo ID from request parameters
-2.READ update data from request body as payload
+2.Create update object:
+	- status = 'done'
+	- completedAt = current timestamp
 
 3.FIND todo by ID to UPDATE where:
 	3(1)FIND todo:
@@ -23,8 +25,8 @@ START updateTodo
 
 5.CREATE LOG activity:
 	- store todo ID
-    - action = "update"
-    - store payload
+    - action = "completed"
+    - store update payload
 
 6.SEND updated todo in response
 
