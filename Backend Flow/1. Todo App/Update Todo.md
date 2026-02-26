@@ -11,10 +11,10 @@ START updateTodo
 
 3.FIND todo by ID to UPDATE where:
 	3(1)FIND todo:
-		    - id
+		    - match id
 			- not soft deleted
 	3(2)UPDATE todo:
-		    - set provided fields
+		    - set fields from update object
 		    - increment version by 1
 	3(3)RETURN updated document
 
