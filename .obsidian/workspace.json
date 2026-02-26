@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/1. Todo App/app.js.md",
+                "file": "Backend Flow/1. Todo App/server.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "app.js"
+              "title": "server.js"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "e80e8d799116521d",
   "lastOpenFiles": [
+    "Backend Flow/1. Todo App/app.js.md",
     "Frontend Flow/1. HTML & CSS/3. JS Calculator.md",
     "Frontend Flow/1. HTML & CSS/3.2 JS Calculator HLD.md",
     "Frontend Flow/1. HTML & CSS/3.1 JS Calculator LLD.md",
@@ -223,7 +224,6 @@
     "Frontend Flow/1. HTML & CSS/16. Dynamic Content Filtering.md",
     "Frontend Flow/1. HTML & CSS/11. Infinite Scroll.md",
     "Backend Flow/1. Todo App/activity.model.js.md",
-    "Is everything in JS is object?.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
     "Pasted image 20260205210343.png",
