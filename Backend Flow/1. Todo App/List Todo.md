@@ -17,7 +17,7 @@ START listTodos
     SPLIT tags by comma
     FILTER todos that contain any of these tags
 
-5.CREATE database 'query' using filters [search this line on net]
+5.CREATE database 'query' using filters 
 
 6.IF search text exists
 	On 'query'
