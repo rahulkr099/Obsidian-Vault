@@ -31,7 +31,7 @@ START listTodos
     SKIP (page - 1) * limit (Pagination skip)
 	LIMIT number of results (Pagination limit)
 
-9. RUN query + parallel in parallel for performance
+9. RUN query + count in parallel for performance
     execute todo query
     count total matching todos
 
