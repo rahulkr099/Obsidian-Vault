@@ -178,6 +178,8 @@ filters.status = 'completed';
 if (tag)
   filters.tags = { $in: tag.split(',') };
 ```
+$in = match any value from this list
+$in checks if a field contains one of the values inside an array.
 
 ---
 
