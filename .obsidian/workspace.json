@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/5. JS Projects/Dictionary App.md",
+                "file": "Backend Flow/1. Todo App/app.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dictionary App"
+              "title": "app.js"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -197,6 +198,7 @@
   },
   "active": "898a5b8e8bad9e20",
   "lastOpenFiles": [
+    "Frontend Flow/5. JS Projects/Dictionary App.md",
     "DSA/DSA Copy Notes.md",
     "DSA/Coding Ninjas > Easy.md",
     "DSA/POTD > Medium.md",
@@ -222,7 +224,6 @@
     "Backend Flow/1. Todo App/server.js.md",
     "Frontend Flow/1. HTML & CSS/3. JS Calculator.md",
     "Frontend Flow/1. HTML & CSS/3.2 JS Calculator HLD.md",
-    "Frontend Flow/1. HTML & CSS/3.1 JS Calculator LLD.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
     "Pasted image 20260205210343.png",
