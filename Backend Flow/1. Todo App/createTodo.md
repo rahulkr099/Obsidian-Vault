@@ -210,3 +210,20 @@ If asked:
 
 You're thinking in the right direction 💯  
 If you want, next we can design a **complete scalable logging system (like production apps)** 🚀
+
+```
+exports.create = async (req, res) => {
+  const payload = req.body;                  // 1.Read request payload
+  const todo = await Todo.create(payload);   // 2.Insert into DB
+  await Activity.create({                   // 3.Log this action
+    todoId: todo._id,
+    action: 'create',
+    payload
+  });
+  res.status(201).json({ data: todo });    // 4.Return new todo
+};
+
+here, when I click on create task on frontend. this controller logic will run. it will read data from body. and create Todo data on database. and after I just log it into database for future use. 
+but, why am i returning same data to frontend? i can simply send status 201. there is no point to return same data to frontend.
+```
+
