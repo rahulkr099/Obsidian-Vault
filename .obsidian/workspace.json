@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/2. Notes App/In Mongo DB/note.controller.js.md",
+                "file": "Backend Flow/2. Notes App/app.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note.controller.js"
+              "title": "app.js"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 229.5
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -197,8 +197,12 @@
   },
   "active": "898a5b8e8bad9e20",
   "lastOpenFiles": [
-    "Backend Flow/2. Notes App/In Mongo DB/note.service.js.md",
+    "Backend Flow/2. Notes App/In Memory/note.model.js.md",
+    "Backend Flow/2. Notes App/In Memory/note.controller.js.md",
+    "Backend Flow/2. Notes App/In Memory/note.service.js.md",
+    "Backend Flow/2. Notes App/In Mongo DB/note.model.js.md",
     "Backend Flow/2. Notes App/In Mongo DB/note.controller.js.md",
+    "Backend Flow/2. Notes App/In Mongo DB/note.service.js.md",
     "Backend Flow/1. Todo App/server.js.md",
     "Backend Flow/1. Todo App/Soft delete Todo.md",
     "Backend Flow/1. Todo App/Todo Statistics.md",
@@ -219,10 +223,6 @@
     "Backend from First Principles/1. Roadmap for backend from First Principles.md",
     "Backend Flow/1. Todo App/todo.controller.js.md",
     "Tips and Tricks/SQL to MongoDB Tips.md",
-    "Backend Flow/1. Todo App/todo.routes.js.md",
-    "Backend Flow/1. Todo App/todo.model.js.md",
-    "Backend Flow/1. Todo App/Dockerfile.md",
-    "Backend Flow/1. Todo App/errorHandler.js.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
     "Pasted image 20260205210343.png",
