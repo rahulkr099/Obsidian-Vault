@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/4. File Uploading/9. Get S3 signed download URL.md",
+                "file": "Backend Flow/8. Ecommerce Product API/routing layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Get S3 signed download URL"
+              "title": "routing layer"
             }
           }
         ]
@@ -197,15 +197,21 @@
   },
   "active": "898a5b8e8bad9e20",
   "lastOpenFiles": [
-    "Backend Flow/4. File Uploading/8. Get a single file metadata.md",
-    "Backend Flow/4. File Uploading/9. Get S3 signed download URL.md",
-    "Backend Flow/4. File Uploading/7. List uploaded files (both local  + S3).md",
-    "Backend Flow/4. File Uploading/6. Upload to AWS S3.md",
-    "Backend Flow/4. File Uploading/5. Upload to local disk.md",
+    "Backend Flow/8. Ecommerce Product API/database connection logic.md",
+    "Backend Flow/8. Ecommerce Product API/docker setup logic.md",
+    "Backend Flow/8. Ecommerce Product API/app.js.md",
+    "Backend Flow/8. Ecommerce Product API/cursor based pagination flow.md",
+    "Backend Flow/8. Ecommerce Product API/build filters  (helper logic).md",
     "Backend Flow/4. File Uploading/4. In memory \"DB\" for metadata.md",
     "Backend Flow/4. File Uploading/3. Multer Config.md",
     "Backend Flow/4. File Uploading/2.Config - AWS S3 client.md",
     "Backend Flow/4. File Uploading/1. Config - Local Upload Folder.md",
+    "Backend Flow/4. File Uploading/10. Global Error Handler.md",
+    "Backend Flow/4. File Uploading/9. Get S3 signed download URL.md",
+    "Backend Flow/4. File Uploading/8. Get a single file metadata.md",
+    "Backend Flow/4. File Uploading/7. List uploaded files (both local  + S3).md",
+    "Backend Flow/4. File Uploading/6. Upload to AWS S3.md",
+    "Backend Flow/4. File Uploading/5. Upload to local disk.md",
     "Backend Flow/4. File Uploading/Generate S3 Signed Download URL.md",
     "Backend Flow/4. File Uploading/List All Uploaded Files.md",
     "Backend Flow/4. File Uploading/Multer Configuration.md",
@@ -217,12 +223,6 @@
     "Backend Flow/3. Blog App/list comment.md",
     "Backend Flow/3. Blog App/soft delete comment.md",
     "Backend Flow/3. Blog App/create a post.md",
-    "Backend Flow/3. Blog App/create comment.md",
-    "Backend Flow/3. Blog App/comment.controller.js.md",
-    "Backend Flow/3. Blog App/analytics endpoint - topAuthors.md",
-    "Backend Flow/3. Blog App/increment likes counter.md",
-    "Backend Flow/3. Blog App/soft delete post.md",
-    "Backend Flow/3. Blog App/get single post.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
     "Pasted image 20260205210343.png",
