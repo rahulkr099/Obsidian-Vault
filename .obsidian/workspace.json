@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/3. Blog App/increment likes counter.md",
+                "file": "Backend Flow/3. Blog App/create commnet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "increment likes counter"
+              "title": "create commnet"
             }
           }
         ]
@@ -197,13 +197,15 @@
   },
   "active": "898a5b8e8bad9e20",
   "lastOpenFiles": [
-    "Backend Flow/3. Blog App/soft delete post.md",
+    "Backend Flow/3. Blog App/comment.controller.js.md",
+    "Backend Flow/3. Blog App/create commnet.md",
+    "Backend Flow/3. Blog App/analytics endpoint - topAuthors.md",
     "Backend Flow/3. Blog App/increment likes counter.md",
+    "Backend Flow/3. Blog App/soft delete post.md",
     "Backend Flow/3. Blog App/get single post.md",
     "Backend Flow/3. Blog App/list posts.md",
     "Backend Flow/3. Blog App/create a post.md",
     "Backend Flow/3. Blog App/postController.js.md",
-    "Backend Flow/3. Blog App/comment.controller.js.md",
     "Backend Flow/3. Blog App/app.js.md",
     "Frontend Flow/Code with Sufyan/1. Star Rating.md",
     "Backend Flow/3. Blog App/authController.js.md",
@@ -221,8 +223,6 @@
     "Backend Flow/1. Todo App/Todo Statistics.md",
     "Backend Flow/1. Todo App/Restore Soft deleted Todo.md",
     "Backend Flow/1. Todo App/Mark Todo as Completed.md",
-    "Backend Flow/1. Todo App/Update Todo.md",
-    "Backend Flow/1. Todo App/Get a Single Todo.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
     "Pasted image 20260205210343.png",
