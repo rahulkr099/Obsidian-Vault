@@ -11,14 +11,10 @@
             "id": "898a5b8e8bad9e20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend Flow/4. File Uploading/Multer Configuration.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Multer Configuration"
+              "title": "New tab"
             }
           }
         ]
@@ -195,11 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "898a5b8e8bad9e20",
+  "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
     "Backend Flow/4. File Uploading/List All Uploaded Files.md",
-    "Backend Flow/4. File Uploading/Generate S3 Signed Download URL.md",
     "Backend Flow/4. File Uploading/Multer Configuration.md",
+    "Backend Flow/4. File Uploading/Upload File to Local Disk.md",
+    "Backend Flow/4. File Uploading/Generate S3 Signed Download URL.md",
     "Backend Flow/4. File Uploading/Local Disk Upload Setup.md",
     "Backend Flow/4. File Uploading/Intro.md",
     "Backend Flow/7. StudyNotion/controllers/Auth Controller/Change Password.md",
@@ -222,7 +219,6 @@
     "Backend Flow/2. Notes App/Intro.md",
     "Backend Flow/2. Notes App/app.js.md",
     "Backend Flow/2. Notes App/In Memory/note.model.js.md",
-    "Backend Flow/2. Notes App/In Memory/note.controller.js.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
     "Pasted image 20260205210343.png",
