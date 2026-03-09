@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/4. File Uploading/6. Upload to AWS S3.md",
+                "file": "Backend Flow/4. File Uploading/9. Get S3 signed download URL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Upload to AWS S3"
+              "title": "9. Get S3 signed download URL"
             }
           }
         ]
@@ -197,8 +197,11 @@
   },
   "active": "898a5b8e8bad9e20",
   "lastOpenFiles": [
-    "Backend Flow/4. File Uploading/5. Upload to local disk.md",
+    "Backend Flow/4. File Uploading/8. Get a single file metadata.md",
+    "Backend Flow/4. File Uploading/9. Get S3 signed download URL.md",
+    "Backend Flow/4. File Uploading/7. List uploaded files (both local  + S3).md",
     "Backend Flow/4. File Uploading/6. Upload to AWS S3.md",
+    "Backend Flow/4. File Uploading/5. Upload to local disk.md",
     "Backend Flow/4. File Uploading/4. In memory \"DB\" for metadata.md",
     "Backend Flow/4. File Uploading/3. Multer Config.md",
     "Backend Flow/4. File Uploading/2.Config - AWS S3 client.md",
@@ -220,9 +223,6 @@
     "Backend Flow/3. Blog App/increment likes counter.md",
     "Backend Flow/3. Blog App/soft delete post.md",
     "Backend Flow/3. Blog App/get single post.md",
-    "Backend Flow/3. Blog App/list posts.md",
-    "Backend Flow/3. Blog App/postController.js.md",
-    "Backend Flow/3. Blog App/app.js.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
     "Pasted image 20260205210343.png",
