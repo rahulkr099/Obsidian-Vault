@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/1. Todo App/server.js.md",
+                "file": "Backend Flow/2. Notes App/In Mongo DB/note.controller.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "server.js"
+              "title": "note.controller.js"
             }
           }
         ]
@@ -197,6 +197,9 @@
   },
   "active": "898a5b8e8bad9e20",
   "lastOpenFiles": [
+    "Backend Flow/2. Notes App/In Mongo DB/note.service.js.md",
+    "Backend Flow/2. Notes App/In Mongo DB/note.controller.js.md",
+    "Backend Flow/1. Todo App/server.js.md",
     "Backend Flow/1. Todo App/Soft delete Todo.md",
     "Backend Flow/1. Todo App/Todo Statistics.md",
     "Backend Flow/1. Todo App/Restore Soft deleted Todo.md",
@@ -220,9 +223,6 @@
     "Backend Flow/1. Todo App/todo.model.js.md",
     "Backend Flow/1. Todo App/Dockerfile.md",
     "Backend Flow/1. Todo App/errorHandler.js.md",
-    "Backend Flow/1. Todo App/server.js.md",
-    "Frontend Flow/1. HTML & CSS/3. JS Calculator.md",
-    "Frontend Flow/1. HTML & CSS/3.2 JS Calculator HLD.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
     "Pasted image 20260205210343.png",
