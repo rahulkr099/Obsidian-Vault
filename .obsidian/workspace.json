@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/4. File Uploading/Generate S3 Signed Download URL.md",
+                "file": "Backend Flow/4. File Uploading/Multer Configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generate S3 Signed Download URL"
+              "title": "Multer Configuration"
             }
           }
         ]
@@ -197,6 +197,11 @@
   },
   "active": "898a5b8e8bad9e20",
   "lastOpenFiles": [
+    "Backend Flow/4. File Uploading/List All Uploaded Files.md",
+    "Backend Flow/4. File Uploading/Generate S3 Signed Download URL.md",
+    "Backend Flow/4. File Uploading/Multer Configuration.md",
+    "Backend Flow/4. File Uploading/Local Disk Upload Setup.md",
+    "Backend Flow/4. File Uploading/Intro.md",
     "Backend Flow/7. StudyNotion/controllers/Auth Controller/Change Password.md",
     "Backend Flow/6. Shortly app/avatar.contorller.js.md",
     "Backend Flow/3. Blog App/list comment.md",
@@ -218,11 +223,6 @@
     "Backend Flow/2. Notes App/app.js.md",
     "Backend Flow/2. Notes App/In Memory/note.model.js.md",
     "Backend Flow/2. Notes App/In Memory/note.controller.js.md",
-    "Backend Flow/2. Notes App/In Memory/note.service.js.md",
-    "Backend Flow/2. Notes App/In Mongo DB/note.model.js.md",
-    "Backend Flow/2. Notes App/In Mongo DB/note.controller.js.md",
-    "Backend Flow/2. Notes App/In Mongo DB/note.service.js.md",
-    "Backend Flow/1. Todo App/server.js.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
     "Pasted image 20260205210343.png",
