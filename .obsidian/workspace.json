@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/3. Blog App/create commnet.md",
+                "file": "Backend Flow/6. Shortly app/avatar.contorller.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "create commnet"
+              "title": "avatar.contorller.js"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 257.5
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -197,14 +197,16 @@
   },
   "active": "898a5b8e8bad9e20",
   "lastOpenFiles": [
+    "Backend Flow/3. Blog App/list comment.md",
+    "Backend Flow/3. Blog App/soft delete comment.md",
+    "Backend Flow/3. Blog App/create a post.md",
+    "Backend Flow/3. Blog App/create comment.md",
     "Backend Flow/3. Blog App/comment.controller.js.md",
-    "Backend Flow/3. Blog App/create commnet.md",
     "Backend Flow/3. Blog App/analytics endpoint - topAuthors.md",
     "Backend Flow/3. Blog App/increment likes counter.md",
     "Backend Flow/3. Blog App/soft delete post.md",
     "Backend Flow/3. Blog App/get single post.md",
     "Backend Flow/3. Blog App/list posts.md",
-    "Backend Flow/3. Blog App/create a post.md",
     "Backend Flow/3. Blog App/postController.js.md",
     "Backend Flow/3. Blog App/app.js.md",
     "Frontend Flow/Code with Sufyan/1. Star Rating.md",
@@ -221,8 +223,6 @@
     "Backend Flow/1. Todo App/server.js.md",
     "Backend Flow/1. Todo App/Soft delete Todo.md",
     "Backend Flow/1. Todo App/Todo Statistics.md",
-    "Backend Flow/1. Todo App/Restore Soft deleted Todo.md",
-    "Backend Flow/1. Todo App/Mark Todo as Completed.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
     "Pasted image 20260205210343.png",
