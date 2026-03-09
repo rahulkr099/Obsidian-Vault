@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/8. Ecommerce Product API/routing layer.md",
+                "file": "Backend Flow/8. Ecommerce Product API/build filters  (helper logic).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "routing layer"
+              "title": "build filters  (helper logic)"
             }
           }
         ]
@@ -197,6 +197,8 @@
   },
   "active": "898a5b8e8bad9e20",
   "lastOpenFiles": [
+    "Backend Flow/8. Ecommerce Product API/page based pagination.md",
+    "Backend Flow/8. Ecommerce Product API/routing layer.md",
     "Backend Flow/8. Ecommerce Product API/database connection logic.md",
     "Backend Flow/8. Ecommerce Product API/docker setup logic.md",
     "Backend Flow/8. Ecommerce Product API/app.js.md",
@@ -221,8 +223,6 @@
     "Backend Flow/7. StudyNotion/controllers/Auth Controller/Change Password.md",
     "Backend Flow/6. Shortly app/avatar.contorller.js.md",
     "Backend Flow/3. Blog App/list comment.md",
-    "Backend Flow/3. Blog App/soft delete comment.md",
-    "Backend Flow/3. Blog App/create a post.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
     "Pasted image 20260205210343.png",
