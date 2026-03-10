@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/8. Ecommerce Product API/4. Page based pagination.md",
+                "file": "Backend Flow/6. Shortly app/auth.middleware.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Page based pagination"
+              "title": "auth.middleware.js"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "898a5b8e8bad9e20",
   "lastOpenFiles": [
-    "Backend Flow/8. Ecommerce Product API/3.cursor based pagination flow.md",
     "Backend Flow/8. Ecommerce Product API/4. Page based pagination.md",
+    "Backend Flow/8. Ecommerce Product API/3.cursor based pagination flow.md",
     "Backend Flow/8. Ecommerce Product API/2. Get list of Products + page based pagination.md",
     "Backend Flow/8. Ecommerce Product API/1.build filters  (helper logic).md",
     "Backend Flow/8. Ecommerce Product API/routing layer.md",
