@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/6. Shortly app/8. url.model.js.md",
+                "file": "Backend Flow/6. Shortly app/10.1 authStatus.services.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. url.model.js"
+              "title": "10.1 authStatus.services.js"
             }
           }
         ]
@@ -197,8 +197,11 @@
   },
   "active": "898a5b8e8bad9e20",
   "lastOpenFiles": [
-    "Backend Flow/6. Shortly app/7. avatar.controller.js.md",
+    "Backend Flow/6. Shortly app/10. Services.md",
+    "Backend Flow/6. Shortly app/9. user.model.js.md",
+    "Backend Flow/6. Shortly app/10.1 authStatus.services.js.md",
     "Backend Flow/6. Shortly app/8. url.model.js.md",
+    "Backend Flow/6. Shortly app/7. avatar.controller.js.md",
     "Backend Flow/6. Shortly app/6.4 handleRedirect.md",
     "Backend Flow/6. Shortly app/6.3 handleGetAnalytics.md",
     "Backend Flow/6. Shortly app/6.2 handleShortenURL.md",
@@ -220,9 +223,6 @@
     "Backend Flow/8. Ecommerce Product API/2. Get list of Products + page based pagination.md",
     "Backend Flow/8. Ecommerce Product API/1.build filters  (helper logic).md",
     "Backend Flow/8. Ecommerce Product API/routing layer.md",
-    "Backend Flow/8. Ecommerce Product API/database connection logic.md",
-    "Backend Flow/8. Ecommerce Product API/docker setup logic.md",
-    "Backend Flow/8. Ecommerce Product API/app.js.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
     "Pasted image 20260205210343.png",
