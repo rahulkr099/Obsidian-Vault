@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/1. Todo App/app.js.md",
+                "file": "Backend Flow/1. Todo App/4.8Todo Statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "app.js"
+              "title": "4.8Todo Statistics"
             }
           }
         ]
@@ -197,6 +197,18 @@
   },
   "active": "92b57375f79c59e9",
   "lastOpenFiles": [
+    "Backend Flow/1. Todo App/4.7Soft delete Todo.md",
+    "Backend Flow/1. Todo App/4.5Mark Todo as Completed.md",
+    "Backend Flow/1. Todo App/todo.model.js.md",
+    "Backend Flow/1. Todo App/4.8Todo Statistics.md",
+    "Backend Flow/1. Todo App/4.6Restore Soft deleted Todo.md",
+    "Backend Flow/1. Todo App/4.3List Todo.md",
+    "Backend Flow/1. Todo App/4.2Get a Single Todo.md",
+    "Backend Flow/1. Todo App/4.0todo.controller.js.md",
+    "Backend Flow/1. Todo App/4.1createTodo.md",
+    "Backend Flow/1. Todo App/3.todo.routes.js.md",
+    "Backend Flow/1. Todo App/2.server.js.md",
+    "Backend Flow/1. Todo App/1.app.js.md",
     "Backend Flow/7. StudyNotion/3.routes/Profile.routes.js.md",
     "Backend Flow/7. StudyNotion/3.routes/Course.routes.js.md",
     "Backend Flow/7. StudyNotion/3.routes/Contact.routes.js.md",
@@ -213,20 +225,8 @@
     "Backend Flow/7. StudyNotion/4.middleware/4.4 isInstructor.md",
     "Backend Flow/7. StudyNotion/4.middleware/4.3 isAdmin.md",
     "Backend Flow/7. StudyNotion/4.middleware/4.2 isStudent.md",
-    "Backend Flow/7. StudyNotion/4.middleware/4.1 auth.md",
-    "Backend Flow/6. Shortly app/11. utils.md",
     "Backend Flow/7. StudyNotion/4.middleware",
     "Backend Flow/7. StudyNotion/Untitled Folder",
-    "Backend Flow/7. StudyNotion/4.0auth.middleware.js.md",
-    "Backend Flow/7. StudyNotion/1.controllers/11.0Subsection.controller.js.md",
-    "Backend Flow/7. StudyNotion/1.controllers/11.3updateSubsection.md",
-    "Backend Flow/7. StudyNotion/1.controllers/11.2deleteSubsection.md",
-    "Backend Flow/7. StudyNotion/1.controllers/11.1createSubSection.md",
-    "Backend Flow/7. StudyNotion/1.controllers/updateSubsection.md",
-    "Backend Flow/7. StudyNotion/1.controllers/deleteSubsection.md",
-    "Backend Flow/7. StudyNotion/1.controllers/createSubSection.md",
-    "Backend Flow/7. StudyNotion/1.controllers/10.3updateSection.md",
-    "Backend Flow/7. StudyNotion/1.controllers/10.2deleteSection.md",
     "Backend Flow/7. StudyNotion/3.routes",
     "Backend Flow/7. StudyNotion/2.models",
     "Backend Flow/7. StudyNotion/1.controllers/Subsection Controller",
