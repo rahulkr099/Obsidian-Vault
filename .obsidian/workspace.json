@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/6. Shortly app/10.2.2 authenticateGoogleRequest.md",
+                "file": "Backend Flow/6. Shortly app/10.3 googleLogin.services.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.2.2 authenticateGoogleRequest"
+              "title": "10.3 googleLogin.services.js"
             }
           }
         ]
@@ -197,8 +197,10 @@
   },
   "active": "898a5b8e8bad9e20",
   "lastOpenFiles": [
-    "Backend Flow/6. Shortly app/10.2.1 checkGoogleAccessToken.md",
+    "Backend Flow/6. Shortly app/10.2.3 refreshGoogleToken.md",
+    "Backend Flow/6. Shortly app/10.3 googleLogin.services.js.md",
     "Backend Flow/6. Shortly app/10.2.2 authenticateGoogleRequest.md",
+    "Backend Flow/6. Shortly app/10.2.1 checkGoogleAccessToken.md",
     "Backend Flow/6. Shortly app/10.2 googleAuth.services.js.md",
     "Backend Flow/6. Shortly app/10.1 authStatus.services.js.md",
     "Backend Flow/6. Shortly app/10. Services.md",
@@ -221,8 +223,6 @@
     "Backend Flow/6. Shortly app/1. index.js.md",
     "Backend Flow/6. Shortly app/authStatus.service.md",
     "Backend Flow/8. Ecommerce Product API/4. Page based pagination.md",
-    "Backend Flow/6. Shortly app/auth.middleware.js.md",
-    "Backend Flow/8. Ecommerce Product API/3.cursor based pagination flow.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
     "Pasted image 20260205210343.png",
