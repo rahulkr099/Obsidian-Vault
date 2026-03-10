@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/6. Shortly app/2. routes.md",
+                "file": "Backend Flow/6. Shortly app/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. routes"
+              "title": "Untitled"
             }
           }
         ]
@@ -197,8 +197,11 @@
   },
   "active": "898a5b8e8bad9e20",
   "lastOpenFiles": [
-    "Backend Flow/6. Shortly app/1. index.js.md",
+    "Backend Flow/6. Shortly app/4. validation.middleware.js.md",
+    "Backend Flow/6. Shortly app/Untitled.md",
+    "Backend Flow/6. Shortly app/3. auth.middleware.js.md",
     "Backend Flow/6. Shortly app/2. routes.md",
+    "Backend Flow/6. Shortly app/1. index.js.md",
     "Backend Flow/6. Shortly app/authStatus.service.md",
     "Backend Flow/8. Ecommerce Product API/4. Page based pagination.md",
     "Backend Flow/6. Shortly app/auth.middleware.js.md",
@@ -220,9 +223,6 @@
     "Backend Flow/4. File Uploading/6. Upload to AWS S3.md",
     "Backend Flow/4. File Uploading/5. Upload to local disk.md",
     "Backend Flow/4. File Uploading/Generate S3 Signed Download URL.md",
-    "Backend Flow/4. File Uploading/List All Uploaded Files.md",
-    "Backend Flow/4. File Uploading/Multer Configuration.md",
-    "Backend Flow/4. File Uploading/Upload File to Local Disk.md",
     "Pasted image 20260207192829.png",
     "Pasted image 20260205210436.png",
     "Pasted image 20260205210343.png",
