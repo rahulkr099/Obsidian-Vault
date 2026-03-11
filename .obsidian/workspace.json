@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/1. Todo App/4.4Update Todo.md",
+                "file": "Backend Flow/1. Todo App/4.5Mark Todo as Completed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.4Update Todo"
+              "title": "4.5Mark Todo as Completed"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -197,6 +198,7 @@
   },
   "active": "92b57375f79c59e9",
   "lastOpenFiles": [
+    "Backend Flow/1. Todo App/4.4Update Todo.md",
     "Backend Flow/1. Todo App/4.3List Todo.md",
     "Backend Flow/1. Todo App/4.1createTodo.md",
     "Backend Flow/1. Todo App/2.server.js.md",
@@ -211,7 +213,6 @@
     "Backend Flow/1. Todo App/5.activity.model.js.md",
     "Backend Flow/1. Todo App/errorHandler.js.md",
     "Backend Flow/1. Todo App/validate.js.md",
-    "Backend Flow/1. Todo App/4.4Update Todo.md",
     "Backend Flow/1. Todo App/4.5Mark Todo as Completed.md",
     "Backend Flow/1. Todo App/4.6Restore Soft deleted Todo.md",
     "Backend Flow/1. Todo App/3.todo.routes.js.md",
