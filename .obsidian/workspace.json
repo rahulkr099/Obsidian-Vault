@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/1. Todo App/4.8Todo Statistics.md",
+                "file": "Backend Flow/Joi Validation - body, params, query.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.8Todo Statistics"
+              "title": "Joi Validation - body, params, query"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -198,6 +197,8 @@
   },
   "active": "92b57375f79c59e9",
   "lastOpenFiles": [
+    "Backend Flow/1. Todo App/4.8Todo Statistics.md",
+    "Backend Flow/Joi Validation - body, params, query.md",
     "Backend Flow/1. Todo App/4.7Restore Soft deleted Todo.md",
     "Backend Flow/1. Todo App/4.6Soft delete Todo.md",
     "Backend Flow/1. Todo App/4.5Mark Todo as Completed.md",
@@ -210,7 +211,6 @@
     "Backend Flow/Mistakes of beginners in backend.md",
     "Backend Flow/1. Todo App/4.2Get a Single Todo.md",
     "Backend Flow/1. Todo App/4.0Todo.controller.js.md",
-    "Backend Flow/1. Todo App/4.8Todo Statistics.md",
     "Backend Flow/1. Todo App/6.todo.model.js.md",
     "Backend Flow/1. Todo App/5.activity.model.js.md",
     "Backend Flow/1. Todo App/errorHandler.js.md",
@@ -224,7 +224,6 @@
     "Backend Flow/7. StudyNotion/6.config/6.1 cloudinary.js.md",
     "Backend Flow/7. StudyNotion/5.utils/5.3 secToDuration.js.md",
     "Backend Flow/7. StudyNotion/6.config",
-    "Backend Flow/7. StudyNotion/5.utils/5.2 mailSender.js.md",
     "Backend Flow/7. StudyNotion/5.utils",
     "Backend Flow/7. StudyNotion/4.middleware",
     "Backend Flow/7. StudyNotion/Untitled Folder",
