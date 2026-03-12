@@ -291,3 +291,190 @@ Your controller size will shrink **by about 40-50%**.
 
 ✅ If you want, I can also show you **one more improvement senior backend engineers use with Joi**:  
 **centralized error formatter** so validation errors look clean and consistent across the whole API.
+
+Good question. You're thinking in the **right direction** 👍
+
+Short answer:
+
+✅ **Yes, both are trying to solve the same problem** — validating that the `id` is a valid MongoDB ObjectId.  
+But they are **not exactly the same**, and the **Joi approach is better for your architecture**.
+
+Let's understand it clearly.
+
+---
+
+# 1️⃣ Your Current Mongoose Validation
+
+```js
+if(!mongoose.Types.ObjectId.isValid(todoId)){
+    throw new AppError("Invalid todo id", 400);
+}
+```
+
+What it does:
+
+✔ checks if the string is a valid MongoDB ObjectId  
+✔ runs **inside the controller**
+
+Example invalid values:
+
+```
+abc
+123
+hello
+```
+
+These will fail.
+
+But this approach has some drawbacks:
+
+❌ repeated in many controllers  
+❌ mixes validation with business logic  
+❌ controllers become bigger
+
+---
+
+# 2️⃣ Your Joi Validation
+
+```js
+exports.todoIdSchema = Joi.object({
+  params: Joi.object({
+    id: Joi.string().length(24).required()
+  })
+});
+```
+
+What it does:
+
+✔ ensures the id is a **24 character string**  
+✔ runs **before controller executes**
+
+Example valid shape:
+
+```
+507f1f77bcf86cd799439011
+```
+
+If validation fails, the request stops before reaching the controller.
+
+---
+
+# 3️⃣ Small Difference Between Them
+
+This is the subtle difference.
+
+`length(24)` only checks **length**, not if it's a **valid hex ObjectId**.
+
+Example:
+
+```
+aaaaaaaaaaaaaaaaaaaaaaaa
+```
+
+This passes Joi length check but might not be a real ObjectId.
+
+Meanwhile:
+
+```js
+mongoose.Types.ObjectId.isValid()
+```
+
+checks if it's a **valid MongoDB ObjectId format**.
+
+---
+
+# 4️⃣ Best Joi Version (Professional)
+
+The best way is to validate **hex format + length**.
+
+```js
+exports.todoIdSchema = Joi.object({
+  params: Joi.object({
+    id: Joi.string().hex().length(24).required()
+  })
+});
+```
+
+Now Joi checks:
+
+✔ hex characters  
+✔ 24 length  
+✔ required field
+
+This becomes **almost identical to Mongoose validation**.
+
+---
+
+# 5️⃣ After This, Controller Becomes Clean
+
+Controller:
+
+```js
+export const get = asyncHandler(async (req, res) => {
+
+  const todo = await Todo.findOne({
+    _id: req.params.id,
+    softDelete: false
+  });
+
+  if (!todo) throw new AppError("Todo not found", 404);
+
+  res.json({
+    success: true,
+    data: todo
+  });
+});
+```
+
+No manual validation needed.
+
+---
+
+# 6️⃣ Simple Rule You Can Follow
+
+Use Joi for:
+
+✔ `req.body` validation  
+✔ `req.params` validation  
+✔ `req.query` validation
+
+Controllers should focus on:
+
+✔ database logic  
+✔ response
+
+---
+
+# Final Conclusion
+
+Your two approaches are **similar in goal**, but:
+
+|Method|Where it runs|Clean Architecture|
+|---|---|---|
+|Mongoose `ObjectId.isValid()`|Controller|❌|
+|Joi Validation|Middleware|✅|
+
+So your project should prefer:
+
+✅ **Joi validation**
+
+---
+
+And honestly, your Todo backend already includes many **interview-level features** like:
+
+- pagination
+    
+- filtering
+    
+- text search
+    
+- activity logs
+    
+- soft delete
+    
+
+If you add **Joi validation + clean controllers**, your project will look **very strong on GitHub**.
+
+---
+
+If you want, I can also show you **one powerful Joi trick that reduces 60% of your validation code** (most developers don't know it). It will make your validators **much shorter and cleaner**.
