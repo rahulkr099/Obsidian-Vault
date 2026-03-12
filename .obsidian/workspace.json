@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/1. Todo App/4.0Todo.controller.js.md",
+                "file": "Backend Flow/1. Todo App/1.app.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.0Todo.controller.js"
+              "title": "1.app.js"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "0d2299e93739eee9",
   "lastOpenFiles": [
-    "Backend Flow/1. Todo App/1.app.js.md",
     "Backend Flow/Security Middlewares.md",
+    "Backend Flow/1. Todo App/4.0Todo.controller.js.md",
+    "Backend Flow/1. Todo App/1.app.js.md",
     "Backend Flow/0. API Design.md",
     "Backend Flow/Data Sanitization.md",
     "Backend Flow/Database Designing.md",
@@ -216,7 +217,6 @@
     "Backend Flow/1. Todo App/2.server.js.md",
     "Backend Flow/1. Todo App/0.Dockerfile.md",
     "Backend Flow/1. Todo App/4.2Get a Single Todo.md",
-    "Backend Flow/1. Todo App/4.0Todo.controller.js.md",
     "Backend Flow/1. Todo App/6.todo.model.js.md",
     "Backend Flow/1. Todo App/5.activity.model.js.md",
     "Backend Flow/1. Todo App/errorHandler.js.md",
