@@ -126,7 +126,7 @@ exports.listTodoSchema = Joi.object({
 ```js
 exports.todoIdSchema = Joi.object({
   params: Joi.object({
-    id: Joi.string().length(24).required()
+    id: Joi.string().hex().length(24).required()
   })
 });
 ```
