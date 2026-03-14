@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/1. Todo App/Project Planning.md",
+                "file": "Backend Flow/1. Todo App/API Designing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Planning"
+              "title": "API Designing"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "4d2ea40a4cd68f32",
   "lastOpenFiles": [
-    "Backend Flow/0. API Design.md",
     "Backend Flow/1. Todo App/Project Planning.md",
+    "Backend Flow/1. Todo App/API Designing.md",
+    "Backend Flow/0. API Design.md",
     "Backend Flow/Explain Your Project.md",
     "Backend Flow/Backend Interview Question.md",
     "Backend Flow/Piyush API.md",
@@ -222,7 +223,6 @@
     "Backend Flow/1. Todo App/2.server.js.md",
     "Backend Flow/1. Todo App/0.Dockerfile.md",
     "Backend Flow/1. Todo App/4.2Get a Single Todo.md",
-    "Backend Flow/1. Todo App/6.todo.model.js.md",
     "Backend Flow/7. StudyNotion/6.config",
     "Backend Flow/7. StudyNotion/5.utils",
     "Backend Flow/7. StudyNotion/4.middleware",
