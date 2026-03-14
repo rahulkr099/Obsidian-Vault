@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Obsidianite",
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "colors",
+    "wide"
+  ],
+  "accentColor": "#d85b18",
+  "theme": "obsidian"
+}
