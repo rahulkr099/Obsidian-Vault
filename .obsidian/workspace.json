@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/POTD > Medium.md",
+                "file": "Backend from First Principles/3. What is Backend, how do they work and why do we need them?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "POTD > Medium"
+              "title": "3. What is Backend, how do they work and why do we need them?"
             }
           }
         ]
@@ -197,9 +197,10 @@
   },
   "active": "4d2ea40a4cd68f32",
   "lastOpenFiles": [
+    "Backend from First Principles/1. Roadmap for backend from First Principles.md",
+    "DSA/POTD > Medium.md",
     "DSA/POTD > Easy.md",
     "DSA/POTD > Easy 2.md",
-    "DSA/POTD > Medium.md",
     "Backend Flow/1. Todo App/0.1 Project Planning.md",
     "Backend Flow/1. Todo App/3.todo.routes.js.md",
     "Backend Flow/1. Todo App/2.server.js.md",
@@ -222,7 +223,6 @@
     "Backend Flow/Security Middlewares.md",
     "Backend Flow/1. Todo App/4.0Todo.controller.js.md",
     "Backend Flow/Data Sanitization.md",
-    "Backend Flow/Full Stack Mock Interview.md",
     "Backend Flow/7. StudyNotion/6.config",
     "Backend Flow/7. StudyNotion/5.utils",
     "Backend Flow/7. StudyNotion/4.middleware",
