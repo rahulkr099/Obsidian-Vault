@@ -197,6 +197,8 @@
   },
   "active": "4d2ea40a4cd68f32",
   "lastOpenFiles": [
+    "DSA/POTD > Medium.md",
+    "DSA/POTD > Easy.md",
     "Backend Flow/1. Todo App/0.1 Project Planning.md",
     "Backend Flow/1. Todo App/3.todo.routes.js.md",
     "Backend Flow/1. Todo App/2.server.js.md",
@@ -221,8 +223,6 @@
     "Backend Flow/Data Sanitization.md",
     "Backend Flow/Full Stack Mock Interview.md",
     "Backend Flow/Joi Validation - body, params, query.md",
-    "Backend Flow/Mistakes of beginners in backend.md",
-    "Backend Flow/Setup of Data Sanitization.md",
     "Backend Flow/7. StudyNotion/6.config",
     "Backend Flow/7. StudyNotion/5.utils",
     "Backend Flow/7. StudyNotion/4.middleware",
