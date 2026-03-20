@@ -271,6 +271,110 @@ Coins are printed in **decreasing order** ✔️
 
 Fast enough for `N ≤ 10^5` ✅
 
+Great — you already understood the **greedy idea perfectly** 👍  
+Now let’s turn that into clean, interview-ready Python code.
+
+---
+
+## ✅ Python Code (Greedy Approach)
+
+```python
+def min_coins(N):
+    coins = [1000, 500, 100, 50, 20, 10, 5, 2, 1]  # decreasing order
+    result = []
+
+    for coin in coins:
+        while N >= coin:
+            result.append(coin)
+            N -= coin
+
+    return result
+```
+
+---
+
+## 🔍 Example Run
+
+```python
+print(min_coins(13))
+```
+
+### Output:
+
+```python
+[10, 2, 1]
+```
+
+---
+
+## ⚡ Better Optimized Version (Interview Upgrade)
+
+Instead of using `while`, we can directly calculate how many coins we need.
+
+```python
+def min_coins(N):
+    coins = [1000, 500, 100, 50, 20, 10, 5, 2, 1]
+    result = []
+
+    for coin in coins:
+        count = N // coin   # how many times this coin fits
+        if count > 0:
+            result.extend([coin] * count)
+            N -= coin * count
+
+    return result
+```
+
+---
+
+## 🔥 Why this version is better?
+
+- No repeated subtraction
+    
+- Faster in practice
+    
+- Cleaner logic (interviewers love this)
+    
+
+---
+
+## 🧠 Dry Run (N = 70)
+
+|Coin|Count|Remaining|
+|---|---|---|
+|50|1|20|
+|20|1|0|
+
+👉 Result:
+
+```python
+[50, 20]
+```
+
+---
+
+## 🚀 Pro Tip (Very Important for Interviews)
+
+Whenever you see:
+
+- Coins / denominations
+    
+- Minimum number of coins
+    
+- "Always possible" condition
+    
+
+👉 Immediately think:
+
+```text
+GREEDY + largest first
+```
+
+---
+
+If you want next level:  
+I can show you **where greedy FAILS** and you must use **DP (coin change problem)** — that’s a very powerful concept for interviews 🔥
+
 # 3. You have been given three distinct integers ‘X’, ‘Y’ and ‘Z’. You need to find the number with a value in the middle.
 
 For example :
