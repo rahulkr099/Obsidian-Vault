@@ -143,7 +143,7 @@ body {
 const users = [
   "Rahul Kumar",
   "Aman Sharma",
-  "Riya Sen",
+  "Rishabh Sen",
   "Sneha Kapoor",
   "Aditya Singh",
   "Rohan Das",
