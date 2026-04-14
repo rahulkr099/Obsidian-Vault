@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/1. HTML & CSS/11. Infinite Scroll.md",
+                "file": "Frontend Flow/1. HTML & CSS/16. Dynamic Content Filtering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Infinite Scroll"
+              "title": "16. Dynamic Content Filtering"
             }
           }
         ]
@@ -197,12 +197,12 @@
   },
   "active": "a42a47333761add6",
   "lastOpenFiles": [
+    "Frontend Flow/1. HTML & CSS/13. Web Accessibility.md",
+    "Frontend Flow/1. HTML & CSS/11. Infinite Scroll.md",
     "Frontend Flow/1. HTML & CSS/9. Form Validation.md",
     "Frontend Flow/1. HTML & CSS/8. Single Page Applications.md",
     "Frontend Flow/1. HTML & CSS/19. Form Autocomplete.md",
     "Frontend Flow/1. HTML & CSS/16. Dynamic Content Filtering.md",
-    "Frontend Flow/1. HTML & CSS/13. Web Accessibility.md",
-    "Frontend Flow/1. HTML & CSS/11. Infinite Scroll.md",
     "Frontend Flow/2. Intermediate Frontend Code/17. page transitions.md",
     "Frontend Flow/2. Intermediate Frontend Code/1. Real time chat app.md",
     "Frontend Flow/Ninjas Output Questions.md",
