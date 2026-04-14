@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/1. HTML & CSS/3. JS Calculator.md",
+                "file": "Frontend Flow/1. HTML & CSS/4. Image Carousel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. JS Calculator"
+              "title": "4. Image Carousel"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "a42a47333761add6",
   "lastOpenFiles": [
+    "Frontend Flow/1. HTML & CSS/3. JS Calculator.md",
     "Backend from First Principles/3. What is Backend, how do they work and why do we need them?.md",
     "Backend from First Principles/Secret Key Exchange.md",
     "Frontend Flow/2. Intermediate Frontend Code/Tabs.md",
@@ -208,7 +209,6 @@
     "Frontend Flow/1. HTML & CSS/6. Responsive Design.md",
     "Frontend Flow/1. HTML & CSS/5. To do list App.md",
     "Frontend Flow/1. HTML & CSS/4. Image Carousel.md",
-    "Frontend Flow/1. HTML & CSS/3. JS Calculator.md",
     "Backend from First Principles/5. Understanding HTTP for back-end engineers, where it all starts.md",
     "Full Stack Mini Projects/12 projects to crack any startups.md",
     "Backend Flow/0.0 Full Stack Project/13. Job Board",
