@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend Flow/2. Intermediate Frontend Code/Accordion.md",
+                "file": "Frontend Flow/2. Intermediate Frontend Code/17. page transitions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accordion"
+              "title": "17. page transitions"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "a42a47333761add6",
   "lastOpenFiles": [
+    "Frontend Flow/2. Intermediate Frontend Code/Accordion.md",
     "Frontend Flow/2. Intermediate Frontend Code/17. page transitions.md",
     "Frontend Flow/2. Intermediate Frontend Code/1. Real time chat app.md",
     "Frontend Flow/1. HTML & CSS/19. Form Autocomplete.md",
@@ -218,7 +219,6 @@
     "Frontend Flow/2. Intermediate Frontend Code/Shopping Cart.md",
     "Frontend Flow/2. Intermediate Frontend Code/Searchbox + Debounce.md",
     "Frontend Flow/2. Intermediate Frontend Code/Pagination.md",
-    "Frontend Flow/2. Intermediate Frontend Code/Accordion.md",
     "Backend from First Principles/5. Understanding HTTP for back-end engineers, where it all starts.md",
     "Full Stack Mini Projects/12 projects to crack any startups.md",
     "Backend Flow/0.0 Full Stack Project/13. Job Board",
