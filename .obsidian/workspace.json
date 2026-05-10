@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/1. Todo App/2.server.js.md",
+                "file": "Terminal Learning/🎀 Week 2 - Vim,Neovim + Searching + Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.server.js"
+              "title": "🎀 Week 2 - Vim,Neovim + Searching + Git"
             }
           }
         ]
@@ -197,6 +197,9 @@
   },
   "active": "a42a47333761add6",
   "lastOpenFiles": [
+    "Terminal Learning/😃Vim.md",
+    "Terminal Learning/🎀 Week 2 - Vim,Neovim + Searching + Git.md",
+    "Backend Flow/1. Todo App/2.server.js.md",
     "Backend Flow/1. Todo App/1.app.js.md",
     "Backend Flow/1. Todo App/0.1 Project Planning.md",
     "Backend from First Principles/5. Understanding HTTP for back-end engineers, where it all starts.md",
@@ -220,9 +223,6 @@
     "Frontend Flow/1. HTML & CSS/5. To do list App.md",
     "Frontend Flow/1. HTML & CSS/4. Image Carousel.md",
     "Frontend Flow/1. HTML & CSS/3. JS Calculator.md",
-    "Backend from First Principles/Secret Key Exchange.md",
-    "Frontend Flow/2. Intermediate Frontend Code/Tabs.md",
-    "Frontend Flow/2. Intermediate Frontend Code/Shopping Cart.md",
     "Backend Flow/0.0 Full Stack Project/13. Job Board",
     "Backend Flow/0.0 Full Stack Project/12. Real Time Chat",
     "Backend Flow/0.0 Full Stack Project/11. Poll or Voting System",
