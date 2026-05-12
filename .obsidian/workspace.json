@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Flow/1. Todo App/4.1createTodo.md",
+                "file": "Backend Flow/1. Todo App/3.todo.routes.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1createTodo"
+              "title": "3.todo.routes.js"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -198,16 +197,17 @@
   },
   "active": "a42a47333761add6",
   "lastOpenFiles": [
-    "Terminal Learning/Kitty_+_Tmux.md",
+    "Backend Flow/1. Todo App/2.server.js.md",
+    "Backend Flow/1. Todo App/1.app.js.md",
+    "Backend Flow/1. Todo App/validate.js.md",
     "Backend Flow/1. Todo App/4.1createTodo.md",
     "Backend Flow/1. Todo App/4.0Todo.controller.js.md",
     "Backend Flow/1. Todo App/4.2Get a Single Todo.md",
+    "Terminal Learning/Kitty_+_Tmux.md",
     "Backend Flow/1. Todo App/3.todo.routes.js.md",
-    "Backend Flow/1. Todo App/2.server.js.md",
     "Backend Flow/1. Todo App/0.Dockerfile.md",
     "Terminal Learning/🎀 Week 2 - Vim,Neovim + Searching + Git.md",
     "Terminal Learning/😃Vim.md",
-    "Backend Flow/1. Todo App/1.app.js.md",
     "Backend Flow/1. Todo App/0.1 Project Planning.md",
     "Backend from First Principles/5. Understanding HTTP for back-end engineers, where it all starts.md",
     "Backend from First Principles/4. Benefits.md",
@@ -223,7 +223,6 @@
     "Frontend Flow/1. HTML & CSS/11. Infinite Scroll.md",
     "Frontend Flow/1. HTML & CSS/9. Form Validation.md",
     "Frontend Flow/1. HTML & CSS/8. Single Page Applications.md",
-    "Frontend Flow/Ninjas Output Questions.md",
     "Backend Flow/0.0 Full Stack Project/13. Job Board",
     "Backend Flow/0.0 Full Stack Project/12. Real Time Chat",
     "Backend Flow/0.0 Full Stack Project/11. Poll or Voting System",
