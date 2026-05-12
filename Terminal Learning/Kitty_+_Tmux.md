@@ -28,7 +28,7 @@ tmux
 ```
 ### Step 2: Split pane horizontally
 ```
-Ctrl + b → %
+Ctrl + b → % or Ctrl + a -> %
 ```
 Now left = backend, right = frontend.
 ### Step 3: In the left pane (backend)
@@ -38,7 +38,7 @@ npm run dev
 ```
 ### Step 4: Split vertical pane
 ```
-Ctrl + b → "
+Ctrl + b → " or Ctrl + a -> "
 ```
 ### Now bottom window can run MongoDB:
 ```
