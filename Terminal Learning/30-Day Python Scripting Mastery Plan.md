@@ -6,7 +6,7 @@ Every day has **1 skill + 1 small task + 1 innovative project idea** to help you
 
 # 🚀 **30-Day Python Scripting Mastery Plan**
 
-![Image](https://images.ctfassets.net/lzny33ho1g45/6e1tg8fixoqfcSCGzoIjCv/c6c1595bb14f0debcdce8beb19fe1f82/executing-script-in-terminal.jpg?utm_source=chatgpt.com)
+![Image|68](https://images.ctfassets.net/lzny33ho1g45/6e1tg8fixoqfcSCGzoIjCv/c6c1595bb14f0debcdce8beb19fe1f82/executing-script-in-terminal.jpg?utm_source=chatgpt.com)
 
 ![Image](https://files.realpython.com/media/python-rich-example.a5212b91d9b6.png?utm_source=chatgpt.com)
 
@@ -30,7 +30,7 @@ _(Make Python your daily tool inside the terminal)_
 
 ## **Day 2 — File paths with Pathlib**
 
-**Learn:** `Path.glob`, reading/writing files, folder checks  
+**Learn:** `Path.glob`, reading/writing files, folder checks 
 **Task:** Create a script that lists large files in a folder  
 **Idea:** “Download Folder Cleaner” script
 
