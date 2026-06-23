@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Learning/🌲Week 1 - Terminal Basics.md",
+                "file": "Terminal Learning/🎀 Week 2 - Vim,Neovim + Searching + Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌲Week 1 - Terminal Basics"
+              "title": "🎀 Week 2 - Vim,Neovim + Searching + Git"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "a42a47333761add6",
   "lastOpenFiles": [
+    "Terminal Learning/🌲Week 1 - Terminal Basics.md",
     "Terminal Learning/(Level 2) Terminal Mastery Roadmap.md",
     "Terminal Learning/(Level 1) Terminal Mastery Roadmap.md",
     "Terminal Learning/🐦Vim Mastery Roadmap.md",
@@ -218,7 +219,6 @@
     "Full Stack Mini Projects/How company will know my worth.md",
     "Full Stack Mini Projects/Get Hired as a Software Engineer.md",
     "Full Stack Mini Projects/12 projects to crack any startups.md",
-    "Terminal Learning/🌲Week 1 - Terminal Basics.md",
     "Terminal Learning/🏅Week 4 - Scripting, Automation.md",
     "Terminal Learning/Python Scripting Roadmap.md",
     "CSS.md",
