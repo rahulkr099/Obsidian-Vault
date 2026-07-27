@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "curl/l4.md",
+                "file": "curl/l8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "l4"
+              "title": "l8"
             }
           }
         ]
@@ -197,8 +197,12 @@
   },
   "active": "e872026361b7906a",
   "lastOpenFiles": [
-    "curl/l3.md",
+    "curl/l7.md",
+    "curl/l8.md",
+    "curl/l6.md",
+    "curl/l5.md",
     "curl/l4.md",
+    "curl/l3.md",
     "curl/l2.md",
     "curl/Module 3 & L1.md",
     "Terminal Developer Mastery/Module 6/M6 - L15.md",
@@ -221,12 +225,8 @@
     "Terminal Developer Mastery/Untitled.md",
     "Terminal Developer Mastery/Module 4",
     "Terminal Developer Mastery/Module 6",
-    "vim commands/🏅Week 4 - Scripting, Automation.md",
     "Terminal Developer Mastery/Module 5",
     "curl",
-    "vim commands/🎁Week 3 - Power Tools (fzf, zoxide, piping, processes).md",
-    "vim commands/🎀 Week 2 - Vim,Neovim + Searching + Git.md",
-    "vim commands/🌲Week 1 - Terminal Basics.md",
     "IMPORTANT.base",
     "Pasted image 20260106204848.png",
     "Pasted image 20260205210343.png",
