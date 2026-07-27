@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "curl/l8.md",
+                "file": "curl/l10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "l8"
+              "title": "l10"
             }
           }
         ]
@@ -197,8 +197,10 @@
   },
   "active": "e872026361b7906a",
   "lastOpenFiles": [
-    "curl/l7.md",
+    "curl/l9.md",
+    "curl/l10.md",
     "curl/l8.md",
+    "curl/l7.md",
     "curl/l6.md",
     "curl/l5.md",
     "curl/l4.md",
@@ -221,8 +223,6 @@
     "Terminal Developer Mastery/Module 6/M6 - L2.md",
     "Terminal Developer Mastery/Module 6/M6 - L1.md",
     "Terminal Developer Mastery/Module 6/Roadmap.md",
-    "Terminal Developer Mastery/Module 5/M5 - L12.md",
-    "Terminal Developer Mastery/Untitled.md",
     "Terminal Developer Mastery/Module 4",
     "Terminal Developer Mastery/Module 6",
     "Terminal Developer Mastery/Module 5",
