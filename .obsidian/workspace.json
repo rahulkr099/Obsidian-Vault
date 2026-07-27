@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "curl/l10.md",
+                "file": "curl/Module 4/l1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "l10"
+              "title": "l1"
             }
           }
         ]
@@ -197,8 +197,11 @@
   },
   "active": "e872026361b7906a",
   "lastOpenFiles": [
-    "curl/l9.md",
+    "curl/Module 4/Module 4 roadmap.md",
+    "curl/Module 4/l1.md",
     "curl/l10.md",
+    "curl/Module 4",
+    "curl/l9.md",
     "curl/l8.md",
     "curl/l7.md",
     "curl/l6.md",
@@ -221,8 +224,6 @@
     "Terminal Developer Mastery/Module 6/M6 - L4.md",
     "Terminal Developer Mastery/Module 6/M6 - L3.md",
     "Terminal Developer Mastery/Module 6/M6 - L2.md",
-    "Terminal Developer Mastery/Module 6/M6 - L1.md",
-    "Terminal Developer Mastery/Module 6/Roadmap.md",
     "Terminal Developer Mastery/Module 4",
     "Terminal Developer Mastery/Module 6",
     "Terminal Developer Mastery/Module 5",
@@ -236,7 +237,6 @@
     "Backend Flow/0.0 Full Stack Project/13. Job Board",
     "Backend Flow/0.0 Full Stack Project/12. Real Time Chat",
     "Backend Flow/0.0 Full Stack Project/11. Poll or Voting System",
-    "Backend Flow/0.0 Full Stack Project/10. Kanban Board",
-    "Backend Flow/0.0 Full Stack Project/9. Blog App"
+    "Backend Flow/0.0 Full Stack Project/10. Kanban Board"
   ]
 }
