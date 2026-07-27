@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "curl/M5/l13.md",
+                "file": "curl/M6/l5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "l13"
+              "title": "l5"
             }
           }
         ]
@@ -197,8 +197,17 @@
   },
   "active": "e872026361b7906a",
   "lastOpenFiles": [
-    "curl/l12.md",
+    "curl/M6/l4.md",
+    "curl/M6/l5.md",
+    "curl/M6/l3.md",
+    "curl/M6/l2.md",
+    "curl/M6/lesson 1.md",
+    "curl/M6/preview.md",
+    "curl/M5/l15.md",
+    "curl/M6",
+    "curl/M5/l14.md",
     "curl/M5/l13.md",
+    "curl/l12.md",
     "curl/M5/l11.md",
     "curl/M5/l10.md",
     "curl/M5/l9.md",
@@ -217,14 +226,6 @@
     "curl/Module 4/l10.md",
     "curl/Module 4/l9.md",
     "curl/Module 4/l8.md",
-    "curl/Module 4/l7.md",
-    "curl/Module 4/l6.md",
-    "curl/Module 4/l5.md",
-    "curl/Module 4/l4.md",
-    "curl/Module 4/l3.md",
-    "curl/Module 4/l2.md",
-    "curl/Module 4/l1.md",
-    "curl/Module 4/Module 4 roadmap.md",
     "curl/Module 4",
     "Terminal Developer Mastery/Module 4",
     "Terminal Developer Mastery/Module 6",
@@ -236,7 +237,6 @@
     "Pasted image 20260205210436.png",
     "Pasted image 20260207192829.png",
     "Pasted image 20260207192840.png",
-    "Backend Flow/0.0 Full Stack Project/13. Job Board",
-    "Backend Flow/0.0 Full Stack Project/12. Real Time Chat"
+    "Backend Flow/0.0 Full Stack Project/13. Job Board"
   ]
 }
