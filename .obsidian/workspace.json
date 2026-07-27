@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "curl/Module 3/Module 3 & L1.md",
+                "file": "curl/Module 3/l7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 3 & L1"
+              "title": "l7"
             }
           }
         ]
@@ -197,9 +197,14 @@
   },
   "active": "e872026361b7906a",
   "lastOpenFiles": [
+    "curl/Module 3/l6.md",
+    "curl/Module 3/l5.md",
+    "curl/Module 3/l4.md",
+    "curl/Module 3/l3.md",
+    "curl/Module 3/l2.md",
+    "curl/Module 3/Module 3 & L1.md",
     "curl/M5/l1.md",
     "curl/Module 4/l1.md",
-    "curl/Module 3/Module 3 & L1.md",
     "curl/M5/l12.md",
     "curl/M6/l1.md",
     "curl/M6/l10.md",
@@ -219,11 +224,6 @@
     "curl/M6/preview.md",
     "curl/M5/l15.md",
     "curl/M6",
-    "curl/M5/l14.md",
-    "curl/M5/l13.md",
-    "curl/M5/l11.md",
-    "curl/M5/l10.md",
-    "curl/M5/l9.md",
     "curl/M5",
     "curl/Module 3",
     "curl/Module 4",
