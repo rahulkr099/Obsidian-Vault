@@ -6,23 +6,23 @@ Welcome to **Module 5**! This module focuses on using `curl` as an automation to
 
 # Module Structure
 
-|Lesson|Topic|
-|---|---|
-|Lesson 1|Introduction to Web Scraping|
-|Lesson 2|HTML with curl|
-|Lesson 3|Extracting Data using grep|
-|Lesson 4|Advanced Text Processing with sed|
-|Lesson 5|Parsing Structured Data with awk|
-|Lesson 6|XML & RSS Feeds|
-|Lesson 7|API Polling|
-|Lesson 8|Website Monitoring|
-|Lesson 9|Automation with Bash|
-|Lesson 10|Cron Jobs|
-|Lesson 11|Logging & Error Handling|
-|Lesson 12|Mini Project – Website Status Checker|
-|Lesson 13|Mini Project – API Monitoring Tool|
-|Lesson 14|Best Practices|
-|Lesson 15|Module Challenge|
+| Lesson    | Topic                                 |
+| --------- | ------------------------------------- |
+| Lesson 1  | Introduction to Web Scraping          |
+| Lesson 2  | HTML with curl                        |
+| Lesson 3  | Extracting Data using grep            |
+| Lesson 4  | Advanced Text Processing with sed     |
+| Lesson 5  | Parsing Structured Data with awk      |
+| Lesson 6  | XML & RSS Feeds                       |
+| Lesson 7  | API Polling                           |
+| Lesson 8  | Website Monitoring                    |
+| Lesson 9  | Automation with Bash                  |
+| Lesson 10 | Cron Jobs                             |
+| Lesson 11 | Logging & Error Handling              |
+| Lesson 12 | Mini Project – Website Status Checker |
+| Lesson 13 | Mini Project – API Monitoring Tool    |
+| Lesson 14 | Best Practices                        |
+| Lesson 15 | Module Challenge                      |
 
 ---
 
