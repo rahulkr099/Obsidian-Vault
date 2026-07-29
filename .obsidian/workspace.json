@@ -11,14 +11,10 @@
             "id": "e872026361b7906a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "curl/M6/l14.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "l14"
+              "title": "New tab"
             }
           }
         ]
@@ -195,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e872026361b7906a",
+  "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
+    "Terminal Developer Mastery",
     "curl/M6/l15.md",
     "curl/M6/l14.md",
     "curl/M6/l13.md",
@@ -222,7 +219,6 @@
     "curl/M5/l9.md",
     "curl/M5/l8.md",
     "curl/M5/l7.md",
-    "curl/M5/l6.md",
     "curl/M6",
     "curl/M5",
     "curl/Module 3",
