@@ -10,3 +10,10 @@ A string in Python is a sequence of characters enclosed within quotes and is 0-i
 You can define a string in python using single quotes, double quotes, or triple quotes.
 
 It is important to note that strings in python are immutable; that is, once defined, you cant update the value of a string
+
+[[Differences & Similarities]]
+[[Section - 3 DataTypes in Python]]
+[[Section - 5]]
+[[Section - 6]]
+[[Section 7 - Comprehensions]]
+[[Section - 8]]
