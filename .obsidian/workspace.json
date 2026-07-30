@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L5 - Regular Expressions (Regex).md",
+                "file": "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L10 - API Automation with curl & JSON.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L5 - Regular Expressions (Regex)"
+              "title": "L10 - API Automation with curl & JSON"
             }
           }
         ]
@@ -197,8 +197,14 @@
   },
   "active": "e872026361b7906a",
   "lastOpenFiles": [
-    "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L4 - Advanced Text Processing.md",
+    "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L9 - Writing Reusable Bash Libraries.md",
+    "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L10 - API Automation with curl & JSON.md",
+    "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L8 - Scheduling with cron, at, and systemd Timers.md",
+    "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L7 - Background Jobs & Parallel Processing.md",
+    "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L6 - Signals, Traps & Process Control.md",
+    "Pasted image 20260730225044.png",
     "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L5 - Regular Expressions (Regex).md",
+    "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L4 - Advanced Text Processing.md",
     "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L3 - Here Documents & Here Strings.md",
     "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L2 - Command Substitution & Process Substitution.md",
     "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L1- Advanced Parameter Expansion.md",
@@ -218,11 +224,6 @@
     "Terminal Developer Mastery/Module 3 - Docker & Containers/L4.md",
     "Terminal Developer Mastery/Module 3 - Docker & Containers/L2.md",
     "Terminal Developer Mastery/Module 3 - Docker & Containers/L1.md",
-    "Terminal Developer Mastery/Module 4 - Linux System Administration/L13.md",
-    "Terminal Developer Mastery/Module 4 - Linux System Administration/L12.md",
-    "Terminal Developer Mastery/Module 4 - Linux System Administration/L11.md",
-    "Terminal Developer Mastery/Module 4 - Linux System Administration/L10.md",
-    "Terminal Developer Mastery/Module 4 - Linux System Administration/L9.md",
     "Terminal Developer Mastery/Module 12 - CI, CD & Deployment Pipelines",
     "Terminal Developer Mastery/Module 11 - System Design Fundamentals",
     "Terminal Developer Mastery/Module 10 - Linux Security & Hardening",
