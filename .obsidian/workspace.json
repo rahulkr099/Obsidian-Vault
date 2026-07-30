@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/AI Resources.md",
+                "file": "vim commands/🎀 Week 2 - Vim,Neovim + Searching + Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Resources"
+              "title": "🎀 Week 2 - Vim,Neovim + Searching + Git"
             }
           }
         ]
@@ -197,8 +197,11 @@
   },
   "active": "b6f83c2a27321702",
   "lastOpenFiles": [
-    "AI/GenAI Course/Roadmap.md",
+    "vim commands/🌲Week 1 - Terminal Basics.md",
+    "vim commands/(Level 1) Terminal Mastery Roadmap.md",
     "AI/AI Resources.md",
+    "AI/Master Agentic AI",
+    "AI/GenAI Course/Roadmap.md",
     "AI/Building AI Agents/Part 7 to.md",
     "AI/Building AI Agents/Part 1 to 6.md",
     "AI/Become AI Ready/Ch1 - Intro to AI.md",
@@ -226,15 +229,12 @@
     "Terminal Developer Mastery/SSH/Module 1 - SSH Basics/L8 - Installing SSH Tools.md",
     "Terminal Developer Mastery/SSH/Module 1 - SSH Basics/L7 - Password Login vs SSH Key Login.md",
     "Terminal Developer Mastery/SSH/Module 1 - SSH Basics/L6 - How the Server Decides to Trust You.md",
-    "Terminal Developer Mastery/SSH/Module 1 - SSH Basics/L5 - SSH Encryption.md",
-    "Terminal Developer Mastery/SSH/Module 1 - SSH Basics/L4 - How SSH works?.md",
     "Terminal Developer Mastery/SSH/Module 1 - SSH Basics",
     "Pasted image 20260730225044.png",
     "Terminal Developer Mastery/Module 12 - CI, CD & Deployment Pipelines",
     "Terminal Developer Mastery/Module 11 - System Design Fundamentals",
     "Terminal Developer Mastery/Module 10 - Linux Security & Hardening",
     "Terminal Developer Mastery/Module 9 - Observability (Logging, Monitoring & Logging)",
-    "Terminal Developer Mastery/Module 8 - Nginx & Web Servers",
     "Pasted image 20260106204848.png",
     "Pasted image 20260205210343.png",
     "Pasted image 20260205210436.png",
