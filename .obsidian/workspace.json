@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L11 - Production Automation Projects.md",
+                "file": "Terminal Developer Mastery/SSH/Module 1 - SSH Basics/L3 - SSH Client vs SSH Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L11 - Production Automation Projects"
+              "title": "L3 - SSH Client vs SSH Server"
             }
           }
         ]
@@ -197,6 +197,12 @@
   },
   "active": "e872026361b7906a",
   "lastOpenFiles": [
+    "Terminal Developer Mastery/SSH/Module 1 - SSH Basics/L1 - What is SSH.md",
+    "Terminal Developer Mastery/SSH/Module 1 - SSH Basics/L2 - Why developers use SSH?.md",
+    "Terminal Developer Mastery/SSH/Module 1 - SSH Basics/L3 - SSH Client vs SSH Server.md",
+    "Terminal Developer Mastery/SSH/Roadmap.md",
+    "Terminal Developer Mastery/SSH/Module 1 - SSH Basics",
+    "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L11 - Production Automation Projects.md",
     "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/Roadmap.md",
     "Terminal Developer Mastery/Module 1 - Shell Scripting Mastery/L12 - Final Capstone Project - Build a Professional CLI Tool.md",
     "Terminal Developer Mastery/Module 1 - Shell Scripting Mastery/L11 - Real-World Bash Mini Projects.md",
@@ -210,7 +216,6 @@
     "Terminal Developer Mastery/Module 1 - Shell Scripting Mastery/L3 - Conditions (if, elif, else).md",
     "Terminal Developer Mastery/Module 1 - Shell Scripting Mastery/L2 - Variables and User Input.md",
     "Terminal Developer Mastery/Module 1 - Shell Scripting Mastery/L1 - Introduction to Shell Scripts.md",
-    "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L11 - Production Automation Projects.md",
     "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L12 - Final DevOps Toolkit Capstone.md",
     "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L10 - API Automation with curl & JSON.md",
     "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L9 - Writing Reusable Bash Libraries.md",
@@ -220,10 +225,6 @@
     "Pasted image 20260730225044.png",
     "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L5 - Regular Expressions (Regex).md",
     "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L4 - Advanced Text Processing.md",
-    "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L3 - Here Documents & Here Strings.md",
-    "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L2 - Command Substitution & Process Substitution.md",
-    "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation/L1- Advanced Parameter Expansion.md",
-    "Terminal Developer Mastery/Module 3 - Docker & Containers/L3.md",
     "Terminal Developer Mastery/Module 12 - CI, CD & Deployment Pipelines",
     "Terminal Developer Mastery/Module 11 - System Design Fundamentals",
     "Terminal Developer Mastery/Module 10 - Linux Security & Hardening",
@@ -233,7 +234,6 @@
     "Terminal Developer Mastery/Module 5 - Networking Deep Dive for Backend Engineers",
     "Terminal Developer Mastery/Module 4 - Linux System Administration",
     "Terminal Developer Mastery/Module 3 - Docker & Containers",
-    "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation",
     "Pasted image 20260106204848.png",
     "Pasted image 20260205210343.png",
     "Pasted image 20260205210436.png",
