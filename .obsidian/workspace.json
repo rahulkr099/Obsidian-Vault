@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L5.md",
+                "file": "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L5"
+              "title": "L11"
             }
           }
         ]
@@ -197,8 +197,14 @@
   },
   "active": "e872026361b7906a",
   "lastOpenFiles": [
-    "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L4.md",
+    "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L10.md",
+    "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L11.md",
+    "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L9.md",
+    "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L8.md",
+    "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L7.md",
+    "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L6.md",
     "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L5.md",
+    "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L4.md",
     "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L3.md",
     "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L2.md",
     "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L1.md",
@@ -217,8 +223,6 @@
     "Terminal Developer Mastery/Module 7 - Networking for Backend Engineers/L4.md",
     "Terminal Developer Mastery/Module 7 - Networking for Backend Engineers/L3.md",
     "Terminal Developer Mastery/Module 7 - Networking for Backend Engineers/L2.md",
-    "Terminal Developer Mastery/Module 7 - Networking for Backend Engineers/L1.md",
-    "Terminal Developer Mastery/Module 7 - Networking for Backend Engineers/Roadmap.md",
     "Terminal Developer Mastery/Module 12 - CI, CD & Deployment Pipelines",
     "Terminal Developer Mastery/Module 11 - System Design Fundamentals",
     "Terminal Developer Mastery/Module 10 - Linux Security & Hardening",
@@ -229,10 +233,6 @@
     "Terminal Developer Mastery/Module 4 - Linux System Administration",
     "Terminal Developer Mastery/Module 3 - Docker & Containers",
     "Terminal Developer Mastery/Module 2 - Advanced Bash & Linux Automation",
-    "Backend from First Principles/5. Understanding HTTP for back-end engineers, where it all starts.md",
-    "Backend from First Principles/Secret Key Exchange.md",
-    "Backend from First Principles/4. Benefits.md",
-    "Backend from First Principles/3. What is Backend, how do they work and why do we need them?.md",
     "Pasted image 20260106204848.png",
     "Pasted image 20260205210343.png",
     "Pasted image 20260205210436.png",
