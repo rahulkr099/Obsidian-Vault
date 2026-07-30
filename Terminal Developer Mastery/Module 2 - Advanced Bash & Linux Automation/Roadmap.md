@@ -20,20 +20,20 @@ By the end of this module, you'll be able to build tools like:
 
 # 📖 Module Overview
 
-|Lesson|Topic|Difficulty|
-|---|---|---|
-|1|Advanced Parameter Expansion|⭐⭐⭐⭐☆|
-|2|Command Substitution & Process Substitution|⭐⭐⭐☆☆|
-|3|Here Documents & Here Strings|⭐⭐⭐☆☆|
-|4|Advanced Text Processing (`grep`, `sed`, `awk`, `cut`, `sort`, `uniq`, `tr`, `xargs`)|⭐⭐⭐⭐⭐|
-|5|Regular Expressions|⭐⭐⭐⭐☆|
-|6|Signals, Traps & Process Control|⭐⭐⭐⭐☆|
-|7|Background Jobs & Parallel Processing|⭐⭐⭐⭐☆|
-|8|Scheduling (`cron`, `at`, `systemd timers`)|⭐⭐⭐⭐☆|
-|9|Writing Reusable Bash Libraries|⭐⭐⭐⭐☆|
-|10|API Automation with `curl` & JSON|⭐⭐⭐⭐⭐|
-|11|Production Automation Projects|⭐⭐⭐⭐⭐|
-|12|Final Capstone: Build a Linux DevOps Toolkit|⭐⭐⭐⭐⭐|
+| Lesson | Topic                                                                                 | Difficulty |
+| ------ | ------------------------------------------------------------------------------------- | ---------- |
+| 1      | Advanced Parameter Expansion                                                          | ⭐⭐⭐⭐☆      |
+| 2      | Command Substitution & Process Substitution                                           | ⭐⭐⭐☆☆      |
+| 3      | Here Documents & Here Strings                                                         | ⭐⭐⭐☆☆      |
+| 4      | Advanced Text Processing (`grep`, `sed`, `awk`, `cut`, `sort`, `uniq`, `tr`, `xargs`) | ⭐⭐⭐⭐⭐      |
+| 5      | Regular Expressions                                                                   | ⭐⭐⭐⭐☆      |
+| 6      | Signals, Traps & Process Control                                                      | ⭐⭐⭐⭐☆      |
+| 7      | Background Jobs & Parallel Processing                                                 | ⭐⭐⭐⭐☆      |
+| 8      | Scheduling (`cron`, `at`, `systemd timers`)                                           | ⭐⭐⭐⭐☆      |
+| 9      | Writing Reusable Bash Libraries                                                       | ⭐⭐⭐⭐☆      |
+| 10     | API Automation with `curl` & JSON                                                     | ⭐⭐⭐⭐⭐      |
+| 11     | Production Automation Projects                                                        | ⭐⭐⭐⭐⭐      |
+| 12     | Final Capstone: Build a Linux DevOps Toolkit                                          | ⭐⭐⭐⭐⭐      |
 
 ---
 
