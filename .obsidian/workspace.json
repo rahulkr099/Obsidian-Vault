@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L11.md",
+                "file": "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L11"
+              "title": "L15"
             }
           }
         ]
@@ -197,8 +197,12 @@
   },
   "active": "e872026361b7906a",
   "lastOpenFiles": [
-    "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L10.md",
+    "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L14.md",
+    "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L15.md",
+    "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L13.md",
+    "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L12.md",
     "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L11.md",
+    "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L10.md",
     "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L9.md",
     "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L8.md",
     "Terminal Developer Mastery/Module 8 - Nginx & Web Servers/L7.md",
@@ -219,10 +223,6 @@
     "Terminal Developer Mastery/Module 7 - Networking for Backend Engineers/L8.md",
     "Terminal Developer Mastery/Module 7 - Networking for Backend Engineers/L7.md",
     "Terminal Developer Mastery/Module 7 - Networking for Backend Engineers/L6.md",
-    "Terminal Developer Mastery/Module 7 - Networking for Backend Engineers/L5.md",
-    "Terminal Developer Mastery/Module 7 - Networking for Backend Engineers/L4.md",
-    "Terminal Developer Mastery/Module 7 - Networking for Backend Engineers/L3.md",
-    "Terminal Developer Mastery/Module 7 - Networking for Backend Engineers/L2.md",
     "Terminal Developer Mastery/Module 12 - CI, CD & Deployment Pipelines",
     "Terminal Developer Mastery/Module 11 - System Design Fundamentals",
     "Terminal Developer Mastery/Module 10 - Linux Security & Hardening",
