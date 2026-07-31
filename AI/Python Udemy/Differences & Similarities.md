@@ -1,9 +1,5 @@
 [Python Lists vs Tuples vs Sets - Visually Explained](https://www.youtube.com/watch?v=11WrzU81q68&pp=ygUgcHl0aG9uIGxpc3QgdHVwbGUgc2V0IGRpY3Rpb25hcnk%3D)
 
-Great question 👍 — this is exactly the kind of thing that helps you think like a **full-stack developer**, since you’ll often switch between Python (backend/DSA) and JavaScript (frontend/backend).
-
-Let’s map them clearly 👇
-
 ---
 
 # 🔗 Python vs JavaScript Data Structures
