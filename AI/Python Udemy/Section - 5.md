@@ -212,11 +212,11 @@ print(f"You chose {flavor} chai")
 
 Without walrus:
 
-```
+```python
 value=input()
 
-iflen(value)>5:
-print(len(value))
+if len(value)>5:
+ print(len(value))
 ```
 
 `len(value)` runs twice.
