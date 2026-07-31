@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c754e70db108b730",
+        "id": "98ecc14c0e87a66d",
         "type": "tabs",
         "children": [
           {
-            "id": "b6f83c2a27321702",
+            "id": "2486be545ae858d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terminal Developer Mastery/SSH Mastery/Module 2 - Using SSH in real world/Roadmap.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "New tab"
             }
           }
         ]
@@ -197,10 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6f83c2a27321702",
+  "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
-    "Terminal Developer Mastery/SSH Mastery/Module 1 - SSH Basics/L15 - Module Review.md",
     "Terminal Developer Mastery/SSH Mastery/Module 2 - Using SSH in real world/Roadmap.md",
+    "Terminal Developer Mastery/SSH Mastery/Module 2 - Using SSH in real world/L1.md",
+    "Terminal Developer Mastery/SSH Mastery/Module 1 - SSH Basics/L15 - Module Review.md",
     "Terminal Developer Mastery/SSH Mastery/Module 2 - Using SSH in real world",
     "Terminal Developer Mastery/SSH Mastery/Module 1 - SSH Basics/L14 - Mini Project.md",
     "Terminal Developer Mastery/SSH Mastery/Module 1 - SSH Basics/L13 - Basic SSH Security.md",
@@ -231,7 +228,6 @@
     "Terminal Developer Mastery/Module 11 - System Design Fundamentals/Roadmap.md",
     "Terminal Developer Mastery/Module 10 - Linux Security & Hardening/Roadmap.md",
     "Terminal Developer Mastery/SSH Mastery/Module 1 - SSH Basics/L12 - Common SSH Errors.md",
-    "Terminal Developer Mastery/SSH Mastery/Module 1 - SSH Basics/L11 - Hostnames, IP addresses and ports.md",
     "Terminal Developer Mastery/SSH Mastery/Module 1 - SSH Basics",
     "Pasted image 20260730225044.png",
     "Terminal Developer Mastery/Module 12 - CI, CD & Deployment Pipelines",
