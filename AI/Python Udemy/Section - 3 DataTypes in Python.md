@@ -255,19 +255,19 @@ You say:
 
 ## List Methods
 
-|Method|Purpose|Example|
-|---|---|---|
-|`append()`|Add item at end|`nums.append(5)`|
-|`extend()`|Add multiple items|`nums.extend([1,2])`|
-|`insert()`|Insert at position|`nums.insert(1, 10)`|
-|`remove()`|Remove first matching value|`nums.remove(5)`|
-|`pop()`|Remove item by index|`nums.pop()`|
-|`clear()`|Remove all items|`nums.clear()`|
-|`index()`|Find index of value|`nums.index(5)`|
-|`count()`|Count occurrences|`nums.count(5)`|
-|`sort()`|Sort list|`nums.sort()`|
-|`reverse()`|Reverse list|`nums.reverse()`|
-|`copy()`|Create shallow copy|`nums.copy()`|
+| Method      | Purpose                     | Example              |
+| ----------- | --------------------------- | -------------------- |
+| `append()`  | Add item at end             | `nums.append(5)`     |
+| `extend()`  | Add multiple items          | `nums.extend([1,2])` |
+| `insert()`  | Insert at position          | `nums.insert(1, 10)` |
+| `remove()`  | Remove first matching value | `nums.remove(5)`     |
+| `pop()`     | Remove item by index        | `nums.pop()`         |
+| `clear()`   | Remove all items            | `nums.clear()`       |
+| `index()`   | Find index of value         | `nums.index(5)`      |
+| `count()`   | Count occurrences           | `nums.count(5)`      |
+| `sort()`    | Sort list                   | `nums.sort()`        |
+| `reverse()` | Reverse list                | `nums.reverse()`     |
+| `copy()`    | Create shallow copy         | `nums.copy()`        |
 
 ---
 
