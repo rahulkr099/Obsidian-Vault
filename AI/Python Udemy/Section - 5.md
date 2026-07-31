@@ -287,15 +287,15 @@ Very common in real projects.
 
 ```python
 defadd():
-print("Adding")
+	print("Adding")
 
 defdelete():
-print("Deleting")
+	print("Deleting")
 
 actions= {
-"add":add,
-"delete":delete,
-}
+	"add":add,
+	"delete":delete,
+	}
 
 actions["add"]()
 ```
