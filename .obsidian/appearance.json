@@ -6,5 +6,6 @@
     "wide"
   ],
   "accentColor": "#d85b18",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSizeAction": true
 }
