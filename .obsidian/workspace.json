@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vim commands/🎀 Week 2 - Vim,Neovim + Searching + Git.md",
+                "file": "Terminal Developer Mastery/SSH Mastery/Module 2 - Using SSH in real world/Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🎀 Week 2 - Vim,Neovim + Searching + Git"
+              "title": "Roadmap"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 264.70001220703125
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -199,6 +199,12 @@
   },
   "active": "b6f83c2a27321702",
   "lastOpenFiles": [
+    "Terminal Developer Mastery/SSH Mastery/Module 1 - SSH Basics/L15 - Module Review.md",
+    "Terminal Developer Mastery/SSH Mastery/Module 2 - Using SSH in real world/Roadmap.md",
+    "Terminal Developer Mastery/SSH Mastery/Module 2 - Using SSH in real world",
+    "Terminal Developer Mastery/SSH Mastery/Module 1 - SSH Basics/L14 - Mini Project.md",
+    "Terminal Developer Mastery/SSH Mastery/Module 1 - SSH Basics/L13 - Basic SSH Security.md",
+    "vim commands/🎀 Week 2 - Vim,Neovim + Searching + Git.md",
     "vim commands/🌲Week 1 - Terminal Basics.md",
     "vim commands/(Level 1) Terminal Mastery Roadmap.md",
     "AI/AI Resources.md",
@@ -224,19 +230,13 @@
     "Terminal Developer Mastery/Module 12 - CI, CD & Deployment Pipelines/Roadmap.md",
     "Terminal Developer Mastery/Module 11 - System Design Fundamentals/Roadmap.md",
     "Terminal Developer Mastery/Module 10 - Linux Security & Hardening/Roadmap.md",
-    "Terminal Developer Mastery/SSH/Module 1 - SSH Basics/L12 - Common SSH Errors.md",
-    "Terminal Developer Mastery/SSH/Module 1 - SSH Basics/L11 - Hostnames, IP addresses and ports.md",
-    "Terminal Developer Mastery/SSH/Module 1 - SSH Basics/L10 - Your first SSH command.md",
-    "Terminal Developer Mastery/SSH/Module 1 - SSH Basics/L9 - Checking your SSH version.md",
-    "Terminal Developer Mastery/SSH/Module 1 - SSH Basics/L8 - Installing SSH Tools.md",
-    "Terminal Developer Mastery/SSH/Module 1 - SSH Basics/L7 - Password Login vs SSH Key Login.md",
-    "Terminal Developer Mastery/SSH/Module 1 - SSH Basics/L6 - How the Server Decides to Trust You.md",
-    "Terminal Developer Mastery/SSH/Module 1 - SSH Basics",
+    "Terminal Developer Mastery/SSH Mastery/Module 1 - SSH Basics/L12 - Common SSH Errors.md",
+    "Terminal Developer Mastery/SSH Mastery/Module 1 - SSH Basics/L11 - Hostnames, IP addresses and ports.md",
+    "Terminal Developer Mastery/SSH Mastery/Module 1 - SSH Basics",
     "Pasted image 20260730225044.png",
     "Terminal Developer Mastery/Module 12 - CI, CD & Deployment Pipelines",
     "Terminal Developer Mastery/Module 11 - System Design Fundamentals",
     "Terminal Developer Mastery/Module 10 - Linux Security & Hardening",
-    "Terminal Developer Mastery/Module 9 - Observability (Logging, Monitoring & Logging)",
     "Pasted image 20260106204848.png",
     "Pasted image 20260205210343.png",
     "Pasted image 20260205210436.png",
