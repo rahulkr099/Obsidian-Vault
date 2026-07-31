@@ -35,7 +35,7 @@ Example:
 
 ```
 Your Laptop  -------------------->  Remote Linux Server
-        SSH Connection
+			    SSH Connection
 ```
 
 Once connected, every command you type runs on the **remote** computer, not on your laptop.
