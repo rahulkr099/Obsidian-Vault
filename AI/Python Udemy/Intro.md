@@ -11,7 +11,7 @@ You can define a string in python using single quotes, double quotes, or triple 
 
 It is important to note that strings in python are immutable; that is, once defined, you cant update the value of a string
 
-[[Differences & Similarities]]
+[[Python vs JS]]
 [[Section - 3 DataTypes in Python]]
 [[Section - 5]]
 [[Section - 6]]

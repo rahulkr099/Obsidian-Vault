@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Python Udemy/Differences & Similarities.md",
-                "mode": "preview",
+                "file": "AI/Python Udemy/Section - 3 DataTypes in Python.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Differences & Similarities"
+              "title": "Section - 3 DataTypes in Python"
             }
           }
         ]
@@ -200,6 +200,7 @@
   "active": "01b356ac35526a79",
   "lastOpenFiles": [
     "AI/Python Udemy/Intro.md",
+    "AI/Python Udemy/Python vs JS.md",
     "Terminal Developer Mastery/SSH Mastery/Module 1 - SSH Basics/L3 - SSH Client vs SSH Server.md",
     "Terminal Developer Mastery/SSH Mastery/Module 1 - SSH Basics/L2 - Why developers use SSH?.md",
     "Terminal Developer Mastery/SSH Mastery/Module 1 - SSH Basics/L1 - What is SSH.md",
@@ -227,7 +228,6 @@
     "Terminal Developer Mastery/Git Mastery/Module 12/L59.md",
     "Terminal Developer Mastery/Git Mastery/Module 12/L58.md",
     "Terminal Developer Mastery/Git Mastery/Module 12/L57.md",
-    "Terminal Developer Mastery/Git Mastery/Module 12/L56.md",
     "Terminal Developer Mastery/Git Mastery/Module 12",
     "Terminal Developer Mastery/Git Mastery/Module 11",
     "Terminal Developer Mastery/Git Mastery/Module 10",

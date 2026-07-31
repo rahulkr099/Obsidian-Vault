@@ -11,11 +11,11 @@ Every object has:
 You can check them like this:
 
 ```python
-x = 10
+a = 10
 
-print(id(x))    # Identity
-print(type(x))  # Type
-print(x)        # Value
+print(id(a))    # Identity
+print(type(a))  # Type
+print(a)        # Value
 ```
 
 ---
