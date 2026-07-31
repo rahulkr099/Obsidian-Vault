@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "98ecc14c0e87a66d",
+        "id": "2dff675672de5f27",
         "type": "tabs",
         "children": [
           {
-            "id": "a09f817d0e813747",
+            "id": "01b356ac35526a79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terminal Developer Mastery/Git Mastery/Module 14/L70.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "L70"
-            }
-          },
-          {
-            "id": "e96db58df1d49ac6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terminal Developer Mastery/Git Mastery/Module 15/L75.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "L75"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,16 +193,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e96db58df1d49ac6",
+  "active": "01b356ac35526a79",
   "lastOpenFiles": [
-    "Terminal Developer Mastery/Git Mastery/Module 15/L74.md",
+    "Terminal Developer Mastery/Git Mastery/Module 14/L70.md",
     "Terminal Developer Mastery/Git Mastery/Module 15/L75.md",
+    "Terminal Developer Mastery/Git Mastery/Module 15/L74.md",
     "Terminal Developer Mastery/Git Mastery/Module 15/L73.md",
     "Terminal Developer Mastery/Git Mastery/Module 15/L72.md",
     "Terminal Developer Mastery/Git Mastery/Module 15/L71.md",
     "Terminal Developer Mastery/Git Mastery/Roadmap.md",
     "Terminal Developer Mastery/Git Mastery/Module 15",
-    "Terminal Developer Mastery/Git Mastery/Module 14/L70.md",
     "Terminal Developer Mastery/Git Mastery/Module 14/L69.md",
     "Terminal Developer Mastery/Git Mastery/Module 14/L68.md",
     "Terminal Developer Mastery/Git Mastery/Module 14/L67.md",
