@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/1. Requirement Analysis/Module 1.md",
+                "file": "Backend Engineering Journey/1. Requirement Analysis/M5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 1"
+              "title": "M5"
             }
           }
         ]
@@ -199,8 +199,12 @@
   },
   "active": "01b356ac35526a79",
   "lastOpenFiles": [
+    "Backend Engineering Journey/1. Requirement Analysis/M1.md",
+    "Backend Engineering Journey/1. Requirement Analysis/M5.md",
+    "Backend Engineering Journey/1. Requirement Analysis/M4.md",
+    "Backend Engineering Journey/1. Requirement Analysis/M3.md",
+    "Backend Engineering Journey/1. Requirement Analysis/M2.md",
     "Backend Engineering Journey/1. Requirement Analysis/Roadmap.md",
-    "Backend Engineering Journey/1. Requirement Analysis/Module 1.md",
     "AI/Gen AI Roadmap/P3 - Prompt Engineering/L1.md",
     "AI/Gen AI Roadmap/P3 - Prompt Engineering/Roadmap.md",
     "AI/Gen AI Roadmap/Roadmap.md",
@@ -231,10 +235,6 @@
     "Backend Engineering Journey/7. Testing/Roadmap.md",
     "Backend Engineering Journey/6. Validation & Error Handling/Roadmap.md",
     "Backend Engineering Journey/5. Authentication & Authorization/Roadmap.md",
-    "Backend Engineering Journey/4. Repository Pattern/Roadmap.md",
-    "Backend Engineering Journey/3. Service Layer Designing/Roadmap.md",
-    "Terminal Developer Mastery/Module 9 - Observability (Logging, Monitoring & Logging)/Roadmap.md",
-    "Terminal Developer Mastery/SSH Mastery/M3 - GitHub SSH Mastery/L1.md",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
