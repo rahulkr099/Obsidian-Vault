@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/1. Requirement Analysis/M20.md",
+                "file": "Backend Engineering Journey/2. Data Modelling/M1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M20"
+              "title": "M1"
             }
           }
         ]
@@ -199,8 +199,10 @@
   },
   "active": "01b356ac35526a79",
   "lastOpenFiles": [
-    "Backend Engineering Journey/1. Requirement Analysis/M19.md",
+    "Backend Engineering Journey/2. Data Modelling/Roadmap.md",
+    "Backend Engineering Journey/2. Data Modelling/M1.md",
     "Backend Engineering Journey/1. Requirement Analysis/M20.md",
+    "Backend Engineering Journey/1. Requirement Analysis/M19.md",
     "Backend Engineering Journey/1. Requirement Analysis/M18.md",
     "Backend Engineering Journey/1. Requirement Analysis/M17.md",
     "Backend Engineering Journey/1. Requirement Analysis/M16.md",
@@ -213,7 +215,6 @@
     "Backend Engineering Journey/1. Requirement Analysis/M9.md",
     "Backend Engineering Journey/1. Requirement Analysis/M8.md",
     "Backend Engineering Journey/1. Requirement Analysis/M7.md",
-    "Backend Engineering Journey/2. Data Modelling/Roadmap.md",
     "Backend Engineering Journey/1. Requirement Analysis/M6.md",
     "Backend Engineering Journey/1. Requirement Analysis/Roadmap.md",
     "Backend Engineering Journey/1. Requirement Analysis/M5.md",
@@ -225,7 +226,6 @@
     "AI/Gen AI Roadmap/P3 - Prompt Engineering/Roadmap.md",
     "AI/Gen AI Roadmap/Roadmap.md",
     "AI/Gen AI Roadmap/P3 - Prompt Engineering",
-    "AI/Gen AI Roadmap/P2 - How LLMs work/L1.md",
     "AI/Gen AI Roadmap/P2 - How LLMs work",
     "AI/Gen AI Roadmap/P1 - AI Fundamentals",
     "AI/Gen AI Roadmap",
