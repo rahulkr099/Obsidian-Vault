@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/3. API Designing/M3/L3.1.md",
+                "file": "Backend Engineering Journey/3. API Designing/M3/L3.5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L3.1"
+              "title": "L3.5"
             }
           }
         ],
@@ -214,8 +214,12 @@
   },
   "active": "94439b7b46d0aa7b",
   "lastOpenFiles": [
-    "Backend Engineering Journey/3. API Designing/Roadmap.md",
+    "Backend Engineering Journey/3. API Designing/M3/L3.4.md",
+    "Backend Engineering Journey/3. API Designing/M3/L3.5.md",
+    "Backend Engineering Journey/3. API Designing/M3/L3.3.md",
+    "Backend Engineering Journey/3. API Designing/M3/L3.2.md",
     "Backend Engineering Journey/3. API Designing/M3/L3.1.md",
+    "Backend Engineering Journey/3. API Designing/Roadmap.md",
     "Backend Engineering Journey/3. API Designing/M3",
     "Backend Engineering Journey/3. API Designing/M2/L2.5.md",
     "Backend Engineering Journey/3. API Designing/M2/L2.4.md",
@@ -239,10 +243,6 @@
     "Backend Engineering Journey/2. Data Modelling/M12.md",
     "Backend Engineering Journey/2. Data Modelling/M11.md",
     "Backend Engineering Journey/2. Data Modelling/M10.md",
-    "Backend Engineering Journey/2. Data Modelling/M9.md",
-    "Backend Engineering Journey/2. Data Modelling/M8.md",
-    "Backend Engineering Journey/2. Data Modelling/M7.md",
-    "Backend Engineering Journey/2. Data Modelling/M6.md",
     "AI/Gen AI Roadmap/P3 - Prompt Engineering",
     "AI/Gen AI Roadmap/P2 - How LLMs work",
     "AI/Gen AI Roadmap/P1 - AI Fundamentals",
