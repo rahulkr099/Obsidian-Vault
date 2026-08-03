@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/3. API Designing/M1/L1.2.md",
+                "file": "Backend Engineering Journey/3. API Designing/M2/L2.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L1.2"
+              "title": "L2.2"
+            }
+          },
+          {
+            "id": "94439b7b46d0aa7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend Engineering Journey/3. API Designing/Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap"
             }
           }
         ]
@@ -199,11 +213,16 @@
   },
   "active": "01b356ac35526a79",
   "lastOpenFiles": [
-    "Backend Engineering Journey/3. API Designing/M1/L1.3.md",
+    "Backend Engineering Journey/3. API Designing/M2/L2.1.md",
+    "Backend Engineering Journey/3. API Designing/M2/L2.2.md",
+    "Backend Engineering Journey/3. API Designing/M1/L1.4.md",
+    "Backend Engineering Journey/3. API Designing/M2",
+    "Backend Engineering Journey/3. API Designing/Roadmap.md",
+    "Backend Engineering Journey/3. API Designing/M1/L1.1.md",
     "Backend Engineering Journey/3. API Designing/M1/L1.2.md",
+    "Backend Engineering Journey/3. API Designing/M1/L1.3.md",
     "Backend Engineering Journey/2. Data Modelling/M3.md",
     "Backend Engineering Journey/3. API Designing/M1",
-    "Backend Engineering Journey/3. API Designing/Roadmap.md",
     "Backend Engineering Journey/2. Data Modelling/M18.md",
     "Backend Engineering Journey/2. Data Modelling/M17.md",
     "Backend Engineering Journey/2. Data Modelling/M16.md",
@@ -222,10 +241,6 @@
     "Backend Engineering Journey/2. Data Modelling/M4.md",
     "Backend Engineering Journey/2. Data Modelling/M2.md",
     "Backend Engineering Journey/2. Data Modelling/M1.md",
-    "Backend Engineering Journey/1. Requirement Analysis/M20.md",
-    "Backend Engineering Journey/1. Requirement Analysis/M19.md",
-    "Backend Engineering Journey/1. Requirement Analysis/M18.md",
-    "Backend Engineering Journey/1. Requirement Analysis/M17.md",
     "AI/Gen AI Roadmap/P3 - Prompt Engineering",
     "AI/Gen AI Roadmap/P2 - How LLMs work",
     "AI/Gen AI Roadmap/P1 - AI Fundamentals",
@@ -234,7 +249,6 @@
     "Backend Engineering Journey/14. Performance & Scalability",
     "Backend Engineering Journey/13. Observability",
     "Backend Engineering Journey/12. File Storage & CDN",
-    "Backend Engineering Journey/11. Event Driven Architecture",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
