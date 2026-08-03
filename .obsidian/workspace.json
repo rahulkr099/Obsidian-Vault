@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/2. Data Modelling/M1.md",
+                "file": "Backend Engineering Journey/2. Data Modelling/M2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M1"
+              "title": "M2"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "01b356ac35526a79",
   "lastOpenFiles": [
-    "Backend Engineering Journey/2. Data Modelling/Roadmap.md",
     "Backend Engineering Journey/2. Data Modelling/M1.md",
+    "Backend Engineering Journey/2. Data Modelling/M2.md",
+    "Backend Engineering Journey/2. Data Modelling/Roadmap.md",
     "Backend Engineering Journey/1. Requirement Analysis/M20.md",
     "Backend Engineering Journey/1. Requirement Analysis/M19.md",
     "Backend Engineering Journey/1. Requirement Analysis/M18.md",
@@ -224,7 +225,6 @@
     "Backend Engineering Journey/1. Requirement Analysis/M2.md",
     "AI/Gen AI Roadmap/P3 - Prompt Engineering/L1.md",
     "AI/Gen AI Roadmap/P3 - Prompt Engineering/Roadmap.md",
-    "AI/Gen AI Roadmap/Roadmap.md",
     "AI/Gen AI Roadmap/P3 - Prompt Engineering",
     "AI/Gen AI Roadmap/P2 - How LLMs work",
     "AI/Gen AI Roadmap/P1 - AI Fundamentals",
