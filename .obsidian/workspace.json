@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/1. Requirement Analysis/M16.md",
+                "file": "Backend Engineering Journey/1. Requirement Analysis/M19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M16"
+              "title": "M19"
             }
           }
         ]
@@ -199,8 +199,11 @@
   },
   "active": "01b356ac35526a79",
   "lastOpenFiles": [
-    "Backend Engineering Journey/1. Requirement Analysis/M15.md",
+    "Backend Engineering Journey/1. Requirement Analysis/M18.md",
+    "Backend Engineering Journey/1. Requirement Analysis/M19.md",
+    "Backend Engineering Journey/1. Requirement Analysis/M17.md",
     "Backend Engineering Journey/1. Requirement Analysis/M16.md",
+    "Backend Engineering Journey/1. Requirement Analysis/M15.md",
     "Backend Engineering Journey/1. Requirement Analysis/M14.md",
     "Backend Engineering Journey/1. Requirement Analysis/M13.md",
     "Backend Engineering Journey/1. Requirement Analysis/M12.md",
@@ -224,10 +227,7 @@
     "AI/Gen AI Roadmap/P2 - How LLMs work/L1.md",
     "AI/Gen AI Roadmap/P2 - How LLMs work/Roadmap.md",
     "AI/Gen AI Roadmap/P2 - How LLMs work",
-    "AI/Gen AI Roadmap/P1 - AI Fundamentals/L1.md",
-    "AI/Gen AI Roadmap/P1 - AI Fundamentals/Roadmap.md",
     "AI/Gen AI Roadmap/P1 - AI Fundamentals",
-    "AI/GenAI Course/Roadmap.md",
     "AI/Gen AI Roadmap",
     "Backend Engineering Journey/15. System Design",
     "Backend Engineering Journey/14. Performance & Scalability",
