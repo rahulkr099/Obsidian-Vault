@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/3. Service Layer Designing/M8/L8.4.md",
+                "file": "Backend Engineering Journey/3. Service Layer Designing/M11/L11.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L8.4"
+              "title": "L11.1"
             }
           },
           {
@@ -211,15 +211,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "247cc5b2e302d5c3",
+  "active": "e7062df301a35b4e",
   "lastOpenFiles": [
+    "Backend Engineering Journey/3. Service Layer Designing/M10/L10.4.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M11/L11.1.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M11",
+    "Backend Engineering Journey/3. Service Layer Designing/M10/L10.3.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M10/L10.2.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M10/L10.1.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M9/L9.4.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M10",
+    "Backend Engineering Journey/3. Service Layer Designing/Roadmap.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M9/L9.3.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M9/L9.2.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M9/L9.1.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M8/L8.4.md",
     "Backend Engineering Journey/3. Service Layer Designing/M9",
     "Backend Engineering Journey/3. Service Layer Designing/M8/L8.3.md",
-    "Backend Engineering Journey/3. Service Layer Designing/M8/L8.4.md",
     "Backend Engineering Journey/3. Service Layer Designing/M8/L8.1.md",
     "Backend Engineering Journey/3. Service Layer Designing/M8/L8.2.md",
     "Backend Engineering Journey/3. Service Layer Designing/M7/L7.4.md",
-    "Backend Engineering Journey/3. Service Layer Designing/Roadmap.md",
     "Backend Engineering Journey/3. Service Layer Designing/M8",
     "Untitled",
     "Backend Engineering Journey/3. Service Layer Designing/M7/L7.3.md",
@@ -236,19 +247,8 @@
     "Backend Engineering Journey/3. Service Layer Designing/M7",
     "Backend Engineering Journey/3. Service Layer Designing/M6",
     "Backend Engineering Journey/3. Service Layer Designing/M5/Untitled",
-    "Backend Engineering Journey/3. Service Layer Designing/M4/L4.4.md",
     "Backend Engineering Journey/3. Service Layer Designing/M5",
-    "Backend Engineering Journey/3. Service Layer Designing/M4/L4.3.md",
-    "Backend Engineering Journey/3. Service Layer Designing/M4/L4.2.md",
-    "Backend Engineering Journey/3. Service Layer Designing/M4/L4.1.md",
-    "Backend Engineering Journey/3. Service Layer Designing/M3/L3.4.md",
     "Backend Engineering Journey/3. Service Layer Designing/M4",
-    "Backend Engineering Journey/3. Service Layer Designing/M3/L3.3.md",
-    "Backend Engineering Journey/3. Service Layer Designing/M3/L3.2.md",
-    "Backend Engineering Journey/3. Service Layer Designing/M3/L3.1.md",
-    "Backend Engineering Journey/3. Service Layer Designing/M3",
-    "Backend Engineering Journey/3. Service Layer Designing/M2",
-    "Backend Engineering Journey/3. Service Layer Designing/M1",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
