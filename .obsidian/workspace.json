@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Gen AI Roadmap/Roadmap.md",
+                "file": "Backend Engineering Journey/1. Requirement Analysis/M1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "M1"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "94cb5ab8301fbe95",
   "lastOpenFiles": [
+    "AI/Gen AI Roadmap/Roadmap.md",
     "AI/Gen AI Roadmap/P3 - Prompt Engineering/Roadmap.md",
     "Backend Engineering Journey/7. Testing/Roadmap.md",
     "Backend Engineering Journey/6. Validation & Error Handling/M3/L3.1 & 3.2.md",
@@ -231,7 +232,6 @@
     "Backend Engineering Journey/5. Authentication & Authorization/M17/L17.3.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M18",
     "Backend Engineering Journey/5. Authentication & Authorization/M17/L17.2.md",
-    "Backend Engineering Journey/5. Authentication & Authorization/M16/L16.3.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M17",
     "Backend Engineering Journey/5. Authentication & Authorization/M16",
     "Backend Engineering Journey/5. Authentication & Authorization/M15",
