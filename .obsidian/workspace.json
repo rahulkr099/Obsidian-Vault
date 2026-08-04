@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/5. Authentication & Authorization/M10/L10.4.md",
+                "file": "Backend Engineering Journey/5. Authentication & Authorization/M10/L10.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L10.4"
+              "title": "L10.3"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/5. Authentication & Authorization/M9/L9.2.md",
+                "file": "Backend Engineering Journey/5. Authentication & Authorization/M11/L11.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L9.2"
+              "title": "L11.1"
             }
           }
         ],
@@ -214,17 +214,18 @@
   },
   "active": "3e69e361921aa701",
   "lastOpenFiles": [
+    "Backend Engineering Journey/5. Authentication & Authorization/M10/L10.3.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M11/L11.1.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M10/L10.2.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M10/L10.1.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M9/L9.3.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M9/L9.2.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M9/L9.1.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M8/L8.1.md",
-    "Backend Engineering Journey/5. Authentication & Authorization/M10/L10.1.md",
     "Backend Engineering Journey/5. Authentication & Authorization/Roadmap.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M10/L10.4.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M11",
-    "Backend Engineering Journey/5. Authentication & Authorization/M10/L10.3.md",
-    "Backend Engineering Journey/5. Authentication & Authorization/M10/L10.2.md",
-    "Backend Engineering Journey/5. Authentication & Authorization/M9/L9.3.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M10",
-    "Backend Engineering Journey/5. Authentication & Authorization/M9/L9.2.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M8/L8.3.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M9",
     "Backend Engineering Journey/5. Authentication & Authorization/M8/L8.2.md",
