@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/4. Repository Pattern/Roadmap.md",
+                "file": "Backend Engineering Journey/4. Repository Pattern/M1/L1.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "L1.2"
             }
           },
           {
@@ -211,15 +211,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "247cc5b2e302d5c3",
+  "active": "e7062df301a35b4e",
   "lastOpenFiles": [
+    "Backend Engineering Journey/4. Repository Pattern/M1/L1.1.md",
+    "Backend Engineering Journey/4. Repository Pattern/M1/L1.2.md",
+    "Backend Engineering Journey/4. Repository Pattern/Roadmap.md",
     "Backend Engineering Journey/4. Repository Pattern/M1",
     "Backend Engineering Journey/3. Service Layer Designing/M20/L20.4.md",
     "Backend Engineering Journey/3. Service Layer Designing/M20/L20.3.md",
     "Backend Engineering Journey/3. Service Layer Designing/M20/L20.2.md",
     "Backend Engineering Journey/3. Service Layer Designing/M20/L20.1.md",
     "Backend Engineering Journey/3. Service Layer Designing/M14/L14.4.md",
-    "Backend Engineering Journey/4. Repository Pattern/Roadmap.md",
     "Backend Engineering Journey/3. Service Layer Designing/Roadmap.md",
     "Backend Engineering Journey/3. Service Layer Designing/M9/L9.4.md",
     "Backend Engineering Journey/3. Service Layer Designing/M9/L9.3.md",
@@ -241,14 +243,12 @@
     "Backend Engineering Journey/7. Testing/Roadmap.md",
     "Backend Engineering Journey/6. Validation & Error Handling/Roadmap.md",
     "Backend Engineering Journey/5. Authentication & Authorization/Roadmap.md",
-    "Backend Engineering Journey/3. Service Layer Designing/M17/L17.4.md",
     "Backend Engineering Journey/3. Service Layer Designing/M17",
     "Backend Engineering Journey/3. Service Layer Designing/M16",
     "Backend Engineering Journey/3. Service Layer Designing/M15",
     "Backend Engineering Journey/3. Service Layer Designing/M14",
     "Backend Engineering Journey/3. Service Layer Designing/M13",
     "Backend Engineering Journey/3. Service Layer Designing/M12",
-    "Backend Engineering Journey/3. Service Layer Designing/M11",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
