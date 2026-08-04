@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/1. Requirement Analysis/Roadmap.md",
+                "file": "Backend Engineering Journey/2. Data Modelling/M1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "M1"
             }
           }
         ]
@@ -199,6 +199,13 @@
   },
   "active": "94cb5ab8301fbe95",
   "lastOpenFiles": [
+    "Backend Engineering Journey/2. Data Modelling/M6.md",
+    "Backend Engineering Journey/2. Data Modelling/M5.md",
+    "Backend Engineering Journey/2. Data Modelling/M4.md",
+    "Backend Engineering Journey/2. Data Modelling/M3.md",
+    "Backend Engineering Journey/2. Data Modelling/M2.md",
+    "Backend Engineering Journey/2. Data Modelling/M1.md",
+    "Backend Engineering Journey/1. Requirement Analysis/Roadmap.md",
     "Backend Engineering Journey/1. Requirement Analysis/M20.md",
     "Backend Engineering Journey/1. Requirement Analysis/M19.md",
     "Backend Engineering Journey/1. Requirement Analysis/M18.md",
@@ -218,15 +225,8 @@
     "Backend Engineering Journey/1. Requirement Analysis/M4.md",
     "Backend Engineering Journey/1. Requirement Analysis/M3.md",
     "Backend Engineering Journey/1. Requirement Analysis/M2.md",
-    "Backend Engineering Journey/1. Requirement Analysis/M1.md",
-    "AI/Gen AI Roadmap/Roadmap.md",
-    "AI/Gen AI Roadmap/P3 - Prompt Engineering/Roadmap.md",
-    "Backend Engineering Journey/7. Testing/Roadmap.md",
-    "Backend Engineering Journey/6. Validation & Error Handling/M3/L3.1 & 3.2.md",
     "Backend Engineering Journey/6. Validation & Error Handling/M4",
-    "Backend Engineering Journey/6. Validation & Error Handling/M2/L2.2.md",
     "Backend Engineering Journey/6. Validation & Error Handling/M3",
-    "Backend Engineering Journey/6. Validation & Error Handling/M2/2.1.md",
     "Backend Engineering Journey/6. Validation & Error Handling/M2",
     "Backend Engineering Journey/6. Validation & Error Handling/M1",
     "Backend Engineering Journey/5. Authentication & Authorization/M20",
