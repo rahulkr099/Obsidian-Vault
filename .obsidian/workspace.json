@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/5. Authentication & Authorization/M6/L6.3.md",
+                "file": "Backend Engineering Journey/5. Authentication & Authorization/M9/L9.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L6.3"
+              "title": "L9.2"
             }
           },
           {
@@ -211,11 +211,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "247cc5b2e302d5c3",
+  "active": "572f78031b619c38",
   "lastOpenFiles": [
+    "Backend Engineering Journey/5. Authentication & Authorization/M9/L9.1.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M9/L9.2.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M8/L8.3.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M9",
+    "Backend Engineering Journey/5. Authentication & Authorization/M8/L8.2.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M8/L8.1.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M7/L7.2.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M8",
+    "Backend Engineering Journey/5. Authentication & Authorization/M7/L7.1.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M6/L6.3.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M7",
     "Backend Engineering Journey/5. Authentication & Authorization/M6/L6.2.md",
-    "Backend Engineering Journey/5. Authentication & Authorization/M6/L6.3.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M6/L6.1.md",
     "Backend Engineering Journey/5. Authentication & Authorization/Roadmap.md",
     "Backend Engineering Journey/4. Repository Pattern/M8/L8.2.md",
@@ -239,16 +248,7 @@
     "Backend Engineering Journey/5. Authentication & Authorization/M1/L1.1.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M1",
     "Backend Engineering Journey/4. Repository Pattern/M12/L12.md",
-    "Backend Engineering Journey/4. Repository Pattern/M11/L11.2.md",
     "Backend Engineering Journey/4. Repository Pattern/M12",
-    "Backend Engineering Journey/4. Repository Pattern/M11/L11.1.md",
-    "Backend Engineering Journey/4. Repository Pattern/M10/L10.1 & 10.2.md",
-    "Backend Engineering Journey/4. Repository Pattern/M11",
-    "Backend Engineering Journey/4. Repository Pattern/M9/L9.1 & 9.2.md",
-    "Backend Engineering Journey/4. Repository Pattern/M10",
-    "Backend Engineering Journey/4. Repository Pattern/Roadmap.md",
-    "Backend Engineering Journey/4. Repository Pattern/M9",
-    "Backend Engineering Journey/4. Repository Pattern/M8/L8.1.md",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
