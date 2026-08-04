@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/3. Service Layer Designing/M18/L18.4.md",
+                "file": "Backend Engineering Journey/3. Service Layer Designing/M20/L20.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L18.4"
+              "title": "L20.1"
             }
           }
         ],
@@ -214,8 +214,15 @@
   },
   "active": "15ee9b6738f73530",
   "lastOpenFiles": [
-    "Backend Engineering Journey/3. Service Layer Designing/M18/L18.3.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M19/L19.4.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M20/L20.1.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M20",
+    "Backend Engineering Journey/3. Service Layer Designing/M19/L19.3.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M19/L19.2.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M19/L19.1.md",
     "Backend Engineering Journey/3. Service Layer Designing/M18/L18.4.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M19",
+    "Backend Engineering Journey/3. Service Layer Designing/M18/L18.3.md",
     "Backend Engineering Journey/3. Service Layer Designing/M18/L18.2.md",
     "Backend Engineering Journey/3. Service Layer Designing/M18/L18.1.md",
     "Backend Engineering Journey/8, Redis & Caching/Roadmap.md",
@@ -238,18 +245,11 @@
     "Backend Engineering Journey/3. Service Layer Designing/M16",
     "Backend Engineering Journey/3. Service Layer Designing/M15/L15.3.md",
     "Backend Engineering Journey/3. Service Layer Designing/M15/L15.2.md",
-    "Backend Engineering Journey/3. Service Layer Designing/M15/L15.1.md",
-    "Backend Engineering Journey/3. Service Layer Designing/Roadmap.md",
     "Backend Engineering Journey/3. Service Layer Designing/M15",
-    "Backend Engineering Journey/3. Service Layer Designing/M14/L14.4.md",
-    "Backend Engineering Journey/3. Service Layer Designing/M14/L14.3.md",
-    "Backend Engineering Journey/3. Service Layer Designing/M14/L14.1.md",
     "Backend Engineering Journey/3. Service Layer Designing/M14",
     "Backend Engineering Journey/3. Service Layer Designing/M13",
     "Backend Engineering Journey/3. Service Layer Designing/M12",
     "Backend Engineering Journey/3. Service Layer Designing/M11",
-    "Backend Engineering Journey/3. Service Layer Designing/M10",
-    "Backend Engineering Journey/3. Service Layer Designing/M9",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
