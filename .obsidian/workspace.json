@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/5. Authentication & Authorization/M14/L14.2.md",
+                "file": "Backend Engineering Journey/5. Authentication & Authorization/M14/L14.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L14.2"
+              "title": "L14.3"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "3e69e361921aa701",
   "lastOpenFiles": [
-    "Backend Engineering Journey/5. Authentication & Authorization/M14/L14.1.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M14/L14.2.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M14/L14.3.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M14/L14.1.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M13/L13.3.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M14",
     "Backend Engineering Journey/5. Authentication & Authorization/M13/L13.2.md",
@@ -232,7 +233,6 @@
     "Backend Engineering Journey/5. Authentication & Authorization/M7/L7.1.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M6/L6.3.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M7",
-    "Backend Engineering Journey/5. Authentication & Authorization/M6/L6.2.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M6",
     "Backend Engineering Journey/5. Authentication & Authorization/M5",
     "Pasted image 20260730233134.png",
