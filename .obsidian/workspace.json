@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/3. Service Layer Designing/M14/L14.4.md",
+                "file": "Backend Engineering Journey/4. Repository Pattern/Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L14.4"
+              "title": "Roadmap"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Roadmap"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,14 +211,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15ee9b6738f73530",
+  "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
+    "Backend Engineering Journey/4. Repository Pattern/M1",
+    "Backend Engineering Journey/3. Service Layer Designing/M20/L20.4.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M20/L20.3.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M20/L20.2.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M20/L20.1.md",
+    "Backend Engineering Journey/3. Service Layer Designing/M14/L14.4.md",
+    "Backend Engineering Journey/4. Repository Pattern/Roadmap.md",
     "Backend Engineering Journey/3. Service Layer Designing/Roadmap.md",
     "Backend Engineering Journey/3. Service Layer Designing/M9/L9.4.md",
     "Backend Engineering Journey/3. Service Layer Designing/M9/L9.3.md",
     "Backend Engineering Journey/3. Service Layer Designing/M9/L9.2.md",
     "Backend Engineering Journey/3. Service Layer Designing/M9/L9.1.md",
-    "Backend Engineering Journey/3. Service Layer Designing/M20/L20.1.md",
     "Backend Engineering Journey/3. Service Layer Designing/M19/L19.4.md",
     "Backend Engineering Journey/3. Service Layer Designing/M20",
     "Backend Engineering Journey/3. Service Layer Designing/M19/L19.3.md",
@@ -236,14 +241,8 @@
     "Backend Engineering Journey/7. Testing/Roadmap.md",
     "Backend Engineering Journey/6. Validation & Error Handling/Roadmap.md",
     "Backend Engineering Journey/5. Authentication & Authorization/Roadmap.md",
-    "Backend Engineering Journey/4. Repository Pattern/Roadmap.md",
     "Backend Engineering Journey/3. Service Layer Designing/M17/L17.4.md",
-    "Backend Engineering Journey/3. Service Layer Designing/M17/L17.3.md",
-    "Backend Engineering Journey/3. Service Layer Designing/M17/L17.2.md",
-    "Backend Engineering Journey/3. Service Layer Designing/M17/L17.1.md",
-    "Backend Engineering Journey/3. Service Layer Designing/M16/L16.4.md",
     "Backend Engineering Journey/3. Service Layer Designing/M17",
-    "Backend Engineering Journey/3. Service Layer Designing/M16/L16.3.md",
     "Backend Engineering Journey/3. Service Layer Designing/M16",
     "Backend Engineering Journey/3. Service Layer Designing/M15",
     "Backend Engineering Journey/3. Service Layer Designing/M14",
