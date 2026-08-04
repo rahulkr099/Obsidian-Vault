@@ -8,35 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7062df301a35b4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend Engineering Journey/4. Repository Pattern/M8/L8.2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "L8.2"
-            }
-          },
-          {
             "id": "572f78031b619c38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/5. Authentication & Authorization/M4/L4.2.md",
+                "file": "Backend Engineering Journey/5. Authentication & Authorization/M6/L6.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L4.2"
+              "title": "L6.3"
+            }
+          },
+          {
+            "id": "3e69e361921aa701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend Engineering Journey/5. Authentication & Authorization/Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,9 +213,19 @@
   },
   "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
+    "Backend Engineering Journey/5. Authentication & Authorization/M7",
+    "Backend Engineering Journey/5. Authentication & Authorization/M6/L6.2.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M6/L6.3.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M6/L6.1.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/Roadmap.md",
+    "Backend Engineering Journey/4. Repository Pattern/M8/L8.2.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M5/L5.3.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M6",
+    "Backend Engineering Journey/5. Authentication & Authorization/M5/L5.2.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M5/L5.1.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M4/L4.2.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M5",
     "Backend Engineering Journey/5. Authentication & Authorization/M4/L4.1.md",
-    "Backend Engineering Journey/5. Authentication & Authorization/M4/L4.2.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M3/L3.2.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M4",
     "Backend Engineering Journey/5. Authentication & Authorization/M3/L3.1.md",
@@ -228,7 +237,6 @@
     "Backend Engineering Journey/5. Authentication & Authorization/M1/L1.2.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M2",
     "Backend Engineering Journey/5. Authentication & Authorization/M1/L1.1.md",
-    "Backend Engineering Journey/5. Authentication & Authorization/Roadmap.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M1",
     "Backend Engineering Journey/4. Repository Pattern/M12/L12.md",
     "Backend Engineering Journey/4. Repository Pattern/M11/L11.2.md",
@@ -239,17 +247,8 @@
     "Backend Engineering Journey/4. Repository Pattern/M9/L9.1 & 9.2.md",
     "Backend Engineering Journey/4. Repository Pattern/M10",
     "Backend Engineering Journey/4. Repository Pattern/Roadmap.md",
-    "Backend Engineering Journey/4. Repository Pattern/M8/L8.2.md",
     "Backend Engineering Journey/4. Repository Pattern/M9",
     "Backend Engineering Journey/4. Repository Pattern/M8/L8.1.md",
-    "Backend Engineering Journey/4. Repository Pattern/M7/L7.2.md",
-    "Backend Engineering Journey/4. Repository Pattern/M8",
-    "Backend Engineering Journey/4. Repository Pattern/M7/L7.1.md",
-    "Backend Engineering Journey/4. Repository Pattern/M6/L6.2.md",
-    "Backend Engineering Journey/4. Repository Pattern/M7",
-    "Backend Engineering Journey/4. Repository Pattern/M6/L6.1.md",
-    "Backend Engineering Journey/4. Repository Pattern/M5/L5.2.md",
-    "Backend Engineering Journey/4. Repository Pattern/M5/L5.1.md",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
