@@ -6,9 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#1441f5",
     "recentlyUsedIcons": [
+      "LiAstroid",
+      "LiArrowUp10",
+      "LiAmbulance",
       "LiAtom",
-      "LiActivity",
-      "LiBadgeDollarSign"
+      "LiActivity"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +41,18 @@
   "Frontend Flow": {
     "iconName": "LiAtom",
     "iconColor": "#b8e84f"
-  }
+  },
+  "Terminal Developer Mastery": {
+    "iconName": "LiAmbulance",
+    "iconColor": "#bf09f1"
+  },
+  "Backend Engineering Journey": {
+    "iconName": "LiArrowUp10",
+    "iconColor": "#62ce3b"
+  },
+  "Backend from First Principles": {
+    "iconName": "LiAstroid",
+    "iconColor": "#f7f022"
+  },
+  "AI": "LiActivity"
 }
