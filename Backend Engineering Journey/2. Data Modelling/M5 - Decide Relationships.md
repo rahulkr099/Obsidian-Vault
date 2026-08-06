@@ -110,7 +110,7 @@ One Profile
 
 Diagram:
 
-```text
+```bash
 +------+        +---------+
 | User | 1 ─── 1| Profile |
 +------+        +---------+
@@ -254,7 +254,7 @@ Each post belongs to one author.
 
 Diagram:
 
-```text
+```bash
 +------+      +------+
 | User |1 ───<| Post |
 +------+      +------+
