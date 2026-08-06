@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/3. API Designing/M1/L1.1.md",
+                "file": "Backend Engineering Journey/3. API Designing/M1 - Understanding API Design/L1.1 - What is an API?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L1.1"
+              "title": "L1.1 - What is an API?"
             }
           }
         ]
@@ -221,10 +221,10 @@
     "Terminal Developer Mastery/Module 1 - Shell Scripting Mastery/L3 - Conditions (if, elif, else).md",
     "Terminal Developer Mastery/Module 1 - Shell Scripting Mastery/L2 - Variables and User Input.md",
     "Terminal Developer Mastery/Module 1 - Shell Scripting Mastery/L1 - Introduction to Shell Scripts.md",
-    "Backend Engineering Journey/3. API Designing/M1/L1.4.md",
-    "Backend Engineering Journey/3. API Designing/M1/L1.3.md",
-    "Backend Engineering Journey/3. API Designing/M1/L1.2.md",
-    "Backend Engineering Journey/3. API Designing/M1/L1.1.md",
+    "Backend Engineering Journey/3. API Designing/M1 - Understanding API Design/L1.4.md",
+    "Backend Engineering Journey/3. API Designing/M1 - Understanding API Design/L1.3.md",
+    "Backend Engineering Journey/3. API Designing/M1 - Understanding API Design/L1.2.md",
+    "Backend Engineering Journey/3. API Designing/M1 - Understanding API Design/L1.1 - What is an API?.md",
     "Backend Engineering Journey/6. Validation & Error Handling/M4",
     "Backend Engineering Journey/6. Validation & Error Handling/M3",
     "Backend Engineering Journey/6. Validation & Error Handling/M2",
