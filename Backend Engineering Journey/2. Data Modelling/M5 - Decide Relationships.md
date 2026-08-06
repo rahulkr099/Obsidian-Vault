@@ -254,9 +254,9 @@ Each post belongs to one author.
 
 Diagram:
 
-```bash
+```js
 +------+      +------+
-| User |1 ───<| Post |
+| User |1 ─── N| Post |
 +------+      +------+
 ```
 
@@ -440,7 +440,7 @@ Course
 
 Diagram:
 
-```text
+```js
 +---------+       +------------+       +--------+
 | Student |1 ───< | Enrollment |>─── 1 | Course |
 +---------+       +------------+       +--------+
