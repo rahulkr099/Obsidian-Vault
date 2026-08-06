@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Developer Mastery/Module 1 - Shell Scripting Mastery/L2 - Variables and User Input.md",
+                "file": "Terminal Developer Mastery/Module 1 - Shell Scripting Mastery/L3 - Conditions (if, elif, else).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L2 - Variables and User Input"
+              "title": "L3 - Conditions (if, elif, else)"
             }
           }
         ]
@@ -200,8 +200,8 @@
   },
   "active": "94cb5ab8301fbe95",
   "lastOpenFiles": [
-    "Terminal Developer Mastery/Module 1 - Shell Scripting Mastery/L1 - Introduction to Shell Scripts.md",
     "Terminal Developer Mastery/Module 1 - Shell Scripting Mastery/L2 - Variables and User Input.md",
+    "Terminal Developer Mastery/Module 1 - Shell Scripting Mastery/L1 - Introduction to Shell Scripts.md",
     "Backend Engineering Journey/2. Data Modelling/M1.md",
     "Backend Engineering Journey/2. Data Modelling/M7.md",
     "Backend Engineering Journey/2. Data Modelling/M6.md",
