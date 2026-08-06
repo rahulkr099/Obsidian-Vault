@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/2. Data Modelling/M10 - Validation Rules.md",
+                "file": "Backend Engineering Journey/2. Data Modelling/M11 - Database Constraints.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M10 - Validation Rules"
+              "title": "M11 - Database Constraints"
             }
           }
         ]
@@ -199,6 +199,15 @@
   },
   "active": "94cb5ab8301fbe95",
   "lastOpenFiles": [
+    "Backend Engineering Journey/2. Data Modelling/M12.md",
+    "Backend Engineering Journey/2. Data Modelling/M18.md",
+    "Backend Engineering Journey/2. Data Modelling/M17.md",
+    "Backend Engineering Journey/2. Data Modelling/M16.md",
+    "Backend Engineering Journey/2. Data Modelling/M15.md",
+    "Backend Engineering Journey/2. Data Modelling/M14.md",
+    "Backend Engineering Journey/2. Data Modelling/M13.md",
+    "Backend Engineering Journey/2. Data Modelling/M11 - Database Constraints.md",
+    "Backend Engineering Journey/2. Data Modelling/M10 - Validation Rules.md",
     "Backend Engineering Journey/2. Data Modelling/M9 - State Modelling.md",
     "Backend Engineering Journey/2. Data Modelling/M8 - Normalize vs. Denormalize.md",
     "Backend Engineering Journey/2. Data Modelling/M7 - Design Attributes(Fields).md",
@@ -216,15 +225,6 @@
     "Backend Engineering Journey/3. API Designing/M1/L1.3.md",
     "Backend Engineering Journey/3. API Designing/M1/L1.2.md",
     "Backend Engineering Journey/3. API Designing/M1/L1.1.md",
-    "Backend Engineering Journey/2. Data Modelling/M18.md",
-    "Backend Engineering Journey/2. Data Modelling/M17.md",
-    "Backend Engineering Journey/2. Data Modelling/M16.md",
-    "Backend Engineering Journey/2. Data Modelling/M15.md",
-    "Backend Engineering Journey/2. Data Modelling/M14.md",
-    "Backend Engineering Journey/2. Data Modelling/M13.md",
-    "Backend Engineering Journey/2. Data Modelling/M12.md",
-    "Backend Engineering Journey/2. Data Modelling/M11.md",
-    "Backend Engineering Journey/2. Data Modelling/M10 - Validation Rules.md",
     "Backend Engineering Journey/6. Validation & Error Handling/M4",
     "Backend Engineering Journey/6. Validation & Error Handling/M3",
     "Backend Engineering Journey/6. Validation & Error Handling/M2",
