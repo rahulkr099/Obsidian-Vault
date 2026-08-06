@@ -715,6 +715,37 @@ License: <License>
 ```
 
 - Prints a success message showing where the project was created.
+```bash
+#!/bin/bash
+
+# Ask for project details
+read -p "Enter Project Name: " project_name
+read -p "Enter Author Name: " author_name
+read -p "Enter Version: " version
+read -p "Enter License: " license
+
+# Validate project name is not empty
+if [ -z "$project_name" ]; then
+  echo "Error: Project name cannot be empty."
+  exit 1
+fi
+
+# Create directory with the project name
+mkdir -p "$project_name"
+
+# Generate README.md inside the project directory
+cat > "$project_name/README.md" <<EOF
+# $project_name
+
+Author: $author_name
+
+Version: $version
+
+License: $license
+EOF
+
+echo "Project '$project_name' created successfully with README.md"
+```
 
 ---
 
