@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineering Journey/2. Data Modelling/M11 - Database Constraints.md",
+                "file": "Backend Engineering Journey/2. Data Modelling/M12 - Index Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M11 - Database Constraints"
+              "title": "M12 - Index Design"
             }
           }
         ]
@@ -199,14 +199,14 @@
   },
   "active": "94cb5ab8301fbe95",
   "lastOpenFiles": [
-    "Backend Engineering Journey/2. Data Modelling/M12.md",
+    "Backend Engineering Journey/2. Data Modelling/M11 - Database Constraints.md",
+    "Backend Engineering Journey/2. Data Modelling/M12 - Index Design.md",
     "Backend Engineering Journey/2. Data Modelling/M18.md",
     "Backend Engineering Journey/2. Data Modelling/M17.md",
     "Backend Engineering Journey/2. Data Modelling/M16.md",
     "Backend Engineering Journey/2. Data Modelling/M15.md",
     "Backend Engineering Journey/2. Data Modelling/M14.md",
     "Backend Engineering Journey/2. Data Modelling/M13.md",
-    "Backend Engineering Journey/2. Data Modelling/M11 - Database Constraints.md",
     "Backend Engineering Journey/2. Data Modelling/M10 - Validation Rules.md",
     "Backend Engineering Journey/2. Data Modelling/M9 - State Modelling.md",
     "Backend Engineering Journey/2. Data Modelling/M8 - Normalize vs. Denormalize.md",
