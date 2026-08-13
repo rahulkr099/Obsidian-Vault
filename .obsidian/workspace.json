@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI LMS Development/Phase 0/L0.6.md",
+                "file": "AI LMS Development/Phase 1/L1.4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L0.6"
+              "title": "L1.4"
             }
           }
         ]
@@ -199,8 +199,13 @@
   },
   "active": "fb87236b81d303d3",
   "lastOpenFiles": [
-    "AI LMS Development/Phase 0/L0.5.md",
+    "AI LMS Development/Phase 1/L1.3.md",
+    "AI LMS Development/Phase 1/L1.4.md",
+    "AI LMS Development/Phase 1/L1.2.md",
+    "AI LMS Development/Phase 1/L1.1.md",
     "AI LMS Development/Phase 0/L0.6.md",
+    "AI LMS Development/Phase 1",
+    "AI LMS Development/Phase 0/L0.5.md",
     "AI LMS Development/Phase 0/L0.4.md",
     "AI LMS Development/Phase 0/L0.3.md",
     "AI LMS Development/Phase 0/L0.2.md",
@@ -223,10 +228,6 @@
     "Backend Engineering Journey/2. Data Modelling/M9 - State Modelling.md",
     "Backend Engineering Journey/2. Data Modelling/M8 - Normalize vs. Denormalize.md",
     "Backend Engineering Journey/2. Data Modelling/M7 - Design Attributes(Fields).md",
-    "Backend Engineering Journey/2. Data Modelling/M6 - Choose the Primary Key.md",
-    "Backend Engineering Journey/2. Data Modelling/M5 - Decide Relationships.md",
-    "Backend Engineering Journey/2. Data Modelling/M3 - Discover the Entities.md",
-    "Backend Engineering Journey/2. Data Modelling/M4 - Draw the ER Diagram.md",
     "Backend Engineering Journey/6. Validation & Error Handling/M4",
     "Backend Engineering Journey/6. Validation & Error Handling/M3",
     "Backend Engineering Journey/6. Validation & Error Handling/M2",
@@ -234,7 +235,6 @@
     "Backend Engineering Journey/5. Authentication & Authorization/M20",
     "Backend Engineering Journey/5. Authentication & Authorization/M19",
     "Backend Engineering Journey/5. Authentication & Authorization/M18",
-    "Backend Engineering Journey/5. Authentication & Authorization/M17",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
