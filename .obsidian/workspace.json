@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI LMS Development/AI LMS Roadmap.md",
+                "file": "AI LMS Development/Phase 0/L0.6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI LMS Roadmap"
+              "title": "L0.6"
             }
           }
         ]
@@ -199,7 +199,12 @@
   },
   "active": "fb87236b81d303d3",
   "lastOpenFiles": [
-    "AI LMS Development/Phase 0/Phase 0 Roadmap.md",
+    "AI LMS Development/Phase 0/L0.5.md",
+    "AI LMS Development/Phase 0/L0.6.md",
+    "AI LMS Development/Phase 0/L0.4.md",
+    "AI LMS Development/Phase 0/L0.3.md",
+    "AI LMS Development/Phase 0/L0.2.md",
+    "AI LMS Development/Phase 0/L 0.1.md",
     "AI LMS Development/AI LMS Roadmap.md",
     "Full Stack Mini Projects/12 projects to crack any startups.md",
     "AI LMS Development/Phase 0",
@@ -222,11 +227,6 @@
     "Backend Engineering Journey/2. Data Modelling/M5 - Decide Relationships.md",
     "Backend Engineering Journey/2. Data Modelling/M3 - Discover the Entities.md",
     "Backend Engineering Journey/2. Data Modelling/M4 - Draw the ER Diagram.md",
-    "Backend Engineering Journey/2. Data Modelling/M2 - Find the Queries.md",
-    "Backend Engineering Journey/2. Data Modelling/M1 - Understanding the problem.md",
-    "Terminal Developer Mastery/Module 1 - Shell Scripting Mastery/L3 - Conditions (if, elif, else).md",
-    "Terminal Developer Mastery/Module 1 - Shell Scripting Mastery/L2 - Variables and User Input.md",
-    "Terminal Developer Mastery/Module 1 - Shell Scripting Mastery/L1 - Introduction to Shell Scripts.md",
     "Backend Engineering Journey/6. Validation & Error Handling/M4",
     "Backend Engineering Journey/6. Validation & Error Handling/M3",
     "Backend Engineering Journey/6. Validation & Error Handling/M2",
