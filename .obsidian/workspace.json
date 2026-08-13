@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI LMS Development/Phase 1/L1.8.md",
+                "file": "AI LMS Development/Phase 2/L2.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L1.8"
+              "title": "L2.3"
             }
           }
         ]
@@ -197,11 +197,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "247cc5b2e302d5c3",
+  "active": "fb87236b81d303d3",
   "lastOpenFiles": [
+    "AI LMS Development/Phase 2/L2.2.md",
+    "AI LMS Development/Phase 2/L2.3.md",
+    "AI LMS Development/Phase 2/L2.1.md",
+    "AI LMS Development/Phase 1/L1.8.md",
     "AI LMS Development/Phase 2",
     "AI LMS Development/Phase 1/L1.7.md",
-    "AI LMS Development/Phase 1/L1.8.md",
     "AI LMS Development/Phase 1/L1.6.md",
     "AI LMS Development/Phase 1/L1.5.md",
     "AI LMS Development/Phase 1/L1.4.md",
@@ -226,15 +229,12 @@
     "Backend Engineering Journey/2. Data Modelling/M16 - Security Review.md",
     "Backend Engineering Journey/2. Data Modelling/M15 - Audit Fields.md",
     "Backend Engineering Journey/2. Data Modelling/M14 - Soft Delete Strategy.md",
-    "Backend Engineering Journey/2. Data Modelling/M13 - Think About Growth.md",
-    "Backend Engineering Journey/2. Data Modelling/M12 - Index Design.md",
     "Backend Engineering Journey/6. Validation & Error Handling/M4",
     "Backend Engineering Journey/6. Validation & Error Handling/M3",
     "Backend Engineering Journey/6. Validation & Error Handling/M2",
     "Backend Engineering Journey/6. Validation & Error Handling/M1",
     "Backend Engineering Journey/5. Authentication & Authorization/M20",
     "Backend Engineering Journey/5. Authentication & Authorization/M19",
-    "Backend Engineering Journey/5. Authentication & Authorization/M18",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
