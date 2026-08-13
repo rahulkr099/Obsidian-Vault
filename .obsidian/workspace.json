@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI LMS Development/Phase 2/L2.12.md",
+                "file": "AI LMS Development/Phase 3/L3.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L2.12"
+              "title": "L3.2"
             }
           }
         ]
@@ -199,8 +199,13 @@
   },
   "active": "fb87236b81d303d3",
   "lastOpenFiles": [
-    "AI LMS Development/Phase 2/L2.11.md",
+    "AI LMS Development/Phase 3/L3.1.md",
+    "AI LMS Development/Phase 3/L3.2.md",
+    "AI LMS Development/ALL Phases.md",
+    "AI LMS Development/Phase 3",
+    "AI LMS Development/AI LMS Roadmap.md",
     "AI LMS Development/Phase 2/L2.12.md",
+    "AI LMS Development/Phase 2/L2.11.md",
     "AI LMS Development/Phase 2/L2.10.md",
     "AI LMS Development/Phase 2/L2.9.md",
     "AI LMS Development/Phase 2/L2.8.md",
@@ -223,10 +228,6 @@
     "AI LMS Development/Phase 0/L0.6.md",
     "AI LMS Development/Phase 1",
     "AI LMS Development/Phase 0/L0.5.md",
-    "AI LMS Development/Phase 0/L0.4.md",
-    "AI LMS Development/Phase 0/L0.3.md",
-    "AI LMS Development/Phase 0/L0.2.md",
-    "AI LMS Development/Phase 0/L 0.1.md",
     "AI LMS Development/Phase 0",
     "AI LMS Development",
     "Backend Engineering Journey/6. Validation & Error Handling/M4",
@@ -234,7 +235,6 @@
     "Backend Engineering Journey/6. Validation & Error Handling/M2",
     "Backend Engineering Journey/6. Validation & Error Handling/M1",
     "Backend Engineering Journey/5. Authentication & Authorization/M20",
-    "Backend Engineering Journey/5. Authentication & Authorization/M19",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
