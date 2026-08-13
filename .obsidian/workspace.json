@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI LMS Development/Phase 0/Phase 0 Roadmap.md",
+                "file": "AI LMS Development/AI LMS Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phase 0 Roadmap"
+              "title": "AI LMS Roadmap"
             }
           }
         ]
@@ -199,8 +199,8 @@
   },
   "active": "fb87236b81d303d3",
   "lastOpenFiles": [
-    "AI LMS Development/AI LMS Roadmap.md",
     "AI LMS Development/Phase 0/Phase 0 Roadmap.md",
+    "AI LMS Development/AI LMS Roadmap.md",
     "Full Stack Mini Projects/12 projects to crack any startups.md",
     "AI LMS Development/Phase 0",
     "AI LMS Development",
