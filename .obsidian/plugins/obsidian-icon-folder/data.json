@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#1441f5",
     "recentlyUsedIcons": [
+      "LiAxe",
       "LiAstroid",
       "LiArrowUp10",
       "LiAmbulance",
-      "LiAtom",
-      "LiActivity"
+      "LiAtom"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -54,5 +54,9 @@
     "iconName": "LiAstroid",
     "iconColor": "#f7f022"
   },
-  "AI": "LiActivity"
+  "AI": "LiActivity",
+  "AI LMS Development": {
+    "iconName": "LiAxe",
+    "iconColor": "#f31616"
+  }
 }
