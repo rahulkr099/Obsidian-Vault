@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI LMS Development/Phase 3/L3.2.md",
+                "file": "AI LMS Development/Phase 3/L3.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L3.2"
+              "title": "L3.3"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "fb87236b81d303d3",
   "lastOpenFiles": [
-    "AI LMS Development/Phase 3/L3.1.md",
     "AI LMS Development/Phase 3/L3.2.md",
+    "AI LMS Development/Phase 3/L3.3.md",
+    "AI LMS Development/Phase 3/L3.1.md",
     "AI LMS Development/ALL Phases.md",
     "AI LMS Development/Phase 3",
     "AI LMS Development/AI LMS Roadmap.md",
@@ -227,7 +228,6 @@
     "AI LMS Development/Phase 1/L1.1.md",
     "AI LMS Development/Phase 0/L0.6.md",
     "AI LMS Development/Phase 1",
-    "AI LMS Development/Phase 0/L0.5.md",
     "AI LMS Development/Phase 0",
     "AI LMS Development",
     "Backend Engineering Journey/6. Validation & Error Handling/M4",
