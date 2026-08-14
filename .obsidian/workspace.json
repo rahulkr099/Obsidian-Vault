@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI LMS Development/Phase 6/L6.6.md",
+                "file": "AI LMS Development/6. Student Learning System/L6.6.md",
                 "mode": "source",
                 "source": false
               },
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 231.89999389648438
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -197,21 +197,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb87236b81d303d3",
+  "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
-    "AI LMS Development/Phase 6/L6.7.md",
-    "AI LMS Development/Phase 6/L6.3.md",
-    "AI LMS Development/Phase 6/L6.1.md",
-    "AI LMS Development/Phase 4/L4.1.md",
-    "AI LMS Development/Phase 4/L4.2.md",
-    "AI LMS Development/Phase 2/L2.7.md",
-    "AI LMS Development/Phase 2/L2.4.md",
-    "AI LMS Development/Phase 2/L2.1.md",
-    "AI LMS Development/Phase 1/L1.8.md",
-    "AI LMS Development/Phase 1/L1.5.md",
-    "AI LMS Development/Phase 1/L1.4.md",
-    "AI LMS Development/Phase 1/L1.2.md",
-    "AI LMS Development/Phase 1/L1.1.md",
+    "AI LMS Development/6. Student Learning System/L6.7.md",
+    "AI LMS Development/6. Student Learning System/L6.3.md",
+    "AI LMS Development/6. Student Learning System/L6.1.md",
+    "AI LMS Development/4. AuthN & AuthZ/L4.1.md",
+    "AI LMS Development/4. AuthN & AuthZ/L4.2.md",
+    "AI LMS Development/2. Backend Foundation/L2.7.md",
+    "AI LMS Development/2. Backend Foundation/L2.4.md",
+    "AI LMS Development/2. Backend Foundation/L2.1.md",
+    "AI LMS Development/1. Project Setup/L1.8.md",
+    "AI LMS Development/1. Project Setup/L1.5.md",
+    "AI LMS Development/1. Project Setup/L1.4.md",
+    "AI LMS Development/1. Project Setup/L1.2.md",
+    "AI LMS Development/1. Project Setup/L1.1.md",
     "AI LMS Development/Phase 14/L14.11.md",
     "AI LMS Development/Phase 14/L14.10.md",
     "AI LMS Development/Phase 14/L14.9.md",
@@ -231,10 +231,10 @@
     "AI LMS Development/Phase 11",
     "AI LMS Development/Phase 10",
     "AI LMS Development/Phase 9",
-    "AI LMS Development/Phase 8",
-    "AI LMS Development/Phase 7",
-    "AI LMS Development/Phase 6",
-    "AI LMS Development/Phase 5",
+    "AI LMS Development/8. RAG + pgVector",
+    "AI LMS Development/7. AI Tutor",
+    "AI LMS Development/6. Student Learning System",
+    "AI LMS Development/5. LMS Core",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
