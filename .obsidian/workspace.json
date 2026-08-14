@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI LMS Development/Phase 4/L4.19.md",
+                "file": "AI LMS Development/Phase 5/Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L4.19"
+              "title": "Roadmap"
             }
           }
         ]
@@ -199,8 +199,14 @@
   },
   "active": "fb87236b81d303d3",
   "lastOpenFiles": [
-    "AI LMS Development/Phase 4/L4.18.md",
+    "AI LMS Development/AI LMS Roadmap.md",
+    "AI LMS Development/Phase 5/Roadmap.md",
+    "AI LMS Development/Phase 5",
+    "AI LMS Development/Phase 4/L4.22.md",
+    "AI LMS Development/Phase 4/L4.21.md",
+    "AI LMS Development/Phase 4/L4.20.md",
     "AI LMS Development/Phase 4/L4.19.md",
+    "AI LMS Development/Phase 4/L4.18.md",
     "AI LMS Development/Phase 4/L4.17.md",
     "AI LMS Development/Phase 4/L4.16.md",
     "AI LMS Development/Phase 4/L4.15.md",
@@ -221,11 +227,6 @@
     "AI LMS Development/Phase 4/Phase 4 Roadmap.md",
     "AI LMS Development/ALL Phases.md",
     "AI LMS Development/Phase 4",
-    "AI LMS Development/Phase 3/L3.12.md",
-    "AI LMS Development/Phase 3/L3.11.md",
-    "AI LMS Development/Phase 3/L3.10.md",
-    "AI LMS Development/Phase 3/L3.9.md",
-    "AI LMS Development/Phase 3/L3.8.md",
     "AI LMS Development/Phase 3",
     "AI LMS Development/Phase 2",
     "AI LMS Development/Phase 1",
@@ -234,7 +235,6 @@
     "Backend Engineering Journey/6. Validation & Error Handling/M4",
     "Backend Engineering Journey/6. Validation & Error Handling/M3",
     "Backend Engineering Journey/6. Validation & Error Handling/M2",
-    "Backend Engineering Journey/6. Validation & Error Handling/M1",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
