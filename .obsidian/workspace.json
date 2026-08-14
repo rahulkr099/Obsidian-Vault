@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Developer Mastery/Module 9 - Observability (Logging, Monitoring & Logging)/Roadmap.md",
+                "file": "vim commands/dua, dust & ncdu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "dua, dust & ncdu"
             }
           }
         ]
@@ -199,6 +199,11 @@
   },
   "active": "fb87236b81d303d3",
   "lastOpenFiles": [
+    "vim commands/Backend Dev Networking Toolkit.md",
+    "vim commands/dua, dust & ncdu.md",
+    "vim commands/Terminal Scenarios Handbook.md",
+    "vim commands/How to save your assets.md",
+    "Terminal Developer Mastery/Module 9 - Observability (Logging, Monitoring & Logging)/Roadmap.md",
     "AI/Gen AI Roadmap/Roadmap.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M18/L18.3.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M18/L18.2.md",
@@ -220,11 +225,6 @@
     "AI LMS Development/2. Backend Foundation/L2.1.md",
     "AI LMS Development/1. Project Setup/L1.8.md",
     "AI LMS Development/1. Project Setup/L1.5.md",
-    "AI LMS Development/1. Project Setup/L1.4.md",
-    "AI LMS Development/1. Project Setup/L1.2.md",
-    "AI LMS Development/1. Project Setup/L1.1.md",
-    "AI LMS Development/14. Security/L14.11.md",
-    "AI LMS Development/14. Security/L14.10.md",
     "AI LMS Development/14. Security",
     "AI LMS Development/13. Docker + CI CD + Deployment",
     "AI LMS Development/12. Testing",
