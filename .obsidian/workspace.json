@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vim commands/dua, dust & ncdu.md",
+                "file": "vim commands/More Terminal Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dua, dust & ncdu"
+              "title": "More Terminal Tools"
             }
           }
         ]
@@ -199,8 +199,12 @@
   },
   "active": "fb87236b81d303d3",
   "lastOpenFiles": [
-    "vim commands/Backend Dev Networking Toolkit.md",
+    "vim commands/gh - github CLI & lazydocker.md",
+    "vim commands/More Terminal Tools.md",
+    "vim commands/doggo.md",
+    "vim commands/yq, gron & fx.md",
     "vim commands/dua, dust & ncdu.md",
+    "vim commands/Backend Dev Networking Toolkit.md",
     "vim commands/Terminal Scenarios Handbook.md",
     "vim commands/How to save your assets.md",
     "Terminal Developer Mastery/Module 9 - Observability (Logging, Monitoring & Logging)/Roadmap.md",
@@ -221,10 +225,6 @@
     "AI LMS Development/4. AuthN & AuthZ/L4.1.md",
     "AI LMS Development/4. AuthN & AuthZ/L4.2.md",
     "AI LMS Development/2. Backend Foundation/L2.7.md",
-    "AI LMS Development/2. Backend Foundation/L2.4.md",
-    "AI LMS Development/2. Backend Foundation/L2.1.md",
-    "AI LMS Development/1. Project Setup/L1.8.md",
-    "AI LMS Development/1. Project Setup/L1.5.md",
     "AI LMS Development/14. Security",
     "AI LMS Development/13. Docker + CI CD + Deployment",
     "AI LMS Development/12. Testing",
