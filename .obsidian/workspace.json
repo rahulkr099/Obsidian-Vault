@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Gen AI Roadmap/Roadmap.md",
+                "file": "Terminal Developer Mastery/Module 9 - Observability (Logging, Monitoring & Logging)/Roadmap.md",
                 "mode": "source",
                 "source": false
               },
@@ -199,6 +199,7 @@
   },
   "active": "fb87236b81d303d3",
   "lastOpenFiles": [
+    "AI/Gen AI Roadmap/Roadmap.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M18/L18.3.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M18/L18.2.md",
     "Backend Engineering Journey/5. Authentication & Authorization/M18/L18.1.md",
@@ -224,7 +225,6 @@
     "AI LMS Development/1. Project Setup/L1.1.md",
     "AI LMS Development/14. Security/L14.11.md",
     "AI LMS Development/14. Security/L14.10.md",
-    "AI LMS Development/14. Security/L14.9.md",
     "AI LMS Development/14. Security",
     "AI LMS Development/13. Docker + CI CD + Deployment",
     "AI LMS Development/12. Testing",
