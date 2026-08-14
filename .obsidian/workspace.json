@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI LMS Development/6. Student Learning System/L6.6.md",
+                "file": "AI/Gen AI Roadmap/Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L6.6"
+              "title": "Roadmap"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.89999389648438
+    "width": 221.5
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -197,8 +197,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "247cc5b2e302d5c3",
+  "active": "fb87236b81d303d3",
   "lastOpenFiles": [
+    "Backend Engineering Journey/5. Authentication & Authorization/M18/L18.3.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M18/L18.2.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M18/L18.1.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M5/L5.2.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M5/L5.3.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M1/L1.2.md",
+    "Backend Engineering Journey/5. Authentication & Authorization/M1/L1.1.md",
+    "Backend Engineering Journey/6. Validation & Error Handling/M1/L1.2.md",
+    "Backend Engineering Journey/6. Validation & Error Handling/M1/L1.1.md",
+    "AI LMS Development/6. Student Learning System/L6.6.md",
     "AI LMS Development/6. Student Learning System/L6.7.md",
     "AI LMS Development/6. Student Learning System/L6.3.md",
     "AI LMS Development/6. Student Learning System/L6.1.md",
@@ -215,16 +225,6 @@
     "AI LMS Development/14. Security/L14.11.md",
     "AI LMS Development/14. Security/L14.10.md",
     "AI LMS Development/14. Security/L14.9.md",
-    "AI LMS Development/14. Security/L14.8.md",
-    "AI LMS Development/14. Security/L14.7.md",
-    "AI LMS Development/14. Security/L14.6.md",
-    "AI LMS Development/14. Security/L14.5.md",
-    "AI LMS Development/14. Security/L14.4.md",
-    "AI LMS Development/14. Security/L14.3.md",
-    "AI LMS Development/14. Security/L14.2.md",
-    "AI LMS Development/14. Security/L14.1.md",
-    "AI LMS Development/14. Security/Roadmap.md",
-    "AI LMS Development/ALL Phases.md",
     "AI LMS Development/14. Security",
     "AI LMS Development/13. Docker + CI CD + Deployment",
     "AI LMS Development/12. Testing",
