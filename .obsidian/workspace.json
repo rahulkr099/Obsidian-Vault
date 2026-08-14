@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vim commands/More Terminal Tools.md",
+                "file": "vim commands/Once per Project in nVim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "More Terminal Tools"
+              "title": "Once per Project in nVim"
             }
           }
         ]
@@ -199,8 +199,11 @@
   },
   "active": "fb87236b81d303d3",
   "lastOpenFiles": [
-    "vim commands/gh - github CLI & lazydocker.md",
+    "vim commands/Scenarios for Tools.md",
+    "vim commands/Once per Project in nVim.md",
+    "vim commands/Best tools for Terminal.md",
     "vim commands/More Terminal Tools.md",
+    "vim commands/gh - github CLI & lazydocker.md",
     "vim commands/doggo.md",
     "vim commands/yq, gron & fx.md",
     "vim commands/dua, dust & ncdu.md",
@@ -222,9 +225,6 @@
     "AI LMS Development/6. Student Learning System/L6.7.md",
     "AI LMS Development/6. Student Learning System/L6.3.md",
     "AI LMS Development/6. Student Learning System/L6.1.md",
-    "AI LMS Development/4. AuthN & AuthZ/L4.1.md",
-    "AI LMS Development/4. AuthN & AuthZ/L4.2.md",
-    "AI LMS Development/2. Backend Foundation/L2.7.md",
     "AI LMS Development/14. Security",
     "AI LMS Development/13. Docker + CI CD + Deployment",
     "AI LMS Development/12. Testing",
