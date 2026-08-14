@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vim commands/🌲Week 1 - Terminal Basics.md",
+                "file": "Terminal Developer Mastery/SSH Mastery/3. GitHub SSH Mastery/L10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🌲Week 1 - Terminal Basics"
+              "title": "L10"
             }
           }
         ]
@@ -199,6 +199,17 @@
   },
   "active": "fb87236b81d303d3",
   "lastOpenFiles": [
+    "Terminal Developer Mastery/SSH Mastery/3. GitHub SSH Mastery/L9.md",
+    "Terminal Developer Mastery/SSH Mastery/3. GitHub SSH Mastery/L10.md",
+    "Terminal Developer Mastery/SSH Mastery/3. GitHub SSH Mastery/L8.md",
+    "Terminal Developer Mastery/SSH Mastery/3. GitHub SSH Mastery/L7.md",
+    "Terminal Developer Mastery/SSH Mastery/3. GitHub SSH Mastery/L6.md",
+    "Terminal Developer Mastery/SSH Mastery/3. GitHub SSH Mastery/L5.md",
+    "Terminal Developer Mastery/SSH Mastery/3. GitHub SSH Mastery/L4.md",
+    "Terminal Developer Mastery/SSH Mastery/3. GitHub SSH Mastery/L3.md",
+    "Terminal Developer Mastery/SSH Mastery/3. GitHub SSH Mastery/L2.md",
+    "Terminal Developer Mastery/SSH Mastery/3. GitHub SSH Mastery/L1.md",
+    "vim commands/🌲Week 1 - Terminal Basics.md",
     "vim commands/Dev Tricks.md",
     "vim commands/Untitled.md",
     "vim commands/kitty & tmux.md",
@@ -214,17 +225,6 @@
     "vim commands/Best tools for Terminal.md",
     "vim commands/More Terminal Tools.md",
     "vim commands/gh - github CLI & lazydocker.md",
-    "vim commands/doggo.md",
-    "vim commands/yq, gron & fx.md",
-    "vim commands/dua, dust & ncdu.md",
-    "vim commands/Backend Dev Networking Toolkit.md",
-    "vim commands/Terminal Scenarios Handbook.md",
-    "vim commands/How to save your assets.md",
-    "Terminal Developer Mastery/Module 9 - Observability (Logging, Monitoring & Logging)/Roadmap.md",
-    "AI/Gen AI Roadmap/Roadmap.md",
-    "Backend Engineering Journey/5. Authentication & Authorization/M18/L18.3.md",
-    "Backend Engineering Journey/5. Authentication & Authorization/M18/L18.2.md",
-    "Backend Engineering Journey/5. Authentication & Authorization/M18/L18.1.md",
     "AI LMS Development/14. Security",
     "AI LMS Development/13. Docker + CI CD + Deployment",
     "AI LMS Development/12. Testing",
