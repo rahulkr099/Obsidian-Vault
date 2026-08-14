@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI LMS Development/ALL Phases.md",
+                "file": "AI LMS Development/Phase 7/L7.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ALL Phases"
+              "title": "L7.1"
             }
           }
         ]
@@ -197,8 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "247cc5b2e302d5c3",
+  "active": "fb87236b81d303d3",
   "lastOpenFiles": [
+    "AI LMS Development/ALL Phases.md",
+    "AI LMS Development/Phase 7/L7.1.md",
     "AI LMS Development/Phase 7",
     "AI LMS Development/Phase 6/L6.11.md",
     "AI LMS Development/Phase 6/L6.10.md",
@@ -212,7 +214,6 @@
     "AI LMS Development/Phase 6/L6.2.md",
     "AI LMS Development/Phase 6/L6.1.md",
     "AI LMS Development/Phase 6/Roadmap.md",
-    "AI LMS Development/ALL Phases.md",
     "AI LMS Development/Phase 6",
     "AI LMS Development/Phase 5/L5.12.md",
     "AI LMS Development/Phase 5/L5.11.md",
@@ -234,7 +235,6 @@
     "AI LMS Development/Phase 0",
     "AI LMS Development",
     "Backend Engineering Journey/6. Validation & Error Handling/M4",
-    "Backend Engineering Journey/6. Validation & Error Handling/M3",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
