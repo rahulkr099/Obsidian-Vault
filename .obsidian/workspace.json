@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI LMS Development/ALL Phases.md",
+                "file": "AI LMS Development/Phase 10/L10.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ALL Phases"
+              "title": "L10.3"
             }
           }
         ]
@@ -197,8 +197,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "247cc5b2e302d5c3",
+  "active": "fb87236b81d303d3",
   "lastOpenFiles": [
+    "AI LMS Development/Phase 10/L10.2.md",
+    "AI LMS Development/Phase 10/L10.3.md",
+    "AI LMS Development/Phase 10/L10.1.md",
+    "AI LMS Development/Phase 10/Roadmap.md",
+    "AI LMS Development/ALL Phases.md",
     "AI LMS Development/Phase 10",
     "AI LMS Development/Phase 9/L9.12.md",
     "AI LMS Development/Phase 9/L9.11.md",
@@ -212,7 +217,6 @@
     "AI LMS Development/Phase 9/L9.3.md",
     "AI LMS Development/Phase 9/L9.2.md",
     "AI LMS Development/Phase 9/L9.1.md",
-    "AI LMS Development/ALL Phases.md",
     "AI LMS Development/Phase 9",
     "AI LMS Development/Phase 8/Roadmap.md",
     "AI LMS Development/Phase 8/L8.12.md",
@@ -223,9 +227,6 @@
     "AI LMS Development/Phase 8/L8.7.md",
     "AI LMS Development/Phase 8/L8.6.md",
     "AI LMS Development/Phase 8/L8.5.md",
-    "AI LMS Development/Phase 8/L8.4.md",
-    "AI LMS Development/Phase 8/L8.3.md",
-    "AI LMS Development/Phase 8/L8.2.md",
     "AI LMS Development/Phase 8",
     "AI LMS Development/Phase 7",
     "AI LMS Development/Phase 6",
@@ -234,7 +235,6 @@
     "AI LMS Development/Phase 3",
     "AI LMS Development/Phase 2",
     "AI LMS Development/Phase 1",
-    "AI LMS Development/Phase 0",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
