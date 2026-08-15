@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Developer Mastery/12. CI CD & Deployment Pipelines/L12.20.md",
+                "file": "Backend Starter Kit/Phase 1 to 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L12.20"
+              "title": "Phase 1 to 6"
             }
           }
         ]
@@ -197,10 +197,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "247cc5b2e302d5c3",
+  "active": "a9969c9dd99a676f",
   "lastOpenFiles": [
-    "Terminal Developer Mastery/12. CI CD & Deployment Pipelines/L12.19.md",
+    "Backend Starter Kit/Phase 7/Roadmap.md",
+    "Backend Starter Kit/Phase 1 to 6.md",
+    "Backend Starter Kit/Untitled.md",
+    "Backend Starter Kit/Phase 7",
     "Terminal Developer Mastery/12. CI CD & Deployment Pipelines/L12.20.md",
+    "Backend Starter Kit",
+    "Terminal Developer Mastery/12. CI CD & Deployment Pipelines/L12.19.md",
     "Terminal Developer Mastery/12. CI CD & Deployment Pipelines/L12.18.md",
     "Terminal Developer Mastery/12. CI CD & Deployment Pipelines/L12.17.md",
     "Terminal Developer Mastery/12. CI CD & Deployment Pipelines/L12.16.md",
@@ -222,9 +227,6 @@
     "Terminal Developer Mastery/12. CI CD & Deployment Pipelines/Roadmap.md",
     "Terminal Developer Mastery/11. System Design Fundamentals/L11.20.md",
     "Terminal Developer Mastery/11. System Design Fundamentals/L11.19.md",
-    "Terminal Developer Mastery/11. System Design Fundamentals/L11.18.md",
-    "Terminal Developer Mastery/11. System Design Fundamentals/L11.17.md",
-    "Terminal Developer Mastery/11. System Design Fundamentals/L11.16.md",
     "Terminal Developer Mastery/9. Observability (Logging, Monitoring & Logging)/Untitled",
     "Terminal Developer Mastery/Curl/6. Security, Auth, HTTPS",
     "Terminal Developer Mastery/12. CI, CD & Deployment Pipelines/Untitled",
@@ -233,8 +235,6 @@
     "Terminal Developer Mastery/Curl/3. Advanced HTTP & API Testing",
     "Terminal Developer Mastery/Curl/2. Request Body",
     "Terminal Developer Mastery/Curl/1. Curl Fundamentals",
-    "Terminal Developer Mastery/SSH Mastery/6. SSH Security",
-    "Terminal Developer Mastery/SSH Mastery/5. Advanced SSH",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
