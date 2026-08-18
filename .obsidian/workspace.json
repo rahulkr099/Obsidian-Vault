@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Starter Kit/Phase 7 Onwards....md",
+                "file": "Backend Starter Kit/Phase 8/L8.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phase 7 Onwards..."
+              "title": "L8.2"
             }
           }
         ]
@@ -197,8 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "247cc5b2e302d5c3",
+  "active": "a9969c9dd99a676f",
   "lastOpenFiles": [
+    "Backend Starter Kit/Phase 8/L8.1.md",
+    "Backend Starter Kit/Phase 8/L8.2.md",
+    "Backend Starter Kit/Phase 7 Onwards....md",
     "Backend Starter Kit/Phase 8",
     "Backend Starter Kit/Phase 7/L7.20.md",
     "Backend Starter Kit/Phase 7/L7.19.md",
@@ -210,7 +213,6 @@
     "Backend Starter Kit/Phase 7/L7.13.md",
     "Backend Starter Kit/Phase 7/L7.12.md",
     "Backend Starter Kit/Phase 7/L7.11.md",
-    "Backend Starter Kit/Phase 7 Onwards....md",
     "Backend Starter Kit/Phase 7/L7.10.md",
     "Backend Starter Kit/Phase 7/L7.9.md",
     "Backend Starter Kit/Phase 7/L7.8.md",
@@ -227,14 +229,12 @@
     "Backend Starter Kit/Phase 7",
     "Terminal Developer Mastery/12. CI CD & Deployment Pipelines/L12.20.md",
     "Backend Starter Kit",
-    "Terminal Developer Mastery/12. CI CD & Deployment Pipelines/L12.19.md",
     "Terminal Developer Mastery/9. Observability (Logging, Monitoring & Logging)/Untitled",
     "Terminal Developer Mastery/Curl/6. Security, Auth, HTTPS",
     "Terminal Developer Mastery/12. CI, CD & Deployment Pipelines/Untitled",
     "Terminal Developer Mastery/Curl/5. Web Scrapping, Automation, etc",
     "Terminal Developer Mastery/Curl/4. File Transfers & Downloads",
     "Terminal Developer Mastery/Curl/3. Advanced HTTP & API Testing",
-    "Terminal Developer Mastery/Curl/2. Request Body",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
