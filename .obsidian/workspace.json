@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Starter Kit/Phase 7/L7.20.md",
+                "file": "Backend Starter Kit/Phase 7 Onwards....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L7.20"
+              "title": "Phase 7 Onwards..."
             }
           }
         ]
@@ -197,10 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9969c9dd99a676f",
+  "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
-    "Backend Starter Kit/Phase 7/L7.19.md",
+    "Backend Starter Kit/Phase 8",
     "Backend Starter Kit/Phase 7/L7.20.md",
+    "Backend Starter Kit/Phase 7/L7.19.md",
     "Backend Starter Kit/Phase 7/L7.18.md",
     "Backend Starter Kit/Phase 7/L7.17.md",
     "Backend Starter Kit/Phase 7/L7.16.md",
@@ -227,7 +228,6 @@
     "Terminal Developer Mastery/12. CI CD & Deployment Pipelines/L12.20.md",
     "Backend Starter Kit",
     "Terminal Developer Mastery/12. CI CD & Deployment Pipelines/L12.19.md",
-    "Terminal Developer Mastery/12. CI CD & Deployment Pipelines/L12.18.md",
     "Terminal Developer Mastery/9. Observability (Logging, Monitoring & Logging)/Untitled",
     "Terminal Developer Mastery/Curl/6. Security, Auth, HTTPS",
     "Terminal Developer Mastery/12. CI, CD & Deployment Pipelines/Untitled",
