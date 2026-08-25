@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Starter Kit/Phase 9/L9.3.md",
+                "file": "Backend Starter Kit/Phase 9/L9.12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L9.3"
+              "title": "L9.12"
             }
           }
         ]
@@ -199,8 +199,17 @@
   },
   "active": "a9969c9dd99a676f",
   "lastOpenFiles": [
-    "Backend Starter Kit/Phase 9/L9.2.md",
+    "Backend Starter Kit/Phase 9/L9.11.md",
+    "Backend Starter Kit/Phase 9/L9.12.md",
+    "Backend Starter Kit/Phase 9/L9.10.md",
+    "Backend Starter Kit/Phase 9/L9.9.md",
+    "Backend Starter Kit/Phase 9/L9.8.md",
+    "Backend Starter Kit/Phase 9/L9.7.md",
+    "Backend Starter Kit/Phase 9/L9.6.md",
+    "Backend Starter Kit/Phase 9/L9.5.md",
+    "Backend Starter Kit/Phase 9/L9.4.md",
     "Backend Starter Kit/Phase 9/L9.3.md",
+    "Backend Starter Kit/Phase 9/L9.2.md",
     "Backend Starter Kit/Phase 9/L9.1.md",
     "Backend Starter Kit/Phase 7 Onwards....md",
     "Backend Starter Kit/Phase 9/Roadmap.md",
@@ -217,15 +226,6 @@
     "Backend Starter Kit/Phase 8/L8.12.md",
     "Backend Starter Kit/Phase 8/L8.11.md",
     "Backend Starter Kit/Phase 8/L8.10.md",
-    "Backend Starter Kit/Phase 8/L8.9.md",
-    "Backend Starter Kit/Phase 8/L8.8.md",
-    "Backend Starter Kit/Phase 8/L8.7.md",
-    "Backend Starter Kit/Phase 8/L8.6.md",
-    "Backend Starter Kit/Phase 8/L8.5.md",
-    "Backend Starter Kit/Phase 8/L8.4.md",
-    "Backend Starter Kit/Phase 8/L8.3.md",
-    "Backend Starter Kit/Phase 8/L8.2.md",
-    "Backend Starter Kit/Phase 8/L8.1.md",
     "Backend Starter Kit/Phase 8",
     "Backend Starter Kit/mern-backend-starter.zip",
     "Backend Starter Kit/Phase 7",
