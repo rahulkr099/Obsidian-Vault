@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Starter Kit/Phase 9/L9.17.md",
+                "file": "Backend Starter Kit/Phase 10/L10.4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L9.17"
+              "title": "L10.4"
             }
           }
         ]
@@ -199,8 +199,17 @@
   },
   "active": "a9969c9dd99a676f",
   "lastOpenFiles": [
-    "Backend Starter Kit/Phase 9/L9.16.md",
+    "Backend Starter Kit/Phase 10/L10.3.md",
+    "Backend Starter Kit/Phase 10/L10.4.md",
+    "Backend Starter Kit/Phase 10/L10.2.md",
+    "Backend Starter Kit/Phase 10/L10.1.md",
+    "Backend Starter Kit/Phase 7 Onwards....md",
+    "Backend Starter Kit/Phase 10",
+    "Backend Starter Kit/Phase 9/L9.20.md",
+    "Backend Starter Kit/Phase 9/L9.19.md",
+    "Backend Starter Kit/Phase 9/L9.18.md",
     "Backend Starter Kit/Phase 9/L9.17.md",
+    "Backend Starter Kit/Phase 9/L9.16.md",
     "Backend Starter Kit/Phase 9/L9.15.md",
     "Backend Starter Kit/Phase 9/L9.14.md",
     "Backend Starter Kit/Phase 9/L9.13.md",
@@ -216,16 +225,8 @@
     "Backend Starter Kit/Phase 9/L9.3.md",
     "Backend Starter Kit/Phase 9/L9.2.md",
     "Backend Starter Kit/Phase 9/L9.1.md",
-    "Backend Starter Kit/Phase 7 Onwards....md",
     "Backend Starter Kit/Phase 9/Roadmap.md",
     "Backend Starter Kit/Phase 9",
-    "Backend Starter Kit/Phase 8/Untitled.md",
-    "Backend Starter Kit/Phase 8/L8.20.md",
-    "Backend Starter Kit/Phase 8/L8.19.md",
-    "Backend Starter Kit/Phase 8/L8.18.md",
-    "Backend Starter Kit/Phase 8/L8.17.md",
-    "Backend Starter Kit/Phase 8/L8.16.md",
-    "Backend Starter Kit/Phase 8/L8.15.md",
     "Backend Starter Kit/Phase 8",
     "Backend Starter Kit/mern-backend-starter.zip",
     "Backend Starter Kit/Phase 7",
@@ -234,7 +235,6 @@
     "Terminal Developer Mastery/Curl/6. Security, Auth, HTTPS",
     "Terminal Developer Mastery/12. CI, CD & Deployment Pipelines/Untitled",
     "Terminal Developer Mastery/Curl/5. Web Scrapping, Automation, etc",
-    "Terminal Developer Mastery/Curl/4. File Transfers & Downloads",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
