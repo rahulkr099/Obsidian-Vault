@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Starter Kit/Phase 17/L17.8.md",
+                "file": "Backend Starter Kit/Phase 17/L17.12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L17.8"
+              "title": "L17.12"
             }
           }
         ]
@@ -199,15 +199,19 @@
   },
   "active": "a9969c9dd99a676f",
   "lastOpenFiles": [
-    "Backend Starter Kit/Phase 17/L17.7.md",
+    "Backend Starter Kit/Phase 17/L17.11.md",
+    "Backend Starter Kit/Phase 17/L17.12.md",
+    "Backend Starter Kit/Phase 17/L17.10.md",
+    "Backend Starter Kit/Phase 17/L17.9.md",
     "Backend Starter Kit/Phase 17/L17.8.md",
+    "Backend Starter Kit/Phase 17/Roadmap.md",
+    "Backend Starter Kit/Phase 17/L17.7.md",
     "Backend Starter Kit/Phase 17/L17.6.md",
     "Backend Starter Kit/Phase 17/L17.5.md",
     "Backend Starter Kit/Phase 17/L17.4.md",
     "Backend Starter Kit/Phase 17/L17.3.md",
     "Backend Starter Kit/Phase 17/L17.2.md",
     "Backend Starter Kit/Phase 17/L17.1.md",
-    "Backend Starter Kit/Phase 17/Roadmap.md",
     "Backend Starter Kit/Phase 16/L16.25.md",
     "Backend Starter Kit/Phase 17",
     "Backend Starter Kit/Phase 16/L16.24.md",
@@ -222,10 +226,6 @@
     "Backend Starter Kit/Phase 16/L16.15.md",
     "Backend Starter Kit/Phase 16/L16.14.md",
     "Backend Starter Kit/Phase 16/L16.13.md",
-    "Backend Starter Kit/Phase 16/L16.12.md",
-    "Backend Starter Kit/Phase 16/L16.11.md",
-    "Backend Starter Kit/Phase 16/L16.10.md",
-    "Backend Starter Kit/Phase 16/Roadmap.md",
     "Backend Starter Kit/Phase 16",
     "Backend Starter Kit/Phase 15",
     "Backend Starter Kit/Phase 14",
