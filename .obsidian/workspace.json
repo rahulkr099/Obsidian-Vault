@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Starter Kit/Phase 18/L18.13.md",
+                "file": "Backend Starter Kit/Phase 18/L18.16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L18.13"
+              "title": "L18.16"
             }
           }
         ]
@@ -197,10 +197,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9969c9dd99a676f",
+  "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
-    "Backend Starter Kit/Phase 18/L18.12.md",
+    "Backend Starter Kit/Phase 19",
+    "Backend Starter Kit/Phase 18/L18.15.md",
+    "Backend Starter Kit/Phase 18/L18.16.md",
+    "Backend Starter Kit/Phase 18/L18.14.md",
     "Backend Starter Kit/Phase 18/L18.13.md",
+    "Backend Starter Kit/Phase 18/L18.12.md",
     "Backend Starter Kit/Phase 18/L18.11.md",
     "Backend Starter Kit/Phase 18/L18.10.md",
     "Backend Starter Kit/Phase 18/L18.9.md",
@@ -222,10 +226,6 @@
     "Backend Starter Kit/Phase 17/L17.11.md",
     "Backend Starter Kit/Phase 17/L17.10.md",
     "Backend Starter Kit/Phase 17/L17.9.md",
-    "Backend Starter Kit/Phase 17/L17.8.md",
-    "Backend Starter Kit/Phase 17/Roadmap.md",
-    "Backend Starter Kit/Phase 17/L17.7.md",
-    "Backend Starter Kit/Phase 17/L17.6.md",
     "Backend Starter Kit/Phase 17",
     "Backend Starter Kit/Phase 16",
     "Backend Starter Kit/Phase 15",
