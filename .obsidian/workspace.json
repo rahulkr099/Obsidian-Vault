@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Starter Kit/Phase 24/L24.17.md",
+                "file": "Backend Starter Kit/Phase 25/L25.9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L24.17"
+              "title": "L25.9"
             }
           }
         ]
@@ -197,11 +197,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "247cc5b2e302d5c3",
+  "active": "a9969c9dd99a676f",
   "lastOpenFiles": [
+    "Backend Starter Kit/Phase 25/L25.8.md",
+    "Backend Starter Kit/Phase 25/L25.9.md",
+    "Backend Starter Kit/Phase 25/L25.7.md",
+    "Backend Starter Kit/Phase 25/L25.6.md",
+    "Backend Starter Kit/Phase 25/L25.5.md",
+    "Backend Starter Kit/Phase 25/L25.4.md",
+    "Backend Starter Kit/Phase 25/L25.3.md",
+    "Backend Starter Kit/Phase 25/L25.2.md",
+    "Backend Starter Kit/Phase 25/L25.1.md",
+    "Backend Starter Kit/Phase 24/L24.17.md",
     "Backend Starter Kit/Phase 25",
     "Backend Starter Kit/Phase 24/L24.16.md",
-    "Backend Starter Kit/Phase 24/L24.17.md",
     "Backend Starter Kit/Phase 24/L24.15.md",
     "Backend Starter Kit/Phase 24/L24.14.md",
     "Backend Starter Kit/Phase 24/L24.13.md",
@@ -217,15 +226,7 @@
     "Backend Starter Kit/Phase 24/L24.4.md",
     "Backend Starter Kit/Phase 24/L24.3.md",
     "Backend Starter Kit/Phase 24/L24.2.md",
-    "Backend Starter Kit/Phase 24/L24.1.md",
-    "Backend Starter Kit/Phase 7 Onwards....md",
     "Backend Starter Kit/Phase 24",
-    "Backend Starter Kit/Phase 1 to End.md",
-    "Backend Starter Kit/Phase 23/L23.16.md",
-    "Backend Starter Kit/Phase 23/L23.15.md",
-    "Backend Starter Kit/Phase 23/L23.14.md",
-    "Backend Starter Kit/Phase 23/L23.13.md",
-    "Backend Starter Kit/Phase 23/L23.12.md",
     "Backend Starter Kit/Phase 23",
     "Backend Starter Kit/Phase 22/Untitled",
     "Backend Starter Kit/Phase 22",
@@ -234,7 +235,6 @@
     "Backend Starter Kit/Phase 19",
     "Backend Starter Kit/Phase 18",
     "Backend Starter Kit/Phase 17",
-    "Backend Starter Kit/Phase 16",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
