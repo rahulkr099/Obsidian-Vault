@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Starter Kit/Phase 14/L14.21.md",
+                "file": "Backend Starter Kit/Phase 15/L15.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L14.21"
+              "title": "L15.1"
             }
           }
         ]
@@ -199,8 +199,11 @@
   },
   "active": "a9969c9dd99a676f",
   "lastOpenFiles": [
-    "Backend Starter Kit/Phase 14/Roadmap.md",
+    "Backend Starter Kit/Phase 15/Roadmap.md",
+    "Backend Starter Kit/Phase 15/L15.1.md",
     "Backend Starter Kit/Phase 14/L14.21.md",
+    "Backend Starter Kit/Phase 15",
+    "Backend Starter Kit/Phase 14/Roadmap.md",
     "Backend Starter Kit/Phase 14/L14.22.md",
     "Backend Starter Kit/Phase 14/L14.23.md",
     "Backend Starter Kit/Phase 14/L14.24.md",
@@ -223,8 +226,6 @@
     "Backend Starter Kit/Phase 14/L14.5.md",
     "Backend Starter Kit/Phase 14/L14.4.md",
     "Backend Starter Kit/Phase 14/L14.3.md",
-    "Backend Starter Kit/Phase 14/L14.2.md",
-    "Backend Starter Kit/Phase 14/L14.1.md",
     "Backend Starter Kit/Phase 14",
     "Backend Starter Kit/Phase 13",
     "Backend Starter Kit/Phase 12",
@@ -234,7 +235,6 @@
     "Backend Starter Kit/Phase 8",
     "Backend Starter Kit/mern-backend-starter.zip",
     "Backend Starter Kit/Phase 7",
-    "Backend Starter Kit",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
