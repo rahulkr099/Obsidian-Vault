@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#1441f5",
     "recentlyUsedIcons": [
+      "LiArrowBigRightDash",
       "LiAxe",
       "LiAstroid",
       "LiArrowUp10",
-      "LiAmbulance",
-      "LiAtom"
+      "LiAmbulance"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -58,5 +58,9 @@
   "AI LMS Development": {
     "iconName": "LiAxe",
     "iconColor": "#f31616"
+  },
+  "Backend Starter Kit": {
+    "iconName": "LiArrowBigRightDash",
+    "iconColor": "#9e4edf"
   }
 }
