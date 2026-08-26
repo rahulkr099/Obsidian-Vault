@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Starter Kit/Phase 24/L24.10.md",
+                "file": "Backend Starter Kit/Phase 24/L24.17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L24.10"
+              "title": "L24.17"
             }
           }
         ]
@@ -197,10 +197,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9969c9dd99a676f",
+  "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
-    "Backend Starter Kit/Phase 24/L24.9.md",
+    "Backend Starter Kit/Phase 25",
+    "Backend Starter Kit/Phase 24/L24.16.md",
+    "Backend Starter Kit/Phase 24/L24.17.md",
+    "Backend Starter Kit/Phase 24/L24.15.md",
+    "Backend Starter Kit/Phase 24/L24.14.md",
+    "Backend Starter Kit/Phase 24/L24.13.md",
+    "Backend Starter Kit/Phase 24/L24.12.md",
+    "Backend Starter Kit/Phase 24/L24.11.md",
     "Backend Starter Kit/Phase 24/L24.10.md",
+    "Backend Starter Kit/Phase 24/L24.9.md",
     "Backend Starter Kit/Phase 24/L24.8.md",
     "Backend Starter Kit/Phase 24/L24.7.md",
     "Backend Starter Kit/Phase 24/L24.6.md",
@@ -218,14 +226,6 @@
     "Backend Starter Kit/Phase 23/L23.14.md",
     "Backend Starter Kit/Phase 23/L23.13.md",
     "Backend Starter Kit/Phase 23/L23.12.md",
-    "Backend Starter Kit/Phase 23/L23.11.md",
-    "Backend Starter Kit/Phase 23/L23.10.md",
-    "Backend Starter Kit/Phase 23/L23.9.md",
-    "Backend Starter Kit/Phase 23/L23.8.md",
-    "Backend Starter Kit/Phase 23/L23.7.md",
-    "Backend Starter Kit/Phase 23/L23.6.md",
-    "Backend Starter Kit/Phase 23/L23.5.md",
-    "Backend Starter Kit/Phase 23/L23.4.md",
     "Backend Starter Kit/Phase 23",
     "Backend Starter Kit/Phase 22/Untitled",
     "Backend Starter Kit/Phase 22",
