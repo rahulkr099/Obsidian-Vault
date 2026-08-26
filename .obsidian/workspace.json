@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Starter Kit/Phase 11/L11.15.md",
+                "file": "Backend Starter Kit/Phase 12/L12.1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L11.15"
+              "title": "L12.1"
             }
           }
         ]
@@ -199,8 +199,16 @@
   },
   "active": "a9969c9dd99a676f",
   "lastOpenFiles": [
-    "Backend Starter Kit/Phase 11/L11.14.md",
+    "Backend Starter Kit/Phase 12/Roadmap.md",
+    "Backend Starter Kit/Phase 12/L12.1.md",
+    "Backend Starter Kit/Phase 11/L11.20.md",
+    "Backend Starter Kit/Phase 12",
+    "Backend Starter Kit/Phase 11/L11.19.md",
+    "Backend Starter Kit/Phase 11/L11.18.md",
+    "Backend Starter Kit/Phase 11/L11.17.md",
+    "Backend Starter Kit/Phase 11/L11.16.md",
     "Backend Starter Kit/Phase 11/L11.15.md",
+    "Backend Starter Kit/Phase 11/L11.14.md",
     "Backend Starter Kit/Phase 11/L11.13.md",
     "Backend Starter Kit/Phase 11/L11.12.md",
     "Backend Starter Kit/Phase 11/L11.11.md",
@@ -219,13 +227,6 @@
     "Backend Starter Kit/Phase 11",
     "Backend Starter Kit/Phase 10/L10.20.md",
     "Backend Starter Kit/Phase 10/L10.19.md",
-    "Backend Starter Kit/Phase 10/L10.18.md",
-    "Backend Starter Kit/Phase 10/L10.17.md",
-    "Backend Starter Kit/Phase 10/L10.16.md",
-    "Backend Starter Kit/Phase 10/L10.15.md",
-    "Backend Starter Kit/Phase 10/L10.14.md",
-    "Backend Starter Kit/Phase 10/L10.13.md",
-    "Backend Starter Kit/Phase 10/L10.12.md",
     "Backend Starter Kit/Phase 10",
     "Backend Starter Kit/Phase 9",
     "Backend Starter Kit/Phase 8",
@@ -234,7 +235,6 @@
     "Backend Starter Kit",
     "Terminal Developer Mastery/9. Observability (Logging, Monitoring & Logging)/Untitled",
     "Terminal Developer Mastery/Curl/6. Security, Auth, HTTPS",
-    "Terminal Developer Mastery/12. CI, CD & Deployment Pipelines/Untitled",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
