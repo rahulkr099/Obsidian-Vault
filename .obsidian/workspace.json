@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Starter Kit/Phase 13/L13.20.md",
+                "file": "Backend Starter Kit/Phase 14/L14.4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L13.20"
+              "title": "L14.4"
             }
           }
         ]
@@ -197,11 +197,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "247cc5b2e302d5c3",
+  "active": "a9969c9dd99a676f",
   "lastOpenFiles": [
+    "Backend Starter Kit/Phase 14/L14.3.md",
+    "Backend Starter Kit/Phase 14/L14.4.md",
+    "Backend Starter Kit/Phase 14/L14.2.md",
+    "Backend Starter Kit/Phase 14/L14.1.md",
+    "Backend Starter Kit/Phase 14/Roadmap.md",
+    "Backend Starter Kit/Phase 7 Onwards....md",
+    "Backend Starter Kit/Phase 13/L13.20.md",
     "Backend Starter Kit/Phase 14",
     "Backend Starter Kit/Phase 13/L13.19.md",
-    "Backend Starter Kit/Phase 13/L13.20.md",
     "Backend Starter Kit/Phase 13/L13.18.md",
     "Backend Starter Kit/Phase 13/L13.17.md",
     "Backend Starter Kit/Phase 13/L13.16.md",
@@ -220,12 +226,7 @@
     "Backend Starter Kit/Phase 13/L13.3.md",
     "Backend Starter Kit/Phase 13/L13.2.md",
     "Backend Starter Kit/Phase 13/L13.1.md",
-    "Backend Starter Kit/Phase 13/Roadmap.md",
-    "Backend Starter Kit/Phase 7 Onwards....md",
     "Backend Starter Kit/Phase 13",
-    "Backend Starter Kit/Phase 12/L12.20.md",
-    "Backend Starter Kit/Phase 12/L12.19.md",
-    "Backend Starter Kit/Phase 12/L12.18.md",
     "Backend Starter Kit/Phase 12",
     "Backend Starter Kit/Phase 11",
     "Backend Starter Kit/Phase 10",
@@ -234,7 +235,6 @@
     "Backend Starter Kit/mern-backend-starter.zip",
     "Backend Starter Kit/Phase 7",
     "Backend Starter Kit",
-    "Terminal Developer Mastery/9. Observability (Logging, Monitoring & Logging)/Untitled",
     "Pasted image 20260730233134.png",
     "Pasted image 20260730225044.png",
     "Pasted image 20260106204848.png",
