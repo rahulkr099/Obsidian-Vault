@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#1441f5",
     "recentlyUsedIcons": [
+      "LiAperture",
       "LiArrowBigRightDash",
       "LiAxe",
       "LiAstroid",
-      "LiArrowUp10",
-      "LiAmbulance"
+      "LiArrowUp10"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,5 +62,6 @@
   "Backend Starter Kit": {
     "iconName": "LiArrowBigRightDash",
     "iconColor": "#9e4edf"
-  }
+  },
+  "CLI": "LiAperture"
 }
