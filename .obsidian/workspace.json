@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLI/stdin, stdout, stderr in linux.md",
+                "file": "CLI/Shell expansion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stdin, stdout, stderr in linux"
+              "title": "Shell expansion"
             }
           }
         ]
@@ -199,8 +199,14 @@
   },
   "active": "a9969c9dd99a676f",
   "lastOpenFiles": [
-    "CLI/regex in linux.md",
+    "CLI/Metacharacters in linux.md",
+    "CLI/Permissions + Ownership.md",
+    "CLI/Shell expansion.md",
+    "CLI/(Level 2) Terminal Mastery Roadmap.md",
+    "CLI/Untitled.md",
+    "CLI/Shell variables.md",
     "CLI/stdin, stdout, stderr in linux.md",
+    "CLI/regex in linux.md",
     "CLI/find.md",
     "CLI/xargs.md",
     "CLI/command chaining.md",
@@ -219,12 +225,6 @@
     "CLI/tail.md",
     "CLI/less.md",
     "CLI/cat.md",
-    "CLI/Filters.md",
-    "Backend Starter Kit/Phase 25/L25.25.md",
-    "Backend Starter Kit/Phase 25/L25.24.md",
-    "Backend Starter Kit/Phase 25/L25.23.md",
-    "Backend Starter Kit/Phase 25/L25.22.md",
-    "Backend Starter Kit/Phase 25/L25.21.md",
     "Backend Starter Kit/Phase 25",
     "Backend Starter Kit/Phase 24",
     "Backend Starter Kit/Phase 23",
