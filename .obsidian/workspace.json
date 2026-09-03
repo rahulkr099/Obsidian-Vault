@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLI/Shell expansion.md",
+                "file": "CLI/awk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shell expansion"
+              "title": "awk"
             }
           }
         ]
@@ -199,11 +199,14 @@
   },
   "active": "a9969c9dd99a676f",
   "lastOpenFiles": [
+    "CLI/cat.md",
+    "CLI/wc.md",
+    "CLI/What is Leader?.md",
+    "CLI/Shell expansion.md",
+    "CLI/Untitled.md",
     "CLI/Metacharacters in linux.md",
     "CLI/Permissions + Ownership.md",
-    "CLI/Shell expansion.md",
     "CLI/(Level 2) Terminal Mastery Roadmap.md",
-    "CLI/Untitled.md",
     "CLI/Shell variables.md",
     "CLI/stdin, stdout, stderr in linux.md",
     "CLI/regex in linux.md",
@@ -217,14 +220,11 @@
     "CLI/tee.md",
     "CLI/tr.md",
     "CLI/cut.md",
-    "CLI/wc.md",
     "CLI/uniq.md",
     "CLI/sort.md",
     "CLI/grep.md",
     "CLI/head.md",
     "CLI/tail.md",
-    "CLI/less.md",
-    "CLI/cat.md",
     "Backend Starter Kit/Phase 25",
     "Backend Starter Kit/Phase 24",
     "Backend Starter Kit/Phase 23",
