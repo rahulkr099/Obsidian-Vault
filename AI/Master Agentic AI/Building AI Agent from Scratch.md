@@ -1,2 +1,5 @@
 ### What are AI Agents?
 An aritificial Intelligence (AI) agent refers to a system or program that is capable of autonomously performing tasks on behalf of a user or another system by designing its workflow and utilizing available tools.
+
+npm i openai
+platform.openai.com to generate new secret key
