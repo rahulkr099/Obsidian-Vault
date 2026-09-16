@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 240.70001220703125
   },
   "right": {
     "id": "a7bdd2e1edbc23b1",
@@ -197,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9969c9dd99a676f",
+  "active": "247cc5b2e302d5c3",
   "lastOpenFiles": [
     "CLI/awk.md",
     "CLI/cat.md",
