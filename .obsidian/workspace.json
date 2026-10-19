@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "😃Vim"
             }
+          },
+          {
+            "id": "c094c9ca93e2856b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9969c9dd99a676f",
+  "active": "c094c9ca93e2856b",
   "lastOpenFiles": [
     "CLI/(Level 1) Terminal Mastery Roadmap.md",
     "AI/Master Agentic AI/Building AI Agent from Scratch.md",
